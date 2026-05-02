@@ -1,0 +1,10 @@
+# Paths to JSON schemas from legislature-data-standard/dist/
+# Resolved relative to the legislature-data/ monorepo root.
+standard_base: "legislature-data-standard/dist"
+
+schemas:
+  votes: "dt/latest/schemas/vote.dt.json"
+  vote_events: "dt/latest/schemas/vote_event.dt.json"
+  persons: "dt/latest/schemas/persons.dt.json"
+  memberships: "dt/latest/schemas/memberships.dt.json"
+  organizations: "dt/latest/schemas/organizations.dt.json"

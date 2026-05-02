@@ -1,0 +1,6 @@
+requests-html>=0.10.0
+pandas>=2.0
+pyarrow>=14.0
+b2sdk>=2.0
+python-dotenv>=1.0
+jsonschema>=4.0

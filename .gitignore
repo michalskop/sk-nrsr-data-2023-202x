@@ -1,0 +1,15 @@
+# Ephemeral workspace — never committed
+work/
+
+# Environment / secrets
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+*.egg-info/
+
+# Editor
+.vscode/
+.idea/

@@ -1,0 +1,73 @@
+name: nightly
+
+on:
+  schedule:
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install deps
+        run: pip install -r requirements.txt
+
+      - name: Run pipeline
+        env:
+          B2_KEY_ID: ${{ secrets.B2_KEY_ID }}
+          B2_APP_KEY: ${{ secrets.B2_APP_KEY }}
+          B2_BUCKET: ${{ secrets.B2_BUCKET }}
+        run: python pipelines/run_pipeline.py
+
+      - name: Clone legislature-data-analyses
+        run: |
+          git clone --depth=1 https://github.com/michalskop/legislature-data-analyses.git /tmp/legislature-data-analyses
+
+      - name: Run attendance analysis
+        run: |
+          python scripts/analyses/run_attendance.py \
+            --script /tmp/legislature-data-analyses/attendance/attendance.py \
+            --flourish-script /tmp/legislature-data-analyses/attendance/outputs/output_flourish_table.py \
+            --use-current-members
+
+      - name: Run rebelity analysis
+        run: |
+          python scripts/analyses/run_rebelity.py \
+            --script /tmp/legislature-data-analyses/rebelity/rebelity.py \
+            --flourish-script /tmp/legislature-data-analyses/rebelity/outputs/output_flourish_table.py
+
+      - name: Run govity analysis
+        run: |
+          python scripts/analyses/run_govity.py \
+            --script /tmp/legislature-data-analyses/govity/govity.py \
+            --flourish-script /tmp/legislature-data-analyses/govity/outputs/output_flourish_table.py
+
+      - name: Run wpca analysis
+        run: |
+          python scripts/analyses/run_wpca.py \
+            --script /tmp/legislature-data-analyses/wpca/wpca.py \
+            --flourish-script /tmp/legislature-data-analyses/wpca/outputs/output_flourish_table.py
+
+      - name: Commit analysis outputs
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@users.noreply.github.com"
+          git add analyses/*/outputs/
+          git add data/**/latest.json
+          if git diff --cached --quiet; then
+            echo "No changes"
+            exit 0
+          fi
+          git commit -m "Update analysis outputs"
+          git push

@@ -1,0 +1,29 @@
+legislature:
+  id: sk-nrsr
+  name: "Národná rada Slovenskej republiky"
+  org_id: 13
+  term: IX
+  term_start: "2023-10-25"
+
+scrape:
+  vote_event_url: "https://www.nrsr.sk/web/Default.aspx?sid=schodze/hlasovanie/hlasklub&ID={vote_event_id}"
+  mp_list_url: "https://www.nrsr.sk/web/Default.aspx?sid=poslanci/zoznam_pos"
+  mp_detail_url: "https://www.nrsr.sk/web/Default.aspx?sid=poslanci/poslanec&PoslanecID={mp_id}"
+  photo_url: "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID={mp_id}&ImageWidth=140"
+  # IX term vote_event_id range (first ID: 51426 on 2023-10-25)
+  vote_event_id_start: 51426
+  delay_seconds: 0.5
+  max_retries: 3
+
+vote_options:
+  Z: "yes"
+  P: "no"
+  "?": "abstain"
+  N: "not voting"
+  "0": "absent"
+  "-": "not member"
+
+coalition_groups:
+  - "SMER-SD"
+  - "SNS"
+  - "HLAS-SD"

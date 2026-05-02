@@ -1,0 +1,19 @@
+{
+  "since": "2023-10-25",
+  "until": null,
+  "present_options": [
+    "yes",
+    "no",
+    "abstain"
+  ],
+  "absent_options": [
+    "absent",
+    "not voting"
+  ],
+  "yes_options": [
+    "yes"
+  ],
+  "no_options": [
+    "no"
+  ]
+}
