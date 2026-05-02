@@ -96,50 +96,46 @@ def _scrape_mp(session: requests_html.HTMLSession, mp_id: str) -> tuple[dict, li
         pass
 
     try:
-        for row in r.html.find(".personal_data tr"):
+        for row in r.html.find("tr"):
             cells = row.find("td")
             if len(cells) < 2:
                 continue
             label = cells[0].text.strip().lower()
             value = cells[1].text.strip()
-            if "titul" in label:
-                person["title"] = value
-            elif "naroden" in label or "born" in label:
-                person["born_on"] = value
-            elif "e-mail" in label:
+            if "e-mail" in label:
                 person["email"] = value
-            elif "obec" in label or "municipality" in label:
+            elif "naroden" in label:
+                person["born_on"] = value
+            elif "obec" in label:
                 person["municipality"] = value
-            elif "kraj" in label or "region" in label:
+            elif "kraj" in label:
                 person["region"] = value
     except Exception:
         pass
 
     # in_parliament is set by caller based on whether the ID appeared in zoznam_abc
 
-    # club memberships
+    # club memberships — structure: <h2>Členstvo</h2><ul><li>Klub X (role)</li>...</ul>
+    # no dates are shown; start_date defaults to term start, end_date empty = still active
     try:
-        for row in r.html.find(".club_table tr, #_sectionLayoutContainer__members tr"):
-            cells = row.find("td")
-            if len(cells) < 2:
-                continue
-            club_name = cells[0].text.strip()
-            dates = cells[1].text.strip() if len(cells) > 1 else ""
-            start_date = end_date = None
-            date_match = re.findall(r"\d{2}\.\d{2}\.\d{4}", dates)
-            if date_match:
-                def _reformat(d: str) -> str:
-                    dd, mm, yyyy = d.split(".")
-                    return f"{yyyy}-{mm}-{dd}"
-                start_date = _reformat(date_match[0])
-                end_date = _reformat(date_match[1]) if len(date_match) > 1 else None
-            if club_name:
-                memberships.append({
-                    "mp_id": mp_id,
-                    "club_name": club_name,
-                    "start_date": start_date or "",
-                    "end_date": end_date or "",
-                })
+        clenstvo_span = r.html.find("#_sectionLayoutContainer_ctl01_ctlClenstvoLabel", first=True)
+        if clenstvo_span:
+            # walk up to the box div, then find the ul
+            box_html = clenstvo_span.element.getparent().getparent().getparent()
+            import lxml.html as lh
+            for li in box_html.findall(".//li"):
+                text = (li.text_content() or "").strip()
+                if not text:
+                    continue
+                # strip trailing role in parens: "Klub SMER - SD (člen)" → "Klub SMER - SD"
+                club_name = re.sub(r"\s*\([^)]*\)\s*$", "", text).strip()
+                if club_name:
+                    memberships.append({
+                        "mp_id": mp_id,
+                        "club_name": club_name,
+                        "start_date": "",
+                        "end_date": "",
+                    })
     except Exception:
         pass
 
