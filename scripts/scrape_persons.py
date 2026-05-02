@@ -116,18 +116,19 @@ def _scrape_mp(session: requests_html.HTMLSession, mp_id: str) -> tuple[dict, li
     # in_parliament is set by caller based on whether the ID appeared in zoznam_abc
 
     # club memberships — structure: <h2>Členstvo</h2><ul><li>Klub X (role)</li>...</ul>
-    # no dates are shown; start_date defaults to term start, end_date empty = still active
+    # Extract only the <ul> immediately following ctlClenstvoLabel; filter to Klub rows only.
     try:
-        clenstvo_span = r.html.find("#_sectionLayoutContainer_ctl01_ctlClenstvoLabel", first=True)
-        if clenstvo_span:
-            # walk up to the box div, then find the ul
-            box_html = clenstvo_span.element.getparent().getparent().getparent()
-            import lxml.html as lh
-            for li in box_html.findall(".//li"):
-                text = (li.text_content() or "").strip()
-                if not text:
+        m = re.search(
+            r"ctlClenstvoLabel[^>]*>Členstvo</span></h2>\s*<ul>(.*?)</ul>",
+            r.html.html,
+            re.DOTALL,
+        )
+        if m:
+            for li_m in re.finditer(r"<li>(.*?)</li>", m.group(1), re.DOTALL):
+                text = re.sub(r"<[^>]+>", "", li_m.group(1)).strip()
+                # keep only club rows (skip committees, committees start with "Výbor" etc.)
+                if not text.startswith("Klub"):
                     continue
-                # strip trailing role in parens: "Klub SMER - SD (člen)" → "Klub SMER - SD"
                 club_name = re.sub(r"\s*\([^)]*\)\s*$", "", text).strip()
                 if club_name:
                     memberships.append({
