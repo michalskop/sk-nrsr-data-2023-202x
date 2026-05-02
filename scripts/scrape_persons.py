@@ -22,8 +22,8 @@ _ROOT = Path(__file__).resolve().parents[1]
 _RAW = _ROOT / "work" / "raw"
 _RAW.mkdir(parents=True, exist_ok=True)
 
-_MP_LIST_URL = "https://www.nrsr.sk/web/Default.aspx?sid=poslanci/zoznam_pos"
-_MP_DETAIL_URL = "https://www.nrsr.sk/web/Default.aspx?sid=poslanci/poslanec&PoslanecID={mp_id}"
+_MP_LIST_URL = "https://www.nrsr.sk/web/Default.aspx?sid=poslanci/zoznam_abc"
+_MP_DETAIL_URL = "https://www.nrsr.sk/web/Default.aspx?sid=poslanci/poslanec&PoslanecID={mp_id}&CisObdobia=9"
 _DELAY = 0.5
 
 _PERSONS_COLS = [
@@ -33,7 +33,8 @@ _PERSONS_COLS = [
 _MEMBERSHIPS_COLS = ["mp_id", "club_name", "start_date", "end_date"]
 
 
-def _get_mp_ids(session: requests_html.HTMLSession) -> list[str]:
+def _get_mp_ids(session: requests_html.HTMLSession) -> tuple[list[str], set[str]]:
+    """Return (all_ids, current_ids). zoznam_abc lists only current MPs."""
     r = session.get(_MP_LIST_URL)
     mp_ids = []
     for a in r.html.find("a"):
@@ -41,7 +42,40 @@ def _get_mp_ids(session: requests_html.HTMLSession) -> list[str]:
         m = re.search(r"PoslanecID=(\d+)", href)
         if m:
             mp_ids.append(m.group(1))
-    return list(dict.fromkeys(mp_ids))  # deduplicate, preserve order
+    current = set(dict.fromkeys(mp_ids))
+    return list(current), current
+
+
+# Slovak pre-nominal academic titles to strip from h1 name
+_PRENOMINAL_TITLES = {
+    "prof.", "doc.", "mgr.", "ing.", "judr.", "mudr.", "phdr.", "rndr.",
+    "paedr.", "thdr.", "bc.", "mvdr.", "pharm.dr.", "dipl.",
+}
+
+
+def _parse_name(full: str) -> tuple[str, str, str]:
+    """Parse 'MUDr. Vladimír Baláž, PhD.' → (given_name, family_name, title)."""
+    # Split off post-nominal titles (after comma)
+    if "," in full:
+        name_part, _, post = full.partition(",")
+        title_after = post.strip()
+    else:
+        name_part = full
+        title_after = ""
+
+    tokens = name_part.strip().split()
+    pre_titles = []
+    name_tokens = []
+    for tok in tokens:
+        if tok.lower() in _PRENOMINAL_TITLES:
+            pre_titles.append(tok)
+        else:
+            name_tokens.append(tok)
+
+    title = " ".join(pre_titles) + (f", {title_after}" if title_after else "")
+    given = name_tokens[0] if name_tokens else ""
+    family = name_tokens[-1] if len(name_tokens) > 1 else name_tokens[0] if name_tokens else ""
+    return given, family, title.strip(", ")
 
 
 def _scrape_mp(session: requests_html.HTMLSession, mp_id: str) -> tuple[dict, list[dict]]:
@@ -52,20 +86,12 @@ def _scrape_mp(session: requests_html.HTMLSession, mp_id: str) -> tuple[dict, li
     memberships: list[dict] = []
 
     try:
-        name_el = r.html.find(".personal_data .mp_main_title", first=True)
-        if name_el:
-            full = name_el.text.strip()
-            parts = full.split()
-            # best-effort: given_name = first word(s) that look like names, family_name = last
-            person["given_name"] = parts[0] if parts else ""
-            person["family_name"] = parts[-1] if len(parts) > 1 else ""
-        else:
-            # fallback: look for h1 with MP name
-            h1 = r.html.find("h1", first=True)
-            if h1:
-                parts = h1.text.strip().split()
-                person["given_name"] = parts[0] if parts else ""
-                person["family_name"] = parts[-1] if len(parts) > 1 else ""
+        h1 = r.html.find("h1", first=True)
+        if h1:
+            given, family, title = _parse_name(h1.text.strip())
+            person["given_name"] = given
+            person["family_name"] = family
+            person["title"] = title
     except Exception:
         pass
 
@@ -89,12 +115,7 @@ def _scrape_mp(session: requests_html.HTMLSession, mp_id: str) -> tuple[dict, li
     except Exception:
         pass
 
-    # active mandate check: page title or mandate section
-    try:
-        mandate_els = r.html.find(".mandate_active")
-        person["in_parliament"] = len(mandate_els) > 0
-    except Exception:
-        pass
+    # in_parliament is set by caller based on whether the ID appeared in zoznam_abc
 
     # club memberships
     try:
@@ -129,8 +150,8 @@ def main() -> None:
     session = requests_html.HTMLSession()
 
     logging.info("Fetching MP list from %s", _MP_LIST_URL)
-    mp_ids = _get_mp_ids(session)
-    logging.info("Found %d MP IDs", len(mp_ids))
+    mp_ids, current_ids = _get_mp_ids(session)
+    logging.info("Found %d MP IDs (%d current)", len(mp_ids), len(current_ids))
 
     persons_out = _RAW / "persons_raw.csv"
     memberships_out = _RAW / "memberships_raw.csv"
@@ -147,6 +168,7 @@ def main() -> None:
                 logging.info("Scraping MP %d/%d (id=%s)", i + 1, len(mp_ids), mp_id)
             try:
                 person, memberships = _scrape_mp(session, mp_id)
+                person["in_parliament"] = mp_id in current_ids
                 pw.writerow(person)
                 for m in memberships:
                     mw.writerow(m)
