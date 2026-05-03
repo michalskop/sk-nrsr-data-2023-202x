@@ -428,6 +428,12 @@ def main() -> None:
     _upload_dataset(_STD / "persons.csv", "persons", suffix=".csv")
     _upload_dataset(_STD / "memberships.csv", "memberships", suffix=".csv")
     _upload_dataset(_STD / "organizations.csv", "organizations", suffix=".csv")
+    # Upload raw CSVs so nightly runs can download and scrape incrementally
+    for raw_name in ("vote_events_raw.csv", "votes_raw.csv", "persons_raw.csv", "memberships_raw.csv"):
+        raw_file = _RAW / raw_name
+        if raw_file.exists():
+            remote = f"{_LEGISLATURE_B2_PREFIX}/raw/{raw_name}"
+            upload_file(raw_file, remote)
 
     logging.info("Standardize complete.")
 
