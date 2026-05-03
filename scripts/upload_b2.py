@@ -163,13 +163,18 @@ def prune_snapshots(prefix: str, *, keep: int = 5) -> None:
 
     bucket_id = os.getenv("B2_BUCKET_ID")
     if not bucket_id:
-        result = _b2_list_buckets(api_url, auth_token, account_id)
+        try:
+            result = _b2_list_buckets(api_url, auth_token, account_id)
+        except requests.exceptions.HTTPError as exc:
+            logging.warning("prune_snapshots: b2_list_buckets failed (%s) — skipping prune", exc)
+            return
         for b in result.get("buckets", []):
             if b.get("bucketName") == bucket_name:
                 bucket_id = b.get("bucketId")
                 break
         if not bucket_id:
-            raise ValueError(f"B2 bucket not found: {bucket_name}")
+            logging.warning("prune_snapshots: bucket %r not found — skipping prune", bucket_name)
+            return
 
     files: list[dict] = []
     start: str | None = None
