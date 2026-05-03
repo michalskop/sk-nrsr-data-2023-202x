@@ -16,9 +16,13 @@
   "no_options": [
     "no"
   ],
-  "coalition_groups": [
-    "SMER-SD",
-    "SNS",
-    "HLAS-SD"
-  ]
+  "government_groups": [
+    "nrsr:org:club:8",
+    "nrsr:org:club:9",
+    "nrsr:org:club:1",
+    "nrsr:org:club:2",
+    "nrsr:org:club:10",
+    "nrsr:org:club:13"
+  ],
+  "government_members": []
 }

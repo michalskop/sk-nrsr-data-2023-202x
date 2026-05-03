@@ -88,13 +88,14 @@ def build_vote_events() -> None:
             extras["sitting_number"] = row["sitting"]
         if row.get("vote_event_number"):
             extras["voting_number"] = row["vote_event_number"]
+        if row.get("name"):
+            extras["name"] = row["name"]
         record = {
             "id": _nrsr_vote_event_id(ve_id),
             "identifier": ve_id,
             "organization_id": _nrsr_org_id(_NRSR_ORG_ID),
             "start_date": start_date,
             "result": row.get("result", ""),
-            "text": row.get("name", ""),
             "extras": extras,
             "sources": [{"url": _VOTE_EVENT_URL.format(ve_id)}],
             "counts": [
@@ -321,16 +322,20 @@ def _write_members_analyses(
     for _, p in persons_raw.iterrows():
         mp_id = str(p["mp_id"])
         club = latest_club.get(mp_id, "")
+        memberships: dict = {
+            "parliament": [{"id": _nrsr_org_id(_NRSR_ORG_ID), "name": "Národná rada Slovenskej republiky", "start_date": _TERM_START, "end_date": ""}],
+        }
+        if club:
+            memberships["groups"] = [{"id": club_id_map.get(club, ""), "name": club, "start_date": _TERM_START, "end_date": ""}]
         record = {
             "id": _nrsr_person_id(mp_id),
-            "identifier": mp_id,
             "given_name": p.get("given_name", ""),
             "family_name": p.get("family_name", ""),
             "name": f"{p.get('given_name','')} {p.get('family_name','')}".strip(),
             "image": _PHOTO_URL.format(mp_id=mp_id),
-            "organizations": [
-                {"id": _nrsr_org_id(_NRSR_ORG_ID), "name": "NRSR", "classification": "legislature"},
-            ] + ([{"id": club_id_map.get(club, ""), "name": club, "classification": "group"}] if club else []),
+            "identifiers": [{"scheme": "nrsr", "identifier": mp_id}],
+            "sources": [{"url": _MP_DETAIL_URL.format(mp_id=mp_id)}],
+            "memberships": memberships,
         }
         all_members.append(record)
         if str(p.get("in_parliament", "")).lower() in ("true", "1", "yes"):
@@ -379,7 +384,11 @@ def _write_analysis_output(out_dir: Path, name: str, records: list[dict]) -> Non
     json_path = out_dir / f"{name}.json"
     json_path.write_text(json.dumps(records, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     if records:
-        pd.DataFrame(records).to_csv(out_dir / f"{name}.csv", index=False)
+        df = pd.DataFrame(records)
+        for col in df.columns:
+            if df[col].apply(lambda x: isinstance(x, (list, dict))).any():
+                df[col] = df[col].apply(lambda x: json.dumps(x, ensure_ascii=False) if isinstance(x, (list, dict)) else x)
+        df.to_csv(out_dir / f"{name}.csv", index=False)
 
 
 # ── B2 upload ─────────────────────────────────────────────────────────────────

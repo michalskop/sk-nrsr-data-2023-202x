@@ -54,8 +54,11 @@ _PRENOMINAL_TITLES = {
 
 
 def _parse_name(full: str) -> tuple[str, str, str]:
-    """Parse 'MUDr. Vladimír Baláž, PhD.' → (given_name, family_name, title)."""
-    # Split off post-nominal titles (after comma)
+    """Parse 'MUDr. Vladimír Baláž, PhD.' → (given_name, family_name, title).
+
+    Handles 'Mgr., Mgr. Dagmar Kramplová' where the first comma separates two
+    pre-nominal titles rather than the name from post-nominal titles.
+    """
     if "," in full:
         name_part, _, post = full.partition(",")
         title_after = post.strip()
@@ -71,6 +74,20 @@ def _parse_name(full: str) -> tuple[str, str, str]:
             pre_titles.append(tok)
         else:
             name_tokens.append(tok)
+
+    # If the first comma split off only pre-nominal titles (no name found),
+    # the real name is in title_after — parse it too.
+    if not name_tokens and title_after:
+        extra = title_after.split()
+        extra_pre, extra_name = [], []
+        for tok in extra:
+            if tok.lower() in _PRENOMINAL_TITLES:
+                extra_pre.append(tok)
+            else:
+                extra_name.append(tok)
+        pre_titles.extend(extra_pre)
+        name_tokens = extra_name
+        title_after = ""
 
     title = " ".join(pre_titles) + (f", {title_after}" if title_after else "")
     given = name_tokens[0] if name_tokens else ""
