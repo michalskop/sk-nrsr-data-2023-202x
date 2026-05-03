@@ -203,6 +203,8 @@ def build_persons_and_memberships() -> None:
         mp_id = m["mp_id"]
         club = m.get("club_name", "")
         org_id = club_id_map.get(club, f"nrsr:org:club:unknown")
+        # nrsr.sk detail pages don't show membership start dates;
+        # default to term start (2023-10-25) — correct lower bound for all IX-term memberships
         start = m.get("start_date", "") or _TERM_START
         memb_out.append({
             "id": _nrsr_membership_id(mp_id, org_id, start),
