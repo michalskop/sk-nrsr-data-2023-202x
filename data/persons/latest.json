@@ -1,3 +1,10 @@
 {
-  "locations": []
+  "locations": [
+    {
+      "provider": "b2",
+      "bucket": "legislature-data",
+      "key": "legislatures/sk-nrsr-data-2023-202x/persons/snapshots/persons-20260503T164354.csv",
+      "updated_at": "2026-05-03T16:43:57Z"
+    }
+  ]
 }

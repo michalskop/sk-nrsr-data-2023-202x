@@ -1,3 +1,10 @@
 {
-  "locations": []
+  "locations": [
+    {
+      "provider": "b2",
+      "bucket": "legislature-data",
+      "key": "legislatures/sk-nrsr-data-2023-202x/memberships/snapshots/memberships-20260503T164357.csv",
+      "updated_at": "2026-05-03T16:43:59Z"
+    }
+  ]
 }
