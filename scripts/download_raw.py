@@ -27,10 +27,20 @@ _RAW_FILES = [
 ]
 
 
-def _download(bucket: str, key: str, out_path: Path) -> bool:
-    url = f"https://f000.backblazeb2.com/file/{bucket}/{key}"
+def _b2_authorize(key_id: str, app_key: str) -> dict:
+    r = requests.get(
+        "https://api.backblazeb2.com/b2api/v2/b2_authorize_account",
+        auth=(key_id, app_key),
+        timeout=60,
+    )
+    r.raise_for_status()
+    return r.json()
+
+
+def _download(download_url: str, auth_token: str, bucket: str, key: str, out_path: Path) -> bool:
+    url = f"{download_url}/file/{bucket}/{key}"
     try:
-        with requests.get(url, stream=True, timeout=300) as r:
+        with requests.get(url, headers={"Authorization": auth_token}, stream=True, timeout=300) as r:
             if r.status_code == 404:
                 logging.info("Not found in B2 (first run?): %s", key)
                 return False
@@ -50,14 +60,26 @@ def _download(bucket: str, key: str, out_path: Path) -> bool:
 if __name__ == "__main__":
     logging.basicConfig(level=logging.INFO, format="%(asctime)s %(levelname)s %(message)s")
 
+    key_id = os.getenv("B2_KEY_ID")
+    app_key = os.getenv("B2_APP_KEY")
     bucket = os.getenv("B2_BUCKET")
-    if not bucket:
-        logging.info("B2_BUCKET not set — skipping raw download")
+
+    if not key_id or not app_key or not bucket:
+        logging.info("B2 credentials not set — skipping raw download")
         raise SystemExit(0)
+
+    try:
+        auth = _b2_authorize(key_id, app_key)
+    except requests.exceptions.RequestException as exc:
+        logging.warning("B2 auth failed: %s — skipping raw download", exc)
+        raise SystemExit(0)
+
+    download_url = auth["downloadUrl"]
+    auth_token = auth["authorizationToken"]
 
     for name in _RAW_FILES:
         out = _RAW / name
         if out.exists():
             logging.info("Already present locally, skipping: %s", name)
             continue
-        _download(bucket, f"{_LEGISLATURE_B2_PREFIX}/raw/{name}", out)
+        _download(download_url, auth_token, bucket, f"{_LEGISLATURE_B2_PREFIX}/raw/{name}", out)
