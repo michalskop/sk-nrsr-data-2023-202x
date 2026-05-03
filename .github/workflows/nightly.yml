@@ -59,15 +59,16 @@ jobs:
             --script /tmp/legislature-data-analyses/wpca/wpca.py \
             --flourish-script /tmp/legislature-data-analyses/wpca/outputs/output_flourish_table.py
 
-      - name: Commit analysis outputs
+      - name: Commit outputs
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@users.noreply.github.com"
+          git add work/raw/
           git add analyses/*/outputs/
           git add data/**/latest.json
           if git diff --cached --quiet; then
             echo "No changes"
             exit 0
           fi
-          git commit -m "Update analysis outputs"
+          git commit -m "Update scraped data and analysis outputs"
           git push

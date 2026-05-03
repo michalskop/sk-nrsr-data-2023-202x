@@ -18,4 +18,3 @@ if __name__ == "__main__":
     run(SCRIPTS / "scrape_persons.py")
     run(SCRIPTS / "scrape_votes.py")
     run(SCRIPTS / "standardize.py")
-    run(SCRIPTS / "upload_b2.py")
