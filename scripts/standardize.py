@@ -152,9 +152,78 @@ def build_votes() -> None:
 
 # ── persons, organizations, memberships ───────────────────────────────────────
 
+def _memberships_from_votes() -> pd.DataFrame:
+    """Estimate club membership intervals per MP from the group column in votes.
+
+    Algorithm: for each MP, walk votes sorted by date; whenever the group name
+    changes, close the current interval and open a new one.
+
+    Returns a DataFrame with columns: mp_id, club_name, start_date, end_date
+    (end_date is None if the interval is still open / most recent).
+    """
+    votes_path = _RAW / "votes_raw.csv"
+    ve_path = _RAW / "vote_events_raw.csv"
+    if not votes_path.exists() or not ve_path.exists():
+        return pd.DataFrame(columns=["mp_id", "club_name", "start_date", "end_date"])
+
+    votes = pd.read_csv(votes_path, dtype=str, usecols=["vote_event_id", "voter_id", "group"]).fillna("")
+    ve = pd.read_csv(ve_path, dtype=str, usecols=["vote_event_id", "date"]).fillna("")
+    ve = ve[ve["date"] != ""]
+
+    merged = votes.merge(ve, on="vote_event_id", how="inner")
+    # keep only rows with a real club name
+    merged = merged[merged["group"].str.startswith("Klub", na=False)]
+    merged = merged.sort_values("date")
+
+    rows = []
+    for mp_id, grp in merged.groupby("voter_id"):
+        current_club = None
+        start = None
+        last_date = None
+        for _, row in grp.iterrows():
+            club = row["group"]
+            date = row["date"]
+            if club != current_club:
+                if current_club is not None:
+                    rows.append({
+                        "mp_id": mp_id,
+                        "club_name": current_club,
+                        "start_date": start,
+                        "end_date": last_date,
+                    })
+                current_club = club
+                start = date
+            last_date = date
+        if current_club:
+            rows.append({
+                "mp_id": mp_id,
+                "club_name": current_club,
+                "start_date": start,
+                "end_date": None,  # still active
+            })
+
+    return pd.DataFrame(rows, columns=["mp_id", "club_name", "start_date", "end_date"])
+
+
 def build_persons_and_memberships() -> None:
     persons_raw = pd.read_csv(_RAW / "persons_raw.csv", dtype=str).fillna("")
     memberships_raw = pd.read_csv(_RAW / "memberships_raw.csv", dtype=str).fillna("")
+
+    # Derive membership intervals from voting data (more precise than scraping).
+    # Fall back to scraped memberships_raw if no vote data yet.
+    vote_memberships = _memberships_from_votes()
+    if not vote_memberships.empty:
+        logging.info("Using vote-derived membership intervals (%d rows)", len(vote_memberships))
+        memberships_source = vote_memberships
+    else:
+        logging.info("No vote data found; using scraped memberships (start_date defaults to term start)")
+        memberships_source = memberships_raw.copy()
+        memberships_source["start_date"] = memberships_source["start_date"].replace("", _TERM_START).fillna(_TERM_START)
+        memberships_source["end_date"] = memberships_source["end_date"].replace("", None)
+
+    # collect all club names from both scraped and vote-derived data
+    all_clubs = set(memberships_raw["club_name"].dropna().unique()) | \
+                set(memberships_source["club_name"].dropna().unique())
 
     # ── organizations ──────────────────────────────────────────────────────────
     parliament_row = {
@@ -164,9 +233,8 @@ def build_persons_and_memberships() -> None:
         "classification": "legislature",
     }
 
-    clubs = memberships_raw["club_name"].dropna().unique()
     club_rows = []
-    for i, club in enumerate(sorted(set(clubs))):
+    for i, club in enumerate(sorted(all_clubs)):
         club_rows.append({
             "id": f"nrsr:org:club:{i+1}",
             "identifier": club,
@@ -199,20 +267,19 @@ def build_persons_and_memberships() -> None:
 
     # ── memberships ───────────────────────────────────────────────────────────
     memb_out = []
-    for _, m in memberships_raw.iterrows():
-        mp_id = m["mp_id"]
+    for _, m in memberships_source.iterrows():
+        mp_id = str(m["mp_id"])
         club = m.get("club_name", "")
-        org_id = club_id_map.get(club, f"nrsr:org:club:unknown")
-        # nrsr.sk detail pages don't show membership start dates;
-        # default to term start (2023-10-25) — correct lower bound for all IX-term memberships
-        start = m.get("start_date", "") or _TERM_START
+        org_id = club_id_map.get(club, "nrsr:org:club:unknown")
+        start = m.get("start_date") or _TERM_START
+        end = m.get("end_date") or None
         memb_out.append({
             "id": _nrsr_membership_id(mp_id, org_id, start),
             "person_id": _nrsr_person_id(mp_id),
             "organization_id": org_id,
             "role": "member",
             "start_date": start,
-            "end_date": m.get("end_date", "") or None,
+            "end_date": end,
         })
         # also add legislature membership
         memb_out.append({
@@ -228,7 +295,7 @@ def build_persons_and_memberships() -> None:
     logging.info("Wrote %s (%d memberships)", _STD / "memberships.csv", len(memb_df))
 
     # ── analysis outputs: all-members, current-members ─────────────────────────
-    _write_members_analyses(persons_raw, persons_df, memberships_raw, club_id_map)
+    _write_members_analyses(persons_raw, persons_df, memberships_source, club_id_map)
 
     # ── analysis outputs: all-groups, current-groups ──────────────────────────
     _write_groups_analyses(club_rows)
@@ -243,13 +310,11 @@ def _write_members_analyses(
     memberships_raw: pd.DataFrame,
     club_id_map: dict,
 ) -> None:
-    # Build current club per person from most recent membership
-    latest_club = (
-        memberships_raw[memberships_raw["end_date"] == ""]
-        .groupby("mp_id")["club_name"]
-        .last()
-        .to_dict()
-    )
+    # Build current club per person: rows with no end_date are still-active memberships
+    active = memberships_raw[
+        memberships_raw["end_date"].isna() | (memberships_raw["end_date"] == "")
+    ]
+    latest_club = active.groupby("mp_id")["club_name"].last().to_dict()
 
     all_members = []
     current_members = []
