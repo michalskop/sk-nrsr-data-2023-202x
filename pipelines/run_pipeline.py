@@ -15,7 +15,6 @@ def run(script: Path) -> None:
 
 
 if __name__ == "__main__":
-    run(SCRIPTS / "download_raw.py")
     run(SCRIPTS / "scrape_persons.py")
     run(SCRIPTS / "scrape_votes.py")
     run(SCRIPTS / "standardize.py")

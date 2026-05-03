@@ -23,6 +23,13 @@ jobs:
       - name: Install deps
         run: pip install -r requirements.txt
 
+      - name: Restore raw CSV cache
+        uses: actions/cache@v4
+        with:
+          path: work/raw/
+          key: raw-${{ github.run_id }}
+          restore-keys: raw-
+
       - name: Run pipeline
         env:
           B2_KEY_ID: ${{ secrets.B2_KEY_ID }}
