@@ -1,8 +1,6 @@
-name: nightly
+name: test-analyses
 
 on:
-  schedule:
-    - cron: "0 3 * * *"
   workflow_dispatch:
 
 permissions:
@@ -22,20 +20,6 @@ jobs:
 
       - name: Install deps
         run: pip install -r requirements.txt
-
-      - name: Restore raw CSV cache
-        uses: actions/cache@v4
-        with:
-          path: work/raw/
-          key: raw-${{ github.run_id }}
-          restore-keys: raw-
-
-      - name: Run pipeline
-        env:
-          B2_KEY_ID: ${{ secrets.B2_KEY_ID }}
-          B2_APP_KEY: ${{ secrets.B2_APP_KEY }}
-          B2_BUCKET: ${{ secrets.B2_BUCKET }}
-        run: python pipelines/run_pipeline.py
 
       - name: Clone legislature-data-analyses
         run: |
@@ -58,6 +42,10 @@ jobs:
           done
 
       - name: Run attendance analysis
+        env:
+          B2_KEY_ID: ${{ secrets.B2_KEY_ID }}
+          B2_APP_KEY: ${{ secrets.B2_APP_KEY }}
+          B2_BUCKET: ${{ secrets.B2_BUCKET }}
         run: |
           python scripts/analyses/run_attendance.py \
             --script /tmp/legislature-data-analyses/attendance/attendance.py \
