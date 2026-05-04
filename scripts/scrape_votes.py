@@ -186,6 +186,8 @@ def main() -> None:
                         help="First vote_event_id to scrape (IX term start)")
     parser.add_argument("--end", type=int, default=None,
                         help="Last vote_event_id (auto-detected if omitted)")
+    parser.add_argument("--max-new", type=int, default=None,
+                        help="Cap number of new vote events to scrape (for testing)")
     args = parser.parse_args()
 
     session = requests_html.HTMLSession()
@@ -203,6 +205,8 @@ def main() -> None:
         end_id = args.end
 
     ids_to_fetch = [i for i in range(args.start, end_id + 1) if i not in existing_ids]
+    if args.max_new is not None:
+        ids_to_fetch = ids_to_fetch[:args.max_new]
     logging.info("Will scrape %d vote events (%d–%d)", len(ids_to_fetch), args.start, end_id)
 
     ve_file_exists = ve_path.exists()

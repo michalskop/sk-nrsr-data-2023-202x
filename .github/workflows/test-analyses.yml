@@ -21,6 +21,21 @@ jobs:
       - name: Install deps
         run: pip install -r requirements.txt
 
+      - name: Restore raw CSV cache
+        uses: actions/cache@v4
+        with:
+          path: work/raw/
+          key: raw-${{ github.run_id }}
+          restore-keys: raw-
+
+      - name: Run pipeline (max 50 new votes)
+        env:
+          B2_KEY_ID: ${{ secrets.B2_KEY_ID }}
+          B2_APP_KEY: ${{ secrets.B2_APP_KEY }}
+          B2_BUCKET: ${{ secrets.B2_BUCKET }}
+          MAX_NEW_VOTES: "50"
+        run: python pipelines/run_pipeline.py
+
       - name: Clone legislature-data-analyses
         run: |
           git clone --depth=1 https://github.com/michalskop/legislature-data-analyses.git /tmp/legislature-data-analyses
@@ -42,10 +57,6 @@ jobs:
           done
 
       - name: Run attendance analysis
-        env:
-          B2_KEY_ID: ${{ secrets.B2_KEY_ID }}
-          B2_APP_KEY: ${{ secrets.B2_APP_KEY }}
-          B2_BUCKET: ${{ secrets.B2_BUCKET }}
         run: |
           python scripts/analyses/run_attendance.py \
             --script /tmp/legislature-data-analyses/attendance/attendance.py \
@@ -80,5 +91,5 @@ jobs:
             echo "No changes"
             exit 0
           fi
-          git commit -m "Update analysis outputs"
+          git commit -m "Update analysis outputs (test run)"
           git push
