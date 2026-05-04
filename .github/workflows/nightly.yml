@@ -41,6 +41,21 @@ jobs:
         run: |
           git clone --depth=1 https://github.com/michalskop/legislature-data-analyses.git /tmp/legislature-data-analyses
 
+      - name: Build legislature-data-standard schemas
+        run: |
+          git clone --depth=1 https://github.com/michalskop/legislature-data-standard.git /tmp/legislature-data-standard
+          cd /tmp/legislature-data-standard
+          npm install
+          npm run build:schemas
+          for branch in \
+            dt.analyses/all-members \
+            dt.analyses/attendance-definition dt.analyses/attendance \
+            dt.analyses/rebelity-definition dt.analyses/rebelity \
+            dt.analyses/govity-definition dt.analyses/govity \
+            dt.analyses/wpca-definition dt.analyses/wpca; do
+            STD_BRANCH=$branch STD_VERSION=0.1.0 npm run release
+          done
+
       - name: Run attendance analysis
         run: |
           python scripts/analyses/run_attendance.py \
