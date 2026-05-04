@@ -1,190 +1,164 @@
 person_id,name,given_names,family_names,group,candidate_list,constituency,dim1,dim2,dim3,weight,included
-nrsr:person:1008,Ján Ferenčák,Ján,Ferenčák,Klub HLAS - SD,,,0.7018870275036033,-0.415884883588892,0.0485519723020727,0.8486683931098847,True
-nrsr:person:1009,Jozef Habánik,Jozef,Habánik,Klub SMER - SD,,,0.8561388493925838,0.017781582415787076,0.00300672472371389,0.993535108809187,True
-nrsr:person:1019,Viliam Zahorčák,Viliam,Zahorčák,Klub SMER - SD,,,0.8579199707661258,0.01751554128001212,0.0011946527387542284,0.9977564478945838,True
-nrsr:person:1023,Peter Kmec,Peter,Kmec,Klub HLAS - SD,,,0.8451115256220324,0.6722830350508949,-0.005993972655448485,0.1923768673090354,True
-nrsr:person:1025,Mária Kolíková,Mária,Kolíková,Klub SaS,,,-1.0816332368014756,0.07698099332286919,-0.12797226883781893,0.8783290172252887,True
-nrsr:person:1032,Juraj Krúpa,Juraj,Krúpa,Klub SaS,,,-1.0734466220075192,0.07589332439087414,-0.07400373716038489,0.8836628614869252,True
-nrsr:person:1034,,,,,,,-0.0,-0.0,-0.0,0.0,False
-nrsr:person:1037,Vladimír Ledecký,Vladimír,Ledecký,Klub SaS,,,-1.0771178275543003,0.058720821247423456,-0.10194629792313199,0.8978967471584764,True
-nrsr:person:1042,Vladimíra Marcinková,Vladimíra,Marcinková,Klub SaS,,,-1.080401828916279,0.05712108868843271,-0.0967564945149022,0.782913156609826,True
-nrsr:person:1046,Roman Mikulec,Roman,Mikulec,Klub SLOVENSKO,,,-1.1064566597444856,0.02458968340115256,-0.23040557905888742,0.7863001168130436,True
-nrsr:person:1054,Jozef Pročko,Jozef,Pročko,Klub SLOVENSKO,,,-1.106824303970137,0.017680932576240416,-0.22864169101020626,0.8248546017540499,True
-nrsr:person:1058,PaedDr. Stredák,PaedDr.,Stredák,Klub SMER - SD,,,0.8561353300185939,0.0188894075039429,0.0017882094501795688,0.9987638831375121,True
-nrsr:person:1065,Michal Šipoš,Michal,Šipoš,Klub SLOVENSKO,,,-1.1131209633485668,0.024435573039330267,-0.27165201406317296,0.8856591902198434,True
-nrsr:person:1069,,,,,,,-0.0,-0.0,-0.0,0.0,False
-nrsr:person:1071,,,,,,,-0.0,-0.0,-0.0,0.0,False
-nrsr:person:1072,,,,,,,-0.0,-0.0,-0.0,0.0,False
-nrsr:person:1075,M. Valášek,M.,Valášek,Klub PS,,,-1.0778423703658118,0.019501265724367334,0.2497133111865404,0.7623441720180226,True
-nrsr:person:1081,Ľubica Laššáková,Ľubica,Laššáková,Klub HLAS - SD,,,0.8549452711191604,0.018479724712951378,0.002707987624300026,0.9836585350779063,True
-nrsr:person:1087,Zdenko Svoboda,Zdenko,Svoboda,Klub HLAS - SD,,,0.8534357156901672,0.01437062406401993,0.004626604931495458,0.9960135231184757,True
-nrsr:person:1088,Peter Pollák,Peter,Pollák,Klub SLOVENSKO,,,-1.101691811591764,0.02065228842248078,-0.2386356914802651,0.8727232272539047,True
-nrsr:person:1114,Michal Šimečka,Michal,Šimečka,Klub PS,,,-1.0798223726100238,0.03714920782201592,0.27589992268306435,0.8176974851202433,True
-nrsr:person:1115,Michal Truban,Michal,Truban,Klub PS,,,-1.0756094249044572,0.048686480718263404,0.2676486355798121,0.8440020519539918,True
-nrsr:person:1116,Lucia Plaváková,Lucia,Plaváková,Klub PS,,,-1.0808600827715087,0.05883654976293049,0.30967351296999035,0.7680303095854684,True
-nrsr:person:1117,Jaroslav Spišiak,Jaroslav,Spišiak,Klub PS,,,-1.0848191715788205,0.03431961516688933,0.2767085814880458,0.8705971062504251,True
-nrsr:person:1118,Tamara Stohlová,Tamara,Stohlová,Klub PS,,,-1.088191633661907,0.03743884589002585,0.2691838060696629,0.9221988046749942,True
-nrsr:person:1119,Irena Bihariová,Irena,Bihariová,Klub PS,,,-1.0881631708884014,0.031001166814574432,0.272878860222725,0.8660420156121561,True
-nrsr:person:1120,Michal Sabo,Michal,Sabo,Klub PS,,,-1.0867855258420118,0.04301232988187126,0.2729370818225138,0.9359876882760497,True
-nrsr:person:1121,art. Jaurová,art.,Jaurová,Klub PS,,,-1.0748319134894027,0.05926539111378301,0.28810010474023845,0.7107610153463909,True
-nrsr:person:1123,Oskar Dvořák,Oskar,Dvořák,Klub PS,,,-1.0851391664593772,0.04120696181778258,0.286596282113611,0.8997509224522087,True
-nrsr:person:1124,Ingrid Kosová,Ingrid,Kosová,Klub PS,,,-1.0880344101352322,0.024981781663039992,0.2643868422284679,0.9365563020327943,True
-nrsr:person:1125,Štefan Kišš,Štefan,Kišš,Klub PS,,,-1.0746251392168955,0.03762923842414178,0.28046287843989953,0.730149508334518,True
-nrsr:person:1126,Tina Gažovičová,Tina,Gažovičová,Klub PS,,,-1.0909203822975773,0.046522491950470896,0.27760789778613937,0.9553329171739898,True
-nrsr:person:1127,Ivan Štefunko,Ivan,Štefunko,Klub PS,,,-1.080027562380297,0.05588758325961881,0.2712046052775995,0.8431553119031875,True
-nrsr:person:1128,et Jurík,et,Jurík,Klub PS,,,-1.0945010223726381,0.04219527089037813,0.2753639011047877,0.9208947013850691,True
-nrsr:person:1129,Jana Hanuliaková,Jana,Hanuliaková,Klub PS,,,-1.0811421998692365,0.044576105988398396,0.2964989755340645,0.8086491096868299,True
-nrsr:person:1130,Zuzana Mesterová,Zuzana,Mesterová,Klub PS,,,-1.0895399463796929,0.044762679917450435,0.2751335303997604,0.9580647354400887,True
-nrsr:person:1131,Ondrej Prostredník,Ondrej,Prostredník,Klub PS,,,-1.0935002082296508,0.04486775705259576,0.27583625969155734,0.9636272613212855,True
-nrsr:person:1132,Zuzana Števulová,Zuzana,Števulová,Klub PS,,,-1.088476389975816,0.050394726881540605,0.28364771619704937,0.8307137956822439,True
-nrsr:person:1133,Martin Dubéci,Martin,Dubéci,Klub PS,,,-1.086008123780363,0.04923081220632686,0.27687135927127016,0.9090650630110572,True
-nrsr:person:1134,Darina Luščíková,Darina,Luščíková,Klub PS,,,-1.0901316445586986,0.04988332144694469,0.27605789106903367,0.9007089130206372,True
-nrsr:person:1135,Branislav Vančo,Branislav,Vančo,Klub PS,,,-1.0888760375540734,0.04741140246062644,0.24530702737402324,0.9071614430428254,True
-nrsr:person:1136,,,,,,,-1.0468260661576392,0.9401870607409336,0.1244450865011667,0.021885449050353226,False
-nrsr:person:1137,,,,,,,-1.0303801944774051,0.532189150429363,0.3889244505949857,0.6349005234954914,True
-nrsr:person:1138,,,,,,,-0.8766339426681495,0.7842692781043437,-0.20919438168218082,0.002113759834854787,False
-nrsr:person:1139,art. Kleinert,art.,Kleinert,Klub PS,,,-1.0819808312611565,0.03826530297057308,0.30293019260915255,0.8171906772066232,True
-nrsr:person:1140,Dávid Dej,Dávid,Dej,Klub PS,,,-1.0921901961254825,0.04145133624417865,0.2741837668163025,0.9774964925184028,True
-nrsr:person:1141,Veronika Veslárová,Veronika,Veslárová,Klub PS,,,-1.094327357348848,0.03802930296747465,0.27118022526248975,0.9026187135731814,True
-nrsr:person:1142,Ján Hargaš,Ján,Hargaš,Klub PS,,,-1.0929812835462613,0.05109659680308644,0.26619226142605085,0.8733042021792742,True
-nrsr:person:1143,Veronika Šrobová,Veronika,Šrobová,Klub PS,,,-1.0890246483016846,0.03831646358091118,0.27527326381110473,0.9257340989017102,True
-nrsr:person:1144,Lukáš Bužo,Lukáš,Bužo,Klub SLOVENSKO,,,-1.1095792751894906,0.02527985114110943,-0.23886917008219521,0.9097634690383629,True
-nrsr:person:1145,Viliam Tankó,Viliam,Tankó,Klub PS,,,-1.095061389447587,0.025022215727613702,-0.02362765295292963,0.8709679413091715,True
-nrsr:person:1146,Anežka Škopová,Anežka,Škopová,Klub SLOVENSKO,,,-1.1079735945816,0.019521247833153742,-0.24648606953848662,0.938373393820652,True
-nrsr:person:1147,Tomáš Szalay,Tomáš,Szalay,Klub SaS,,,-1.0717751634610708,0.04038823243507894,-0.1096794761536982,0.9170503779427309,True
-nrsr:person:1148,,,,,,,0.7604288437508967,-0.48896632666455264,0.03250475712388679,0.38058802079148574,True
-nrsr:person:1149,Roman Michelko,Roman,Michelko,Klub SNS,,,0.837962469002317,0.012582948437415488,0.001788540735654632,0.9957662997459781,True
-nrsr:person:1150,Ivan Ševčík,Ivan,Ševčík,Klub SNS,,,0.8550007068782342,0.01937367325189428,-0.0020031475830233677,0.9213767869614394,True
-nrsr:person:1151,Peter Kotlár,Peter,Kotlár,Klub SNS,,,0.8468619161463736,0.023362450559416402,0.003512479494750164,0.9822802647762321,True
-nrsr:person:1152,Pavel Ľupták,Pavel,Ľupták,Klub SNS,,,0.8506096429490719,0.016566616934194797,-0.002058246555321083,0.9035025371298605,True
-nrsr:person:1153,,,,,,,0.7288290929993065,-0.5767311996813838,0.020546735903993186,0.2607773938948188,True
-nrsr:person:1154,gen. Gašpar,gen.,Gašpar,Klub SMER - SD,,,0.8571514220203102,0.017513439737223517,7.0061149837035e-05,0.9931024679073162,True
-nrsr:person:1155,,,,,,,-0.0,-0.0,-0.0,0.0,False
-nrsr:person:1156,Ján Mažgút,Ján,Mažgút,Klub SMER - SD,,,0.85678550231648,0.01571629024144276,-0.00035015796797759996,0.9963967193458471,True
-nrsr:person:1157,,,,,,,-0.0,-0.0,-0.0,0.0,False
-nrsr:person:1158,Daniel Karas,Daniel,Karas,Klub SMER - SD,,,0.8582376771664447,0.017516731512356054,0.0009647341383828119,0.998442492753265,True
-nrsr:person:1159,Zuzana Matejičková,Zuzana,Matejičková,Klub SMER - SD,,,0.8544166245366043,0.017491550122354375,-7.823247858261144e-05,0.9991038152746963,True
-nrsr:person:1160,Marcela Čavojová,Marcela,Čavojová,Klub SMER - SD,,,0.8538609370876545,0.016099266986816362,-0.00018908467472222797,0.9787140676279538,True
-nrsr:person:1161,Michal Stuška,Michal,Stuška,Klub SMER - SD,,,0.8581391453416117,0.0175388421203678,0.0017135170040039815,0.994264417758055,True
-nrsr:person:1162,,,,,,,-0.0,-0.0,-0.0,0.0,False
-nrsr:person:1163,Justín Sedlák,Justín,Sedlák,Klub SMER - SD,,,0.8556721053550874,0.015199575691834676,0.001382119811231498,0.9973361681613381,True
-nrsr:person:1164,,,,,,,-0.0,-0.0,-0.0,0.0,False
-nrsr:person:1165,,,,,,,-0.0,-0.0,-0.0,0.0,False
-nrsr:person:1166,,,,,,,-0.0,-0.0,-0.0,0.0,False
-nrsr:person:1168,,,,,,,-0.0,-0.0,-0.0,0.0,False
-nrsr:person:1169,PaedDr. Janas,PaedDr.,Janas,Klub HLAS - SD,,,0.8548323034666916,0.015227809650159104,0.00047401271200628244,0.9985908267767637,True
-nrsr:person:1170,Peter Kalivoda,Peter,Kalivoda,Klub HLAS - SD,,,0.8531679543270648,0.01757006798318023,0.004417386871294885,0.9728177901938851,True
-nrsr:person:1171,,,,,,,-0.0,-0.0,-0.0,0.0,False
-nrsr:person:1172,Richard Eliáš,Richard,Eliáš,Klub HLAS - SD,,,0.8540149053966556,0.019286654834639767,0.004936221054434029,0.9937205263385601,True
-nrsr:person:1173,art. Malatinec,art.,Malatinec,Klub HLAS - SD,,,0.848215459679632,0.006402133655941896,0.0016747354592976358,0.9931333708288783,True
-nrsr:person:1174,,,,,,,0.6987702175318065,-0.5942690728278226,0.1979503759982355,0.14367386292700113,True
-nrsr:person:1175,,,,,,,0.7407260015621676,-0.4922370679260851,0.05158288353769405,0.4553978133092703,True
-nrsr:person:1176,Erik Vlček,Erik,Vlček,Klub HLAS - SD,,,0.8545113969118759,0.022631036139500307,0.00551931330833745,0.9829168649604135,True
-nrsr:person:1177,Igor Šimko,Igor,Šimko,Klub HLAS - SD,,,0.8557723457140276,0.01692494653490745,0.004741075434432538,0.9704259040649704,True
-nrsr:person:1178,PaedDr. Majerský,PaedDr.,Majerský,Klub KDH,,,-0.9765775547451048,-0.12455853376416885,-0.4030687576347364,0.8545152258694538,True
-nrsr:person:1179,Marián Čaučík,Marián,Čaučík,Klub KDH,,,-0.9890726738518386,-0.11820598682915355,-0.3904280039863057,0.9150293268725627,True
-nrsr:person:1180,Martina Holečková,Martina,Holečková,Klub SaS,,,-1.0543993025845664,-0.05550481473490382,-0.24782590092586765,0.7259837945079328,True
-nrsr:person:1181,,,,,,,-0.9630304961486096,-0.05385643201663939,-0.4230386767736595,0.8081855658633968,True
-nrsr:person:1182,Peter Stachura,Peter,Stachura,Klub KDH,,,-0.9643724571145781,-0.12720182441345834,-0.41380608936743235,0.7717262990043079,True
-nrsr:person:1183,Ján Horecký,Ján,Horecký,Klub KDH,,,-0.9939242207920912,-0.09598617205756166,-0.3969134240273879,0.848742560121634,True
-nrsr:person:1184,František Majerský,František,Majerský,Klub KDH,,,-0.9660148524208805,-0.11672219622734391,-0.40220779910862997,0.7794891129007337,True
-nrsr:person:1185,,,,,,,-0.9411782644311097,0.07128109355883418,-0.47228104708476165,0.7419482437869677,True
-nrsr:person:1186,Andrea Turčanová,Andrea,Turčanová,Klub KDH,,,-0.9780899665141357,-0.10884720697163275,-0.42561138107944924,0.7983646173909282,True
-nrsr:person:1187,Branislav Becík,Branislav,Becík,Klub HLAS - SD,,,0.8562463078073277,0.017085188365498726,0.0008901224445518588,0.9972558205652762,True
-nrsr:person:1188,Július Jakab,Július,Jakab,Klub SLOVENSKO,,,-1.1204118393990576,0.03551543784030823,-0.2352262597117286,0.9060983825410855,True
-nrsr:person:1189,Marek Lackovič,Marek,Lackovič,Klub PS,,,-1.0880984524816313,0.047644648979424616,0.28112781791990066,0.9418716045414935,True
-nrsr:person:1190,Rastislav Krátky,Rastislav,Krátky,Klub KDH,,,-1.091452499927096,0.001746616523378182,-0.15062235585370812,0.7805645345710985,True
-nrsr:person:1191,Andrej Sitkár,Andrej,Sitkár,Klub SMER - SD,,,0.8567343534246717,0.01724323420060051,0.001060862462873326,0.9986897161257626,True
-nrsr:person:1192,Ivan Hazucha,Ivan,Hazucha,Klub SMER - SD,,,0.8566122946877477,0.014920780922351206,0.0026516472299319815,0.9857475725755114,True
-nrsr:person:1193,Igor Válek,Igor,Válek,Klub SMER - SD,,,0.8577446144743168,0.01890592441651631,0.0019192534188139097,0.9987082578787,True
-nrsr:person:1194,Zuzana Plevíková,Zuzana,Plevíková,Klub SMER - SD,,,0.8569342362504335,0.017247897183931216,0.0005138213668321645,0.9991532599491957,True
-nrsr:person:1195,PaedDr. Cech,PaedDr.,Cech,Klub HLAS - SD,,,0.8549416352283636,0.01718465852090213,0.004595608105312227,0.9952347694951081,True
-nrsr:person:1196,Alena Nováková,Alena,Nováková,Klub HLAS - SD,,,0.8556876215549487,0.016997368053962982,0.0030553019062018213,0.9971445700476523,True
-nrsr:person:1197,,,,,,,0.8177337013561312,-0.24850865597867255,0.01895925174215252,0.8030124167938838,True
-nrsr:person:1198,Milan Garaj,Milan,Garaj,Klub SNS,,,0.848978787593287,0.008254781177190742,0.002157894254526352,0.9895795348492249,True
-nrsr:person:1199,Adam Lučanský,Adam,Lučanský,Klub SNS,,,0.847885080214453,0.012760411880913081,5.6199092403384364e-05,0.9960629677929751,True
-nrsr:person:1200,Boleslav Lešo,Boleslav,Lešo,Klub SMER - SD,,,0.8574741884853365,0.016918802483618166,9.95906941555813e-05,0.9985228403493267,True
-nrsr:person:1201,,,,,,,0.7471092803541043,-0.49565986132283485,0.047162607703405066,0.4579812975518706,True
-nrsr:person:1202,Ján Hrubý,Ján,Hrubý,Klub HLAS - SD,,,0.8424499980909578,0.5062139647964038,-0.06366460581465948,0.537049512660927,True
-nrsr:person:1203,et Čellár,et,Čellár,Klub HLAS - SD,,,0.8511508622304441,0.014674564278811763,0.008833614860462207,0.9918539898762031,True
-nrsr:person:1204,Jaroslav Mego,Jaroslav,Mego,Klub SMER - SD,,,0.8571399059185436,0.013589969926007153,0.0012754855925198548,0.9968108184947807,True
-nrsr:person:1205,Michal Kapuš,Michal,Kapuš,Klub SMER - SD,,,0.8575507992827462,0.018091404401911777,0.0029719853961242162,0.9930530232328166,True
-nrsr:person:1206,Peter Sokol,Peter,Sokol,Klub SMER - SD,,,0.8658633950682418,0.0092929941551038,-0.021269366958175988,0.9045037917884757,True
-nrsr:person:1207,Michal Bartek,Michal,Bartek,Klub HLAS - SD,,,0.8550526602402287,0.015382739016061806,0.0011725799472325415,0.9965512339536582,True
-nrsr:person:1208,Dis. Puškárová,Dis.,Puškárová,Klub HLAS - SD,,,0.8538312601729255,0.014528975278760002,0.0052736924267810835,0.9876017478692437,True
-nrsr:person:1210,Dagmar Kramplová,Dagmar,Kramplová,Klub SNS,,,0.8504673659393902,0.009716572499850881,0.002228489284375546,0.997558669196586,True
-nrsr:person:1211,Zdenka Mačicová,Zdenka,Mačicová,Klub HLAS - SD,,,0.8557172436170659,0.021547412050035936,0.0052639716611213964,0.9827376280153527,True
-nrsr:person:1212,PaedDr. Nash,PaedDr.,Nash,Klub PS,,,-1.0846648915789456,-0.03140203182903546,0.30587944213624535,0.9386824230362739,True
-nrsr:person:1213,Richard Dubovický,Richard,Dubovický,Klub PS,,,-1.069267952820049,-0.23594948315315972,0.2895371790068657,0.8326544991563504,True
-nrsr:person:1214,Richard Glück,Richard,Glück,Klub SMER - SD,,,0.8404012203347635,0.21453223046772363,-0.018998279693287493,0.9464823204385744,True
-nrsr:person:1216,PaedDr. Demečko,PaedDr.,Demečko,Klub HLAS - SD,,,0.8470239015939686,0.2726388470354801,-0.07900226635584286,0.853396540108902,True
-nrsr:person:1217,Andrea Szabóová,Andrea,Szabóová,Klub HLAS - SD,,,0.8459058012369908,0.2730695626488129,-0.07644678836072816,0.8525065359679105,True
-nrsr:person:1218,Jozef Kačmár,Jozef,Kačmár,Klub SMER - SD,,,0.8507374384794213,0.3394993144931136,-0.06631047377224045,0.7299517296365199,True
-nrsr:person:1219,Ján Horváth,Ján,Horváth,Klub SMER - SD,,,0.8486829473696499,0.33826122119160307,-0.06843989865595163,0.7379246833995687,True
-nrsr:person:1220,Miroslav Radačovský,Miroslav,Radačovský,,,,0.785468350241418,0.44352765543899664,-0.0676242024163495,0.5243236895616112,True
-nrsr:person:1221,Igor Dušenka,Igor,Dušenka,Klub SLOVENSKO,,,-1.0647445799478983,-0.7634606276459537,-0.10865552099552031,0.3429915264189076,True
-nrsr:person:1222,Gréta Gregorová,Gréta,Gregorová,Klub PS,,,-1.0474068123195226,-0.7401380130096926,0.08483974961042397,0.29896104377707877,True
-nrsr:person:1223,Vladimír Macášek,Vladimír,Macášek,Klub SMER - SD,,,0.8453720171441933,0.6725236480009036,-0.005974642930329721,0.19305055099909146,True
-nrsr:person:1224,Monika Kolejáková,Monika,Kolejáková,Klub KDH,,,-0.9844636791767233,-0.8175473945977727,-0.020055759007284256,0.11464983899577869,True
-nrsr:person:1225,PaedDr. Paľa,PaedDr.,Paľa,Klub KDH,,,-1.0194590207508418,-0.8629986650706031,0.15413495391001725,0.0370093388628961,False
-nrsr:person:147,,,,,,,-1.003688707429357,0.48179990147332247,-0.3186445599535355,0.42076181882235153,True
-nrsr:person:233,Jaroslav Baška,Jaroslav,Baška,Klub SMER - SD,,,0.8552021712980443,0.021808501962592257,0.004184020599802452,0.9537568681743173,True
-nrsr:person:238,,,,,,,-0.0,-0.0,-0.0,0.0,False
-nrsr:person:271,,,,,,,-0.0,-0.0,-0.0,0.0,False
-nrsr:person:293,Ľubomír Vážny,Ľubomír,Vážny,Klub SMER - SD,,,0.8485688919837353,0.021460984785168526,0.0021644807299377993,0.9813840800509283,True
-nrsr:person:322,Dušan Muňko,Dušan,Muňko,Klub SNS,,,0.8521400439024107,0.010774923695476502,0.005579681248072358,0.9586827938713326,True
-nrsr:person:36,RSDr. Faič,RSDr.,Faič,Klub SMER - SD,,,0.8534684630146548,0.017482374182574763,0.007127365990745661,0.9729166795428842,True
-nrsr:person:40,,,,,,,-0.0,-0.0,-0.0,0.0,False
-nrsr:person:61,art. Jarjabek,art.,Jarjabek,Klub SMER - SD,,,0.858204815978091,0.01774886120194342,-0.00028639967190674845,0.9846041644777098,True
-nrsr:person:656,Dušan Galis,Dušan,Galis,Klub SMER - SD,,,0.8541047693253984,0.024545609746580693,0.003205162104761316,0.9945116411305526,True
-nrsr:person:668,Stanislav Kubánek,Stanislav,Kubánek,Klub SMER - SD,,,0.853843119946224,0.019247291207069247,0.0007751146997273363,0.9967304708987188,True
-nrsr:person:671,Ján Kvorka,Ján,Kvorka,Klub SMER - SD,,,0.8568813832917918,0.017905128763277548,0.0018857295084874044,0.9947156004128632,True
-nrsr:person:682,,,,,,,0.699395867084845,-0.595155648503637,0.19247808913642314,0.14175788179014445,True
-nrsr:person:685,Ján Podmanický,Ján,Podmanický,Klub SMER - SD,,,0.855589290557129,0.01808725065175232,-0.00472860083291615,0.9882012645475505,True
-nrsr:person:689,Ján Richter,Ján,Richter,Klub SMER - SD,,,0.8556638226389974,0.016521463623637832,-0.0010944784804852229,0.9843322187679626,True
-nrsr:person:691,Peter Žiga,Peter,Žiga,Klub HLAS - SD,,,0.8544422496175367,0.018258029776390083,0.008548148057852591,0.9612848198668704,True
-nrsr:person:705,Jozef Valocký,Jozef,Valocký,Klub SMER - SD,,,0.8568395758550693,0.01795051230781889,0.0019281876752288009,0.9956983133185413,True
-nrsr:person:732,,,,,,,0.8185591081386064,-0.24741170492649167,0.016482604792211527,0.7223681526851549,True
-nrsr:person:733,Michal Lukša,Michal,Lukša,Klub SMER - SD,,,0.857841572698927,0.020460026914614696,-0.00034567204367198914,0.9985104791807018,True
-nrsr:person:738,PaedDr. Goga,PaedDr.,Goga,Klub SMER - SD,,,0.8582796656417715,0.018720774383327775,0.008109616045174524,0.991755100527204,True
-nrsr:person:761,Richard Raši,Richard,Raši,Klub HLAS - SD,,,0.8377490620831326,0.50323191204922,-0.06246553847323135,0.5375748623274845,True
-nrsr:person:762,Marián Saloň,Marián,Saloň,Klub SMER - SD,,,0.8587073864350041,0.017349746613323603,0.00033473093102505565,0.9872061904732476,True
-nrsr:person:767,,,,,,,-0.9777720902739415,0.7426770024667018,0.14643637422855618,0.16405124940511875,True
-nrsr:person:769,PaedDr. Šuca,PaedDr.,Šuca,Klub SMER - SD,,,0.8577639596486442,0.017794694812489666,0.0006270073672345357,0.9981025606160807,True
-nrsr:person:779,Ondrej Dostál,Ondrej,Dostál,Klub SaS,,,-1.0864117261960444,0.059689092233359435,-0.14829155146554787,0.9579040402479652,True
-nrsr:person:785,Ľubomír Galko,Ľubomír,Galko,Klub SLOVENSKO,,,-1.121113502208843,0.02522636327746429,-0.21212649280542298,0.8941822159866994,True
-nrsr:person:790,,,,,,,-0.0,-0.0,-0.0,0.0,False
-nrsr:person:808,Igor Matovič,Igor,Matovič,Klub SLOVENSKO,,,-1.1048931990421593,0.038995002043711695,-0.25158689630896885,0.7336168161337974,True
-nrsr:person:858,,,,,,,-0.0,-0.0,-0.0,0.0,False
-nrsr:person:859,Alojz Hlina,Alojz,Hlina,Klub SaS,,,-1.0724508742799412,0.051786646523805366,-0.10668344792105376,0.7883397096361491,True
-nrsr:person:861,Richard Vašečka,Richard,Vašečka,Klub SLOVENSKO,,,-1.090804736622642,0.00883818674036984,-0.31373290815976984,0.8670000061805845,True
-nrsr:person:862,Branislav Škripek,Branislav,Škripek,Klub KDH,,,-0.9640284452087344,-0.1652698828189498,-0.3399360471332605,0.7396614275913646,True
-nrsr:person:871,Vladimír Baláž,Vladimír,Baláž,Klub SMER - SD,,,0.8535914409975183,0.02082869737092245,0.0058821550655051924,0.990407733147092,True
-nrsr:person:873,Marián Kéry,Marián,Kéry,Klub SMER - SD,,,0.8572185019064745,0.018494484605587252,-0.00331619824134177,0.9942520565894302,True
-nrsr:person:874,Augustín Hambálek,Augustín,Hambálek,Klub SMER - SD,,,0.8577109915066955,0.01869073908274865,0.0015835951291983718,0.9982261723023296,True
-nrsr:person:877,,,,,,,-0.0,-0.0,-0.0,0.0,False
-nrsr:person:879,Róbert Puci,Róbert,Puci,Klub HLAS - SD,,,0.8561983468649582,0.016942220211140672,0.004192849362573989,0.9945116411305526,True
-nrsr:person:880,,,,,,,-0.0,-0.0,-0.0,0.0,False
-nrsr:person:885,,,,,,,0.729129512312819,-0.5761626989310982,0.02696324631046644,0.2587316204874009,True
-nrsr:person:891,Jozef Ježík,Jozef,Ježík,Klub SMER - SD,,,0.8561718734647025,0.014100685883431661,0.0012973630908980193,0.9969838748555291,True
-nrsr:person:892,Štefan Gašparovič,Štefan,Gašparovič,Klub HLAS - SD,,,0.8559254818588466,0.01711901831200765,0.003345320241371774,0.999715693121628,True
-nrsr:person:899,Peter Náhlik,Peter,Náhlik,Klub HLAS - SD,,,0.8548304039848937,0.01720430990662469,0.0032602916652263733,0.9910566944998982,True
-nrsr:person:900,František Petro,František,Petro,Klub SMER - SD,,,0.8577772616516561,0.017795831873816916,0.0008165548948130824,0.9995982620196915,True
-nrsr:person:905,art. Remišová,art.,Remišová,Klub SLOVENSKO,,,-1.1068510110169618,0.03074557181099108,-0.2600721237941851,0.6853279109006967,True
-nrsr:person:907,Marek Krajčí,Marek,Krajčí,Klub SLOVENSKO,,,-1.0721796573817353,0.0011404062700519232,-0.30167487056748427,0.7720785923101171,True
-nrsr:person:910,Gábor Grendel,Gábor,Grendel,Klub SLOVENSKO,,,-1.1103795728985628,0.03211137365299791,-0.24979385589923722,0.88392862661236,True
-nrsr:person:918,,,,,,,-0.0,-0.0,-0.0,0.0,False
-nrsr:person:92,František Mikloško,František,Mikloško,Klub KDH,,,-0.9962684626721114,-0.1066843147990658,-0.32937183233684825,0.7216635660735367,True
-nrsr:person:929,Andrej Danko,Andrej,Danko,Klub SNS,,,0.8480107927091917,0.01767745212525909,0.0014041690781746623,0.9874595944300576,True
-nrsr:person:930,Dušan Tittel,Dušan,Tittel,Klub HLAS - SD,,,0.8546211712134021,0.016860814030643868,0.0025552048960438044,0.9971322088790275,True
-nrsr:person:931,Karol Farkašovský,Karol,Farkašovský,Klub SNS,,,0.8496813520365508,0.011431805588690745,0.002245058859288045,0.9961185930517873,True
-nrsr:person:940,,,,,,,-0.0,-0.0,-0.0,0.0,False
-nrsr:person:941,,,,,,,-0.0,-0.0,-0.0,0.0,False
-nrsr:person:961,Igor Janckulík,Igor,Janckulík,Klub KDH,,,-0.9768138114704629,-0.14558192886400964,-0.3967836191840747,0.9450855083839627,True
-nrsr:person:962,Simona Petrík,Simona,Petrík,Klub PS,,,-1.0796205543809665,0.01479179483765716,0.2667657337063642,0.8064550022559135,True
-nrsr:person:966,Karol Galek,Karol,Galek,Klub SaS,,,-1.0354347122837024,-0.4808345178475896,-0.03552243896397382,0.6766256481887799,True
-nrsr:person:971,Branislav Gröhling,Branislav,Gröhling,Klub SaS,,,-1.0716947225837197,0.05253086481684165,-0.027709781556817567,0.8514496560504832,True
-nrsr:person:974,,,,,,,0.7564650595568153,-0.6778663084684673,0.07814390365870799,0.04804168186060311,False
-nrsr:person:976,Jana Cigániková,Jana,Cigániková,Klub SaS,,,-1.0463034012156651,0.06681401679701818,-0.08713110901297176,0.6889806362293491,True
-nrsr:person:991,Marián Viskupič,Marián,Viskupič,Klub SaS,,,-1.0623554635152868,0.027448703061720335,-0.06710518034333059,0.9385773531029625,True
-nrsr:person:997,Ján Blcháč,Ján,Blcháč,Klub HLAS - SD,,,0.8572470808346737,0.01793367270253519,0.012780606351556784,0.958460292836085,True
+nrsr:person:1008,Ján Ferenčák,Ján,Ferenčák,,,,0.0,0.0,0.0,0.0,False
+nrsr:person:1009,Jozef Habánik,Jozef,Habánik,Klub SMER - sociálna demokracia,,,0.0,0.0,0.0,0.0,False
+nrsr:person:1019,Viliam Zahorčák,Viliam,Zahorčák,Klub SMER - sociálna demokracia,,,0.0,0.0,0.0,0.0,False
+nrsr:person:1023,Peter Kmec,Peter,Kmec,Klub HLAS - sociálna demokracia,,,0.0,0.0,0.0,0.0,False
+nrsr:person:1025,Mária Kolíková,Mária,Kolíková,Klub Sloboda a Solidarita,,,0.0,0.0,0.0,0.0,False
+nrsr:person:1032,Juraj Krúpa,Juraj,Krúpa,Klub Sloboda a Solidarita,,,0.0,0.0,0.0,0.0,False
+nrsr:person:1034,,,,,,,0.0,0.0,0.0,0.0,False
+nrsr:person:1037,Vladimír Ledecký,Vladimír,Ledecký,Klub Sloboda a Solidarita,,,0.0,0.0,0.0,0.0,False
+nrsr:person:1042,Vladimíra Marcinková,Vladimíra,Marcinková,Klub Sloboda a Solidarita,,,0.0,0.0,0.0,0.0,False
+nrsr:person:1046,Roman Mikulec,Roman,Mikulec,Klub SLOVENSKO - ZA ĽUDÍ,,,0.0,0.0,0.0,0.0,False
+nrsr:person:1054,Jozef Pročko,Jozef,Pročko,Klub SLOVENSKO - ZA ĽUDÍ,,,0.0,0.0,0.0,0.0,False
+nrsr:person:1058,PaedDr. Stredák,PaedDr.,Stredák,Klub SMER - sociálna demokracia,,,0.0,0.0,0.0,0.0,False
+nrsr:person:1065,Michal Šipoš,Michal,Šipoš,Klub SLOVENSKO - ZA ĽUDÍ,,,0.0,0.0,0.0,0.0,False
+nrsr:person:1069,,,,,,,0.0,0.0,0.0,0.0,False
+nrsr:person:1071,,,,,,,0.0,0.0,0.0,0.0,False
+nrsr:person:1072,,,,,,,0.0,0.0,0.0,0.0,False
+nrsr:person:1075,M. Valášek,M.,Valášek,Klub Progresívne Slovensko,,,0.0,0.0,0.0,0.0,False
+nrsr:person:1081,Ľubica Laššáková,Ľubica,Laššáková,Klub HLAS - sociálna demokracia,,,0.0,0.0,0.0,0.0,False
+nrsr:person:1088,Peter Pollák,Peter,Pollák,Klub SLOVENSKO - ZA ĽUDÍ,,,0.0,0.0,0.0,0.0,False
+nrsr:person:1114,Michal Šimečka,Michal,Šimečka,Klub Progresívne Slovensko,,,0.0,0.0,0.0,0.0,False
+nrsr:person:1115,Michal Truban,Michal,Truban,Klub Progresívne Slovensko,,,0.0,0.0,0.0,0.0,False
+nrsr:person:1116,Lucia Plaváková,Lucia,Plaváková,Klub Progresívne Slovensko,,,0.0,0.0,0.0,0.0,False
+nrsr:person:1117,Jaroslav Spišiak,Jaroslav,Spišiak,Klub Progresívne Slovensko,,,0.0,0.0,0.0,0.0,False
+nrsr:person:1118,Tamara Stohlová,Tamara,Stohlová,Klub Progresívne Slovensko,,,0.0,0.0,0.0,0.0,False
+nrsr:person:1119,Irena Bihariová,Irena,Bihariová,Klub Progresívne Slovensko,,,0.0,0.0,0.0,0.0,False
+nrsr:person:1120,Michal Sabo,Michal,Sabo,Klub Progresívne Slovensko,,,0.0,0.0,0.0,0.0,False
+nrsr:person:1121,art. Jaurová,art.,Jaurová,Klub Progresívne Slovensko,,,0.0,0.0,0.0,0.0,False
+nrsr:person:1123,Oskar Dvořák,Oskar,Dvořák,Klub Progresívne Slovensko,,,0.0,0.0,0.0,0.0,False
+nrsr:person:1124,Ingrid Kosová,Ingrid,Kosová,Klub Progresívne Slovensko,,,0.0,0.0,0.0,0.0,False
+nrsr:person:1125,Štefan Kišš,Štefan,Kišš,Klub Progresívne Slovensko,,,0.0,0.0,0.0,0.0,False
+nrsr:person:1126,Tina Gažovičová,Tina,Gažovičová,Klub Progresívne Slovensko,,,0.0,0.0,0.0,0.0,False
+nrsr:person:1127,Ivan Štefunko,Ivan,Štefunko,Klub Progresívne Slovensko,,,0.0,0.0,0.0,0.0,False
+nrsr:person:1128,et Jurík,et,Jurík,Klub Progresívne Slovensko,,,0.0,0.0,0.0,0.0,False
+nrsr:person:1129,Jana Hanuliaková,Jana,Hanuliaková,Klub Progresívne Slovensko,,,0.0,0.0,0.0,0.0,False
+nrsr:person:1130,Zuzana Mesterová,Zuzana,Mesterová,Klub Progresívne Slovensko,,,0.0,0.0,0.0,0.0,False
+nrsr:person:1131,Ondrej Prostredník,Ondrej,Prostredník,Klub Progresívne Slovensko,,,0.0,0.0,0.0,0.0,False
+nrsr:person:1132,Zuzana Števulová,Zuzana,Števulová,Klub Progresívne Slovensko,,,0.0,0.0,0.0,0.0,False
+nrsr:person:1133,Martin Dubéci,Martin,Dubéci,Klub Progresívne Slovensko,,,0.0,0.0,0.0,0.0,False
+nrsr:person:1134,Darina Luščíková,Darina,Luščíková,Klub Progresívne Slovensko,,,0.0,0.0,0.0,0.0,False
+nrsr:person:1135,Branislav Vančo,Branislav,Vančo,Klub Progresívne Slovensko,,,0.0,0.0,0.0,0.0,False
+nrsr:person:1136,,,,,,,0.0,0.0,0.0,0.0,False
+nrsr:person:1137,,,,,,,0.0,0.0,0.0,0.0,False
+nrsr:person:1138,,,,,,,0.0,0.0,0.0,0.0,False
+nrsr:person:1139,art. Kleinert,art.,Kleinert,Klub Progresívne Slovensko,,,0.0,0.0,0.0,0.0,False
+nrsr:person:1140,Dávid Dej,Dávid,Dej,Klub Progresívne Slovensko,,,0.0,0.0,0.0,0.0,False
+nrsr:person:1141,Veronika Veslárová,Veronika,Veslárová,Klub Progresívne Slovensko,,,0.0,0.0,0.0,0.0,False
+nrsr:person:1142,Ján Hargaš,Ján,Hargaš,Klub Progresívne Slovensko,,,0.0,0.0,0.0,0.0,False
+nrsr:person:1143,Veronika Šrobová,Veronika,Šrobová,Klub Progresívne Slovensko,,,0.0,0.0,0.0,0.0,False
+nrsr:person:1144,Lukáš Bužo,Lukáš,Bužo,Klub SLOVENSKO - ZA ĽUDÍ,,,0.0,0.0,0.0,0.0,False
+nrsr:person:1145,Viliam Tankó,Viliam,Tankó,Klub Progresívne Slovensko,,,0.0,0.0,0.0,0.0,False
+nrsr:person:1146,Anežka Škopová,Anežka,Škopová,Klub SLOVENSKO - ZA ĽUDÍ,,,0.0,0.0,0.0,0.0,False
+nrsr:person:1147,Tomáš Szalay,Tomáš,Szalay,Klub Sloboda a Solidarita,,,0.0,0.0,0.0,0.0,False
+nrsr:person:1148,,,,,,,0.0,0.0,0.0,0.0,False
+nrsr:person:1149,Roman Michelko,Roman,Michelko,Klub Slovenská národná strana,,,0.0,0.0,0.0,0.0,False
+nrsr:person:1150,Ivan Ševčík,Ivan,Ševčík,,,,0.0,0.0,0.0,0.0,False
+nrsr:person:1151,Peter Kotlár,Peter,Kotlár,Klub Slovenská národná strana,,,0.0,0.0,0.0,0.0,False
+nrsr:person:1152,Pavel Ľupták,Pavel,Ľupták,,,,0.0,0.0,0.0,0.0,False
+nrsr:person:1153,,,,,,,0.0,0.0,0.0,0.0,False
+nrsr:person:1154,gen. Gašpar,gen.,Gašpar,Klub SMER - sociálna demokracia,,,0.0,0.0,0.0,0.0,False
+nrsr:person:1155,,,,,,,0.0,0.0,0.0,0.0,False
+nrsr:person:1156,Ján Mažgút,Ján,Mažgút,Klub SMER - sociálna demokracia,,,0.0,0.0,0.0,0.0,False
+nrsr:person:1157,,,,,,,0.0,0.0,0.0,0.0,False
+nrsr:person:1158,Daniel Karas,Daniel,Karas,Klub SMER - sociálna demokracia,,,0.0,0.0,0.0,0.0,False
+nrsr:person:1159,Zuzana Matejičková,Zuzana,Matejičková,Klub SMER - sociálna demokracia,,,0.0,0.0,0.0,0.0,False
+nrsr:person:1160,Marcela Čavojová,Marcela,Čavojová,Klub SMER - sociálna demokracia,,,0.0,0.0,0.0,0.0,False
+nrsr:person:1161,Michal Stuška,Michal,Stuška,Klub SMER - sociálna demokracia,,,0.0,0.0,0.0,0.0,False
+nrsr:person:1162,,,,,,,0.0,0.0,0.0,0.0,False
+nrsr:person:1163,Justín Sedlák,Justín,Sedlák,Klub SMER - sociálna demokracia,,,0.0,0.0,0.0,0.0,False
+nrsr:person:1164,,,,,,,0.0,0.0,0.0,0.0,False
+nrsr:person:1165,,,,,,,0.0,0.0,0.0,0.0,False
+nrsr:person:1166,,,,,,,0.0,0.0,0.0,0.0,False
+nrsr:person:1168,,,,,,,0.0,0.0,0.0,0.0,False
+nrsr:person:1169,PaedDr. Janas,PaedDr.,Janas,Klub HLAS - sociálna demokracia,,,0.0,0.0,0.0,0.0,False
+nrsr:person:1170,Peter Kalivoda,Peter,Kalivoda,Klub HLAS - sociálna demokracia,,,0.0,0.0,0.0,0.0,False
+nrsr:person:1171,,,,,,,0.0,0.0,0.0,0.0,False
+nrsr:person:1172,Richard Eliáš,Richard,Eliáš,Klub HLAS - sociálna demokracia,,,0.0,0.0,0.0,0.0,False
+nrsr:person:1173,art. Malatinec,art.,Malatinec,,,,0.0,0.0,0.0,0.0,False
+nrsr:person:1174,,,,,,,0.0,0.0,0.0,0.0,False
+nrsr:person:1175,,,,,,,0.0,0.0,0.0,0.0,False
+nrsr:person:1176,Erik Vlček,Erik,Vlček,Klub HLAS - sociálna demokracia,,,0.0,0.0,0.0,0.0,False
+nrsr:person:1177,Igor Šimko,Igor,Šimko,Klub HLAS - sociálna demokracia,,,0.0,0.0,0.0,0.0,False
+nrsr:person:1178,PaedDr. Majerský,PaedDr.,Majerský,Klub KDH,,,0.0,0.0,0.0,0.0,False
+nrsr:person:1179,Marián Čaučík,Marián,Čaučík,Klub KDH,,,0.0,0.0,0.0,0.0,False
+nrsr:person:1180,Martina Holečková,Martina,Holečková,Klub Sloboda a Solidarita,,,0.0,0.0,0.0,0.0,False
+nrsr:person:1181,,,,,,,0.0,0.0,0.0,0.0,False
+nrsr:person:1182,Peter Stachura,Peter,Stachura,Klub KDH,,,0.0,0.0,0.0,0.0,False
+nrsr:person:1183,Ján Horecký,Ján,Horecký,Klub KDH,,,0.0,0.0,0.0,0.0,False
+nrsr:person:1184,František Majerský,František,Majerský,Klub KDH,,,0.0,0.0,0.0,0.0,False
+nrsr:person:1185,,,,,,,0.0,0.0,0.0,0.0,False
+nrsr:person:1186,Andrea Turčanová,Andrea,Turčanová,Klub KDH,,,0.0,0.0,0.0,0.0,False
+nrsr:person:1187,Branislav Becík,Branislav,Becík,Klub HLAS - sociálna demokracia,,,0.0,0.0,0.0,0.0,False
+nrsr:person:1188,Július Jakab,Július,Jakab,Klub SLOVENSKO - ZA ĽUDÍ,,,0.0,0.0,0.0,0.0,False
+nrsr:person:1189,Marek Lackovič,Marek,Lackovič,Klub Progresívne Slovensko,,,0.0,0.0,0.0,0.0,False
+nrsr:person:1190,Rastislav Krátky,Rastislav,Krátky,Klub KDH,,,0.0,0.0,0.0,0.0,False
+nrsr:person:1191,Andrej Sitkár,Andrej,Sitkár,Klub SMER - sociálna demokracia,,,0.0,0.0,0.0,0.0,False
+nrsr:person:1192,Ivan Hazucha,Ivan,Hazucha,Klub SMER - sociálna demokracia,,,0.0,0.0,0.0,0.0,False
+nrsr:person:1193,Igor Válek,Igor,Válek,Klub SMER - sociálna demokracia,,,0.0,0.0,0.0,0.0,False
+nrsr:person:1194,Zuzana Plevíková,Zuzana,Plevíková,Klub SMER - sociálna demokracia,,,0.0,0.0,0.0,0.0,False
+nrsr:person:1195,PaedDr. Cech,PaedDr.,Cech,Klub HLAS - sociálna demokracia,,,0.0,0.0,0.0,0.0,False
+nrsr:person:1196,Alena Nováková,Alena,Nováková,Klub HLAS - sociálna demokracia,,,0.0,0.0,0.0,0.0,False
+nrsr:person:1197,,,,,,,0.0,0.0,0.0,0.0,False
+nrsr:person:1198,Milan Garaj,Milan,Garaj,Klub Slovenská národná strana,,,0.0,0.0,0.0,0.0,False
+nrsr:person:1199,Adam Lučanský,Adam,Lučanský,Klub Slovenská národná strana,,,0.0,0.0,0.0,0.0,False
+nrsr:person:1200,Boleslav Lešo,Boleslav,Lešo,Klub SMER - sociálna demokracia,,,0.0,0.0,0.0,0.0,False
+nrsr:person:1201,,,,,,,0.0,0.0,0.0,0.0,False
+nrsr:person:1202,Ján Hrubý,Ján,Hrubý,Klub HLAS - sociálna demokracia,,,0.0,0.0,0.0,0.0,False
+nrsr:person:1203,et Čellár,et,Čellár,Klub HLAS - sociálna demokracia,,,0.0,0.0,0.0,0.0,False
+nrsr:person:233,Jaroslav Baška,Jaroslav,Baška,Klub SMER - sociálna demokracia,,,0.0,0.0,0.0,0.0,False
+nrsr:person:238,,,,,,,0.0,0.0,0.0,0.0,False
+nrsr:person:271,,,,,,,0.0,0.0,0.0,0.0,False
+nrsr:person:293,Ľubomír Vážny,Ľubomír,Vážny,Klub SMER - sociálna demokracia,,,0.0,0.0,0.0,0.0,False
+nrsr:person:322,Dušan Muňko,Dušan,Muňko,Klub Slovenská národná strana,,,0.0,0.0,0.0,0.0,False
+nrsr:person:36,RSDr. Faič,RSDr.,Faič,Klub SMER - sociálna demokracia,,,0.0,0.0,0.0,0.0,False
+nrsr:person:40,,,,,,,0.0,0.0,0.0,0.0,False
+nrsr:person:61,art. Jarjabek,art.,Jarjabek,Klub SMER - sociálna demokracia,,,0.0,0.0,0.0,0.0,False
+nrsr:person:656,Dušan Galis,Dušan,Galis,Klub SMER - sociálna demokracia,,,0.0,0.0,0.0,0.0,False
+nrsr:person:668,Stanislav Kubánek,Stanislav,Kubánek,Klub SMER - sociálna demokracia,,,0.0,0.0,0.0,0.0,False
+nrsr:person:671,Ján Kvorka,Ján,Kvorka,Klub SMER - sociálna demokracia,,,0.0,0.0,0.0,0.0,False
+nrsr:person:682,,,,,,,0.0,0.0,0.0,0.0,False
+nrsr:person:685,Ján Podmanický,Ján,Podmanický,Klub SMER - sociálna demokracia,,,0.0,0.0,0.0,0.0,False
+nrsr:person:689,Ján Richter,Ján,Richter,Klub SMER - sociálna demokracia,,,0.0,0.0,0.0,0.0,False
+nrsr:person:691,Peter Žiga,Peter,Žiga,Klub HLAS - sociálna demokracia,,,0.0,0.0,0.0,0.0,False
+nrsr:person:705,Jozef Valocký,Jozef,Valocký,Klub SMER - sociálna demokracia,,,0.0,0.0,0.0,0.0,False
+nrsr:person:733,Michal Lukša,Michal,Lukša,Klub SMER - sociálna demokracia,,,0.0,0.0,0.0,0.0,False
+nrsr:person:761,Richard Raši,Richard,Raši,Klub HLAS - sociálna demokracia,,,0.0,0.0,0.0,0.0,False
+nrsr:person:762,Marián Saloň,Marián,Saloň,Klub SMER - sociálna demokracia,,,0.0,0.0,0.0,0.0,False
+nrsr:person:767,,,,,,,0.0,0.0,0.0,0.0,False
+nrsr:person:769,PaedDr. Šuca,PaedDr.,Šuca,Klub SMER - sociálna demokracia,,,0.0,0.0,0.0,0.0,False
+nrsr:person:779,Ondrej Dostál,Ondrej,Dostál,Klub Sloboda a Solidarita,,,0.0,0.0,0.0,0.0,False
+nrsr:person:785,Ľubomír Galko,Ľubomír,Galko,,,,0.0,0.0,0.0,0.0,False
+nrsr:person:790,,,,,,,0.0,0.0,0.0,0.0,False
+nrsr:person:808,Igor Matovič,Igor,Matovič,Klub SLOVENSKO - ZA ĽUDÍ,,,0.0,0.0,0.0,0.0,False
+nrsr:person:858,,,,,,,0.0,0.0,0.0,0.0,False
+nrsr:person:859,Alojz Hlina,Alojz,Hlina,Klub Sloboda a Solidarita,,,0.0,0.0,0.0,0.0,False
+nrsr:person:861,Richard Vašečka,Richard,Vašečka,,,,0.0,0.0,0.0,0.0,False
+nrsr:person:862,Branislav Škripek,Branislav,Škripek,Klub KDH,,,0.0,0.0,0.0,0.0,False
+nrsr:person:871,Vladimír Baláž,Vladimír,Baláž,Klub SMER - sociálna demokracia,,,0.0,0.0,0.0,0.0,False
+nrsr:person:873,Marián Kéry,Marián,Kéry,Klub SMER - sociálna demokracia,,,0.0,0.0,0.0,0.0,False
+nrsr:person:874,Augustín Hambálek,Augustín,Hambálek,Klub SMER - sociálna demokracia,,,0.0,0.0,0.0,0.0,False
+nrsr:person:877,,,,,,,0.0,0.0,0.0,0.0,False
+nrsr:person:879,Róbert Puci,Róbert,Puci,Klub HLAS - sociálna demokracia,,,0.0,0.0,0.0,0.0,False
+nrsr:person:880,,,,,,,0.0,0.0,0.0,0.0,False
+nrsr:person:885,,,,,,,0.0,0.0,0.0,0.0,False
+nrsr:person:891,Jozef Ježík,Jozef,Ježík,Klub SMER - sociálna demokracia,,,0.0,0.0,0.0,0.0,False
+nrsr:person:892,Štefan Gašparovič,Štefan,Gašparovič,Klub HLAS - sociálna demokracia,,,0.0,0.0,0.0,0.0,False
+nrsr:person:899,Peter Náhlik,Peter,Náhlik,Klub HLAS - sociálna demokracia,,,0.0,0.0,0.0,0.0,False
+nrsr:person:900,František Petro,František,Petro,Klub SMER - sociálna demokracia,,,0.0,0.0,0.0,0.0,False
+nrsr:person:905,art. Remišová,art.,Remišová,Klub SLOVENSKO - ZA ĽUDÍ,,,0.0,0.0,0.0,0.0,False
+nrsr:person:907,Marek Krajčí,Marek,Krajčí,Klub SLOVENSKO - ZA ĽUDÍ,,,0.0,0.0,0.0,0.0,False
+nrsr:person:910,Gábor Grendel,Gábor,Grendel,Klub SLOVENSKO - ZA ĽUDÍ,,,0.0,0.0,0.0,0.0,False
+nrsr:person:918,,,,,,,0.0,0.0,0.0,0.0,False
+nrsr:person:92,František Mikloško,František,Mikloško,Klub KDH,,,0.0,0.0,0.0,0.0,False
+nrsr:person:929,Andrej Danko,Andrej,Danko,Klub Slovenská národná strana,,,0.0,0.0,0.0,0.0,False
+nrsr:person:930,Dušan Tittel,Dušan,Tittel,Klub HLAS - sociálna demokracia,,,0.0,0.0,0.0,0.0,False
+nrsr:person:940,,,,,,,0.0,0.0,0.0,0.0,False
+nrsr:person:941,,,,,,,0.0,0.0,0.0,0.0,False
+nrsr:person:961,Igor Janckulík,Igor,Janckulík,Klub KDH,,,0.0,0.0,0.0,0.0,False
+nrsr:person:962,Simona Petrík,Simona,Petrík,Klub Progresívne Slovensko,,,0.0,0.0,0.0,0.0,False
+nrsr:person:971,Branislav Gröhling,Branislav,Gröhling,Klub Sloboda a Solidarita,,,0.0,0.0,0.0,0.0,False
+nrsr:person:974,,,,,,,0.0,0.0,0.0,0.0,False
+nrsr:person:976,Jana Cigániková,Jana,Cigániková,,,,0.0,0.0,0.0,0.0,False
+nrsr:person:991,Marián Viskupič,Marián,Viskupič,Klub Sloboda a Solidarita,,,0.0,0.0,0.0,0.0,False
+nrsr:person:997,Ján Blcháč,Ján,Blcháč,Klub HLAS - sociálna demokracia,,,0.0,0.0,0.0,0.0,False
