@@ -19,6 +19,8 @@ import re
 import time
 from pathlib import Path
 
+import requests
+
 import requests_html
 
 logging.basicConfig(level=logging.INFO, format="%(asctime)s %(levelname)s %(message)s")
@@ -97,7 +99,16 @@ def _scrape_vote_event(
     vote_event_id: int,
 ) -> tuple[dict | None, list[dict]]:
     url = _VOTE_EVENT_URL.format(vote_event_id)
-    r = session.get(url)
+    for attempt in range(4):
+        try:
+            r = session.get(url)
+            break
+        except (requests.exceptions.ConnectionError, requests.exceptions.Timeout) as exc:
+            if attempt == 3:
+                raise
+            wait = 10 * 2 ** attempt
+            logging.warning("Request failed (%s), retrying in %ds...", exc, wait)
+            time.sleep(wait)
 
     if not _is_valid_vote_page(r):
         return None, []
