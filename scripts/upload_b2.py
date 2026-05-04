@@ -118,7 +118,11 @@ def upload_file(local_path: Path, remote_name: str) -> str:
     auth_token = auth["authorizationToken"]
     account_id = auth["accountId"]
 
-    bucket_id = os.getenv("B2_BUCKET_ID")
+    # Per-bucket keys return bucketId directly in auth["allowed"]["bucketId"]
+    bucket_id = (
+        os.getenv("B2_BUCKET_ID")
+        or auth.get("allowed", {}).get("bucketId")
+    )
     if not bucket_id:
         result = _b2_list_buckets(api_url, auth_token, account_id)
         for b in result.get("buckets", []):
@@ -161,7 +165,11 @@ def prune_snapshots(prefix: str, *, keep: int = 5) -> None:
     auth_token = auth["authorizationToken"]
     account_id = auth["accountId"]
 
-    bucket_id = os.getenv("B2_BUCKET_ID")
+    # Per-bucket keys return bucketId directly in auth["allowed"]["bucketId"]
+    bucket_id = (
+        os.getenv("B2_BUCKET_ID")
+        or auth.get("allowed", {}).get("bucketId")
+    )
     if not bucket_id:
         try:
             result = _b2_list_buckets(api_url, auth_token, account_id)
