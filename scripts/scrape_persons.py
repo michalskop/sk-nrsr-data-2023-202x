@@ -33,23 +33,33 @@ _PERSONS_COLS = [
 _MEMBERSHIPS_COLS = ["mp_id", "club_name", "start_date", "end_date"]
 
 
-def _get_mp_ids(session: requests_html.HTMLSession) -> tuple[list[str], set[str]]:
-    """Return (all_ids, current_ids). zoznam_abc lists only current MPs."""
+def _get_mp_ids(session: requests_html.HTMLSession) -> tuple[list[str], set[str], dict[str, str]]:
+    """Return (all_ids, current_ids, list_name_map).
+
+    list_name_map maps mp_id → raw anchor text from zoznam_abc (e.g. 'Remišová Veronika').
+    Used as a fallback when detail-page parsing yields only a title or bare initial.
+    """
     r = session.get(_MP_LIST_URL)
     mp_ids = []
+    list_name_map: dict[str, str] = {}
     for a in r.html.find("a"):
         href = a.attrs.get("href", "")
         m = re.search(r"PoslanecID=(\d+)", href)
         if m:
-            mp_ids.append(m.group(1))
+            mp_id = m.group(1)
+            mp_ids.append(mp_id)
+            text = a.text.strip()
+            if text:
+                list_name_map[mp_id] = text
     current = set(dict.fromkeys(mp_ids))
-    return list(current), current
+    return list(current), current, list_name_map
 
 
 # Slovak pre-nominal academic titles to strip from h1 name
 _PRENOMINAL_TITLES = {
     "prof.", "doc.", "mgr.", "ing.", "judr.", "mudr.", "phdr.", "rndr.",
-    "paedr.", "thdr.", "bc.", "mvdr.", "pharm.dr.", "dipl.",
+    "paedr.", "paeddr.", "thdr.", "bc.", "mvdr.", "pharm.dr.", "dipl.",
+    "art.", "artd.",
 }
 
 
@@ -164,7 +174,7 @@ def main() -> None:
     session = requests_html.HTMLSession()
 
     logging.info("Fetching MP list from %s", _MP_LIST_URL)
-    mp_ids, current_ids = _get_mp_ids(session)
+    mp_ids, current_ids, list_name_map = _get_mp_ids(session)
     logging.info("Found %d MP IDs (%d current)", len(mp_ids), len(current_ids))
 
     persons_out = _RAW / "persons_raw.csv"
@@ -185,6 +195,25 @@ def main() -> None:
             try:
                 person, memberships = _scrape_mp(session, mp_id)
                 person["in_parliament"] = mp_id in current_ids
+                # Fallback: if given_name looks wrong, use the list-page anchor text
+                # List format: "Remišová Veronika" (family first, given last)
+                given = person.get("given_name", "")
+                family = person.get("family_name", "")
+                name_looks_bad = (
+                    not given
+                    or given == family
+                    or given.lower() in _PRENOMINAL_TITLES
+                    or (len(given) <= 2 and given.endswith("."))
+                )
+                if name_looks_bad and mp_id in list_name_map:
+                    parts = list_name_map[mp_id].split()
+                    if len(parts) >= 2:
+                        person["family_name"] = parts[0]
+                        person["given_name"] = " ".join(parts[1:])
+                        logging.info(
+                            "Name fallback mp_id=%s: '%s %s' → '%s %s'",
+                            mp_id, given, family, person["given_name"], person["family_name"],
+                        )
                 pw.writerow(person)
                 for m in memberships:
                     mw.writerow(m)
