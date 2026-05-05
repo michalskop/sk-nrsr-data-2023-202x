@@ -76,5 +76,11 @@
     "identifier": "Klub Slovenská národná strana",
     "name": "Klub Slovenská národná strana",
     "classification": "group"
+  },
+  {
+    "id": "nrsr:org:nezavisli",
+    "identifier": "Nezávislí",
+    "name": "Nezávislí",
+    "classification": "group"
   }
 ]
