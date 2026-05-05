@@ -177,6 +177,8 @@ def main() -> None:
         pw.writeheader()
         mw.writeheader()
 
+        current_with_club: set[str] = set()
+
         for i, mp_id in enumerate(mp_ids):
             if i % 20 == 0:
                 logging.info("Scraping MP %d/%d (id=%s)", i + 1, len(mp_ids), mp_id)
@@ -186,9 +188,16 @@ def main() -> None:
                 pw.writerow(person)
                 for m in memberships:
                     mw.writerow(m)
+                if memberships and mp_id in current_ids:
+                    current_with_club.add(mp_id)
             except Exception as e:
                 logging.warning("Failed to scrape mp_id=%s: %s", mp_id, e)
             time.sleep(_DELAY)
+
+        # current MPs with no club → "Nezávislí"
+        for mp_id in sorted(current_ids - current_with_club):
+            mw.writerow({"mp_id": mp_id, "club_name": "Nezávislí", "start_date": "", "end_date": ""})
+            logging.info("Assigned Nezávislí to current MP %s (no club found)", mp_id)
 
     logging.info("Wrote %s and %s", persons_out, memberships_out)
 

@@ -234,14 +234,25 @@ def build_persons_and_memberships() -> None:
         "classification": "legislature",
     }
 
+    # "Nezávislí" gets a stable fixed ID outside the sequential range
+    _FIXED_CLUB_IDS = {"Nezávislí": "nrsr:org:nezavisli"}
+
     club_rows = []
-    for i, club in enumerate(sorted(all_clubs)):
+    for i, club in enumerate(sorted(c for c in all_clubs if c not in _FIXED_CLUB_IDS)):
         club_rows.append({
             "id": f"nrsr:org:club:{i+1}",
             "identifier": club,
             "name": club,
             "classification": "group",
         })
+    for name, fixed_id in _FIXED_CLUB_IDS.items():
+        if name in all_clubs:
+            club_rows.append({
+                "id": fixed_id,
+                "identifier": name,
+                "name": name,
+                "classification": "group",
+            })
     club_id_map = {r["name"]: r["id"] for r in club_rows}
 
     orgs_df = pd.DataFrame([parliament_row] + club_rows)
