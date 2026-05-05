@@ -7,7 +7,7 @@
   "absent_options": ["absent", "not voting"],
   "rotate": {
     "voter_id": "nrsr:person:1009",
-    "dims": [1, 1, 1]
+    "dims": [-1, 1, 1]
   },
   "time_interval": "half-year",
   "n_dims": 3
