@@ -23,6 +23,7 @@ if __name__ == "__main__":
     max_new = os.getenv("MAX_NEW_VOTES")
     votes_args = ("--max-new", max_new) if max_new else ()
 
+    run(SCRIPTS / "download_raw.py")  # restore raw CSVs from B2 if not already cached locally
     run(SCRIPTS / "scrape_persons.py")
     run(SCRIPTS / "scrape_votes.py", *votes_args)
     run(SCRIPTS / "standardize.py")
