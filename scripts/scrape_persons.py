@@ -129,7 +129,13 @@ def _scrape_mp(session: requests_html.HTMLSession, mp_id: str) -> tuple[dict, li
                 continue
             label = cells[0].text.strip().lower()
             value = cells[1].text.strip()
-            if "e-mail" in label:
+            if label == "meno":
+                person["given_name"] = value
+            elif label == "priezvisko":
+                person["family_name"] = value
+            elif label == "titul":
+                person["title"] = value
+            elif "e-mail" in label:
                 person["email"] = value
             elif "naroden" in label:
                 person["born_on"] = value
