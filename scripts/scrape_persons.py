@@ -214,7 +214,7 @@ def main() -> None:
                 if name_looks_bad and mp_id in list_name_map:
                     parts = list_name_map[mp_id].split()
                     if len(parts) >= 2:
-                        person["family_name"] = parts[0]
+                        person["family_name"] = parts[0].rstrip(",")
                         person["given_name"] = " ".join(parts[1:])
                         logging.info(
                             "Name fallback mp_id=%s: '%s %s' → '%s %s'",
