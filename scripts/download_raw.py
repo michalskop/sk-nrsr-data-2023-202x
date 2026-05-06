@@ -79,7 +79,4 @@ if __name__ == "__main__":
 
     for name in _RAW_FILES:
         out = _RAW / name
-        if out.exists():
-            logging.info("Already present locally, skipping: %s", name)
-            continue
         _download(download_url, auth_token, bucket, f"{_LEGISLATURE_B2_PREFIX}/raw/{name}", out)
