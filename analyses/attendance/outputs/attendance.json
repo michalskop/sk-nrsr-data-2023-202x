@@ -1,655 +1,5 @@
 [
   {
-    "person_id": "nrsr:person:892",
-    "vote_events_total": 4136,
-    "present": 4072,
-    "absent": 64,
-    "name": "Štefan Gašparovič",
-    "given_names": [
-      "Štefan"
-    ],
-    "family_names": [
-      "Gašparovič"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:1",
-        "classification": "group",
-        "name": "Klub HLAS - SD",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "present_share": 0.9845261122,
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=892&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:1193",
-    "vote_events_total": 4136,
-    "present": 4068,
-    "absent": 68,
-    "name": "Igor Válek",
-    "given_names": [
-      "Igor"
-    ],
-    "family_names": [
-      "Válek"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:8",
-        "classification": "group",
-        "name": "Klub SMER - SD",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "present_share": 0.9835589942,
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1193&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:1117",
-    "vote_events_total": 4145,
-    "present": 3389,
-    "absent": 703,
-    "name": "Jaroslav Spišiak",
-    "given_names": [
-      "Jaroslav"
-    ],
-    "family_names": [
-      "Spišiak"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:4",
-        "classification": "group",
-        "name": "Klub PS",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "present_share": 0.8176115802,
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1117&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:1058",
-    "vote_events_total": 4145,
-    "present": 4075,
-    "absent": 70,
-    "name": "Anton Stredák",
-    "given_names": [
-      "Anton"
-    ],
-    "family_names": [
-      "Stredák"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:8",
-        "classification": "group",
-        "name": "Klub SMER - SD",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "present_share": 0.9831121834,
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1058&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:1135",
-    "vote_events_total": 4145,
-    "present": 3480,
-    "absent": 620,
-    "name": "Branislav Vančo",
-    "given_names": [
-      "Branislav"
-    ],
-    "family_names": [
-      "Vančo"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:4",
-        "classification": "group",
-        "name": "Klub PS",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "present_share": 0.8395657419,
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1135&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:705",
-    "vote_events_total": 4145,
-    "present": 4057,
-    "absent": 77,
-    "name": "Jozef Valocký",
-    "given_names": [
-      "Jozef"
-    ],
-    "family_names": [
-      "Valocký"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:8",
-        "classification": "group",
-        "name": "Klub SMER - SD",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "present_share": 0.9787696019,
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=705&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:931",
-    "vote_events_total": 4125,
-    "present": 4035,
-    "absent": 90,
-    "name": "Karol Farkašovský",
-    "given_names": [
-      "Karol"
-    ],
-    "family_names": [
-      "Farkašovský"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:10",
-        "classification": "group",
-        "name": "Klub SNS",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "present_share": 0.9781818182,
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=931&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:1126",
-    "vote_events_total": 4145,
-    "present": 3684,
-    "absent": 416,
-    "name": "Tina Gažovičová",
-    "given_names": [
-      "Tina"
-    ],
-    "family_names": [
-      "Gažovičová"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:4",
-        "classification": "group",
-        "name": "Klub PS",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "present_share": 0.8887816647,
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1126&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:1200",
-    "vote_events_total": 4136,
-    "present": 4067,
-    "absent": 69,
-    "name": "Boleslav Lešo",
-    "given_names": [
-      "Boleslav"
-    ],
-    "family_names": [
-      "Lešo"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:8",
-        "classification": "group",
-        "name": "Klub SMER - SD",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "present_share": 0.9833172147,
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1200&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:971",
-    "vote_events_total": 4145,
-    "present": 3181,
-    "absent": 952,
-    "name": "Branislav Gröhling",
-    "given_names": [
-      "Branislav"
-    ],
-    "family_names": [
-      "Gröhling"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:11",
-        "classification": "group",
-        "name": "Klub SaS",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "present_share": 0.7674306393,
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=971&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:1042",
-    "vote_events_total": 4145,
-    "present": 2975,
-    "absent": 1170,
-    "name": "Vladimíra Marcinková",
-    "given_names": [
-      "Vladimíra"
-    ],
-    "family_names": [
-      "Marcinková"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:11",
-        "classification": "group",
-        "name": "Klub SaS",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "present_share": 0.7177322075,
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1042&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:1206",
-    "vote_events_total": 4125,
-    "present": 3500,
-    "absent": 625,
-    "name": "Peter Sokol",
-    "given_names": [
-      "Peter"
-    ],
-    "family_names": [
-      "Sokol"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:8",
-        "classification": "group",
-        "name": "Klub SMER - SD",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "present_share": 0.8484848485,
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1206&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:1145",
-    "vote_events_total": 4145,
-    "present": 3305,
-    "absent": 793,
-    "name": "Viliam Tankó",
-    "given_names": [
-      "Viliam"
-    ],
-    "family_names": [
-      "Tankó"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:4",
-        "classification": "group",
-        "name": "Klub PS",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "present_share": 0.7973462002,
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1145&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:1203",
-    "vote_events_total": 4136,
-    "present": 4033,
-    "absent": 103,
-    "name": "et Čellár",
-    "given_names": [
-      "et"
-    ],
-    "family_names": [
-      "Čellár"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:1",
-        "classification": "group",
-        "name": "Klub HLAS - SD",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "present_share": 0.9750967118,
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1203&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:1115",
-    "vote_events_total": 4145,
-    "present": 3216,
-    "absent": 868,
-    "name": "Michal Truban",
-    "given_names": [
-      "Michal"
-    ],
-    "family_names": [
-      "Truban"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:4",
-        "classification": "group",
-        "name": "Klub PS",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "present_share": 0.7758745476,
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1115&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:1180",
-    "vote_events_total": 4145,
-    "present": 2709,
-    "absent": 1419,
-    "name": "Martina Holečková",
-    "given_names": [
-      "Martina"
-    ],
-    "family_names": [
-      "Holečková"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:11",
-        "classification": "group",
-        "name": "Klub SaS",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "present_share": 0.6535585042,
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1180&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:1144",
-    "vote_events_total": 4145,
-    "present": 3527,
-    "absent": 618,
-    "name": "Lukáš Bužo",
-    "given_names": [
-      "Lukáš"
-    ],
-    "family_names": [
-      "Bužo"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:6",
-        "classification": "group",
-        "name": "Klub SLOVENSKO",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "present_share": 0.8509047045,
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1144&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:1118",
-    "vote_events_total": 4145,
-    "present": 3538,
-    "absent": 562,
-    "name": "Tamara Stohlová",
-    "given_names": [
-      "Tamara"
-    ],
-    "family_names": [
-      "Stohlová"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:4",
-        "classification": "group",
-        "name": "Klub PS",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "present_share": 0.8535585042,
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1118&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:1037",
-    "vote_events_total": 4145,
-    "present": 3511,
-    "absent": 630,
-    "name": "Vladimír Ledecký",
-    "given_names": [
-      "Vladimír"
-    ],
-    "family_names": [
-      "Ledecký"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:11",
-        "classification": "group",
-        "name": "Klub SaS",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "present_share": 0.8470446321,
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1037&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:1140",
-    "vote_events_total": 4145,
-    "present": 3775,
-    "absent": 320,
-    "name": "Dávid Dej",
-    "given_names": [
-      "Dávid"
-    ],
-    "family_names": [
-      "Dej"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:4",
-        "classification": "group",
-        "name": "Klub PS",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "present_share": 0.9107358263,
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1140&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:1139",
-    "vote_events_total": 4145,
-    "present": 3115,
-    "absent": 977,
-    "name": "Dana Kleinert",
-    "given_names": [
-      "Dana"
-    ],
-    "family_names": [
-      "Kleinert"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:4",
-        "classification": "group",
-        "name": "Klub PS",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "present_share": 0.7515078408,
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1139&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:1114",
-    "vote_events_total": 4145,
-    "present": 3175,
-    "absent": 970,
-    "name": "Michal Šimečka",
-    "given_names": [
-      "Michal"
-    ],
-    "family_names": [
-      "Šimečka"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:4",
-        "classification": "group",
-        "name": "Klub PS",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "present_share": 0.7659831122,
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1114&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:1191",
-    "vote_events_total": 4136,
-    "present": 4067,
-    "absent": 66,
-    "name": "Andrej Sitkár",
-    "given_names": [
-      "Andrej"
-    ],
-    "family_names": [
-      "Sitkár"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:8",
-        "classification": "group",
-        "name": "Klub SMER - SD",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "present_share": 0.9833172147,
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1191&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:1124",
-    "vote_events_total": 4145,
-    "present": 3573,
-    "absent": 527,
-    "name": "Ingrid Kosová",
-    "given_names": [
-      "Ingrid"
-    ],
-    "family_names": [
-      "Kosová"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:4",
-        "classification": "group",
-        "name": "Klub PS",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "present_share": 0.8620024125,
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1124&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:871",
-    "vote_events_total": 4145,
-    "present": 4012,
-    "absent": 133,
-    "name": "Vladimír Baláž",
-    "given_names": [
-      "Vladimír"
-    ],
-    "family_names": [
-      "Baláž"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:8",
-        "classification": "group",
-        "name": "Klub SMER - SD",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "present_share": 0.9679131484,
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=871&ImageWidth=140"
-    }
-  },
-  {
     "person_id": "nrsr:person:907",
     "vote_events_total": 4145,
     "present": 3001,
@@ -676,42 +26,16 @@
     }
   },
   {
-    "person_id": "nrsr:person:1133",
+    "person_id": "nrsr:person:689",
     "vote_events_total": 4145,
-    "present": 3491,
-    "absent": 612,
-    "name": "Martin Dubéci",
+    "present": 4023,
+    "absent": 122,
+    "name": "Ján Richter",
     "given_names": [
-      "Martin"
+      "Ján"
     ],
     "family_names": [
-      "Dubéci"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:4",
-        "classification": "group",
-        "name": "Klub PS",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "present_share": 0.8422195416,
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1133&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:1160",
-    "vote_events_total": 4145,
-    "present": 4002,
-    "absent": 135,
-    "name": "Marcela Čavojová",
-    "given_names": [
-      "Marcela"
-    ],
-    "family_names": [
-      "Čavojová"
+      "Richter"
     ],
     "organizations": [
       {
@@ -722,9 +46,9 @@
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.9655006031,
+    "present_share": 0.9705669481,
     "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1160&ImageWidth=140"
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=689&ImageWidth=140"
     }
   },
   {
@@ -754,16 +78,16 @@
     }
   },
   {
-    "person_id": "nrsr:person:1131",
+    "person_id": "nrsr:person:1135",
     "vote_events_total": 4145,
-    "present": 3725,
-    "absent": 375,
-    "name": "Ondrej Prostredník",
+    "present": 3480,
+    "absent": 620,
+    "name": "Branislav Vančo",
     "given_names": [
-      "Ondrej"
+      "Branislav"
     ],
     "family_names": [
-      "Prostredník"
+      "Vančo"
     ],
     "organizations": [
       {
@@ -774,22 +98,22 @@
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.8986731001,
+    "present_share": 0.8395657419,
     "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1131&ImageWidth=140"
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1135&ImageWidth=140"
     }
   },
   {
-    "person_id": "nrsr:person:808",
+    "person_id": "nrsr:person:1188",
     "vote_events_total": 4145,
-    "present": 2725,
-    "absent": 1415,
-    "name": "Igor Matovič",
+    "present": 3395,
+    "absent": 750,
+    "name": "Július Jakab",
     "given_names": [
-      "Igor"
+      "Július"
     ],
     "family_names": [
-      "Matovič"
+      "Jakab"
     ],
     "organizations": [
       {
@@ -800,74 +124,74 @@
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.6574185766,
+    "present_share": 0.8190591074,
     "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=808&ImageWidth=140"
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1188&ImageWidth=140"
     }
   },
   {
-    "person_id": "nrsr:person:671",
+    "person_id": "nrsr:person:1170",
     "vote_events_total": 4145,
-    "present": 4057,
-    "absent": 88,
-    "name": "Ján Kvorka",
+    "present": 3971,
+    "absent": 174,
+    "name": "Peter Kalivoda",
     "given_names": [
-      "Ján"
+      "Peter"
     ],
     "family_names": [
-      "Kvorka"
+      "Kalivoda"
     ],
     "organizations": [
       {
-        "id": "nrsr:org:club:8",
+        "id": "nrsr:org:club:1",
         "classification": "group",
-        "name": "Klub SMER - SD",
+        "name": "Klub HLAS - SD",
         "since": "2023-10-25"
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.9787696019,
+    "present_share": 0.9580217129,
     "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=671&ImageWidth=140"
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1170&ImageWidth=140"
     }
   },
   {
-    "person_id": "nrsr:person:1116",
+    "person_id": "nrsr:person:1149",
     "vote_events_total": 4145,
-    "present": 2988,
-    "absent": 1112,
-    "name": "Lucia Plaváková",
+    "present": 4059,
+    "absent": 86,
+    "name": "Roman Michelko",
     "given_names": [
-      "Lucia"
+      "Roman"
     ],
     "family_names": [
-      "Plaváková"
+      "Michelko"
     ],
     "organizations": [
       {
-        "id": "nrsr:org:club:4",
+        "id": "nrsr:org:club:10",
         "classification": "group",
-        "name": "Klub PS",
+        "name": "Klub SNS",
         "since": "2023-10-25"
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.7208685163,
+    "present_share": 0.979252111,
     "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1116&ImageWidth=140"
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1149&ImageWidth=140"
     }
   },
   {
-    "person_id": "nrsr:person:738",
-    "vote_events_total": 4125,
-    "present": 4033,
-    "absent": 92,
-    "name": "Pavol Goga",
+    "person_id": "nrsr:person:1223",
+    "vote_events_total": 653,
+    "present": 642,
+    "absent": 11,
+    "name": "Vladimír Macášek",
     "given_names": [
-      "Pavol"
+      "Vladimír"
     ],
     "family_names": [
-      "Goga"
+      "Macášek"
     ],
     "organizations": [
       {
@@ -878,61 +202,87 @@
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.9776969697,
+    "present_share": 0.9831546708,
     "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=738&ImageWidth=140"
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1223&ImageWidth=140"
     }
   },
   {
-    "person_id": "nrsr:person:874",
+    "person_id": "nrsr:person:1081",
     "vote_events_total": 4145,
-    "present": 4075,
-    "absent": 70,
-    "name": "Augustín Hambálek",
+    "present": 4026,
+    "absent": 119,
+    "name": "Ľubica Laššáková",
     "given_names": [
-      "Augustín"
+      "Ľubica"
     ],
     "family_names": [
-      "Hambálek"
+      "Laššáková"
     ],
     "organizations": [
       {
-        "id": "nrsr:org:club:8",
+        "id": "nrsr:org:club:1",
         "classification": "group",
-        "name": "Klub SMER - SD",
+        "name": "Klub HLAS - SD",
         "since": "2023-10-25"
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.9831121834,
+    "present_share": 0.9712907117,
     "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=874&ImageWidth=140"
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1081&ImageWidth=140"
     }
   },
   {
-    "person_id": "nrsr:person:1194",
-    "vote_events_total": 4136,
-    "present": 4072,
-    "absent": 64,
-    "name": "Zuzana Plevíková",
+    "person_id": "nrsr:person:322",
+    "vote_events_total": 4145,
+    "present": 3887,
+    "absent": 224,
+    "name": "Dušan Muňko",
     "given_names": [
-      "Zuzana"
+      "Dušan"
     ],
     "family_names": [
-      "Plevíková"
+      "Muňko"
     ],
     "organizations": [
       {
-        "id": "nrsr:org:club:8",
+        "id": "nrsr:org:club:10",
         "classification": "group",
-        "name": "Klub SMER - SD",
+        "name": "Klub SNS",
         "since": "2023-10-25"
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.9845261122,
+    "present_share": 0.9377563329,
     "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1194&ImageWidth=140"
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=322&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:779",
+    "vote_events_total": 4145,
+    "present": 3706,
+    "absent": 439,
+    "name": "Ondrej Dostál",
+    "given_names": [
+      "Ondrej"
+    ],
+    "family_names": [
+      "Dostál"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:11",
+        "classification": "group",
+        "name": "Klub SaS",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "present_share": 0.8940892642,
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=779&ImageWidth=140"
     }
   },
   {
@@ -962,16 +312,16 @@
     }
   },
   {
-    "person_id": "nrsr:person:1196",
-    "vote_events_total": 4136,
-    "present": 4060,
-    "absent": 76,
-    "name": "Alena Nováková",
+    "person_id": "nrsr:person:1207",
+    "vote_events_total": 4125,
+    "present": 4025,
+    "absent": 100,
+    "name": "Michal Bartek",
     "given_names": [
-      "Alena"
+      "Michal"
     ],
     "family_names": [
-      "Nováková"
+      "Bartek"
     ],
     "organizations": [
       {
@@ -982,48 +332,22 @@
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.9816247582,
+    "present_share": 0.9757575758,
     "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1196&ImageWidth=140"
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1207&ImageWidth=140"
     }
   },
   {
-    "person_id": "nrsr:person:769",
+    "person_id": "nrsr:person:1190",
     "vote_events_total": 4145,
-    "present": 4071,
-    "absent": 71,
-    "name": "Peter Šuca",
+    "present": 2701,
+    "absent": 1429,
+    "name": "Rastislav Krátky",
     "given_names": [
-      "Peter"
+      "Rastislav"
     ],
     "family_names": [
-      "Šuca"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:8",
-        "classification": "group",
-        "name": "Klub SMER - SD",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "present_share": 0.9821471653,
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=769&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:1186",
-    "vote_events_total": 4145,
-    "present": 2958,
-    "absent": 1187,
-    "name": "Andrea Turčanová",
-    "given_names": [
-      "Andrea"
-    ],
-    "family_names": [
-      "Turčanová"
+      "Krátky"
     ],
     "organizations": [
       {
@@ -1034,22 +358,48 @@
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.7136308806,
+    "present_share": 0.651628468,
     "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1186&ImageWidth=140"
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1190&ImageWidth=140"
     }
   },
   {
-    "person_id": "nrsr:person:1161",
+    "person_id": "nrsr:person:961",
     "vote_events_total": 4145,
-    "present": 4053,
-    "absent": 74,
-    "name": "Michal Stuška",
+    "present": 3534,
+    "absent": 606,
+    "name": "Igor Janckulík",
     "given_names": [
-      "Michal"
+      "Igor"
     ],
     "family_names": [
-      "Stuška"
+      "Janckulík"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:3",
+        "classification": "group",
+        "name": "Klub KDH",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "present_share": 0.8525934861,
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=961&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1200",
+    "vote_events_total": 4136,
+    "present": 4067,
+    "absent": 69,
+    "name": "Boleslav Lešo",
+    "given_names": [
+      "Boleslav"
+    ],
+    "family_names": [
+      "Lešo"
     ],
     "organizations": [
       {
@@ -1060,35 +410,113 @@
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.9778045838,
+    "present_share": 0.9833172147,
     "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1161&ImageWidth=140"
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1200&ImageWidth=140"
     }
   },
   {
-    "person_id": "nrsr:person:899",
-    "vote_events_total": 4145,
-    "present": 4042,
-    "absent": 101,
-    "name": "Peter Náhlik",
+    "person_id": "nrsr:person:1199",
+    "vote_events_total": 4136,
+    "present": 4048,
+    "absent": 85,
+    "name": "Adam Lučanský",
     "given_names": [
-      "Peter"
+      "Adam"
     ],
     "family_names": [
-      "Náhlik"
+      "Lučanský"
     ],
     "organizations": [
       {
-        "id": "nrsr:org:club:1",
+        "id": "nrsr:org:club:10",
         "classification": "group",
-        "name": "Klub HLAS - SD",
+        "name": "Klub SNS",
         "since": "2023-10-25"
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.9751507841,
+    "present_share": 0.9787234043,
     "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=899&ImageWidth=140"
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1199&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:966",
+    "vote_events_total": 2739,
+    "present": 2379,
+    "absent": 356,
+    "name": "Karol Galek",
+    "given_names": [
+      "Karol"
+    ],
+    "family_names": [
+      "Galek"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:11",
+        "classification": "group",
+        "name": "Klub SaS",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "present_share": 0.8685651698,
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=966&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:685",
+    "vote_events_total": 4145,
+    "present": 4024,
+    "absent": 121,
+    "name": "Ján Podmanický",
+    "given_names": [
+      "Ján"
+    ],
+    "family_names": [
+      "Podmanický"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:8",
+        "classification": "group",
+        "name": "Klub SMER - SD",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "present_share": 0.9708082027,
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=685&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1037",
+    "vote_events_total": 4145,
+    "present": 3511,
+    "absent": 630,
+    "name": "Vladimír Ledecký",
+    "given_names": [
+      "Vladimír"
+    ],
+    "family_names": [
+      "Ledecký"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:11",
+        "classification": "group",
+        "name": "Klub SaS",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "present_share": 0.8470446321,
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1037&ImageWidth=140"
     }
   },
   {
@@ -1144,94 +572,42 @@
     }
   },
   {
-    "person_id": "nrsr:person:1190",
+    "person_id": "nrsr:person:1160",
     "vote_events_total": 4145,
-    "present": 2701,
-    "absent": 1429,
-    "name": "Rastislav Krátky",
+    "present": 4002,
+    "absent": 135,
+    "name": "Marcela Čavojová",
     "given_names": [
-      "Rastislav"
+      "Marcela"
     ],
     "family_names": [
-      "Krátky"
+      "Čavojová"
     ],
     "organizations": [
       {
-        "id": "nrsr:org:club:3",
+        "id": "nrsr:org:club:8",
         "classification": "group",
-        "name": "Klub KDH",
+        "name": "Klub SMER - SD",
         "since": "2023-10-25"
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.651628468,
+    "present_share": 0.9655006031,
     "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1190&ImageWidth=140"
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1160&ImageWidth=140"
     }
   },
   {
-    "person_id": "nrsr:person:862",
+    "person_id": "nrsr:person:1150",
     "vote_events_total": 4145,
-    "present": 2653,
-    "absent": 1474,
-    "name": "Branislav Škripek",
+    "present": 3728,
+    "absent": 417,
+    "name": "Ivan Ševčík",
     "given_names": [
-      "Branislav"
+      "Ivan"
     ],
     "family_names": [
-      "Škripek"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:3",
-        "classification": "group",
-        "name": "Klub KDH",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "present_share": 0.6400482509,
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=862&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:861",
-    "vote_events_total": 4145,
-    "present": 3339,
-    "absent": 806,
-    "name": "Richard Vašečka",
-    "given_names": [
-      "Richard"
-    ],
-    "family_names": [
-      "Vašečka"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:6",
-        "classification": "group",
-        "name": "Klub SLOVENSKO",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "present_share": 0.805548854,
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=861&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:1152",
-    "vote_events_total": 4145,
-    "present": 3653,
-    "absent": 482,
-    "name": "Pavel Ľupták",
-    "given_names": [
-      "Pavel"
-    ],
-    "family_names": [
-      "Ľupták"
+      "Ševčík"
     ],
     "organizations": [
       {
@@ -1242,230 +618,22 @@
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.8813027744,
+    "present_share": 0.8993968637,
     "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1152&ImageWidth=140"
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1150&ImageWidth=140"
     }
   },
   {
-    "person_id": "nrsr:person:1121",
+    "person_id": "nrsr:person:1186",
     "vote_events_total": 4145,
-    "present": 2717,
-    "absent": 1383,
-    "name": "Zora Jaurová",
+    "present": 2958,
+    "absent": 1187,
+    "name": "Andrea Turčanová",
     "given_names": [
-      "Zora"
+      "Andrea"
     ],
     "family_names": [
-      "Jaurová"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:4",
-        "classification": "group",
-        "name": "Klub PS",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "present_share": 0.6554885404,
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1121&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:997",
-    "vote_events_total": 4145,
-    "present": 3856,
-    "absent": 289,
-    "name": "Ján Blcháč",
-    "given_names": [
-      "Ján"
-    ],
-    "family_names": [
-      "Blcháč"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:1",
-        "classification": "group",
-        "name": "Klub HLAS - SD",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "present_share": 0.9302774427,
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=997&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:1173",
-    "vote_events_total": 4145,
-    "present": 4051,
-    "absent": 94,
-    "name": "Roman Malatinec",
-    "given_names": [
-      "Roman"
-    ],
-    "family_names": [
-      "Malatinec"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:1",
-        "classification": "group",
-        "name": "Klub HLAS - SD",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "present_share": 0.9773220748,
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1173&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:685",
-    "vote_events_total": 4145,
-    "present": 4024,
-    "absent": 121,
-    "name": "Ján Podmanický",
-    "given_names": [
-      "Ján"
-    ],
-    "family_names": [
-      "Podmanický"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:8",
-        "classification": "group",
-        "name": "Klub SMER - SD",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "present_share": 0.9708082027,
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=685&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:1065",
-    "vote_events_total": 4145,
-    "present": 3394,
-    "absent": 751,
-    "name": "Michal Šipoš",
-    "given_names": [
-      "Michal"
-    ],
-    "family_names": [
-      "Šipoš"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:6",
-        "classification": "group",
-        "name": "Klub SLOVENSKO",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "present_share": 0.8188178528,
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1065&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:1195",
-    "vote_events_total": 4136,
-    "present": 4052,
-    "absent": 84,
-    "name": "Jozef Cech",
-    "given_names": [
-      "Jozef"
-    ],
-    "family_names": [
-      "Cech"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:1",
-        "classification": "group",
-        "name": "Klub HLAS - SD",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "present_share": 0.9796905222,
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1195&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:61",
-    "vote_events_total": 4145,
-    "present": 4013,
-    "absent": 132,
-    "name": "Dušan Jarjabek",
-    "given_names": [
-      "Dušan"
-    ],
-    "family_names": [
-      "Jarjabek"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:8",
-        "classification": "group",
-        "name": "Klub SMER - SD",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "present_share": 0.9681544029,
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=61&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:1189",
-    "vote_events_total": 4145,
-    "present": 3638,
-    "absent": 462,
-    "name": "Marek Lackovič",
-    "given_names": [
-      "Marek"
-    ],
-    "family_names": [
-      "Lackovič"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:4",
-        "classification": "group",
-        "name": "Klub PS",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "present_share": 0.8776839566,
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1189&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:1225",
-    "vote_events_total": 185,
-    "present": 180,
-    "absent": 5,
-    "name": "Gabriel Paľa",
-    "given_names": [
-      "Gabriel"
-    ],
-    "family_names": [
-      "Paľa"
+      "Turčanová"
     ],
     "organizations": [
       {
@@ -1476,22 +644,100 @@
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.972972973,
+    "present_share": 0.7136308806,
     "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1225&ImageWidth=140"
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1186&ImageWidth=140"
     }
   },
   {
-    "person_id": "nrsr:person:689",
+    "person_id": "nrsr:person:1032",
     "vote_events_total": 4145,
-    "present": 4023,
-    "absent": 122,
-    "name": "Ján Richter",
+    "present": 3440,
+    "absent": 705,
+    "name": "Juraj Krúpa",
+    "given_names": [
+      "Juraj"
+    ],
+    "family_names": [
+      "Krúpa"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:11",
+        "classification": "group",
+        "name": "Klub SaS",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "present_share": 0.8299155609,
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1032&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1206",
+    "vote_events_total": 4125,
+    "present": 3500,
+    "absent": 625,
+    "name": "Peter Sokol",
+    "given_names": [
+      "Peter"
+    ],
+    "family_names": [
+      "Sokol"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:8",
+        "classification": "group",
+        "name": "Klub SMER - SD",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "present_share": 0.8484848485,
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1206&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1176",
+    "vote_events_total": 4145,
+    "present": 4009,
+    "absent": 136,
+    "name": "Erik Vlček",
+    "given_names": [
+      "Erik"
+    ],
+    "family_names": [
+      "Vlček"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:1",
+        "classification": "group",
+        "name": "Klub HLAS - SD",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "present_share": 0.9671893848,
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1176&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1156",
+    "vote_events_total": 4145,
+    "present": 4068,
+    "absent": 77,
+    "name": "Ján Mažgút",
     "given_names": [
       "Ján"
     ],
     "family_names": [
-      "Richter"
+      "Mažgút"
     ],
     "organizations": [
       {
@@ -1502,256 +748,48 @@
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.9705669481,
+    "present_share": 0.9814234017,
     "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=689&ImageWidth=140"
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1156&ImageWidth=140"
     }
   },
   {
-    "person_id": "nrsr:person:668",
+    "person_id": "nrsr:person:1114",
     "vote_events_total": 4145,
-    "present": 4062,
-    "absent": 80,
-    "name": "Stanislav Kubánek",
-    "given_names": [
-      "Stanislav"
-    ],
-    "family_names": [
-      "Kubánek"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:8",
-        "classification": "group",
-        "name": "Klub SMER - SD",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "present_share": 0.9799758745,
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=668&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:761",
-    "vote_events_total": 1921,
-    "present": 1894,
-    "absent": 27,
-    "name": "Richard Raši",
-    "given_names": [
-      "Richard"
-    ],
-    "family_names": [
-      "Raši"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:1",
-        "classification": "group",
-        "name": "Klub HLAS - SD",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "present_share": 0.9859448204,
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=761&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:879",
-    "vote_events_total": 4145,
-    "present": 4050,
-    "absent": 95,
-    "name": "Róbert Puci",
-    "given_names": [
-      "Róbert"
-    ],
-    "family_names": [
-      "Puci"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:1",
-        "classification": "group",
-        "name": "Klub HLAS - SD",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "present_share": 0.9770808203,
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=879&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:1169",
-    "vote_events_total": 4145,
-    "present": 4076,
-    "absent": 69,
-    "name": "Karol Janas",
-    "given_names": [
-      "Karol"
-    ],
-    "family_names": [
-      "Janas"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:1",
-        "classification": "group",
-        "name": "Klub HLAS - SD",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "present_share": 0.9833534379,
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1169&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:1146",
-    "vote_events_total": 4145,
-    "present": 3596,
-    "absent": 546,
-    "name": "Anežka Škopová",
-    "given_names": [
-      "Anežka"
-    ],
-    "family_names": [
-      "Škopová"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:6",
-        "classification": "group",
-        "name": "Klub SLOVENSKO",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "present_share": 0.8675512666,
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1146&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:1214",
-    "vote_events_total": 3861,
-    "present": 3763,
-    "absent": 98,
-    "name": "Richard Glück",
-    "given_names": [
-      "Richard"
-    ],
-    "family_names": [
-      "Glück"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:8",
-        "classification": "group",
-        "name": "Klub SMER - SD",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "present_share": 0.9746179746,
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1214&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:293",
-    "vote_events_total": 4145,
-    "present": 4000,
-    "absent": 139,
-    "name": "Ľubomír Vážny",
-    "given_names": [
-      "Ľubomír"
-    ],
-    "family_names": [
-      "Vážny"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:8",
-        "classification": "group",
-        "name": "Klub SMER - SD",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "present_share": 0.9650180941,
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=293&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:1221",
-    "vote_events_total": 1193,
-    "present": 1119,
-    "absent": 74,
-    "name": "Igor Dušenka",
-    "given_names": [
-      "Igor"
-    ],
-    "family_names": [
-      "Dušenka"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:6",
-        "classification": "group",
-        "name": "Klub SLOVENSKO",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "present_share": 0.9379715004,
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1221&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:656",
-    "vote_events_total": 4145,
-    "present": 4036,
-    "absent": 96,
-    "name": "Dušan Galis",
-    "given_names": [
-      "Dušan"
-    ],
-    "family_names": [
-      "Galis"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:8",
-        "classification": "group",
-        "name": "Klub SMER - SD",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "present_share": 0.9737032569,
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=656&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:733",
-    "vote_events_total": 4136,
-    "present": 4063,
-    "absent": 73,
-    "name": "Michal Lukša",
+    "present": 3175,
+    "absent": 970,
+    "name": "Michal Šimečka",
     "given_names": [
       "Michal"
     ],
     "family_names": [
-      "Lukša"
+      "Šimečka"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:4",
+        "classification": "group",
+        "name": "Klub PS",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "present_share": 0.7659831122,
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1114&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1204",
+    "vote_events_total": 4125,
+    "present": 4045,
+    "absent": 80,
+    "name": "Jaroslav Mego",
+    "given_names": [
+      "Jaroslav"
+    ],
+    "family_names": [
+      "Mego"
     ],
     "organizations": [
       {
@@ -1762,61 +800,9 @@
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.9823500967,
+    "present_share": 0.9806060606,
     "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=733&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:1054",
-    "vote_events_total": 4145,
-    "present": 3113,
-    "absent": 1032,
-    "name": "Jozef Pročko",
-    "given_names": [
-      "Jozef"
-    ],
-    "family_names": [
-      "Pročko"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:6",
-        "classification": "group",
-        "name": "Klub SLOVENSKO",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "present_share": 0.7510253317,
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1054&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:1081",
-    "vote_events_total": 4145,
-    "present": 4026,
-    "absent": 119,
-    "name": "Ľubica Laššáková",
-    "given_names": [
-      "Ľubica"
-    ],
-    "family_names": [
-      "Laššáková"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:1",
-        "classification": "group",
-        "name": "Klub HLAS - SD",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "present_share": 0.9712907117,
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1081&ImageWidth=140"
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1204&ImageWidth=140"
     }
   },
   {
@@ -1846,16 +832,68 @@
     }
   },
   {
-    "person_id": "nrsr:person:1009",
+    "person_id": "nrsr:person:1146",
     "vote_events_total": 4145,
-    "present": 4041,
-    "absent": 104,
-    "name": "Jozef Habánik",
+    "present": 3596,
+    "absent": 546,
+    "name": "Anežka Škopová",
     "given_names": [
-      "Jozef"
+      "Anežka"
     ],
     "family_names": [
-      "Habánik"
+      "Škopová"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:6",
+        "classification": "group",
+        "name": "Klub SLOVENSKO",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "present_share": 0.8675512666,
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1146&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1065",
+    "vote_events_total": 4145,
+    "present": 3394,
+    "absent": 751,
+    "name": "Michal Šipoš",
+    "given_names": [
+      "Michal"
+    ],
+    "family_names": [
+      "Šipoš"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:6",
+        "classification": "group",
+        "name": "Klub SLOVENSKO",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "present_share": 0.8188178528,
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1065&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1191",
+    "vote_events_total": 4136,
+    "present": 4067,
+    "absent": 66,
+    "name": "Andrej Sitkár",
+    "given_names": [
+      "Andrej"
+    ],
+    "family_names": [
+      "Sitkár"
     ],
     "organizations": [
       {
@@ -1866,22 +904,22 @@
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.9749095296,
+    "present_share": 0.9833172147,
     "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1009&ImageWidth=140"
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1191&ImageWidth=140"
     }
   },
   {
-    "person_id": "nrsr:person:1134",
-    "vote_events_total": 4145,
-    "present": 3447,
-    "absent": 653,
-    "name": "Darina Luščíková",
+    "person_id": "nrsr:person:1213",
+    "vote_events_total": 3861,
+    "present": 3151,
+    "absent": 665,
+    "name": "Richard Dubovický",
     "given_names": [
-      "Darina"
+      "Richard"
     ],
     "family_names": [
-      "Luščíková"
+      "Dubovický"
     ],
     "organizations": [
       {
@@ -1892,9 +930,399 @@
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.8316043426,
+    "present_share": 0.8161098161,
     "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1134&ImageWidth=140"
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1213&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1221",
+    "vote_events_total": 1193,
+    "present": 1119,
+    "absent": 74,
+    "name": "Igor Dušenka",
+    "given_names": [
+      "Igor"
+    ],
+    "family_names": [
+      "Dušenka"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:6",
+        "classification": "group",
+        "name": "Klub SLOVENSKO",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "present_share": 0.9379715004,
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1221&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1173",
+    "vote_events_total": 4145,
+    "present": 4051,
+    "absent": 94,
+    "name": "Roman Malatinec",
+    "given_names": [
+      "Roman"
+    ],
+    "family_names": [
+      "Malatinec"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:1",
+        "classification": "group",
+        "name": "Klub HLAS - SD",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "present_share": 0.9773220748,
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1173&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1123",
+    "vote_events_total": 4145,
+    "present": 3460,
+    "absent": 640,
+    "name": "Oskar Dvořák",
+    "given_names": [
+      "Oskar"
+    ],
+    "family_names": [
+      "Dvořák"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:4",
+        "classification": "group",
+        "name": "Klub PS",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "present_share": 0.8347406514,
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1123&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1180",
+    "vote_events_total": 4145,
+    "present": 2709,
+    "absent": 1419,
+    "name": "Martina Holečková",
+    "given_names": [
+      "Martina"
+    ],
+    "family_names": [
+      "Holečková"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:11",
+        "classification": "group",
+        "name": "Klub SaS",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "present_share": 0.6535585042,
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1180&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:874",
+    "vote_events_total": 4145,
+    "present": 4075,
+    "absent": 70,
+    "name": "Augustín Hambálek",
+    "given_names": [
+      "Augustín"
+    ],
+    "family_names": [
+      "Hambálek"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:8",
+        "classification": "group",
+        "name": "Klub SMER - SD",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "present_share": 0.9831121834,
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=874&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1202",
+    "vote_events_total": 1924,
+    "present": 1885,
+    "absent": 22,
+    "name": "Ján Hrubý",
+    "given_names": [
+      "Ján"
+    ],
+    "family_names": [
+      "Hrubý"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:1",
+        "classification": "group",
+        "name": "Klub HLAS - SD",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "present_share": 0.9797297297,
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1202&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:733",
+    "vote_events_total": 4136,
+    "present": 4063,
+    "absent": 73,
+    "name": "Michal Lukša",
+    "given_names": [
+      "Michal"
+    ],
+    "family_names": [
+      "Lukša"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:8",
+        "classification": "group",
+        "name": "Klub SMER - SD",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "present_share": 0.9823500967,
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=733&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1140",
+    "vote_events_total": 4145,
+    "present": 3775,
+    "absent": 320,
+    "name": "Dávid Dej",
+    "given_names": [
+      "Dávid"
+    ],
+    "family_names": [
+      "Dej"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:4",
+        "classification": "group",
+        "name": "Klub PS",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "present_share": 0.9107358263,
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1140&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1208",
+    "vote_events_total": 4125,
+    "present": 3985,
+    "absent": 140,
+    "name": "Dis. Puškárová",
+    "given_names": [
+      "Dis."
+    ],
+    "family_names": [
+      "Puškárová"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:1",
+        "classification": "group",
+        "name": "Klub HLAS - SD",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "present_share": 0.9660606061,
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1208&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:293",
+    "vote_events_total": 4145,
+    "present": 4000,
+    "absent": 139,
+    "name": "Ľubomír Vážny",
+    "given_names": [
+      "Ľubomír"
+    ],
+    "family_names": [
+      "Vážny"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:8",
+        "classification": "group",
+        "name": "Klub SMER - SD",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "present_share": 0.9650180941,
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=293&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1205",
+    "vote_events_total": 4125,
+    "present": 4033,
+    "absent": 89,
+    "name": "Michal Kapuš",
+    "given_names": [
+      "Michal"
+    ],
+    "family_names": [
+      "Kapuš"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:8",
+        "classification": "group",
+        "name": "Klub SMER - SD",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "present_share": 0.9776969697,
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1205&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1042",
+    "vote_events_total": 4145,
+    "present": 2975,
+    "absent": 1170,
+    "name": "Vladimíra Marcinková",
+    "given_names": [
+      "Vladimíra"
+    ],
+    "family_names": [
+      "Marcinková"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:11",
+        "classification": "group",
+        "name": "Klub SaS",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "present_share": 0.7177322075,
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1042&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:36",
+    "vote_events_total": 4145,
+    "present": 3961,
+    "absent": 184,
+    "name": "RSDr. Faič",
+    "given_names": [
+      "RSDr."
+    ],
+    "family_names": [
+      "Faič"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:8",
+        "classification": "group",
+        "name": "Klub SMER - SD",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "present_share": 0.9556091677,
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=36&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:92",
+    "vote_events_total": 4145,
+    "present": 2620,
+    "absent": 1525,
+    "name": "František Mikloško",
+    "given_names": [
+      "František"
+    ],
+    "family_names": [
+      "Mikloško"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:3",
+        "classification": "group",
+        "name": "Klub KDH",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "present_share": 0.6320868516,
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=92&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1143",
+    "vote_events_total": 4145,
+    "present": 3568,
+    "absent": 532,
+    "name": "Veronika Šrobová",
+    "given_names": [
+      "Veronika"
+    ],
+    "family_names": [
+      "Šrobová"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:4",
+        "classification": "group",
+        "name": "Klub PS",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "present_share": 0.8607961399,
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1143&ImageWidth=140"
     }
   },
   {
@@ -1924,16 +1352,198 @@
     }
   },
   {
-    "person_id": "nrsr:person:1211",
-    "vote_events_total": 4125,
-    "present": 3970,
-    "absent": 155,
-    "name": "Zdenka Mačicová",
+    "person_id": "nrsr:person:705",
+    "vote_events_total": 4145,
+    "present": 4057,
+    "absent": 77,
+    "name": "Jozef Valocký",
     "given_names": [
-      "Zdenka"
+      "Jozef"
     ],
     "family_names": [
-      "Mačicová"
+      "Valocký"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:8",
+        "classification": "group",
+        "name": "Klub SMER - SD",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "present_share": 0.9787696019,
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=705&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1046",
+    "vote_events_total": 4145,
+    "present": 2928,
+    "absent": 1204,
+    "name": "Roman Mikulec",
+    "given_names": [
+      "Roman"
+    ],
+    "family_names": [
+      "Mikulec"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:6",
+        "classification": "group",
+        "name": "Klub SLOVENSKO",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "present_share": 0.7063932449,
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1046&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:862",
+    "vote_events_total": 4145,
+    "present": 2653,
+    "absent": 1474,
+    "name": "Branislav Škripek",
+    "given_names": [
+      "Branislav"
+    ],
+    "family_names": [
+      "Škripek"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:3",
+        "classification": "group",
+        "name": "Klub KDH",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "present_share": 0.6400482509,
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=862&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1117",
+    "vote_events_total": 4145,
+    "present": 3389,
+    "absent": 703,
+    "name": "Jaroslav Spišiak",
+    "given_names": [
+      "Jaroslav"
+    ],
+    "family_names": [
+      "Spišiak"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:4",
+        "classification": "group",
+        "name": "Klub PS",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "present_share": 0.8176115802,
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1117&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1142",
+    "vote_events_total": 4145,
+    "present": 3381,
+    "absent": 719,
+    "name": "Ján Hargaš",
+    "given_names": [
+      "Ján"
+    ],
+    "family_names": [
+      "Hargaš"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:4",
+        "classification": "group",
+        "name": "Klub PS",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "present_share": 0.815681544,
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1142&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1088",
+    "vote_events_total": 4145,
+    "present": 3298,
+    "absent": 844,
+    "name": "Peter Pollák",
+    "given_names": [
+      "Peter"
+    ],
+    "family_names": [
+      "Pollák"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:6",
+        "classification": "group",
+        "name": "Klub SLOVENSKO",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "present_share": 0.7956574186,
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1088&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:929",
+    "vote_events_total": 4145,
+    "present": 4005,
+    "absent": 140,
+    "name": "Andrej Danko",
+    "given_names": [
+      "Andrej"
+    ],
+    "family_names": [
+      "Danko"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:10",
+        "classification": "group",
+        "name": "Klub SNS",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "present_share": 0.9662243667,
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=929&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:997",
+    "vote_events_total": 4145,
+    "present": 3856,
+    "absent": 289,
+    "name": "Ján Blcháč",
+    "given_names": [
+      "Ján"
+    ],
+    "family_names": [
+      "Blcháč"
     ],
     "organizations": [
       {
@@ -1944,9 +1554,919 @@
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.9624242424,
+    "present_share": 0.9302774427,
     "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1211&ImageWidth=140"
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=997&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1193",
+    "vote_events_total": 4136,
+    "present": 4068,
+    "absent": 68,
+    "name": "Igor Válek",
+    "given_names": [
+      "Igor"
+    ],
+    "family_names": [
+      "Válek"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:8",
+        "classification": "group",
+        "name": "Klub SMER - SD",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "present_share": 0.9835589942,
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1193&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:930",
+    "vote_events_total": 4145,
+    "present": 4065,
+    "absent": 80,
+    "name": "Dušan Tittel",
+    "given_names": [
+      "Dušan"
+    ],
+    "family_names": [
+      "Tittel"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:1",
+        "classification": "group",
+        "name": "Klub HLAS - SD",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "present_share": 0.9806996381,
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=930&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1087",
+    "vote_events_total": 4125,
+    "present": 4051,
+    "absent": 74,
+    "name": "Zdenko Svoboda",
+    "given_names": [
+      "Zdenko"
+    ],
+    "family_names": [
+      "Svoboda"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:1",
+        "classification": "group",
+        "name": "Klub HLAS - SD",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "present_share": 0.9820606061,
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1087&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1219",
+    "vote_events_total": 2762,
+    "present": 2704,
+    "absent": 58,
+    "name": "Ján Horváth",
+    "given_names": [
+      "Ján"
+    ],
+    "family_names": [
+      "Horváth"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:8",
+        "classification": "group",
+        "name": "Klub SMER - SD",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "present_share": 0.9790007241,
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1219&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1134",
+    "vote_events_total": 4145,
+    "present": 3447,
+    "absent": 653,
+    "name": "Darina Luščíková",
+    "given_names": [
+      "Darina"
+    ],
+    "family_names": [
+      "Luščíková"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:4",
+        "classification": "group",
+        "name": "Klub PS",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "present_share": 0.8316043426,
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1134&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1178",
+    "vote_events_total": 4145,
+    "present": 3108,
+    "absent": 1032,
+    "name": "Milan Majerský",
+    "given_names": [
+      "Milan"
+    ],
+    "family_names": [
+      "Majerský"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:3",
+        "classification": "group",
+        "name": "Klub KDH",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "present_share": 0.7498190591,
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1178&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1131",
+    "vote_events_total": 4145,
+    "present": 3725,
+    "absent": 375,
+    "name": "Ondrej Prostredník",
+    "given_names": [
+      "Ondrej"
+    ],
+    "family_names": [
+      "Prostredník"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:4",
+        "classification": "group",
+        "name": "Klub PS",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "present_share": 0.8986731001,
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1131&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1145",
+    "vote_events_total": 4145,
+    "present": 3305,
+    "absent": 793,
+    "name": "Viliam Tankó",
+    "given_names": [
+      "Viliam"
+    ],
+    "family_names": [
+      "Tankó"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:4",
+        "classification": "group",
+        "name": "Klub PS",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "present_share": 0.7973462002,
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1145&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1121",
+    "vote_events_total": 4145,
+    "present": 2717,
+    "absent": 1383,
+    "name": "Zora Jaurová",
+    "given_names": [
+      "Zora"
+    ],
+    "family_names": [
+      "Jaurová"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:4",
+        "classification": "group",
+        "name": "Klub PS",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "present_share": 0.6554885404,
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1121&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1019",
+    "vote_events_total": 4145,
+    "present": 4068,
+    "absent": 77,
+    "name": "Viliam Zahorčák",
+    "given_names": [
+      "Viliam"
+    ],
+    "family_names": [
+      "Zahorčák"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:8",
+        "classification": "group",
+        "name": "Klub SMER - SD",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "present_share": 0.9814234017,
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1019&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1182",
+    "vote_events_total": 4145,
+    "present": 2924,
+    "absent": 1202,
+    "name": "Peter Stachura",
+    "given_names": [
+      "Peter"
+    ],
+    "family_names": [
+      "Stachura"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:3",
+        "classification": "group",
+        "name": "Klub KDH",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "present_share": 0.7054282268,
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1182&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1161",
+    "vote_events_total": 4145,
+    "present": 4053,
+    "absent": 74,
+    "name": "Michal Stuška",
+    "given_names": [
+      "Michal"
+    ],
+    "family_names": [
+      "Stuška"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:8",
+        "classification": "group",
+        "name": "Klub SMER - SD",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "present_share": 0.9778045838,
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1161&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:971",
+    "vote_events_total": 4145,
+    "present": 3181,
+    "absent": 952,
+    "name": "Branislav Gröhling",
+    "given_names": [
+      "Branislav"
+    ],
+    "family_names": [
+      "Gröhling"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:11",
+        "classification": "group",
+        "name": "Klub SaS",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "present_share": 0.7674306393,
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=971&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1119",
+    "vote_events_total": 4145,
+    "present": 3316,
+    "absent": 784,
+    "name": "Irena Bihariová",
+    "given_names": [
+      "Irena"
+    ],
+    "family_names": [
+      "Bihariová"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:4",
+        "classification": "group",
+        "name": "Klub PS",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "present_share": 0.8,
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1119&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1009",
+    "vote_events_total": 4145,
+    "present": 4041,
+    "absent": 104,
+    "name": "Jozef Habánik",
+    "given_names": [
+      "Jozef"
+    ],
+    "family_names": [
+      "Habánik"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:8",
+        "classification": "group",
+        "name": "Klub SMER - SD",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "present_share": 0.9749095296,
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1009&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1127",
+    "vote_events_total": 4145,
+    "present": 3217,
+    "absent": 873,
+    "name": "Ivan Štefunko",
+    "given_names": [
+      "Ivan"
+    ],
+    "family_names": [
+      "Štefunko"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:4",
+        "classification": "group",
+        "name": "Klub PS",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "present_share": 0.7761158022,
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1127&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1023",
+    "vote_events_total": 661,
+    "present": 648,
+    "absent": 13,
+    "name": "Peter Kmec",
+    "given_names": [
+      "Peter"
+    ],
+    "family_names": [
+      "Kmec"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:1",
+        "classification": "group",
+        "name": "Klub HLAS - SD",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "present_share": 0.980332829,
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1023&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1133",
+    "vote_events_total": 4145,
+    "present": 3491,
+    "absent": 612,
+    "name": "Martin Dubéci",
+    "given_names": [
+      "Martin"
+    ],
+    "family_names": [
+      "Dubéci"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:4",
+        "classification": "group",
+        "name": "Klub PS",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "present_share": 0.8422195416,
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1133&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1139",
+    "vote_events_total": 4145,
+    "present": 3115,
+    "absent": 977,
+    "name": "Dana Kleinert",
+    "given_names": [
+      "Dana"
+    ],
+    "family_names": [
+      "Kleinert"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:4",
+        "classification": "group",
+        "name": "Klub PS",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "present_share": 0.7515078408,
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1139&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:738",
+    "vote_events_total": 4125,
+    "present": 4033,
+    "absent": 92,
+    "name": "Pavol Goga",
+    "given_names": [
+      "Pavol"
+    ],
+    "family_names": [
+      "Goga"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:8",
+        "classification": "group",
+        "name": "Klub SMER - SD",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "present_share": 0.9776969697,
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=738&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1212",
+    "vote_events_total": 4072,
+    "present": 3589,
+    "absent": 438,
+    "name": "Natália Nash",
+    "given_names": [
+      "Natália"
+    ],
+    "family_names": [
+      "Nash"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:4",
+        "classification": "group",
+        "name": "Klub PS",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "present_share": 0.8813850688,
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1212&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:762",
+    "vote_events_total": 4145,
+    "present": 4011,
+    "absent": 134,
+    "name": "Marián Saloň",
+    "given_names": [
+      "Marián"
+    ],
+    "family_names": [
+      "Saloň"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:8",
+        "classification": "group",
+        "name": "Klub SMER - SD",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "present_share": 0.9676718938,
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=762&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1187",
+    "vote_events_total": 4145,
+    "present": 4071,
+    "absent": 74,
+    "name": "Branislav Becík",
+    "given_names": [
+      "Branislav"
+    ],
+    "family_names": [
+      "Becík"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:1",
+        "classification": "group",
+        "name": "Klub HLAS - SD",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "present_share": 0.9821471653,
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1187&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:769",
+    "vote_events_total": 4145,
+    "present": 4071,
+    "absent": 71,
+    "name": "Peter Šuca",
+    "given_names": [
+      "Peter"
+    ],
+    "family_names": [
+      "Šuca"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:8",
+        "classification": "group",
+        "name": "Klub SMER - SD",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "present_share": 0.9821471653,
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=769&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1196",
+    "vote_events_total": 4136,
+    "present": 4060,
+    "absent": 76,
+    "name": "Alena Nováková",
+    "given_names": [
+      "Alena"
+    ],
+    "family_names": [
+      "Nováková"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:1",
+        "classification": "group",
+        "name": "Klub HLAS - SD",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "present_share": 0.9816247582,
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1196&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1147",
+    "vote_events_total": 4145,
+    "present": 3522,
+    "absent": 623,
+    "name": "Tomáš Szalay",
+    "given_names": [
+      "Tomáš"
+    ],
+    "family_names": [
+      "Szalay"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:11",
+        "classification": "group",
+        "name": "Klub SaS",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "present_share": 0.8496984318,
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1147&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1025",
+    "vote_events_total": 4145,
+    "present": 3389,
+    "absent": 756,
+    "name": "Mária Kolíková",
+    "given_names": [
+      "Mária"
+    ],
+    "family_names": [
+      "Kolíková"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:11",
+        "classification": "group",
+        "name": "Klub SaS",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "present_share": 0.8176115802,
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1025&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1058",
+    "vote_events_total": 4145,
+    "present": 4075,
+    "absent": 70,
+    "name": "Anton Stredák",
+    "given_names": [
+      "Anton"
+    ],
+    "family_names": [
+      "Stredák"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:8",
+        "classification": "group",
+        "name": "Klub SMER - SD",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "present_share": 0.9831121834,
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1058&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1124",
+    "vote_events_total": 4145,
+    "present": 3573,
+    "absent": 527,
+    "name": "Ingrid Kosová",
+    "given_names": [
+      "Ingrid"
+    ],
+    "family_names": [
+      "Kosová"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:4",
+        "classification": "group",
+        "name": "Klub PS",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "present_share": 0.8620024125,
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1124&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:879",
+    "vote_events_total": 4145,
+    "present": 4050,
+    "absent": 95,
+    "name": "Róbert Puci",
+    "given_names": [
+      "Róbert"
+    ],
+    "family_names": [
+      "Puci"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:1",
+        "classification": "group",
+        "name": "Klub HLAS - SD",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "present_share": 0.9770808203,
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=879&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1130",
+    "vote_events_total": 4145,
+    "present": 3690,
+    "absent": 410,
+    "name": "Zuzana Mesterová",
+    "given_names": [
+      "Zuzana"
+    ],
+    "family_names": [
+      "Mesterová"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:4",
+        "classification": "group",
+        "name": "Klub PS",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "present_share": 0.8902291918,
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1130&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:861",
+    "vote_events_total": 4145,
+    "present": 3339,
+    "absent": 806,
+    "name": "Richard Vašečka",
+    "given_names": [
+      "Richard"
+    ],
+    "family_names": [
+      "Vašečka"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:6",
+        "classification": "group",
+        "name": "Klub SLOVENSKO",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "present_share": 0.805548854,
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=861&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1126",
+    "vote_events_total": 4145,
+    "present": 3684,
+    "absent": 416,
+    "name": "Tina Gažovičová",
+    "given_names": [
+      "Tina"
+    ],
+    "family_names": [
+      "Gažovičová"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:4",
+        "classification": "group",
+        "name": "Klub PS",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "present_share": 0.8887816647,
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1126&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:233",
+    "vote_events_total": 4145,
+    "present": 3908,
+    "absent": 237,
+    "name": "Jaroslav Baška",
+    "given_names": [
+      "Jaroslav"
+    ],
+    "family_names": [
+      "Baška"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:8",
+        "classification": "group",
+        "name": "Klub SMER - SD",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "present_share": 0.9428226779,
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=233&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:691",
+    "vote_events_total": 4145,
+    "present": 3939,
+    "absent": 206,
+    "name": "Peter Žiga",
+    "given_names": [
+      "Peter"
+    ],
+    "family_names": [
+      "Žiga"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:1",
+        "classification": "group",
+        "name": "Klub HLAS - SD",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "present_share": 0.9503015682,
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=691&ImageWidth=140"
     }
   },
   {
@@ -1973,6 +2493,778 @@
     "present_share": 0.9814234017,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=891&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:671",
+    "vote_events_total": 4145,
+    "present": 4057,
+    "absent": 88,
+    "name": "Ján Kvorka",
+    "given_names": [
+      "Ján"
+    ],
+    "family_names": [
+      "Kvorka"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:8",
+        "classification": "group",
+        "name": "Klub SMER - SD",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "present_share": 0.9787696019,
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=671&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1183",
+    "vote_events_total": 4145,
+    "present": 3095,
+    "absent": 1050,
+    "name": "Ján Horecký",
+    "given_names": [
+      "Ján"
+    ],
+    "family_names": [
+      "Horecký"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:3",
+        "classification": "group",
+        "name": "Klub KDH",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "present_share": 0.7466827503,
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1183&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1152",
+    "vote_events_total": 4145,
+    "present": 3653,
+    "absent": 482,
+    "name": "Pavel Ľupták",
+    "given_names": [
+      "Pavel"
+    ],
+    "family_names": [
+      "Ľupták"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:10",
+        "classification": "group",
+        "name": "Klub SNS",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "present_share": 0.8813027744,
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1152&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1054",
+    "vote_events_total": 4145,
+    "present": 3113,
+    "absent": 1032,
+    "name": "Jozef Pročko",
+    "given_names": [
+      "Jozef"
+    ],
+    "family_names": [
+      "Pročko"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:6",
+        "classification": "group",
+        "name": "Klub SLOVENSKO",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "present_share": 0.7510253317,
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1054&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:910",
+    "vote_events_total": 4145,
+    "present": 3335,
+    "absent": 810,
+    "name": "Gábor Grendel",
+    "given_names": [
+      "Gábor"
+    ],
+    "family_names": [
+      "Grendel"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:6",
+        "classification": "group",
+        "name": "Klub SLOVENSKO",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "present_share": 0.8045838359,
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=910&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1225",
+    "vote_events_total": 185,
+    "present": 180,
+    "absent": 5,
+    "name": "Gabriel Paľa",
+    "given_names": [
+      "Gabriel"
+    ],
+    "family_names": [
+      "Paľa"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:3",
+        "classification": "group",
+        "name": "Klub KDH",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "present_share": 0.972972973,
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1225&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1224",
+    "vote_events_total": 452,
+    "present": 391,
+    "absent": 61,
+    "name": "Monika Kolejáková",
+    "given_names": [
+      "Monika"
+    ],
+    "family_names": [
+      "Kolejáková"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:3",
+        "classification": "group",
+        "name": "Klub KDH",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "present_share": 0.8650442478,
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1224&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:871",
+    "vote_events_total": 4145,
+    "present": 4012,
+    "absent": 133,
+    "name": "Vladimír Baláž",
+    "given_names": [
+      "Vladimír"
+    ],
+    "family_names": [
+      "Baláž"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:8",
+        "classification": "group",
+        "name": "Klub SMER - SD",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "present_share": 0.9679131484,
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=871&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1218",
+    "vote_events_total": 2762,
+    "present": 2673,
+    "absent": 89,
+    "name": "Jozef Kačmár",
+    "given_names": [
+      "Jozef"
+    ],
+    "family_names": [
+      "Kačmár"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:8",
+        "classification": "group",
+        "name": "Klub SMER - SD",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "present_share": 0.9677769732,
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1218&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1220",
+    "vote_events_total": 1913,
+    "present": 1837,
+    "absent": 76,
+    "name": "Miroslav Radačovský",
+    "given_names": [
+      "Miroslav"
+    ],
+    "family_names": [
+      "Radačovský"
+    ],
+    "since": "2023-10-25",
+    "present_share": 0.9602718244,
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1220&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1222",
+    "vote_events_total": 1193,
+    "present": 987,
+    "absent": 206,
+    "name": "Gréta Gregorová",
+    "given_names": [
+      "Gréta"
+    ],
+    "family_names": [
+      "Gregorová"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:4",
+        "classification": "group",
+        "name": "Klub PS",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "present_share": 0.8273260687,
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1222&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:892",
+    "vote_events_total": 4136,
+    "present": 4072,
+    "absent": 64,
+    "name": "Štefan Gašparovič",
+    "given_names": [
+      "Štefan"
+    ],
+    "family_names": [
+      "Gašparovič"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:1",
+        "classification": "group",
+        "name": "Klub HLAS - SD",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "present_share": 0.9845261122,
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=892&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:785",
+    "vote_events_total": 4145,
+    "present": 3489,
+    "absent": 656,
+    "name": "Ľubomír Galko",
+    "given_names": [
+      "Ľubomír"
+    ],
+    "family_names": [
+      "Galko"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:6",
+        "classification": "group",
+        "name": "Klub SLOVENSKO",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "present_share": 0.8417370326,
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=785&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:761",
+    "vote_events_total": 1921,
+    "present": 1894,
+    "absent": 27,
+    "name": "Richard Raši",
+    "given_names": [
+      "Richard"
+    ],
+    "family_names": [
+      "Raši"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:1",
+        "classification": "group",
+        "name": "Klub HLAS - SD",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "present_share": 0.9859448204,
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=761&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1128",
+    "vote_events_total": 4145,
+    "present": 3551,
+    "absent": 549,
+    "name": "et Jurík",
+    "given_names": [
+      "et"
+    ],
+    "family_names": [
+      "Jurík"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:4",
+        "classification": "group",
+        "name": "Klub PS",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "present_share": 0.856694813,
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1128&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1184",
+    "vote_events_total": 4145,
+    "present": 2845,
+    "absent": 1248,
+    "name": "František Majerský",
+    "given_names": [
+      "František"
+    ],
+    "family_names": [
+      "Majerský"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:3",
+        "classification": "group",
+        "name": "Klub KDH",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "present_share": 0.6863691194,
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1184&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1159",
+    "vote_events_total": 4145,
+    "present": 4079,
+    "absent": 66,
+    "name": "Zuzana Matejičková",
+    "given_names": [
+      "Zuzana"
+    ],
+    "family_names": [
+      "Matejičková"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:8",
+        "classification": "group",
+        "name": "Klub SMER - SD",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "present_share": 0.9840772014,
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1159&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:61",
+    "vote_events_total": 4145,
+    "present": 4013,
+    "absent": 132,
+    "name": "Dušan Jarjabek",
+    "given_names": [
+      "Dušan"
+    ],
+    "family_names": [
+      "Jarjabek"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:8",
+        "classification": "group",
+        "name": "Klub SMER - SD",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "present_share": 0.9681544029,
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=61&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1116",
+    "vote_events_total": 4145,
+    "present": 2988,
+    "absent": 1112,
+    "name": "Lucia Plaváková",
+    "given_names": [
+      "Lucia"
+    ],
+    "family_names": [
+      "Plaváková"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:4",
+        "classification": "group",
+        "name": "Klub PS",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "present_share": 0.7208685163,
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1116&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1169",
+    "vote_events_total": 4145,
+    "present": 4076,
+    "absent": 69,
+    "name": "Karol Janas",
+    "given_names": [
+      "Karol"
+    ],
+    "family_names": [
+      "Janas"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:1",
+        "classification": "group",
+        "name": "Klub HLAS - SD",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "present_share": 0.9833534379,
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1169&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1008",
+    "vote_events_total": 4145,
+    "present": 3567,
+    "absent": 578,
+    "name": "Ján Ferenčák",
+    "given_names": [
+      "Ján"
+    ],
+    "family_names": [
+      "Ferenčák"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:1",
+        "classification": "group",
+        "name": "Klub HLAS - SD",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "present_share": 0.8605548854,
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1008&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1125",
+    "vote_events_total": 4145,
+    "present": 2824,
+    "absent": 1321,
+    "name": "Štefan Kišš",
+    "given_names": [
+      "Štefan"
+    ],
+    "family_names": [
+      "Kišš"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:4",
+        "classification": "group",
+        "name": "Klub PS",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "present_share": 0.6813027744,
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1125&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1129",
+    "vote_events_total": 4145,
+    "present": 3188,
+    "absent": 912,
+    "name": "Jana Hanuliaková",
+    "given_names": [
+      "Jana"
+    ],
+    "family_names": [
+      "Hanuliaková"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:4",
+        "classification": "group",
+        "name": "Klub PS",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "present_share": 0.769119421,
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1129&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:656",
+    "vote_events_total": 4145,
+    "present": 4036,
+    "absent": 96,
+    "name": "Dušan Galis",
+    "given_names": [
+      "Dušan"
+    ],
+    "family_names": [
+      "Galis"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:8",
+        "classification": "group",
+        "name": "Klub SMER - SD",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "present_share": 0.9737032569,
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=656&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1194",
+    "vote_events_total": 4136,
+    "present": 4072,
+    "absent": 64,
+    "name": "Zuzana Plevíková",
+    "given_names": [
+      "Zuzana"
+    ],
+    "family_names": [
+      "Plevíková"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:8",
+        "classification": "group",
+        "name": "Klub SMER - SD",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "present_share": 0.9845261122,
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1194&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1217",
+    "vote_events_total": 3290,
+    "present": 3229,
+    "absent": 59,
+    "name": "Andrea Szabóová",
+    "given_names": [
+      "Andrea"
+    ],
+    "family_names": [
+      "Szabóová"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:1",
+        "classification": "group",
+        "name": "Klub HLAS - SD",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "present_share": 0.9814589666,
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1217&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1141",
+    "vote_events_total": 4145,
+    "present": 3482,
+    "absent": 610,
+    "name": "Veronika Veslárová",
+    "given_names": [
+      "Veronika"
+    ],
+    "family_names": [
+      "Veslárová"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:4",
+        "classification": "group",
+        "name": "Klub PS",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "present_share": 0.8400482509,
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1141&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:931",
+    "vote_events_total": 4125,
+    "present": 4035,
+    "absent": 90,
+    "name": "Karol Farkašovský",
+    "given_names": [
+      "Karol"
+    ],
+    "family_names": [
+      "Farkašovský"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:10",
+        "classification": "group",
+        "name": "Klub SNS",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "present_share": 0.9781818182,
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=931&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1144",
+    "vote_events_total": 4145,
+    "present": 3527,
+    "absent": 618,
+    "name": "Lukáš Bužo",
+    "given_names": [
+      "Lukáš"
+    ],
+    "family_names": [
+      "Bužo"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:6",
+        "classification": "group",
+        "name": "Klub SLOVENSKO",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "present_share": 0.8509047045,
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1144&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:808",
+    "vote_events_total": 4145,
+    "present": 2725,
+    "absent": 1415,
+    "name": "Igor Matovič",
+    "given_names": [
+      "Igor"
+    ],
+    "family_names": [
+      "Matovič"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:6",
+        "classification": "group",
+        "name": "Klub SLOVENSKO",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "present_share": 0.6574185766,
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=808&ImageWidth=140"
     }
   },
   {
@@ -2028,94 +3320,16 @@
     }
   },
   {
-    "person_id": "nrsr:person:1025",
-    "vote_events_total": 4145,
-    "present": 3389,
-    "absent": 756,
-    "name": "Mária Kolíková",
+    "person_id": "nrsr:person:1195",
+    "vote_events_total": 4136,
+    "present": 4052,
+    "absent": 84,
+    "name": "Jozef Cech",
     "given_names": [
-      "Mária"
+      "Jozef"
     ],
     "family_names": [
-      "Kolíková"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:11",
-        "classification": "group",
-        "name": "Klub SaS",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "present_share": 0.8176115802,
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1025&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:905",
-    "vote_events_total": 4145,
-    "present": 2686,
-    "absent": 1459,
-    "name": "Veronika Remišová",
-    "given_names": [
-      "Veronika"
-    ],
-    "family_names": [
-      "Remišová"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:6",
-        "classification": "group",
-        "name": "Klub SLOVENSKO",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "present_share": 0.6480096502,
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=905&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:1142",
-    "vote_events_total": 4145,
-    "present": 3381,
-    "absent": 719,
-    "name": "Ján Hargaš",
-    "given_names": [
-      "Ján"
-    ],
-    "family_names": [
-      "Hargaš"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:4",
-        "classification": "group",
-        "name": "Klub PS",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "present_share": 0.815681544,
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1142&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:1207",
-    "vote_events_total": 4125,
-    "present": 4025,
-    "absent": 100,
-    "name": "Michal Bartek",
-    "given_names": [
-      "Michal"
-    ],
-    "family_names": [
-      "Bartek"
+      "Cech"
     ],
     "organizations": [
       {
@@ -2126,989 +3340,9 @@
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.9757575758,
+    "present_share": 0.9796905222,
     "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1207&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:900",
-    "vote_events_total": 4145,
-    "present": 4079,
-    "absent": 66,
-    "name": "František Petro",
-    "given_names": [
-      "František"
-    ],
-    "family_names": [
-      "Petro"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:8",
-        "classification": "group",
-        "name": "Klub SMER - SD",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "present_share": 0.9840772014,
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=900&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:1217",
-    "vote_events_total": 3290,
-    "present": 3229,
-    "absent": 59,
-    "name": "Andrea Szabóová",
-    "given_names": [
-      "Andrea"
-    ],
-    "family_names": [
-      "Szabóová"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:1",
-        "classification": "group",
-        "name": "Klub HLAS - SD",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "present_share": 0.9814589666,
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1217&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:962",
-    "vote_events_total": 4145,
-    "present": 3070,
-    "absent": 1075,
-    "name": "Simona Petrík",
-    "given_names": [
-      "Simona"
-    ],
-    "family_names": [
-      "Petrík"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:4",
-        "classification": "group",
-        "name": "Klub PS",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "present_share": 0.7406513872,
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=962&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:1125",
-    "vote_events_total": 4145,
-    "present": 2824,
-    "absent": 1321,
-    "name": "Štefan Kišš",
-    "given_names": [
-      "Štefan"
-    ],
-    "family_names": [
-      "Kišš"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:4",
-        "classification": "group",
-        "name": "Klub PS",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "present_share": 0.6813027744,
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1125&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:1046",
-    "vote_events_total": 4145,
-    "present": 2928,
-    "absent": 1204,
-    "name": "Roman Mikulec",
-    "given_names": [
-      "Roman"
-    ],
-    "family_names": [
-      "Mikulec"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:6",
-        "classification": "group",
-        "name": "Klub SLOVENSKO",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "present_share": 0.7063932449,
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1046&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:1204",
-    "vote_events_total": 4125,
-    "present": 4045,
-    "absent": 80,
-    "name": "Jaroslav Mego",
-    "given_names": [
-      "Jaroslav"
-    ],
-    "family_names": [
-      "Mego"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:8",
-        "classification": "group",
-        "name": "Klub SMER - SD",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "present_share": 0.9806060606,
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1204&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:1088",
-    "vote_events_total": 4145,
-    "present": 3298,
-    "absent": 844,
-    "name": "Peter Pollák",
-    "given_names": [
-      "Peter"
-    ],
-    "family_names": [
-      "Pollák"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:6",
-        "classification": "group",
-        "name": "Klub SLOVENSKO",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "present_share": 0.7956574186,
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1088&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:1220",
-    "vote_events_total": 1913,
-    "present": 1837,
-    "absent": 76,
-    "name": "Miroslav Radačovský",
-    "given_names": [
-      "Miroslav"
-    ],
-    "family_names": [
-      "Radačovský"
-    ],
-    "since": "2023-10-25",
-    "present_share": 0.9602718244,
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1220&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:1032",
-    "vote_events_total": 4145,
-    "present": 3440,
-    "absent": 705,
-    "name": "Juraj Krúpa",
-    "given_names": [
-      "Juraj"
-    ],
-    "family_names": [
-      "Krúpa"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:11",
-        "classification": "group",
-        "name": "Klub SaS",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "present_share": 0.8299155609,
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1032&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:873",
-    "vote_events_total": 4145,
-    "present": 4049,
-    "absent": 96,
-    "name": "Marián Kéry",
-    "given_names": [
-      "Marián"
-    ],
-    "family_names": [
-      "Kéry"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:8",
-        "classification": "group",
-        "name": "Klub SMER - SD",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "present_share": 0.9768395657,
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=873&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:1223",
-    "vote_events_total": 653,
-    "present": 642,
-    "absent": 11,
-    "name": "Vladimír Macášek",
-    "given_names": [
-      "Vladimír"
-    ],
-    "family_names": [
-      "Macášek"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:8",
-        "classification": "group",
-        "name": "Klub SMER - SD",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "present_share": 0.9831546708,
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1223&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:1170",
-    "vote_events_total": 4145,
-    "present": 3971,
-    "absent": 174,
-    "name": "Peter Kalivoda",
-    "given_names": [
-      "Peter"
-    ],
-    "family_names": [
-      "Kalivoda"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:1",
-        "classification": "group",
-        "name": "Klub HLAS - SD",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "present_share": 0.9580217129,
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1170&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:1130",
-    "vote_events_total": 4145,
-    "present": 3690,
-    "absent": 410,
-    "name": "Zuzana Mesterová",
-    "given_names": [
-      "Zuzana"
-    ],
-    "family_names": [
-      "Mesterová"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:4",
-        "classification": "group",
-        "name": "Klub PS",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "present_share": 0.8902291918,
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1130&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:233",
-    "vote_events_total": 4145,
-    "present": 3908,
-    "absent": 237,
-    "name": "Jaroslav Baška",
-    "given_names": [
-      "Jaroslav"
-    ],
-    "family_names": [
-      "Baška"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:8",
-        "classification": "group",
-        "name": "Klub SMER - SD",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "present_share": 0.9428226779,
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=233&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:1183",
-    "vote_events_total": 4145,
-    "present": 3095,
-    "absent": 1050,
-    "name": "Ján Horecký",
-    "given_names": [
-      "Ján"
-    ],
-    "family_names": [
-      "Horecký"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:3",
-        "classification": "group",
-        "name": "Klub KDH",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "present_share": 0.7466827503,
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1183&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:1120",
-    "vote_events_total": 4145,
-    "present": 3604,
-    "absent": 496,
-    "name": "Michal Sabo",
-    "given_names": [
-      "Michal"
-    ],
-    "family_names": [
-      "Sabo"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:4",
-        "classification": "group",
-        "name": "Klub PS",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "present_share": 0.8694813028,
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1120&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:1132",
-    "vote_events_total": 4145,
-    "present": 3192,
-    "absent": 897,
-    "name": "Zuzana Števulová",
-    "given_names": [
-      "Zuzana"
-    ],
-    "family_names": [
-      "Števulová"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:4",
-        "classification": "group",
-        "name": "Klub PS",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "present_share": 0.7700844391,
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1132&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:779",
-    "vote_events_total": 4145,
-    "present": 3706,
-    "absent": 439,
-    "name": "Ondrej Dostál",
-    "given_names": [
-      "Ondrej"
-    ],
-    "family_names": [
-      "Dostál"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:11",
-        "classification": "group",
-        "name": "Klub SaS",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "present_share": 0.8940892642,
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=779&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:1213",
-    "vote_events_total": 3861,
-    "present": 3151,
-    "absent": 665,
-    "name": "Richard Dubovický",
-    "given_names": [
-      "Richard"
-    ],
-    "family_names": [
-      "Dubovický"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:4",
-        "classification": "group",
-        "name": "Klub PS",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "present_share": 0.8161098161,
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1213&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:1178",
-    "vote_events_total": 4145,
-    "present": 3108,
-    "absent": 1032,
-    "name": "Milan Majerský",
-    "given_names": [
-      "Milan"
-    ],
-    "family_names": [
-      "Majerský"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:3",
-        "classification": "group",
-        "name": "Klub KDH",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "present_share": 0.7498190591,
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1178&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:1156",
-    "vote_events_total": 4145,
-    "present": 4068,
-    "absent": 77,
-    "name": "Ján Mažgút",
-    "given_names": [
-      "Ján"
-    ],
-    "family_names": [
-      "Mažgút"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:8",
-        "classification": "group",
-        "name": "Klub SMER - SD",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "present_share": 0.9814234017,
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1156&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:1188",
-    "vote_events_total": 4145,
-    "present": 3395,
-    "absent": 750,
-    "name": "Július Jakab",
-    "given_names": [
-      "Július"
-    ],
-    "family_names": [
-      "Jakab"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:6",
-        "classification": "group",
-        "name": "Klub SLOVENSKO",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "present_share": 0.8190591074,
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1188&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:1224",
-    "vote_events_total": 452,
-    "present": 391,
-    "absent": 61,
-    "name": "Monika Kolejáková",
-    "given_names": [
-      "Monika"
-    ],
-    "family_names": [
-      "Kolejáková"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:3",
-        "classification": "group",
-        "name": "Klub KDH",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "present_share": 0.8650442478,
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1224&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:762",
-    "vote_events_total": 4145,
-    "present": 4011,
-    "absent": 134,
-    "name": "Marián Saloň",
-    "given_names": [
-      "Marián"
-    ],
-    "family_names": [
-      "Saloň"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:8",
-        "classification": "group",
-        "name": "Klub SMER - SD",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "present_share": 0.9676718938,
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=762&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:1163",
-    "vote_events_total": 4145,
-    "present": 4071,
-    "absent": 74,
-    "name": "Justín Sedlák",
-    "given_names": [
-      "Justín"
-    ],
-    "family_names": [
-      "Sedlák"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:8",
-        "classification": "group",
-        "name": "Klub SMER - SD",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "present_share": 0.9821471653,
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1163&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:929",
-    "vote_events_total": 4145,
-    "present": 4005,
-    "absent": 140,
-    "name": "Andrej Danko",
-    "given_names": [
-      "Andrej"
-    ],
-    "family_names": [
-      "Danko"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:10",
-        "classification": "group",
-        "name": "Klub SNS",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "present_share": 0.9662243667,
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=929&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:1222",
-    "vote_events_total": 1193,
-    "present": 987,
-    "absent": 206,
-    "name": "Gréta Gregorová",
-    "given_names": [
-      "Gréta"
-    ],
-    "family_names": [
-      "Gregorová"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:4",
-        "classification": "group",
-        "name": "Klub PS",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "present_share": 0.8273260687,
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1222&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:1184",
-    "vote_events_total": 4145,
-    "present": 2845,
-    "absent": 1248,
-    "name": "František Majerský",
-    "given_names": [
-      "František"
-    ],
-    "family_names": [
-      "Majerský"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:3",
-        "classification": "group",
-        "name": "Klub KDH",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "present_share": 0.6863691194,
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1184&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:1127",
-    "vote_events_total": 4145,
-    "present": 3217,
-    "absent": 873,
-    "name": "Ivan Štefunko",
-    "given_names": [
-      "Ivan"
-    ],
-    "family_names": [
-      "Štefunko"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:4",
-        "classification": "group",
-        "name": "Klub PS",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "present_share": 0.7761158022,
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1127&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:1129",
-    "vote_events_total": 4145,
-    "present": 3188,
-    "absent": 912,
-    "name": "Jana Hanuliaková",
-    "given_names": [
-      "Jana"
-    ],
-    "family_names": [
-      "Hanuliaková"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:4",
-        "classification": "group",
-        "name": "Klub PS",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "present_share": 0.769119421,
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1129&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:1128",
-    "vote_events_total": 4145,
-    "present": 3551,
-    "absent": 549,
-    "name": "et Jurík",
-    "given_names": [
-      "et"
-    ],
-    "family_names": [
-      "Jurík"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:4",
-        "classification": "group",
-        "name": "Klub PS",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "present_share": 0.856694813,
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1128&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:1019",
-    "vote_events_total": 4145,
-    "present": 4068,
-    "absent": 77,
-    "name": "Viliam Zahorčák",
-    "given_names": [
-      "Viliam"
-    ],
-    "family_names": [
-      "Zahorčák"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:8",
-        "classification": "group",
-        "name": "Klub SMER - SD",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "present_share": 0.9814234017,
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1019&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:1143",
-    "vote_events_total": 4145,
-    "present": 3568,
-    "absent": 532,
-    "name": "Veronika Šrobová",
-    "given_names": [
-      "Veronika"
-    ],
-    "family_names": [
-      "Šrobová"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:4",
-        "classification": "group",
-        "name": "Klub PS",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "present_share": 0.8607961399,
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1143&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:910",
-    "vote_events_total": 4145,
-    "present": 3335,
-    "absent": 810,
-    "name": "Gábor Grendel",
-    "given_names": [
-      "Gábor"
-    ],
-    "family_names": [
-      "Grendel"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:6",
-        "classification": "group",
-        "name": "Klub SLOVENSKO",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "present_share": 0.8045838359,
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=910&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:961",
-    "vote_events_total": 4145,
-    "present": 3534,
-    "absent": 606,
-    "name": "Igor Janckulík",
-    "given_names": [
-      "Igor"
-    ],
-    "family_names": [
-      "Janckulík"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:3",
-        "classification": "group",
-        "name": "Klub KDH",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "present_share": 0.8525934861,
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=961&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:1023",
-    "vote_events_total": 661,
-    "present": 648,
-    "absent": 13,
-    "name": "Peter Kmec",
-    "given_names": [
-      "Peter"
-    ],
-    "family_names": [
-      "Kmec"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:1",
-        "classification": "group",
-        "name": "Klub HLAS - SD",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "present_share": 0.980332829,
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1023&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:1149",
-    "vote_events_total": 4145,
-    "present": 4059,
-    "absent": 86,
-    "name": "Roman Michelko",
-    "given_names": [
-      "Roman"
-    ],
-    "family_names": [
-      "Michelko"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:10",
-        "classification": "group",
-        "name": "Klub SNS",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "present_share": 0.979252111,
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1149&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:785",
-    "vote_events_total": 4145,
-    "present": 3489,
-    "absent": 656,
-    "name": "Ľubomír Galko",
-    "given_names": [
-      "Ľubomír"
-    ],
-    "family_names": [
-      "Galko"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:6",
-        "classification": "group",
-        "name": "Klub SLOVENSKO",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "present_share": 0.8417370326,
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=785&ImageWidth=140"
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1195&ImageWidth=140"
     }
   },
   {
@@ -3138,172 +3372,16 @@
     }
   },
   {
-    "person_id": "nrsr:person:1199",
+    "person_id": "nrsr:person:1203",
     "vote_events_total": 4136,
-    "present": 4048,
-    "absent": 85,
-    "name": "Adam Lučanský",
-    "given_names": [
-      "Adam"
-    ],
-    "family_names": [
-      "Lučanský"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:10",
-        "classification": "group",
-        "name": "Klub SNS",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "present_share": 0.9787234043,
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1199&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:1208",
-    "vote_events_total": 4125,
-    "present": 3985,
-    "absent": 140,
-    "name": "Dis. Puškárová",
-    "given_names": [
-      "Dis."
-    ],
-    "family_names": [
-      "Puškárová"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:1",
-        "classification": "group",
-        "name": "Klub HLAS - SD",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "present_share": 0.9660606061,
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1208&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:1202",
-    "vote_events_total": 1924,
-    "present": 1885,
-    "absent": 22,
-    "name": "Ján Hrubý",
-    "given_names": [
-      "Ján"
-    ],
-    "family_names": [
-      "Hrubý"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:1",
-        "classification": "group",
-        "name": "Klub HLAS - SD",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "present_share": 0.9797297297,
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1202&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:1219",
-    "vote_events_total": 2762,
-    "present": 2704,
-    "absent": 58,
-    "name": "Ján Horváth",
-    "given_names": [
-      "Ján"
-    ],
-    "family_names": [
-      "Horváth"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:8",
-        "classification": "group",
-        "name": "Klub SMER - SD",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "present_share": 0.9790007241,
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1219&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:1205",
-    "vote_events_total": 4125,
     "present": 4033,
-    "absent": 89,
-    "name": "Michal Kapuš",
+    "absent": 103,
+    "name": "et Čellár",
     "given_names": [
-      "Michal"
+      "et"
     ],
     "family_names": [
-      "Kapuš"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:8",
-        "classification": "group",
-        "name": "Klub SMER - SD",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "present_share": 0.9776969697,
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1205&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:1210",
-    "vote_events_total": 4125,
-    "present": 4051,
-    "absent": 74,
-    "name": "Dagmar Kramplová",
-    "given_names": [
-      "Dagmar"
-    ],
-    "family_names": [
-      "Kramplová"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:10",
-        "classification": "group",
-        "name": "Klub SNS",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "present_share": 0.9820606061,
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1210&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:930",
-    "vote_events_total": 4145,
-    "present": 4065,
-    "absent": 80,
-    "name": "Dušan Tittel",
-    "given_names": [
-      "Dušan"
-    ],
-    "family_names": [
-      "Tittel"
+      "Čellár"
     ],
     "organizations": [
       {
@@ -3314,22 +3392,22 @@
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.9806996381,
+    "present_share": 0.9750967118,
     "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=930&ImageWidth=140"
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1203&ImageWidth=140"
     }
   },
   {
-    "person_id": "nrsr:person:1123",
+    "person_id": "nrsr:person:962",
     "vote_events_total": 4145,
-    "present": 3460,
-    "absent": 640,
-    "name": "Oskar Dvořák",
+    "present": 3070,
+    "absent": 1075,
+    "name": "Simona Petrík",
     "given_names": [
-      "Oskar"
+      "Simona"
     ],
     "family_names": [
-      "Dvořák"
+      "Petrík"
     ],
     "organizations": [
       {
@@ -3340,22 +3418,22 @@
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.8347406514,
+    "present_share": 0.7406513872,
     "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1123&ImageWidth=140"
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=962&ImageWidth=140"
     }
   },
   {
-    "person_id": "nrsr:person:1159",
+    "person_id": "nrsr:person:900",
     "vote_events_total": 4145,
     "present": 4079,
     "absent": 66,
-    "name": "Zuzana Matejičková",
+    "name": "František Petro",
     "given_names": [
-      "Zuzana"
+      "František"
     ],
     "family_names": [
-      "Matejičková"
+      "Petro"
     ],
     "organizations": [
       {
@@ -3368,72 +3446,46 @@
     "since": "2023-10-25",
     "present_share": 0.9840772014,
     "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1159&ImageWidth=140"
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=900&ImageWidth=140"
     }
   },
   {
-    "person_id": "nrsr:person:1172",
+    "person_id": "nrsr:person:1132",
     "vote_events_total": 4145,
-    "present": 4058,
-    "absent": 87,
-    "name": "Richard Eliáš",
+    "present": 3192,
+    "absent": 897,
+    "name": "Zuzana Števulová",
     "given_names": [
-      "Richard"
+      "Zuzana"
     ],
     "family_names": [
-      "Eliáš"
+      "Števulová"
     ],
     "organizations": [
       {
-        "id": "nrsr:org:club:1",
+        "id": "nrsr:org:club:4",
         "classification": "group",
-        "name": "Klub HLAS - SD",
+        "name": "Klub PS",
         "since": "2023-10-25"
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.9790108565,
+    "present_share": 0.7700844391,
     "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1172&ImageWidth=140"
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1132&ImageWidth=140"
     }
   },
   {
-    "person_id": "nrsr:person:966",
-    "vote_events_total": 2739,
-    "present": 2379,
-    "absent": 356,
-    "name": "Karol Galek",
+    "person_id": "nrsr:person:873",
+    "vote_events_total": 4145,
+    "present": 4049,
+    "absent": 96,
+    "name": "Marián Kéry",
     "given_names": [
-      "Karol"
+      "Marián"
     ],
     "family_names": [
-      "Galek"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:11",
-        "classification": "group",
-        "name": "Klub SaS",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "present_share": 0.8685651698,
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=966&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:1218",
-    "vote_events_total": 2762,
-    "present": 2673,
-    "absent": 89,
-    "name": "Jozef Kačmár",
-    "given_names": [
-      "Jozef"
-    ],
-    "family_names": [
-      "Kačmár"
+      "Kéry"
     ],
     "organizations": [
       {
@@ -3444,9 +3496,35 @@
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.9677769732,
+    "present_share": 0.9768395657,
     "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1218&ImageWidth=140"
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=873&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1120",
+    "vote_events_total": 4145,
+    "present": 3604,
+    "absent": 496,
+    "name": "Michal Sabo",
+    "given_names": [
+      "Michal"
+    ],
+    "family_names": [
+      "Sabo"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:4",
+        "classification": "group",
+        "name": "Klub PS",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "present_share": 0.8694813028,
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1120&ImageWidth=140"
     }
   },
   {
@@ -3476,159 +3554,29 @@
     }
   },
   {
-    "person_id": "nrsr:person:1141",
-    "vote_events_total": 4145,
-    "present": 3482,
-    "absent": 610,
-    "name": "Veronika Veslárová",
+    "person_id": "nrsr:person:1210",
+    "vote_events_total": 4125,
+    "present": 4051,
+    "absent": 74,
+    "name": "Dagmar Kramplová",
     "given_names": [
-      "Veronika"
+      "Dagmar"
     ],
     "family_names": [
-      "Veslárová"
+      "Kramplová"
     ],
     "organizations": [
       {
-        "id": "nrsr:org:club:4",
+        "id": "nrsr:org:club:10",
         "classification": "group",
-        "name": "Klub PS",
+        "name": "Klub SNS",
         "since": "2023-10-25"
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.8400482509,
+    "present_share": 0.9820606061,
     "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1141&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:1008",
-    "vote_events_total": 4145,
-    "present": 3567,
-    "absent": 578,
-    "name": "Ján Ferenčák",
-    "given_names": [
-      "Ján"
-    ],
-    "family_names": [
-      "Ferenčák"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:1",
-        "classification": "group",
-        "name": "Klub HLAS - SD",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "present_share": 0.8605548854,
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1008&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:1176",
-    "vote_events_total": 4145,
-    "present": 4009,
-    "absent": 136,
-    "name": "Erik Vlček",
-    "given_names": [
-      "Erik"
-    ],
-    "family_names": [
-      "Vlček"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:1",
-        "classification": "group",
-        "name": "Klub HLAS - SD",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "present_share": 0.9671893848,
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1176&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:1182",
-    "vote_events_total": 4145,
-    "present": 2924,
-    "absent": 1202,
-    "name": "Peter Stachura",
-    "given_names": [
-      "Peter"
-    ],
-    "family_names": [
-      "Stachura"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:3",
-        "classification": "group",
-        "name": "Klub KDH",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "present_share": 0.7054282268,
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1182&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:92",
-    "vote_events_total": 4145,
-    "present": 2620,
-    "absent": 1525,
-    "name": "František Mikloško",
-    "given_names": [
-      "František"
-    ],
-    "family_names": [
-      "Mikloško"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:3",
-        "classification": "group",
-        "name": "Klub KDH",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "present_share": 0.6320868516,
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=92&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:1119",
-    "vote_events_total": 4145,
-    "present": 3316,
-    "absent": 784,
-    "name": "Irena Bihariová",
-    "given_names": [
-      "Irena"
-    ],
-    "family_names": [
-      "Bihariová"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:4",
-        "classification": "group",
-        "name": "Klub PS",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "present_share": 0.8,
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1119&ImageWidth=140"
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1210&ImageWidth=140"
     }
   },
   {
@@ -3658,146 +3606,16 @@
     }
   },
   {
-    "person_id": "nrsr:person:322",
+    "person_id": "nrsr:person:668",
     "vote_events_total": 4145,
-    "present": 3887,
-    "absent": 224,
-    "name": "Dušan Muňko",
+    "present": 4062,
+    "absent": 80,
+    "name": "Stanislav Kubánek",
     "given_names": [
-      "Dušan"
+      "Stanislav"
     ],
     "family_names": [
-      "Muňko"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:10",
-        "classification": "group",
-        "name": "Klub SNS",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "present_share": 0.9377563329,
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=322&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:1150",
-    "vote_events_total": 4145,
-    "present": 3728,
-    "absent": 417,
-    "name": "Ivan Ševčík",
-    "given_names": [
-      "Ivan"
-    ],
-    "family_names": [
-      "Ševčík"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:10",
-        "classification": "group",
-        "name": "Klub SNS",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "present_share": 0.8993968637,
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1150&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:1187",
-    "vote_events_total": 4145,
-    "present": 4071,
-    "absent": 74,
-    "name": "Branislav Becík",
-    "given_names": [
-      "Branislav"
-    ],
-    "family_names": [
-      "Becík"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:1",
-        "classification": "group",
-        "name": "Klub HLAS - SD",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "present_share": 0.9821471653,
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1187&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:1212",
-    "vote_events_total": 4072,
-    "present": 3589,
-    "absent": 438,
-    "name": "Natália Nash",
-    "given_names": [
-      "Natália"
-    ],
-    "family_names": [
-      "Nash"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:4",
-        "classification": "group",
-        "name": "Klub PS",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "present_share": 0.8813850688,
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1212&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:1087",
-    "vote_events_total": 4125,
-    "present": 4051,
-    "absent": 74,
-    "name": "Zdenko Svoboda",
-    "given_names": [
-      "Zdenko"
-    ],
-    "family_names": [
-      "Svoboda"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:1",
-        "classification": "group",
-        "name": "Klub HLAS - SD",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "present_share": 0.9820606061,
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1087&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:36",
-    "vote_events_total": 4145,
-    "present": 3961,
-    "absent": 184,
-    "name": "RSDr. Faič",
-    "given_names": [
-      "RSDr."
-    ],
-    "family_names": [
-      "Faič"
+      "Kubánek"
     ],
     "organizations": [
       {
@@ -3808,48 +3626,22 @@
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.9556091677,
+    "present_share": 0.9799758745,
     "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=36&ImageWidth=140"
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=668&ImageWidth=140"
     }
   },
   {
-    "person_id": "nrsr:person:1147",
+    "person_id": "nrsr:person:899",
     "vote_events_total": 4145,
-    "present": 3522,
-    "absent": 623,
-    "name": "Tomáš Szalay",
-    "given_names": [
-      "Tomáš"
-    ],
-    "family_names": [
-      "Szalay"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:11",
-        "classification": "group",
-        "name": "Klub SaS",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "present_share": 0.8496984318,
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1147&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:691",
-    "vote_events_total": 4145,
-    "present": 3939,
-    "absent": 206,
-    "name": "Peter Žiga",
+    "present": 4042,
+    "absent": 101,
+    "name": "Peter Náhlik",
     "given_names": [
       "Peter"
     ],
     "family_names": [
-      "Žiga"
+      "Náhlik"
     ],
     "organizations": [
       {
@@ -3860,9 +3652,165 @@
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.9503015682,
+    "present_share": 0.9751507841,
     "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=691&ImageWidth=140"
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=899&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1189",
+    "vote_events_total": 4145,
+    "present": 3638,
+    "absent": 462,
+    "name": "Marek Lackovič",
+    "given_names": [
+      "Marek"
+    ],
+    "family_names": [
+      "Lackovič"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:4",
+        "classification": "group",
+        "name": "Klub PS",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "present_share": 0.8776839566,
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1189&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1163",
+    "vote_events_total": 4145,
+    "present": 4071,
+    "absent": 74,
+    "name": "Justín Sedlák",
+    "given_names": [
+      "Justín"
+    ],
+    "family_names": [
+      "Sedlák"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:8",
+        "classification": "group",
+        "name": "Klub SMER - SD",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "present_share": 0.9821471653,
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1163&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1211",
+    "vote_events_total": 4125,
+    "present": 3970,
+    "absent": 155,
+    "name": "Zdenka Mačicová",
+    "given_names": [
+      "Zdenka"
+    ],
+    "family_names": [
+      "Mačicová"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:1",
+        "classification": "group",
+        "name": "Klub HLAS - SD",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "present_share": 0.9624242424,
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1211&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1115",
+    "vote_events_total": 4145,
+    "present": 3216,
+    "absent": 868,
+    "name": "Michal Truban",
+    "given_names": [
+      "Michal"
+    ],
+    "family_names": [
+      "Truban"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:4",
+        "classification": "group",
+        "name": "Klub PS",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "present_share": 0.7758745476,
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1115&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1172",
+    "vote_events_total": 4145,
+    "present": 4058,
+    "absent": 87,
+    "name": "Richard Eliáš",
+    "given_names": [
+      "Richard"
+    ],
+    "family_names": [
+      "Eliáš"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:1",
+        "classification": "group",
+        "name": "Klub HLAS - SD",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "present_share": 0.9790108565,
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1172&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:905",
+    "vote_events_total": 4145,
+    "present": 2686,
+    "absent": 1459,
+    "name": "Veronika Remišová",
+    "given_names": [
+      "Veronika"
+    ],
+    "family_names": [
+      "Remišová"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:6",
+        "classification": "group",
+        "name": "Klub SLOVENSKO",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "present_share": 0.6480096502,
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=905&ImageWidth=140"
     }
   },
   {
@@ -3889,6 +3837,58 @@
     "present_share": 0.7109770808,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1075&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1118",
+    "vote_events_total": 4145,
+    "present": 3538,
+    "absent": 562,
+    "name": "Tamara Stohlová",
+    "given_names": [
+      "Tamara"
+    ],
+    "family_names": [
+      "Stohlová"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:4",
+        "classification": "group",
+        "name": "Klub PS",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "present_share": 0.8535585042,
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1118&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1214",
+    "vote_events_total": 3861,
+    "present": 3763,
+    "absent": 98,
+    "name": "Richard Glück",
+    "given_names": [
+      "Richard"
+    ],
+    "family_names": [
+      "Glück"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:8",
+        "classification": "group",
+        "name": "Klub SMER - SD",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "present_share": 0.9746179746,
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1214&ImageWidth=140"
     }
   }
 ]
