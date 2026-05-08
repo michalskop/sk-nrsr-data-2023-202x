@@ -1,690 +1,15 @@
 [
   {
-    "person_id": "nrsr:person:1190",
-    "govity_total": 1508,
-    "govity_possible": 2666,
-    "govity": 0.565641,
-    "name": "Rastislav Krátky",
-    "given_names": [
-      "Rastislav"
-    ],
-    "family_names": [
-      "Krátky"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:3",
-        "classification": "group",
-        "name": "Klub KDH",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1190&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:1154",
-    "govity_total": 4037,
-    "govity_possible": 4039,
-    "govity": 0.999505,
-    "name": "gen. Gašpar",
-    "given_names": [
-      "gen."
-    ],
-    "family_names": [
-      "Gašpar"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:8",
-        "classification": "group",
-        "name": "Klub SMER - SD",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1154&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:1081",
-    "govity_total": 4020,
-    "govity_possible": 4026,
-    "govity": 0.99851,
-    "name": "Ľubica Laššáková",
-    "given_names": [
-      "Ľubica"
-    ],
-    "family_names": [
-      "Laššáková"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:1",
-        "classification": "group",
-        "name": "Klub HLAS - SD",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1081&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:962",
-    "govity_total": 1735,
-    "govity_possible": 3042,
-    "govity": 0.570348,
-    "name": "Simona Petrík",
-    "given_names": [
-      "Simona"
-    ],
-    "family_names": [
-      "Petrík"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:4",
-        "classification": "group",
-        "name": "Klub PS",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=962&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:1075",
-    "govity_total": 1749,
-    "govity_possible": 2901,
-    "govity": 0.602896,
-    "name": "Tomáš Valášek",
-    "given_names": [
-      "Tomáš"
-    ],
-    "family_names": [
-      "Valášek"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:4",
-        "classification": "group",
-        "name": "Klub PS",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1075&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:1210",
-    "govity_total": 4038,
-    "govity_possible": 4051,
-    "govity": 0.996791,
-    "name": "Dagmar Kramplová",
-    "given_names": [
-      "Dagmar"
-    ],
-    "family_names": [
-      "Kramplová"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:10",
-        "classification": "group",
-        "name": "Klub SNS",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1210&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:1204",
-    "govity_total": 4043,
-    "govity_possible": 4045,
-    "govity": 0.999506,
-    "name": "Jaroslav Mego",
-    "given_names": [
-      "Jaroslav"
-    ],
-    "family_names": [
-      "Mego"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:8",
-        "classification": "group",
-        "name": "Klub SMER - SD",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1204&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:905",
-    "govity_total": 1176,
-    "govity_possible": 2658,
-    "govity": 0.442438,
-    "name": "Veronika Remišová",
-    "given_names": [
-      "Veronika"
-    ],
-    "family_names": [
-      "Remišová"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:6",
-        "classification": "group",
-        "name": "Klub SLOVENSKO",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=905&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:1179",
-    "govity_total": 1967,
-    "govity_possible": 3337,
-    "govity": 0.589452,
-    "name": "Marián Čaučík",
-    "given_names": [
-      "Marián"
-    ],
-    "family_names": [
-      "Čaučík"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:3",
-        "classification": "group",
-        "name": "Klub KDH",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1179&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:1186",
-    "govity_total": 1773,
-    "govity_possible": 2927,
-    "govity": 0.60574,
-    "name": "Andrea Turčanová",
-    "given_names": [
-      "Andrea"
-    ],
-    "family_names": [
-      "Turčanová"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:3",
-        "classification": "group",
-        "name": "Klub KDH",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1186&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:233",
-    "govity_total": 3903,
-    "govity_possible": 3908,
-    "govity": 0.998721,
-    "name": "Jaroslav Baška",
-    "given_names": [
-      "Jaroslav"
-    ],
-    "family_names": [
-      "Baška"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:8",
-        "classification": "group",
-        "name": "Klub SMER - SD",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=233&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:1188",
-    "govity_total": 1518,
-    "govity_possible": 3353,
-    "govity": 0.452729,
-    "name": "Július Jakab",
-    "given_names": [
-      "Július"
-    ],
-    "family_names": [
-      "Jakab"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:6",
-        "classification": "group",
-        "name": "Klub SLOVENSKO",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1188&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:1224",
-    "govity_total": 212,
-    "govity_possible": 391,
-    "govity": 0.542199,
-    "name": "Monika Kolejáková",
-    "given_names": [
-      "Monika"
-    ],
-    "family_names": [
-      "Kolejáková"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:3",
-        "classification": "group",
-        "name": "Klub KDH",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1224&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:1192",
-    "govity_total": 4011,
-    "govity_possible": 4015,
-    "govity": 0.999004,
-    "name": "Ivan Hazucha",
-    "given_names": [
-      "Ivan"
-    ],
-    "family_names": [
-      "Hazucha"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:8",
-        "classification": "group",
-        "name": "Klub SMER - SD",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1192&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:1134",
-    "govity_total": 1949,
-    "govity_possible": 3398,
-    "govity": 0.573573,
-    "name": "Darina Luščíková",
-    "given_names": [
-      "Darina"
-    ],
-    "family_names": [
-      "Luščíková"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:4",
-        "classification": "group",
-        "name": "Klub PS",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1134&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:879",
-    "govity_total": 4043,
-    "govity_possible": 4050,
-    "govity": 0.998272,
-    "name": "Róbert Puci",
-    "given_names": [
-      "Róbert"
-    ],
-    "family_names": [
-      "Puci"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:1",
-        "classification": "group",
-        "name": "Klub HLAS - SD",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=879&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:1217",
-    "govity_total": 3224,
-    "govity_possible": 3229,
-    "govity": 0.998452,
-    "name": "Andrea Szabóová",
-    "given_names": [
-      "Andrea"
-    ],
-    "family_names": [
-      "Szabóová"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:1",
-        "classification": "group",
-        "name": "Klub HLAS - SD",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1217&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:997",
-    "govity_total": 3848,
-    "govity_possible": 3856,
-    "govity": 0.997925,
-    "name": "Ján Blcháč",
-    "given_names": [
-      "Ján"
-    ],
-    "family_names": [
-      "Blcháč"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:1",
-        "classification": "group",
-        "name": "Klub HLAS - SD",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=997&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:874",
-    "govity_total": 4073,
-    "govity_possible": 4075,
-    "govity": 0.999509,
-    "name": "Augustín Hambálek",
-    "given_names": [
-      "Augustín"
-    ],
-    "family_names": [
-      "Hambálek"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:8",
-        "classification": "group",
-        "name": "Klub SMER - SD",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=874&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:1194",
-    "govity_total": 4071,
-    "govity_possible": 4072,
-    "govity": 0.999754,
-    "name": "Zuzana Plevíková",
-    "given_names": [
-      "Zuzana"
-    ],
-    "family_names": [
-      "Plevíková"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:8",
-        "classification": "group",
-        "name": "Klub SMER - SD",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1194&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:656",
-    "govity_total": 4027,
-    "govity_possible": 4036,
-    "govity": 0.99777,
-    "name": "Dušan Galis",
-    "given_names": [
-      "Dušan"
-    ],
-    "family_names": [
-      "Galis"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:8",
-        "classification": "group",
-        "name": "Klub SMER - SD",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=656&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:1183",
-    "govity_total": 1758,
-    "govity_possible": 3053,
-    "govity": 0.575827,
-    "name": "Ján Horecký",
-    "given_names": [
-      "Ján"
-    ],
-    "family_names": [
-      "Horecký"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:3",
-        "classification": "group",
-        "name": "Klub KDH",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1183&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:1199",
-    "govity_total": 4031,
-    "govity_possible": 4048,
-    "govity": 0.9958,
-    "name": "Adam Lučanský",
-    "given_names": [
-      "Adam"
-    ],
-    "family_names": [
-      "Lučanský"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:10",
-        "classification": "group",
-        "name": "Klub SNS",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1199&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:1046",
-    "govity_total": 1356,
-    "govity_possible": 2892,
-    "govity": 0.46888,
-    "name": "Roman Mikulec",
-    "given_names": [
-      "Roman"
-    ],
-    "family_names": [
-      "Mikulec"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:6",
-        "classification": "group",
-        "name": "Klub SLOVENSKO",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1046&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:1193",
-    "govity_total": 4067,
-    "govity_possible": 4068,
-    "govity": 0.999754,
-    "name": "Igor Válek",
+    "person_id": "nrsr:person:1221",
+    "govity_total": 480,
+    "govity_possible": 1137,
+    "govity": 0.422164,
+    "name": "Igor Dušenka",
     "given_names": [
       "Igor"
     ],
     "family_names": [
-      "Válek"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:8",
-        "classification": "group",
-        "name": "Klub SMER - SD",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1193&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:1218",
-    "govity_total": 2672,
-    "govity_possible": 2673,
-    "govity": 0.999626,
-    "name": "Jozef Kačmár",
-    "given_names": [
-      "Jozef"
-    ],
-    "family_names": [
-      "Kačmár"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:8",
-        "classification": "group",
-        "name": "Klub SMER - SD",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1218&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:1207",
-    "govity_total": 4018,
-    "govity_possible": 4025,
-    "govity": 0.998261,
-    "name": "Michal Bartek",
-    "given_names": [
-      "Michal"
-    ],
-    "family_names": [
-      "Bartek"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:1",
-        "classification": "group",
-        "name": "Klub HLAS - SD",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1207&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:785",
-    "govity_total": 1666,
-    "govity_possible": 3450,
-    "govity": 0.482899,
-    "name": "Ľubomír Galko",
-    "given_names": [
-      "Ľubomír"
-    ],
-    "family_names": [
-      "Galko"
+      "Dušenka"
     ],
     "organizations": [
       {
@@ -696,7 +21,7 @@
     ],
     "since": "2023-10-25",
     "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=785&ImageWidth=140"
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1221&ImageWidth=140"
     }
   },
   {
@@ -725,560 +50,10 @@
     }
   },
   {
-    "person_id": "nrsr:person:907",
-    "govity_total": 1440,
-    "govity_possible": 2977,
-    "govity": 0.483708,
-    "name": "Marek Krajčí",
-    "given_names": [
-      "Marek"
-    ],
-    "family_names": [
-      "Krajčí"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:6",
-        "classification": "group",
-        "name": "Klub SLOVENSKO",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=907&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:1182",
-    "govity_total": 1758,
-    "govity_possible": 2896,
-    "govity": 0.607044,
-    "name": "Peter Stachura",
-    "given_names": [
-      "Peter"
-    ],
-    "family_names": [
-      "Stachura"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:3",
-        "classification": "group",
-        "name": "Klub KDH",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1182&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:1173",
-    "govity_total": 4041,
-    "govity_possible": 4051,
-    "govity": 0.997531,
-    "name": "Roman Malatinec",
-    "given_names": [
-      "Roman"
-    ],
-    "family_names": [
-      "Malatinec"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:1",
-        "classification": "group",
-        "name": "Klub HLAS - SD",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1173&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:1146",
-    "govity_total": 1707,
-    "govity_possible": 3562,
-    "govity": 0.479225,
-    "name": "Anežka Škopová",
-    "given_names": [
-      "Anežka"
-    ],
-    "family_names": [
-      "Škopová"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:6",
-        "classification": "group",
-        "name": "Klub SLOVENSKO",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1146&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:691",
-    "govity_total": 3933,
-    "govity_possible": 3939,
-    "govity": 0.998477,
-    "name": "Peter Žiga",
-    "given_names": [
-      "Peter"
-    ],
-    "family_names": [
-      "Žiga"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:1",
-        "classification": "group",
-        "name": "Klub HLAS - SD",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=691&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:808",
-    "govity_total": 1262,
-    "govity_possible": 2690,
-    "govity": 0.469145,
-    "name": "Igor Matovič",
-    "given_names": [
-      "Igor"
-    ],
-    "family_names": [
-      "Matovič"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:6",
-        "classification": "group",
-        "name": "Klub SLOVENSKO",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=808&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:966",
-    "govity_total": 1120,
-    "govity_possible": 2349,
-    "govity": 0.476799,
-    "name": "Karol Galek",
-    "given_names": [
-      "Karol"
-    ],
-    "family_names": [
-      "Galek"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:11",
-        "classification": "group",
-        "name": "Klub SaS",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=966&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:961",
-    "govity_total": 2102,
-    "govity_possible": 3489,
-    "govity": 0.602465,
-    "name": "Igor Janckulík",
-    "given_names": [
-      "Igor"
-    ],
-    "family_names": [
-      "Janckulík"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:3",
-        "classification": "group",
-        "name": "Klub KDH",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=961&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:931",
-    "govity_total": 4020,
-    "govity_possible": 4035,
-    "govity": 0.996283,
-    "name": "Karol Farkašovský",
-    "given_names": [
-      "Karol"
-    ],
-    "family_names": [
-      "Farkašovský"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:10",
-        "classification": "group",
-        "name": "Klub SNS",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=931&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:871",
-    "govity_total": 4003,
-    "govity_possible": 4012,
-    "govity": 0.997757,
-    "name": "Vladimír Baláž",
-    "given_names": [
-      "Vladimír"
-    ],
-    "family_names": [
-      "Baláž"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:8",
-        "classification": "group",
-        "name": "Klub SMER - SD",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=871&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:1187",
-    "govity_total": 4064,
-    "govity_possible": 4071,
-    "govity": 0.998281,
-    "name": "Branislav Becík",
-    "given_names": [
-      "Branislav"
-    ],
-    "family_names": [
-      "Becík"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:1",
-        "classification": "group",
-        "name": "Klub HLAS - SD",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1187&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:1115",
-    "govity_total": 1858,
-    "govity_possible": 3174,
-    "govity": 0.585381,
-    "name": "Michal Truban",
-    "given_names": [
-      "Michal"
-    ],
-    "family_names": [
-      "Truban"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:4",
-        "classification": "group",
-        "name": "Klub PS",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1115&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:899",
-    "govity_total": 4036,
-    "govity_possible": 4042,
-    "govity": 0.998516,
-    "name": "Peter Náhlik",
-    "given_names": [
-      "Peter"
-    ],
-    "family_names": [
-      "Náhlik"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:1",
-        "classification": "group",
-        "name": "Klub HLAS - SD",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=899&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:1213",
-    "govity_total": 1773,
-    "govity_possible": 3107,
-    "govity": 0.570647,
-    "name": "Richard Dubovický",
-    "given_names": [
-      "Richard"
-    ],
-    "family_names": [
-      "Dubovický"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:4",
-        "classification": "group",
-        "name": "Klub PS",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1213&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:1042",
-    "govity_total": 1346,
-    "govity_possible": 2937,
-    "govity": 0.458291,
-    "name": "Vladimíra Marcinková",
-    "given_names": [
-      "Vladimíra"
-    ],
-    "family_names": [
-      "Marcinková"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:11",
-        "classification": "group",
-        "name": "Klub SaS",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1042&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:1129",
-    "govity_total": 1825,
-    "govity_possible": 3143,
-    "govity": 0.580655,
-    "name": "Jana Hanuliaková",
-    "given_names": [
-      "Jana"
-    ],
-    "family_names": [
-      "Hanuliaková"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:4",
-        "classification": "group",
-        "name": "Klub PS",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1129&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:733",
-    "govity_total": 4062,
-    "govity_possible": 4063,
-    "govity": 0.999754,
-    "name": "Michal Lukša",
-    "given_names": [
-      "Michal"
-    ],
-    "family_names": [
-      "Lukša"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:8",
-        "classification": "group",
-        "name": "Klub SMER - SD",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=733&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:1128",
-    "govity_total": 2014,
-    "govity_possible": 3505,
-    "govity": 0.574608,
-    "name": "et Jurík",
-    "given_names": [
-      "et"
-    ],
-    "family_names": [
-      "Jurík"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:4",
-        "classification": "group",
-        "name": "Klub PS",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1128&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:1202",
-    "govity_total": 1880,
-    "govity_possible": 1885,
-    "govity": 0.997347,
-    "name": "Ján Hrubý",
-    "given_names": [
-      "Ján"
-    ],
-    "family_names": [
-      "Hrubý"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:1",
-        "classification": "group",
-        "name": "Klub HLAS - SD",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1202&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:1149",
-    "govity_total": 4031,
-    "govity_possible": 4059,
-    "govity": 0.993102,
-    "name": "Roman Michelko",
-    "given_names": [
-      "Roman"
-    ],
-    "family_names": [
-      "Michelko"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:10",
-        "classification": "group",
-        "name": "Klub SNS",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1149&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:1088",
-    "govity_total": 1578,
-    "govity_possible": 3257,
-    "govity": 0.484495,
-    "name": "Peter Pollák",
-    "given_names": [
-      "Peter"
-    ],
-    "family_names": [
-      "Pollák"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:6",
-        "classification": "group",
-        "name": "Klub SLOVENSKO",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1088&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:1037",
-    "govity_total": 1752,
-    "govity_possible": 3475,
-    "govity": 0.504173,
-    "name": "Vladimír Ledecký",
-    "given_names": [
-      "Vladimír"
-    ],
-    "family_names": [
-      "Ledecký"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:11",
-        "classification": "group",
-        "name": "Klub SaS",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1037&ImageWidth=140"
-    }
-  },
-  {
     "person_id": "nrsr:person:1200",
-    "govity_total": 4066,
-    "govity_possible": 4067,
-    "govity": 0.999754,
+    "govity_total": 4094,
+    "govity_possible": 4095,
+    "govity": 0.999756,
     "name": "Boleslav Lešo",
     "given_names": [
       "Boleslav"
@@ -1300,141 +75,16 @@
     }
   },
   {
-    "person_id": "nrsr:person:1131",
-    "govity_total": 2122,
-    "govity_possible": 3680,
-    "govity": 0.57663,
-    "name": "Ondrej Prostredník",
+    "person_id": "nrsr:person:762",
+    "govity_total": 4039,
+    "govity_possible": 4039,
+    "govity": 1.0,
+    "name": "Marián Saloň",
     "given_names": [
-      "Ondrej"
+      "Marián"
     ],
     "family_names": [
-      "Prostredník"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:4",
-        "classification": "group",
-        "name": "Klub PS",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1131&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:1127",
-    "govity_total": 1862,
-    "govity_possible": 3174,
-    "govity": 0.586641,
-    "name": "Ivan Štefunko",
-    "given_names": [
-      "Ivan"
-    ],
-    "family_names": [
-      "Štefunko"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:4",
-        "classification": "group",
-        "name": "Klub PS",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1127&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:1141",
-    "govity_total": 1978,
-    "govity_possible": 3433,
-    "govity": 0.576172,
-    "name": "Veronika Veslárová",
-    "given_names": [
-      "Veronika"
-    ],
-    "family_names": [
-      "Veslárová"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:4",
-        "classification": "group",
-        "name": "Klub PS",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1141&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:322",
-    "govity_total": 3877,
-    "govity_possible": 3887,
-    "govity": 0.997427,
-    "name": "Dušan Muňko",
-    "given_names": [
-      "Dušan"
-    ],
-    "family_names": [
-      "Muňko"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:10",
-        "classification": "group",
-        "name": "Klub SNS",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=322&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:1132",
-    "govity_total": 1769,
-    "govity_possible": 3147,
-    "govity": 0.562123,
-    "name": "Zuzana Števulová",
-    "given_names": [
-      "Zuzana"
-    ],
-    "family_names": [
-      "Števulová"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:4",
-        "classification": "group",
-        "name": "Klub PS",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1132&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:1156",
-    "govity_total": 4064,
-    "govity_possible": 4068,
-    "govity": 0.999017,
-    "name": "Ján Mažgút",
-    "given_names": [
-      "Ján"
-    ],
-    "family_names": [
-      "Mažgút"
+      "Saloň"
     ],
     "organizations": [
       {
@@ -1446,139 +96,39 @@
     ],
     "since": "2023-10-25",
     "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1156&ImageWidth=140"
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=762&ImageWidth=140"
     }
   },
   {
-    "person_id": "nrsr:person:1212",
-    "govity_total": 2018,
-    "govity_possible": 3539,
-    "govity": 0.570218,
-    "name": "Natália Nash",
-    "given_names": [
-      "Natália"
-    ],
-    "family_names": [
-      "Nash"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:4",
-        "classification": "group",
-        "name": "Klub PS",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1212&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:1119",
-    "govity_total": 1887,
-    "govity_possible": 3271,
-    "govity": 0.576888,
-    "name": "Irena Bihariová",
-    "given_names": [
-      "Irena"
-    ],
-    "family_names": [
-      "Bihariová"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:4",
-        "classification": "group",
-        "name": "Klub PS",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1119&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:1152",
-    "govity_total": 3643,
-    "govity_possible": 3653,
-    "govity": 0.997263,
-    "name": "Pavel Ľupták",
-    "given_names": [
-      "Pavel"
-    ],
-    "family_names": [
-      "Ľupták"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:10",
-        "classification": "group",
-        "name": "Klub SNS",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1152&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:1114",
-    "govity_total": 1830,
-    "govity_possible": 3128,
-    "govity": 0.585038,
-    "name": "Michal Šimečka",
+    "person_id": "nrsr:person:733",
+    "govity_total": 4089,
+    "govity_possible": 4090,
+    "govity": 0.999756,
+    "name": "Michal Lukša",
     "given_names": [
       "Michal"
     ],
     "family_names": [
-      "Šimečka"
+      "Lukša"
     ],
     "organizations": [
       {
-        "id": "nrsr:org:club:4",
+        "id": "nrsr:org:club:8",
         "classification": "group",
-        "name": "Klub PS",
+        "name": "Klub SMER - SD",
         "since": "2023-10-25"
       }
     ],
     "since": "2023-10-25",
     "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1114&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:1121",
-    "govity_total": 1548,
-    "govity_possible": 2681,
-    "govity": 0.577396,
-    "name": "Zora Jaurová",
-    "given_names": [
-      "Zora"
-    ],
-    "family_names": [
-      "Jaurová"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:4",
-        "classification": "group",
-        "name": "Klub PS",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1121&ImageWidth=140"
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=733&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1120",
-    "govity_total": 2033,
-    "govity_possible": 3557,
-    "govity": 0.571549,
+    "govity_total": 2034,
+    "govity_possible": 3585,
+    "govity": 0.567364,
     "name": "Michal Sabo",
     "given_names": [
       "Michal"
@@ -1600,16 +150,16 @@
     }
   },
   {
-    "person_id": "nrsr:person:1159",
-    "govity_total": 4071,
-    "govity_possible": 4079,
-    "govity": 0.998039,
-    "name": "Zuzana Matejičková",
+    "person_id": "nrsr:person:293",
+    "govity_total": 4014,
+    "govity_possible": 4028,
+    "govity": 0.996524,
+    "name": "Ľubomír Vážny",
     "given_names": [
-      "Zuzana"
+      "Ľubomír"
     ],
     "family_names": [
-      "Matejičková"
+      "Vážny"
     ],
     "organizations": [
       {
@@ -1621,170 +171,20 @@
     ],
     "since": "2023-10-25",
     "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1159&ImageWidth=140"
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=293&ImageWidth=140"
     }
   },
   {
-    "person_id": "nrsr:person:1135",
-    "govity_total": 1957,
-    "govity_possible": 3431,
-    "govity": 0.570388,
-    "name": "Branislav Vančo",
+    "person_id": "nrsr:person:991",
+    "govity_total": 1825,
+    "govity_possible": 3644,
+    "govity": 0.500823,
+    "name": "Marián Viskupič",
     "given_names": [
-      "Branislav"
+      "Marián"
     ],
     "family_names": [
-      "Vančo"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:4",
-        "classification": "group",
-        "name": "Klub PS",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1135&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:1191",
-    "govity_total": 4065,
-    "govity_possible": 4067,
-    "govity": 0.999508,
-    "name": "Andrej Sitkár",
-    "given_names": [
-      "Andrej"
-    ],
-    "family_names": [
-      "Sitkár"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:8",
-        "classification": "group",
-        "name": "Klub SMER - SD",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1191&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:92",
-    "govity_total": 1533,
-    "govity_possible": 2588,
-    "govity": 0.592349,
-    "name": "František Mikloško",
-    "given_names": [
-      "František"
-    ],
-    "family_names": [
-      "Mikloško"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:3",
-        "classification": "group",
-        "name": "Klub KDH",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=92&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:1211",
-    "govity_total": 3963,
-    "govity_possible": 3970,
-    "govity": 0.998237,
-    "name": "Zdenka Mačicová",
-    "given_names": [
-      "Zdenka"
-    ],
-    "family_names": [
-      "Mačicová"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:1",
-        "classification": "group",
-        "name": "Klub HLAS - SD",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1211&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:1160",
-    "govity_total": 3997,
-    "govity_possible": 4002,
-    "govity": 0.998751,
-    "name": "Marcela Čavojová",
-    "given_names": [
-      "Marcela"
-    ],
-    "family_names": [
-      "Čavojová"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:8",
-        "classification": "group",
-        "name": "Klub SMER - SD",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1160&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:1065",
-    "govity_total": 1461,
-    "govity_possible": 3353,
-    "govity": 0.435729,
-    "name": "Michal Šipoš",
-    "given_names": [
-      "Michal"
-    ],
-    "family_names": [
-      "Šipoš"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:6",
-        "classification": "group",
-        "name": "Klub SLOVENSKO",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1065&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:1180",
-    "govity_total": 1407,
-    "govity_possible": 2674,
-    "govity": 0.526178,
-    "name": "Martina Holečková",
-    "given_names": [
-      "Martina"
-    ],
-    "family_names": [
-      "Holečková"
+      "Viskupič"
     ],
     "organizations": [
       {
@@ -1796,20 +196,20 @@
     ],
     "since": "2023-10-25",
     "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1180&ImageWidth=140"
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=991&ImageWidth=140"
     }
   },
   {
-    "person_id": "nrsr:person:738",
-    "govity_total": 4032,
-    "govity_possible": 4033,
-    "govity": 0.999752,
-    "name": "Pavol Goga",
+    "person_id": "nrsr:person:656",
+    "govity_total": 4055,
+    "govity_possible": 4064,
+    "govity": 0.997785,
+    "name": "Dušan Galis",
     "given_names": [
-      "Pavol"
+      "Dušan"
     ],
     "family_names": [
-      "Goga"
+      "Galis"
     ],
     "organizations": [
       {
@@ -1821,7 +221,582 @@
     ],
     "since": "2023-10-25",
     "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=738&ImageWidth=140"
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=656&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1154",
+    "govity_total": 4065,
+    "govity_possible": 4067,
+    "govity": 0.999508,
+    "name": "gen. Gašpar",
+    "given_names": [
+      "gen."
+    ],
+    "family_names": [
+      "Gašpar"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:8",
+        "classification": "group",
+        "name": "Klub SMER - SD",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1154&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1207",
+    "govity_total": 4046,
+    "govity_possible": 4053,
+    "govity": 0.998273,
+    "name": "Michal Bartek",
+    "given_names": [
+      "Michal"
+    ],
+    "family_names": [
+      "Bartek"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:1",
+        "classification": "group",
+        "name": "Klub HLAS - SD",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1207&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1179",
+    "govity_total": 1967,
+    "govity_possible": 3365,
+    "govity": 0.584547,
+    "name": "Marián Čaučík",
+    "given_names": [
+      "Marián"
+    ],
+    "family_names": [
+      "Čaučík"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:3",
+        "classification": "group",
+        "name": "Klub KDH",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1179&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:671",
+    "govity_total": 4082,
+    "govity_possible": 4085,
+    "govity": 0.999266,
+    "name": "Ján Kvorka",
+    "given_names": [
+      "Ján"
+    ],
+    "family_names": [
+      "Kvorka"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:8",
+        "classification": "group",
+        "name": "Klub SMER - SD",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=671&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1186",
+    "govity_total": 1773,
+    "govity_possible": 2955,
+    "govity": 0.6,
+    "name": "Andrea Turčanová",
+    "given_names": [
+      "Andrea"
+    ],
+    "family_names": [
+      "Turčanová"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:3",
+        "classification": "group",
+        "name": "Klub KDH",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1186&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1150",
+    "govity_total": 3750,
+    "govity_possible": 3756,
+    "govity": 0.998403,
+    "name": "Ivan Ševčík",
+    "given_names": [
+      "Ivan"
+    ],
+    "family_names": [
+      "Ševčík"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:10",
+        "classification": "group",
+        "name": "Klub SNS",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1150&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1178",
+    "govity_total": 1850,
+    "govity_possible": 3085,
+    "govity": 0.599676,
+    "name": "Milan Majerský",
+    "given_names": [
+      "Milan"
+    ],
+    "family_names": [
+      "Majerský"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:3",
+        "classification": "group",
+        "name": "Klub KDH",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1178&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:685",
+    "govity_total": 4037,
+    "govity_possible": 4052,
+    "govity": 0.996298,
+    "name": "Ján Podmanický",
+    "given_names": [
+      "Ján"
+    ],
+    "family_names": [
+      "Podmanický"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:8",
+        "classification": "group",
+        "name": "Klub SMER - SD",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=685&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1224",
+    "govity_total": 212,
+    "govity_possible": 419,
+    "govity": 0.505967,
+    "name": "Monika Kolejáková",
+    "given_names": [
+      "Monika"
+    ],
+    "family_names": [
+      "Kolejáková"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:3",
+        "classification": "group",
+        "name": "Klub KDH",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1224&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1183",
+    "govity_total": 1758,
+    "govity_possible": 3081,
+    "govity": 0.570594,
+    "name": "Ján Horecký",
+    "given_names": [
+      "Ján"
+    ],
+    "family_names": [
+      "Horecký"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:3",
+        "classification": "group",
+        "name": "Klub KDH",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1183&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1141",
+    "govity_total": 1979,
+    "govity_possible": 3461,
+    "govity": 0.5718,
+    "name": "Veronika Veslárová",
+    "given_names": [
+      "Veronika"
+    ],
+    "family_names": [
+      "Veslárová"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:4",
+        "classification": "group",
+        "name": "Klub PS",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1141&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1152",
+    "govity_total": 3670,
+    "govity_possible": 3681,
+    "govity": 0.997012,
+    "name": "Pavel Ľupták",
+    "given_names": [
+      "Pavel"
+    ],
+    "family_names": [
+      "Ľupták"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:10",
+        "classification": "group",
+        "name": "Klub SNS",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1152&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1161",
+    "govity_total": 4079,
+    "govity_possible": 4081,
+    "govity": 0.99951,
+    "name": "Michal Stuška",
+    "given_names": [
+      "Michal"
+    ],
+    "family_names": [
+      "Stuška"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:8",
+        "classification": "group",
+        "name": "Klub SMER - SD",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1161&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:233",
+    "govity_total": 3928,
+    "govity_possible": 3933,
+    "govity": 0.998729,
+    "name": "Jaroslav Baška",
+    "given_names": [
+      "Jaroslav"
+    ],
+    "family_names": [
+      "Baška"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:8",
+        "classification": "group",
+        "name": "Klub SMER - SD",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=233&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1133",
+    "govity_total": 1983,
+    "govity_possible": 3471,
+    "govity": 0.571305,
+    "name": "Martin Dubéci",
+    "given_names": [
+      "Martin"
+    ],
+    "family_names": [
+      "Dubéci"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:4",
+        "classification": "group",
+        "name": "Klub PS",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1133&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1023",
+    "govity_total": 676,
+    "govity_possible": 676,
+    "govity": 1.0,
+    "name": "Peter Kmec",
+    "given_names": [
+      "Peter"
+    ],
+    "family_names": [
+      "Kmec"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:1",
+        "classification": "group",
+        "name": "Klub HLAS - SD",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1023&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1212",
+    "govity_total": 2019,
+    "govity_possible": 3567,
+    "govity": 0.566022,
+    "name": "Natália Nash",
+    "given_names": [
+      "Natália"
+    ],
+    "family_names": [
+      "Nash"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:4",
+        "classification": "group",
+        "name": "Klub PS",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1212&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:36",
+    "govity_total": 3981,
+    "govity_possible": 3989,
+    "govity": 0.997994,
+    "name": "RSDr. Faič",
+    "given_names": [
+      "RSDr."
+    ],
+    "family_names": [
+      "Faič"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:8",
+        "classification": "group",
+        "name": "Klub SMER - SD",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=36&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1173",
+    "govity_total": 4067,
+    "govity_possible": 4078,
+    "govity": 0.997303,
+    "name": "Roman Malatinec",
+    "given_names": [
+      "Roman"
+    ],
+    "family_names": [
+      "Malatinec"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:1",
+        "classification": "group",
+        "name": "Klub HLAS - SD",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1173&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:808",
+    "govity_total": 1263,
+    "govity_possible": 2718,
+    "govity": 0.46468,
+    "name": "Igor Matovič",
+    "given_names": [
+      "Igor"
+    ],
+    "family_names": [
+      "Matovič"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:6",
+        "classification": "group",
+        "name": "Klub SLOVENSKO",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=808&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1147",
+    "govity_total": 1644,
+    "govity_possible": 3515,
+    "govity": 0.46771,
+    "name": "Tomáš Szalay",
+    "given_names": [
+      "Tomáš"
+    ],
+    "family_names": [
+      "Szalay"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:11",
+        "classification": "group",
+        "name": "Klub SaS",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1147&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1193",
+    "govity_total": 4095,
+    "govity_possible": 4096,
+    "govity": 0.999756,
+    "name": "Igor Válek",
+    "given_names": [
+      "Igor"
+    ],
+    "family_names": [
+      "Válek"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:8",
+        "classification": "group",
+        "name": "Klub SMER - SD",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1193&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:930",
+    "govity_total": 4085,
+    "govity_possible": 4093,
+    "govity": 0.998045,
+    "name": "Dušan Tittel",
+    "given_names": [
+      "Dušan"
+    ],
+    "family_names": [
+      "Tittel"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:1",
+        "classification": "group",
+        "name": "Klub HLAS - SD",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=930&ImageWidth=140"
     }
   },
   {
@@ -1850,260 +825,10 @@
     }
   },
   {
-    "person_id": "nrsr:person:1205",
-    "govity_total": 4032,
-    "govity_possible": 4033,
-    "govity": 0.999752,
-    "name": "Michal Kapuš",
-    "given_names": [
-      "Michal"
-    ],
-    "family_names": [
-      "Kapuš"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:8",
-        "classification": "group",
-        "name": "Klub SMER - SD",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1205&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:1216",
-    "govity_total": 3225,
-    "govity_possible": 3231,
-    "govity": 0.998143,
-    "name": "Dávid Demečko",
-    "given_names": [
-      "Dávid"
-    ],
-    "family_names": [
-      "Demečko"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:1",
-        "classification": "group",
-        "name": "Klub HLAS - SD",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1216&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:1123",
-    "govity_total": 1986,
-    "govity_possible": 3411,
-    "govity": 0.582234,
-    "name": "Oskar Dvořák",
-    "given_names": [
-      "Oskar"
-    ],
-    "family_names": [
-      "Dvořák"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:4",
-        "classification": "group",
-        "name": "Klub PS",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1123&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:1222",
-    "govity_total": 496,
-    "govity_possible": 979,
-    "govity": 0.506639,
-    "name": "Gréta Gregorová",
-    "given_names": [
-      "Gréta"
-    ],
-    "family_names": [
-      "Gregorová"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:4",
-        "classification": "group",
-        "name": "Klub PS",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1222&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:1195",
-    "govity_total": 4043,
-    "govity_possible": 4052,
-    "govity": 0.997779,
-    "name": "Jozef Cech",
-    "given_names": [
-      "Jozef"
-    ],
-    "family_names": [
-      "Cech"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:1",
-        "classification": "group",
-        "name": "Klub HLAS - SD",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1195&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:900",
-    "govity_total": 4078,
-    "govity_possible": 4079,
-    "govity": 0.999755,
-    "name": "František Petro",
-    "given_names": [
-      "František"
-    ],
-    "family_names": [
-      "Petro"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:8",
-        "classification": "group",
-        "name": "Klub SMER - SD",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=900&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:873",
-    "govity_total": 4040,
-    "govity_possible": 4049,
-    "govity": 0.997777,
-    "name": "Marián Kéry",
-    "given_names": [
-      "Marián"
-    ],
-    "family_names": [
-      "Kéry"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:8",
-        "classification": "group",
-        "name": "Klub SMER - SD",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=873&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:891",
-    "govity_total": 4062,
-    "govity_possible": 4068,
-    "govity": 0.998525,
-    "name": "Jozef Ježík",
-    "given_names": [
-      "Jozef"
-    ],
-    "family_names": [
-      "Ježík"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:8",
-        "classification": "group",
-        "name": "Klub SMER - SD",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=891&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:862",
-    "govity_total": 1622,
-    "govity_possible": 2628,
-    "govity": 0.617199,
-    "name": "Branislav Škripek",
-    "given_names": [
-      "Branislav"
-    ],
-    "family_names": [
-      "Škripek"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:3",
-        "classification": "group",
-        "name": "Klub KDH",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=862&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:1054",
-    "govity_total": 1307,
-    "govity_possible": 3074,
-    "govity": 0.425179,
-    "name": "Jozef Pročko",
-    "given_names": [
-      "Jozef"
-    ],
-    "family_names": [
-      "Pročko"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:6",
-        "classification": "group",
-        "name": "Klub SLOVENSKO",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1054&ImageWidth=140"
-    }
-  },
-  {
     "person_id": "nrsr:person:1116",
-    "govity_total": 1682,
-    "govity_possible": 2952,
-    "govity": 0.569783,
+    "govity_total": 1683,
+    "govity_possible": 2980,
+    "govity": 0.564765,
     "name": "Lucia Plaváková",
     "given_names": [
       "Lucia"
@@ -2125,91 +850,16 @@
     }
   },
   {
-    "person_id": "nrsr:person:761",
-    "govity_total": 1886,
-    "govity_possible": 1894,
-    "govity": 0.995776,
-    "name": "Richard Raši",
-    "given_names": [
-      "Richard"
-    ],
-    "family_names": [
-      "Raši"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:1",
-        "classification": "group",
-        "name": "Klub HLAS - SD",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=761&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:1058",
-    "govity_total": 4071,
-    "govity_possible": 4075,
-    "govity": 0.999018,
-    "name": "Anton Stredák",
-    "given_names": [
-      "Anton"
-    ],
-    "family_names": [
-      "Stredák"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:8",
-        "classification": "group",
-        "name": "Klub SMER - SD",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1058&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:1125",
-    "govity_total": 1637,
-    "govity_possible": 2793,
-    "govity": 0.586108,
-    "name": "Štefan Kišš",
+    "person_id": "nrsr:person:892",
+    "govity_total": 4093,
+    "govity_possible": 4100,
+    "govity": 0.998293,
+    "name": "Štefan Gašparovič",
     "given_names": [
       "Štefan"
     ],
     "family_names": [
-      "Kišš"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:4",
-        "classification": "group",
-        "name": "Klub PS",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1125&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:1177",
-    "govity_total": 3961,
-    "govity_possible": 3966,
-    "govity": 0.998739,
-    "name": "Igor Šimko",
-    "given_names": [
-      "Igor"
-    ],
-    "family_names": [
-      "Šimko"
+      "Gašparovič"
     ],
     "organizations": [
       {
@@ -2221,45 +871,20 @@
     ],
     "since": "2023-10-25",
     "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1177&ImageWidth=140"
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=892&ImageWidth=140"
     }
   },
   {
-    "person_id": "nrsr:person:1150",
-    "govity_total": 3722,
-    "govity_possible": 3728,
-    "govity": 0.998391,
-    "name": "Ivan Ševčík",
+    "person_id": "nrsr:person:1160",
+    "govity_total": 4024,
+    "govity_possible": 4030,
+    "govity": 0.998511,
+    "name": "Marcela Čavojová",
     "given_names": [
-      "Ivan"
+      "Marcela"
     ],
     "family_names": [
-      "Ševčík"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:10",
-        "classification": "group",
-        "name": "Klub SNS",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1150&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:1019",
-    "govity_total": 4067,
-    "govity_possible": 4068,
-    "govity": 0.999754,
-    "name": "Viliam Zahorčák",
-    "given_names": [
-      "Viliam"
-    ],
-    "family_names": [
-      "Zahorčák"
+      "Čavojová"
     ],
     "organizations": [
       {
@@ -2271,32 +896,7 @@
     ],
     "since": "2023-10-25",
     "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1019&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:1147",
-    "govity_total": 1643,
-    "govity_possible": 3489,
-    "govity": 0.470909,
-    "name": "Tomáš Szalay",
-    "given_names": [
-      "Tomáš"
-    ],
-    "family_names": [
-      "Szalay"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:11",
-        "classification": "group",
-        "name": "Klub SaS",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1147&ImageWidth=140"
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1160&ImageWidth=140"
     }
   },
   {
@@ -2326,9 +926,9 @@
   },
   {
     "person_id": "nrsr:person:1145",
-    "govity_total": 1582,
-    "govity_possible": 3259,
-    "govity": 0.485425,
+    "govity_total": 1583,
+    "govity_possible": 3287,
+    "govity": 0.481594,
     "name": "Viliam Tankó",
     "given_names": [
       "Viliam"
@@ -2350,16 +950,41 @@
     }
   },
   {
-    "person_id": "nrsr:person:1124",
-    "govity_total": 2043,
-    "govity_possible": 3526,
-    "govity": 0.57941,
-    "name": "Ingrid Kosová",
+    "person_id": "nrsr:person:900",
+    "govity_total": 4106,
+    "govity_possible": 4107,
+    "govity": 0.999757,
+    "name": "František Petro",
     "given_names": [
-      "Ingrid"
+      "František"
     ],
     "family_names": [
-      "Kosová"
+      "Petro"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:8",
+        "classification": "group",
+        "name": "Klub SMER - SD",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=900&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1189",
+    "govity_total": 2079,
+    "govity_possible": 3617,
+    "govity": 0.574786,
+    "name": "Marek Lackovič",
+    "given_names": [
+      "Marek"
+    ],
+    "family_names": [
+      "Lackovič"
     ],
     "organizations": [
       {
@@ -2371,20 +996,145 @@
     ],
     "since": "2023-10-25",
     "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1124&ImageWidth=140"
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1189&ImageWidth=140"
     }
   },
   {
-    "person_id": "nrsr:person:1170",
-    "govity_total": 3964,
-    "govity_possible": 3971,
-    "govity": 0.998237,
-    "name": "Peter Kalivoda",
+    "person_id": "nrsr:person:1140",
+    "govity_total": 2151,
+    "govity_possible": 3756,
+    "govity": 0.572684,
+    "name": "Dávid Dej",
     "given_names": [
-      "Peter"
+      "Dávid"
     ],
     "family_names": [
-      "Kalivoda"
+      "Dej"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:4",
+        "classification": "group",
+        "name": "Klub PS",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1140&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1210",
+    "govity_total": 4065,
+    "govity_possible": 4079,
+    "govity": 0.996568,
+    "name": "Dagmar Kramplová",
+    "given_names": [
+      "Dagmar"
+    ],
+    "family_names": [
+      "Kramplová"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:10",
+        "classification": "group",
+        "name": "Klub SNS",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1210&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1025",
+    "govity_total": 1530,
+    "govity_possible": 3371,
+    "govity": 0.453871,
+    "name": "Mária Kolíková",
+    "given_names": [
+      "Mária"
+    ],
+    "family_names": [
+      "Kolíková"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:11",
+        "classification": "group",
+        "name": "Klub SaS",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1025&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1118",
+    "govity_total": 2002,
+    "govity_possible": 3517,
+    "govity": 0.569235,
+    "name": "Tamara Stohlová",
+    "given_names": [
+      "Tamara"
+    ],
+    "family_names": [
+      "Stohlová"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:4",
+        "classification": "group",
+        "name": "Klub PS",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1118&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1130",
+    "govity_total": 2118,
+    "govity_possible": 3668,
+    "govity": 0.577426,
+    "name": "Zuzana Mesterová",
+    "given_names": [
+      "Zuzana"
+    ],
+    "family_names": [
+      "Mesterová"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:4",
+        "classification": "group",
+        "name": "Klub PS",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1130&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1177",
+    "govity_total": 3989,
+    "govity_possible": 3994,
+    "govity": 0.998748,
+    "name": "Igor Šimko",
+    "given_names": [
+      "Igor"
+    ],
+    "family_names": [
+      "Šimko"
     ],
     "organizations": [
       {
@@ -2396,14 +1146,539 @@
     ],
     "since": "2023-10-25",
     "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1170&ImageWidth=140"
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1177&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:61",
+    "govity_total": 4036,
+    "govity_possible": 4038,
+    "govity": 0.999505,
+    "name": "Dušan Jarjabek",
+    "given_names": [
+      "Dušan"
+    ],
+    "family_names": [
+      "Jarjabek"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:8",
+        "classification": "group",
+        "name": "Klub SMER - SD",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=61&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:705",
+    "govity_total": 4081,
+    "govity_possible": 4085,
+    "govity": 0.999021,
+    "name": "Jozef Valocký",
+    "given_names": [
+      "Jozef"
+    ],
+    "family_names": [
+      "Valocký"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:8",
+        "classification": "group",
+        "name": "Klub SMER - SD",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=705&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1180",
+    "govity_total": 1408,
+    "govity_possible": 2701,
+    "govity": 0.521288,
+    "name": "Martina Holečková",
+    "given_names": [
+      "Martina"
+    ],
+    "family_names": [
+      "Holečková"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:11",
+        "classification": "group",
+        "name": "Klub SaS",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1180&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1149",
+    "govity_total": 4058,
+    "govity_possible": 4087,
+    "govity": 0.992904,
+    "name": "Roman Michelko",
+    "given_names": [
+      "Roman"
+    ],
+    "family_names": [
+      "Michelko"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:10",
+        "classification": "group",
+        "name": "Klub SNS",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1149&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:891",
+    "govity_total": 4090,
+    "govity_possible": 4096,
+    "govity": 0.998535,
+    "name": "Jozef Ježík",
+    "given_names": [
+      "Jozef"
+    ],
+    "family_names": [
+      "Ježík"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:8",
+        "classification": "group",
+        "name": "Klub SMER - SD",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=891&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1187",
+    "govity_total": 4092,
+    "govity_possible": 4099,
+    "govity": 0.998292,
+    "name": "Branislav Becík",
+    "given_names": [
+      "Branislav"
+    ],
+    "family_names": [
+      "Becík"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:1",
+        "classification": "group",
+        "name": "Klub HLAS - SD",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1187&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:785",
+    "govity_total": 1667,
+    "govity_possible": 3477,
+    "govity": 0.479436,
+    "name": "Ľubomír Galko",
+    "given_names": [
+      "Ľubomír"
+    ],
+    "family_names": [
+      "Galko"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:6",
+        "classification": "group",
+        "name": "Klub SLOVENSKO",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=785&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:322",
+    "govity_total": 3905,
+    "govity_possible": 3915,
+    "govity": 0.997446,
+    "name": "Dušan Muňko",
+    "given_names": [
+      "Dušan"
+    ],
+    "family_names": [
+      "Muňko"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:10",
+        "classification": "group",
+        "name": "Klub SNS",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=322&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:874",
+    "govity_total": 4101,
+    "govity_possible": 4103,
+    "govity": 0.999513,
+    "name": "Augustín Hambálek",
+    "given_names": [
+      "Augustín"
+    ],
+    "family_names": [
+      "Hambálek"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:8",
+        "classification": "group",
+        "name": "Klub SMER - SD",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=874&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1144",
+    "govity_total": 1620,
+    "govity_possible": 3512,
+    "govity": 0.461276,
+    "name": "Lukáš Bužo",
+    "given_names": [
+      "Lukáš"
+    ],
+    "family_names": [
+      "Bužo"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:6",
+        "classification": "group",
+        "name": "Klub SLOVENSKO",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1144&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:873",
+    "govity_total": 4068,
+    "govity_possible": 4077,
+    "govity": 0.997792,
+    "name": "Marián Kéry",
+    "given_names": [
+      "Marián"
+    ],
+    "family_names": [
+      "Kéry"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:8",
+        "classification": "group",
+        "name": "Klub SMER - SD",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=873&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:997",
+    "govity_total": 3876,
+    "govity_possible": 3884,
+    "govity": 0.99794,
+    "name": "Ján Blcháč",
+    "given_names": [
+      "Ján"
+    ],
+    "family_names": [
+      "Blcháč"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:1",
+        "classification": "group",
+        "name": "Klub HLAS - SD",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=997&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1075",
+    "govity_total": 1750,
+    "govity_possible": 2928,
+    "govity": 0.597678,
+    "name": "Tomáš Valášek",
+    "given_names": [
+      "Tomáš"
+    ],
+    "family_names": [
+      "Valášek"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:4",
+        "classification": "group",
+        "name": "Klub PS",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1075&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1223",
+    "govity_total": 670,
+    "govity_possible": 670,
+    "govity": 1.0,
+    "name": "Vladimír Macášek",
+    "given_names": [
+      "Vladimír"
+    ],
+    "family_names": [
+      "Macášek"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:8",
+        "classification": "group",
+        "name": "Klub SMER - SD",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1223&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1158",
+    "govity_total": 4100,
+    "govity_possible": 4100,
+    "govity": 1.0,
+    "name": "Daniel Karas",
+    "given_names": [
+      "Daniel"
+    ],
+    "family_names": [
+      "Karas"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:8",
+        "classification": "group",
+        "name": "Klub SMER - SD",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1158&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1172",
+    "govity_total": 4077,
+    "govity_possible": 4086,
+    "govity": 0.997797,
+    "name": "Richard Eliáš",
+    "given_names": [
+      "Richard"
+    ],
+    "family_names": [
+      "Eliáš"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:1",
+        "classification": "group",
+        "name": "Klub HLAS - SD",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1172&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:668",
+    "govity_total": 4079,
+    "govity_possible": 4089,
+    "govity": 0.997554,
+    "name": "Stanislav Kubánek",
+    "given_names": [
+      "Stanislav"
+    ],
+    "family_names": [
+      "Kubánek"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:8",
+        "classification": "group",
+        "name": "Klub SMER - SD",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=668&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:905",
+    "govity_total": 1176,
+    "govity_possible": 2677,
+    "govity": 0.439298,
+    "name": "Veronika Remišová",
+    "given_names": [
+      "Veronika"
+    ],
+    "family_names": [
+      "Remišová"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:6",
+        "classification": "group",
+        "name": "Klub SLOVENSKO",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=905&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1042",
+    "govity_total": 1347,
+    "govity_possible": 2965,
+    "govity": 0.4543,
+    "name": "Vladimíra Marcinková",
+    "given_names": [
+      "Vladimíra"
+    ],
+    "family_names": [
+      "Marcinková"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:11",
+        "classification": "group",
+        "name": "Klub SaS",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1042&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1191",
+    "govity_total": 4093,
+    "govity_possible": 4095,
+    "govity": 0.999512,
+    "name": "Andrej Sitkár",
+    "given_names": [
+      "Andrej"
+    ],
+    "family_names": [
+      "Sitkár"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:8",
+        "classification": "group",
+        "name": "Klub SMER - SD",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1191&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:92",
+    "govity_total": 1533,
+    "govity_possible": 2616,
+    "govity": 0.586009,
+    "name": "František Mikloško",
+    "given_names": [
+      "František"
+    ],
+    "family_names": [
+      "Mikloško"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:3",
+        "classification": "group",
+        "name": "Klub KDH",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=92&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1142",
-    "govity_total": 1920,
-    "govity_possible": 3334,
-    "govity": 0.575885,
+    "govity_total": 1921,
+    "govity_possible": 3362,
+    "govity": 0.571386,
     "name": "Ján Hargaš",
     "given_names": [
       "Ján"
@@ -2422,181 +1697,6 @@
     "since": "2023-10-25",
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1142&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:762",
-    "govity_total": 4011,
-    "govity_possible": 4011,
-    "govity": 1.0,
-    "name": "Marián Saloň",
-    "given_names": [
-      "Marián"
-    ],
-    "family_names": [
-      "Saloň"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:8",
-        "classification": "group",
-        "name": "Klub SMER - SD",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=762&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:930",
-    "govity_total": 4057,
-    "govity_possible": 4065,
-    "govity": 0.998032,
-    "name": "Dušan Tittel",
-    "given_names": [
-      "Dušan"
-    ],
-    "family_names": [
-      "Tittel"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:1",
-        "classification": "group",
-        "name": "Klub HLAS - SD",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=930&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:1161",
-    "govity_total": 4051,
-    "govity_possible": 4053,
-    "govity": 0.999507,
-    "name": "Michal Stuška",
-    "given_names": [
-      "Michal"
-    ],
-    "family_names": [
-      "Stuška"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:8",
-        "classification": "group",
-        "name": "Klub SMER - SD",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1161&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:1178",
-    "govity_total": 1850,
-    "govity_possible": 3085,
-    "govity": 0.599676,
-    "name": "Milan Majerský",
-    "given_names": [
-      "Milan"
-    ],
-    "family_names": [
-      "Majerský"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:3",
-        "classification": "group",
-        "name": "Klub KDH",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1178&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:293",
-    "govity_total": 3986,
-    "govity_possible": 4000,
-    "govity": 0.9965,
-    "name": "Ľubomír Vážny",
-    "given_names": [
-      "Ľubomír"
-    ],
-    "family_names": [
-      "Vážny"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:8",
-        "classification": "group",
-        "name": "Klub SMER - SD",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=293&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:1206",
-    "govity_total": 3499,
-    "govity_possible": 3500,
-    "govity": 0.999714,
-    "name": "Peter Sokol",
-    "given_names": [
-      "Peter"
-    ],
-    "family_names": [
-      "Sokol"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:8",
-        "classification": "group",
-        "name": "Klub SMER - SD",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1206&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:1008",
-    "govity_total": 3472,
-    "govity_possible": 3567,
-    "govity": 0.973367,
-    "name": "Ján Ferenčák",
-    "given_names": [
-      "Ján"
-    ],
-    "family_names": [
-      "Ferenčák"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:1",
-        "classification": "group",
-        "name": "Klub HLAS - SD",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1008&ImageWidth=140"
     }
   },
   {
@@ -2625,166 +1725,16 @@
     }
   },
   {
-    "person_id": "nrsr:person:1203",
-    "govity_total": 4020,
-    "govity_possible": 4033,
-    "govity": 0.996777,
-    "name": "et Čellár",
-    "given_names": [
-      "et"
-    ],
-    "family_names": [
-      "Čellár"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:1",
-        "classification": "group",
-        "name": "Klub HLAS - SD",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1203&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:705",
-    "govity_total": 4053,
-    "govity_possible": 4057,
-    "govity": 0.999014,
-    "name": "Jozef Valocký",
-    "given_names": [
-      "Jozef"
-    ],
-    "family_names": [
-      "Valocký"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:8",
-        "classification": "group",
-        "name": "Klub SMER - SD",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=705&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:769",
-    "govity_total": 4069,
-    "govity_possible": 4071,
-    "govity": 0.999509,
-    "name": "Peter Šuca",
+    "person_id": "nrsr:person:1151",
+    "govity_total": 4016,
+    "govity_possible": 4034,
+    "govity": 0.995538,
+    "name": "Peter Kotlár",
     "given_names": [
       "Peter"
     ],
     "family_names": [
-      "Šuca"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:8",
-        "classification": "group",
-        "name": "Klub SMER - SD",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=769&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:1172",
-    "govity_total": 4050,
-    "govity_possible": 4058,
-    "govity": 0.998029,
-    "name": "Richard Eliáš",
-    "given_names": [
-      "Richard"
-    ],
-    "family_names": [
-      "Eliáš"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:1",
-        "classification": "group",
-        "name": "Klub HLAS - SD",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1172&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:61",
-    "govity_total": 4011,
-    "govity_possible": 4013,
-    "govity": 0.999502,
-    "name": "Dušan Jarjabek",
-    "given_names": [
-      "Dušan"
-    ],
-    "family_names": [
-      "Jarjabek"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:8",
-        "classification": "group",
-        "name": "Klub SMER - SD",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=61&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:1143",
-    "govity_total": 2050,
-    "govity_possible": 3523,
-    "govity": 0.58189,
-    "name": "Veronika Šrobová",
-    "given_names": [
-      "Veronika"
-    ],
-    "family_names": [
-      "Šrobová"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:4",
-        "classification": "group",
-        "name": "Klub PS",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1143&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:929",
-    "govity_total": 3986,
-    "govity_possible": 4005,
-    "govity": 0.995256,
-    "name": "Andrej Danko",
-    "given_names": [
-      "Andrej"
-    ],
-    "family_names": [
-      "Danko"
+      "Kotlár"
     ],
     "organizations": [
       {
@@ -2796,139 +1746,14 @@
     ],
     "since": "2023-10-25",
     "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=929&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:1133",
-    "govity_total": 1982,
-    "govity_possible": 3446,
-    "govity": 0.57516,
-    "name": "Martin Dubéci",
-    "given_names": [
-      "Martin"
-    ],
-    "family_names": [
-      "Dubéci"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:4",
-        "classification": "group",
-        "name": "Klub PS",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1133&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:36",
-    "govity_total": 3953,
-    "govity_possible": 3961,
-    "govity": 0.99798,
-    "name": "RSDr. Faič",
-    "given_names": [
-      "RSDr."
-    ],
-    "family_names": [
-      "Faič"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:8",
-        "classification": "group",
-        "name": "Klub SMER - SD",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=36&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:1032",
-    "govity_total": 1808,
-    "govity_possible": 3402,
-    "govity": 0.531452,
-    "name": "Juraj Krúpa",
-    "given_names": [
-      "Juraj"
-    ],
-    "family_names": [
-      "Krúpa"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:11",
-        "classification": "group",
-        "name": "Klub SaS",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1032&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:671",
-    "govity_total": 4054,
-    "govity_possible": 4057,
-    "govity": 0.999261,
-    "name": "Ján Kvorka",
-    "given_names": [
-      "Ján"
-    ],
-    "family_names": [
-      "Kvorka"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:8",
-        "classification": "group",
-        "name": "Klub SMER - SD",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=671&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:1009",
-    "govity_total": 4038,
-    "govity_possible": 4041,
-    "govity": 0.999258,
-    "name": "Jozef Habánik",
-    "given_names": [
-      "Jozef"
-    ],
-    "family_names": [
-      "Habánik"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:8",
-        "classification": "group",
-        "name": "Klub SMER - SD",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1009&ImageWidth=140"
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1151&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:689",
-    "govity_total": 4020,
-    "govity_possible": 4023,
-    "govity": 0.999254,
+    "govity_total": 4048,
+    "govity_possible": 4051,
+    "govity": 0.999259,
     "name": "Ján Richter",
     "given_names": [
       "Ján"
@@ -2950,91 +1775,16 @@
     }
   },
   {
-    "person_id": "nrsr:person:1158",
-    "govity_total": 4072,
-    "govity_possible": 4072,
-    "govity": 1.0,
-    "name": "Daniel Karas",
+    "person_id": "nrsr:person:1128",
+    "govity_total": 2015,
+    "govity_possible": 3533,
+    "govity": 0.570337,
+    "name": "et Jurík",
     "given_names": [
-      "Daniel"
+      "et"
     ],
     "family_names": [
-      "Karas"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:8",
-        "classification": "group",
-        "name": "Klub SMER - SD",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1158&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:892",
-    "govity_total": 4065,
-    "govity_possible": 4072,
-    "govity": 0.998281,
-    "name": "Štefan Gašparovič",
-    "given_names": [
-      "Štefan"
-    ],
-    "family_names": [
-      "Gašparovič"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:1",
-        "classification": "group",
-        "name": "Klub HLAS - SD",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=892&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:1221",
-    "govity_total": 479,
-    "govity_possible": 1111,
-    "govity": 0.431143,
-    "name": "Igor Dušenka",
-    "given_names": [
-      "Igor"
-    ],
-    "family_names": [
-      "Dušenka"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:6",
-        "classification": "group",
-        "name": "Klub SLOVENSKO",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1221&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:1139",
-    "govity_total": 1791,
-    "govity_possible": 3076,
-    "govity": 0.58225,
-    "name": "Dana Kleinert",
-    "given_names": [
-      "Dana"
-    ],
-    "family_names": [
-      "Kleinert"
+      "Jurík"
     ],
     "organizations": [
       {
@@ -3046,120 +1796,20 @@
     ],
     "since": "2023-10-25",
     "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1139&ImageWidth=140"
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1128&ImageWidth=140"
     }
   },
   {
-    "person_id": "nrsr:person:861",
-    "govity_total": 1650,
-    "govity_possible": 3309,
-    "govity": 0.49864,
-    "name": "Richard Vašečka",
+    "person_id": "nrsr:person:962",
+    "govity_total": 1736,
+    "govity_possible": 3070,
+    "govity": 0.565472,
+    "name": "Simona Petrík",
     "given_names": [
-      "Richard"
+      "Simona"
     ],
     "family_names": [
-      "Vašečka"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:6",
-        "classification": "group",
-        "name": "Klub SLOVENSKO",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=861&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:1163",
-    "govity_total": 4068,
-    "govity_possible": 4071,
-    "govity": 0.999263,
-    "name": "Justín Sedlák",
-    "given_names": [
-      "Justín"
-    ],
-    "family_names": [
-      "Sedlák"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:8",
-        "classification": "group",
-        "name": "Klub SMER - SD",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1163&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:1208",
-    "govity_total": 3976,
-    "govity_possible": 3985,
-    "govity": 0.997742,
-    "name": "Dis. Puškárová",
-    "given_names": [
-      "Dis."
-    ],
-    "family_names": [
-      "Puškárová"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:1",
-        "classification": "group",
-        "name": "Klub HLAS - SD",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1208&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:991",
-    "govity_total": 1824,
-    "govity_possible": 3616,
-    "govity": 0.504425,
-    "name": "Marián Viskupič",
-    "given_names": [
-      "Marián"
-    ],
-    "family_names": [
-      "Viskupič"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:11",
-        "classification": "group",
-        "name": "Klub SaS",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=991&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:1118",
-    "govity_total": 2001,
-    "govity_possible": 3489,
-    "govity": 0.573517,
-    "name": "Tamara Stohlová",
-    "given_names": [
-      "Tamara"
-    ],
-    "family_names": [
-      "Stohlová"
+      "Petrík"
     ],
     "organizations": [
       {
@@ -3171,112 +1821,20 @@
     ],
     "since": "2023-10-25",
     "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1118&ImageWidth=140"
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=962&ImageWidth=140"
     }
   },
   {
-    "person_id": "nrsr:person:1189",
-    "govity_total": 2078,
-    "govity_possible": 3589,
-    "govity": 0.578991,
-    "name": "Marek Lackovič",
+    "person_id": "nrsr:person:871",
+    "govity_total": 4031,
+    "govity_possible": 4040,
+    "govity": 0.997772,
+    "name": "Vladimír Baláž",
     "given_names": [
-      "Marek"
+      "Vladimír"
     ],
     "family_names": [
-      "Lackovič"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:4",
-        "classification": "group",
-        "name": "Klub PS",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1189&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:1025",
-    "govity_total": 1529,
-    "govity_possible": 3343,
-    "govity": 0.457374,
-    "name": "Mária Kolíková",
-    "given_names": [
-      "Mária"
-    ],
-    "family_names": [
-      "Kolíková"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:11",
-        "classification": "group",
-        "name": "Klub SaS",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1025&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:1220",
-    "govity_total": 1782,
-    "govity_possible": 1836,
-    "govity": 0.970588,
-    "name": "Miroslav Radačovský",
-    "given_names": [
-      "Miroslav"
-    ],
-    "family_names": [
-      "Radačovský"
-    ],
-    "since": "2023-10-25",
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1220&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:859",
-    "govity_total": 1588,
-    "govity_possible": 2997,
-    "govity": 0.529863,
-    "name": "Alojz Hlina",
-    "given_names": [
-      "Alojz"
-    ],
-    "family_names": [
-      "Hlina"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:11",
-        "classification": "group",
-        "name": "Klub SaS",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=859&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:1219",
-    "govity_total": 2702,
-    "govity_possible": 2704,
-    "govity": 0.99926,
-    "name": "Ján Horváth",
-    "given_names": [
-      "Ján"
-    ],
-    "family_names": [
-      "Horváth"
+      "Baláž"
     ],
     "organizations": [
       {
@@ -3288,70 +1846,20 @@
     ],
     "since": "2023-10-25",
     "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1219&ImageWidth=140"
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=871&ImageWidth=140"
     }
   },
   {
-    "person_id": "nrsr:person:1144",
-    "govity_total": 1619,
-    "govity_possible": 3484,
-    "govity": 0.464696,
-    "name": "Lukáš Bužo",
+    "person_id": "nrsr:person:1058",
+    "govity_total": 4099,
+    "govity_possible": 4103,
+    "govity": 0.999025,
+    "name": "Anton Stredák",
     "given_names": [
-      "Lukáš"
+      "Anton"
     ],
     "family_names": [
-      "Bužo"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:6",
-        "classification": "group",
-        "name": "Klub SLOVENSKO",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1144&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:1130",
-    "govity_total": 2117,
-    "govity_possible": 3640,
-    "govity": 0.581593,
-    "name": "Zuzana Mesterová",
-    "given_names": [
-      "Zuzana"
-    ],
-    "family_names": [
-      "Mesterová"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:4",
-        "classification": "group",
-        "name": "Klub PS",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1130&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:668",
-    "govity_total": 4052,
-    "govity_possible": 4062,
-    "govity": 0.997538,
-    "name": "Stanislav Kubánek",
-    "given_names": [
-      "Stanislav"
-    ],
-    "family_names": [
-      "Kubánek"
+      "Stredák"
     ],
     "organizations": [
       {
@@ -3363,39 +1871,14 @@
     ],
     "since": "2023-10-25",
     "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=668&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:1196",
-    "govity_total": 4053,
-    "govity_possible": 4060,
-    "govity": 0.998276,
-    "name": "Alena Nováková",
-    "given_names": [
-      "Alena"
-    ],
-    "family_names": [
-      "Nováková"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:1",
-        "classification": "group",
-        "name": "Klub HLAS - SD",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1196&ImageWidth=140"
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1058&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1169",
-    "govity_total": 4068,
-    "govity_possible": 4076,
-    "govity": 0.998037,
+    "govity_total": 4095,
+    "govity_possible": 4103,
+    "govity": 0.99805,
     "name": "Karol Janas",
     "given_names": [
       "Karol"
@@ -3417,28 +1900,403 @@
     }
   },
   {
-    "person_id": "nrsr:person:1198",
-    "govity_total": 4022,
-    "govity_possible": 4037,
-    "govity": 0.996284,
-    "name": "Milan Garaj",
+    "person_id": "nrsr:person:1131",
+    "govity_total": 2123,
+    "govity_possible": 3708,
+    "govity": 0.572546,
+    "name": "Ondrej Prostredník",
     "given_names": [
-      "Milan"
+      "Ondrej"
     ],
     "family_names": [
-      "Garaj"
+      "Prostredník"
     ],
     "organizations": [
       {
-        "id": "nrsr:org:club:10",
+        "id": "nrsr:org:club:4",
         "classification": "group",
-        "name": "Klub SNS",
+        "name": "Klub PS",
         "since": "2023-10-25"
       }
     ],
     "since": "2023-10-25",
     "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1198&ImageWidth=140"
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1131&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1123",
+    "govity_total": 1987,
+    "govity_possible": 3439,
+    "govity": 0.577784,
+    "name": "Oskar Dvořák",
+    "given_names": [
+      "Oskar"
+    ],
+    "family_names": [
+      "Dvořák"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:4",
+        "classification": "group",
+        "name": "Klub PS",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1123&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1114",
+    "govity_total": 1830,
+    "govity_possible": 3128,
+    "govity": 0.585038,
+    "name": "Michal Šimečka",
+    "given_names": [
+      "Michal"
+    ],
+    "family_names": [
+      "Šimečka"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:4",
+        "classification": "group",
+        "name": "Klub PS",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1114&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1054",
+    "govity_total": 1308,
+    "govity_possible": 3100,
+    "govity": 0.421935,
+    "name": "Jozef Pročko",
+    "given_names": [
+      "Jozef"
+    ],
+    "family_names": [
+      "Pročko"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:6",
+        "classification": "group",
+        "name": "Klub SLOVENSKO",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1054&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1170",
+    "govity_total": 3992,
+    "govity_possible": 3999,
+    "govity": 0.99825,
+    "name": "Peter Kalivoda",
+    "given_names": [
+      "Peter"
+    ],
+    "family_names": [
+      "Kalivoda"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:1",
+        "classification": "group",
+        "name": "Klub HLAS - SD",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1170&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1206",
+    "govity_total": 3527,
+    "govity_possible": 3528,
+    "govity": 0.999717,
+    "name": "Peter Sokol",
+    "given_names": [
+      "Peter"
+    ],
+    "family_names": [
+      "Sokol"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:8",
+        "classification": "group",
+        "name": "Klub SMER - SD",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1206&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1008",
+    "govity_total": 3481,
+    "govity_possible": 3594,
+    "govity": 0.968559,
+    "name": "Ján Ferenčák",
+    "given_names": [
+      "Ján"
+    ],
+    "family_names": [
+      "Ferenčák"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:1",
+        "classification": "group",
+        "name": "Klub HLAS - SD",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1008&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1159",
+    "govity_total": 4098,
+    "govity_possible": 4107,
+    "govity": 0.997809,
+    "name": "Zuzana Matejičková",
+    "given_names": [
+      "Zuzana"
+    ],
+    "family_names": [
+      "Matejičková"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:8",
+        "classification": "group",
+        "name": "Klub SMER - SD",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1159&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1216",
+    "govity_total": 3253,
+    "govity_possible": 3259,
+    "govity": 0.998159,
+    "name": "Dávid Demečko",
+    "given_names": [
+      "Dávid"
+    ],
+    "family_names": [
+      "Demečko"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:1",
+        "classification": "group",
+        "name": "Klub HLAS - SD",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1216&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:859",
+    "govity_total": 1589,
+    "govity_possible": 3024,
+    "govity": 0.525463,
+    "name": "Alojz Hlina",
+    "given_names": [
+      "Alojz"
+    ],
+    "family_names": [
+      "Hlina"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:11",
+        "classification": "group",
+        "name": "Klub SaS",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=859&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1132",
+    "govity_total": 1770,
+    "govity_possible": 3175,
+    "govity": 0.55748,
+    "name": "Zuzana Števulová",
+    "given_names": [
+      "Zuzana"
+    ],
+    "family_names": [
+      "Števulová"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:4",
+        "classification": "group",
+        "name": "Klub PS",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1132&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1065",
+    "govity_total": 1462,
+    "govity_possible": 3381,
+    "govity": 0.432416,
+    "name": "Michal Šipoš",
+    "given_names": [
+      "Michal"
+    ],
+    "family_names": [
+      "Šipoš"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:6",
+        "classification": "group",
+        "name": "Klub SLOVENSKO",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1065&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1125",
+    "govity_total": 1638,
+    "govity_possible": 2821,
+    "govity": 0.580645,
+    "name": "Štefan Kišš",
+    "given_names": [
+      "Štefan"
+    ],
+    "family_names": [
+      "Kišš"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:4",
+        "classification": "group",
+        "name": "Klub PS",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1125&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:861",
+    "govity_total": 1650,
+    "govity_possible": 3327,
+    "govity": 0.495942,
+    "name": "Richard Vašečka",
+    "given_names": [
+      "Richard"
+    ],
+    "family_names": [
+      "Vašečka"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:6",
+        "classification": "group",
+        "name": "Klub SLOVENSKO",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=861&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1146",
+    "govity_total": 1707,
+    "govity_possible": 3562,
+    "govity": 0.479225,
+    "name": "Anežka Škopová",
+    "given_names": [
+      "Anežka"
+    ],
+    "family_names": [
+      "Škopová"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:6",
+        "classification": "group",
+        "name": "Klub SLOVENSKO",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1146&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:862",
+    "govity_total": 1622,
+    "govity_possible": 2653,
+    "govity": 0.611383,
+    "name": "Branislav Škripek",
+    "given_names": [
+      "Branislav"
+    ],
+    "family_names": [
+      "Škripek"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:3",
+        "classification": "group",
+        "name": "Klub KDH",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=862&ImageWidth=140"
     }
   },
   {
@@ -3467,16 +2325,16 @@
     }
   },
   {
-    "person_id": "nrsr:person:1023",
-    "govity_total": 648,
-    "govity_possible": 648,
-    "govity": 1.0,
-    "name": "Peter Kmec",
+    "person_id": "nrsr:person:1203",
+    "govity_total": 4048,
+    "govity_possible": 4061,
+    "govity": 0.996799,
+    "name": "et Čellár",
     "given_names": [
-      "Peter"
+      "et"
     ],
     "family_names": [
-      "Kmec"
+      "Čellár"
     ],
     "organizations": [
       {
@@ -3488,20 +2346,45 @@
     ],
     "since": "2023-10-25",
     "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1023&ImageWidth=140"
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1203&ImageWidth=140"
     }
   },
   {
-    "person_id": "nrsr:person:685",
-    "govity_total": 4009,
-    "govity_possible": 4024,
-    "govity": 0.996272,
-    "name": "Ján Podmanický",
+    "person_id": "nrsr:person:691",
+    "govity_total": 3961,
+    "govity_possible": 3967,
+    "govity": 0.998488,
+    "name": "Peter Žiga",
+    "given_names": [
+      "Peter"
+    ],
+    "family_names": [
+      "Žiga"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:1",
+        "classification": "group",
+        "name": "Klub HLAS - SD",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=691&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1156",
+    "govity_total": 4092,
+    "govity_possible": 4096,
+    "govity": 0.999023,
+    "name": "Ján Mažgút",
     "given_names": [
       "Ján"
     ],
     "family_names": [
-      "Podmanický"
+      "Mažgút"
     ],
     "organizations": [
       {
@@ -3513,20 +2396,20 @@
     ],
     "since": "2023-10-25",
     "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=685&ImageWidth=140"
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1156&ImageWidth=140"
     }
   },
   {
-    "person_id": "nrsr:person:1151",
-    "govity_total": 3989,
-    "govity_possible": 4006,
-    "govity": 0.995756,
-    "name": "Peter Kotlár",
+    "person_id": "nrsr:person:931",
+    "govity_total": 4047,
+    "govity_possible": 4063,
+    "govity": 0.996062,
+    "name": "Karol Farkašovský",
     "given_names": [
-      "Peter"
+      "Karol"
     ],
     "family_names": [
-      "Kotlár"
+      "Farkašovský"
     ],
     "organizations": [
       {
@@ -3538,20 +2421,45 @@
     ],
     "since": "2023-10-25",
     "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1151&ImageWidth=140"
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=931&ImageWidth=140"
     }
   },
   {
-    "person_id": "nrsr:person:1126",
-    "govity_total": 2100,
-    "govity_possible": 3638,
-    "govity": 0.57724,
-    "name": "Tina Gažovičová",
+    "person_id": "nrsr:person:1037",
+    "govity_total": 1752,
+    "govity_possible": 3475,
+    "govity": 0.504173,
+    "name": "Vladimír Ledecký",
     "given_names": [
-      "Tina"
+      "Vladimír"
     ],
     "family_names": [
-      "Gažovičová"
+      "Ledecký"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:11",
+        "classification": "group",
+        "name": "Klub SaS",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1037&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1135",
+    "govity_total": 1958,
+    "govity_possible": 3459,
+    "govity": 0.56606,
+    "name": "Branislav Vančo",
+    "given_names": [
+      "Branislav"
+    ],
+    "family_names": [
+      "Vančo"
     ],
     "organizations": [
       {
@@ -3563,14 +2471,89 @@
     ],
     "since": "2023-10-25",
     "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1126&ImageWidth=140"
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1135&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1009",
+    "govity_total": 4066,
+    "govity_possible": 4069,
+    "govity": 0.999263,
+    "name": "Jozef Habánik",
+    "given_names": [
+      "Jozef"
+    ],
+    "family_names": [
+      "Habánik"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:8",
+        "classification": "group",
+        "name": "Klub SMER - SD",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1009&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1219",
+    "govity_total": 2730,
+    "govity_possible": 2732,
+    "govity": 0.999268,
+    "name": "Ján Horváth",
+    "given_names": [
+      "Ján"
+    ],
+    "family_names": [
+      "Horváth"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:8",
+        "classification": "group",
+        "name": "Klub SMER - SD",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1219&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1087",
+    "govity_total": 4070,
+    "govity_possible": 4079,
+    "govity": 0.997794,
+    "name": "Zdenko Svoboda",
+    "given_names": [
+      "Zdenko"
+    ],
+    "family_names": [
+      "Svoboda"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:1",
+        "classification": "group",
+        "name": "Klub HLAS - SD",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1087&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1117",
-    "govity_total": 1908,
-    "govity_possible": 3343,
-    "govity": 0.570745,
+    "govity_total": 1909,
+    "govity_possible": 3369,
+    "govity": 0.566637,
     "name": "Jaroslav Spišiak",
     "given_names": [
       "Jaroslav"
@@ -3592,41 +2575,66 @@
     }
   },
   {
-    "person_id": "nrsr:person:1140",
-    "govity_total": 2150,
-    "govity_possible": 3728,
-    "govity": 0.576717,
-    "name": "Dávid Dej",
+    "person_id": "nrsr:person:1182",
+    "govity_total": 1758,
+    "govity_possible": 2896,
+    "govity": 0.607044,
+    "name": "Peter Stachura",
     "given_names": [
-      "Dávid"
+      "Peter"
     ],
     "family_names": [
-      "Dej"
+      "Stachura"
     ],
     "organizations": [
       {
-        "id": "nrsr:org:club:4",
+        "id": "nrsr:org:club:3",
         "classification": "group",
-        "name": "Klub PS",
+        "name": "Klub KDH",
         "since": "2023-10-25"
       }
     ],
     "since": "2023-10-25",
     "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1140&ImageWidth=140"
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1182&ImageWidth=140"
     }
   },
   {
-    "person_id": "nrsr:person:1223",
-    "govity_total": 642,
-    "govity_possible": 642,
-    "govity": 1.0,
-    "name": "Vladimír Macášek",
+    "person_id": "nrsr:person:1081",
+    "govity_total": 4048,
+    "govity_possible": 4054,
+    "govity": 0.99852,
+    "name": "Ľubica Laššáková",
     "given_names": [
-      "Vladimír"
+      "Ľubica"
     ],
     "family_names": [
-      "Macášek"
+      "Laššáková"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:1",
+        "classification": "group",
+        "name": "Klub HLAS - SD",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1081&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1205",
+    "govity_total": 4059,
+    "govity_possible": 4060,
+    "govity": 0.999754,
+    "name": "Michal Kapuš",
+    "given_names": [
+      "Michal"
+    ],
+    "family_names": [
+      "Kapuš"
     ],
     "organizations": [
       {
@@ -3638,20 +2646,70 @@
     ],
     "since": "2023-10-25",
     "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1223&ImageWidth=140"
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1205&ImageWidth=140"
     }
   },
   {
-    "person_id": "nrsr:person:910",
-    "govity_total": 1446,
-    "govity_possible": 3290,
-    "govity": 0.439514,
-    "name": "Gábor Grendel",
+    "person_id": "nrsr:person:1192",
+    "govity_total": 4039,
+    "govity_possible": 4043,
+    "govity": 0.999011,
+    "name": "Ivan Hazucha",
     "given_names": [
-      "Gábor"
+      "Ivan"
     ],
     "family_names": [
-      "Grendel"
+      "Hazucha"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:8",
+        "classification": "group",
+        "name": "Klub SMER - SD",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1192&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1032",
+    "govity_total": 1808,
+    "govity_possible": 3402,
+    "govity": 0.531452,
+    "name": "Juraj Krúpa",
+    "given_names": [
+      "Juraj"
+    ],
+    "family_names": [
+      "Krúpa"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:11",
+        "classification": "group",
+        "name": "Klub SaS",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1032&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:907",
+    "govity_total": 1441,
+    "govity_possible": 3005,
+    "govity": 0.479534,
+    "name": "Marek Krajčí",
+    "given_names": [
+      "Marek"
+    ],
+    "family_names": [
+      "Krajčí"
     ],
     "organizations": [
       {
@@ -3663,39 +2721,89 @@
     ],
     "since": "2023-10-25",
     "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=910&ImageWidth=140"
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=907&ImageWidth=140"
     }
   },
   {
-    "person_id": "nrsr:person:1214",
-    "govity_total": 3758,
-    "govity_possible": 3763,
-    "govity": 0.998671,
-    "name": "Richard Glück",
+    "person_id": "nrsr:person:1213",
+    "govity_total": 1773,
+    "govity_possible": 3107,
+    "govity": 0.570647,
+    "name": "Richard Dubovický",
     "given_names": [
       "Richard"
     ],
     "family_names": [
-      "Glück"
+      "Dubovický"
     ],
     "organizations": [
       {
-        "id": "nrsr:org:club:8",
+        "id": "nrsr:org:club:4",
         "classification": "group",
-        "name": "Klub SMER - SD",
+        "name": "Klub PS",
         "since": "2023-10-25"
       }
     ],
     "since": "2023-10-25",
     "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1214&ImageWidth=140"
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1213&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:879",
+    "govity_total": 4071,
+    "govity_possible": 4078,
+    "govity": 0.998283,
+    "name": "Róbert Puci",
+    "given_names": [
+      "Róbert"
+    ],
+    "family_names": [
+      "Puci"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:1",
+        "classification": "group",
+        "name": "Klub HLAS - SD",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=879&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:929",
+    "govity_total": 4013,
+    "govity_possible": 4033,
+    "govity": 0.995041,
+    "name": "Andrej Danko",
+    "given_names": [
+      "Andrej"
+    ],
+    "family_names": [
+      "Danko"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:10",
+        "classification": "group",
+        "name": "Klub SNS",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=929&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1176",
-    "govity_total": 3998,
-    "govity_possible": 4009,
-    "govity": 0.997256,
+    "govity_total": 4026,
+    "govity_possible": 4037,
+    "govity": 0.997275,
     "name": "Erik Vlček",
     "given_names": [
       "Erik"
@@ -3717,16 +2825,41 @@
     }
   },
   {
-    "person_id": "nrsr:person:1087",
-    "govity_total": 4042,
-    "govity_possible": 4051,
-    "govity": 0.997778,
-    "name": "Zdenko Svoboda",
+    "person_id": "nrsr:person:1222",
+    "govity_total": 497,
+    "govity_possible": 1007,
+    "govity": 0.493545,
+    "name": "Gréta Gregorová",
     "given_names": [
-      "Zdenko"
+      "Gréta"
     ],
     "family_names": [
-      "Svoboda"
+      "Gregorová"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:4",
+        "classification": "group",
+        "name": "Klub PS",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1222&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1196",
+    "govity_total": 4081,
+    "govity_possible": 4088,
+    "govity": 0.998288,
+    "name": "Alena Nováková",
+    "given_names": [
+      "Alena"
+    ],
+    "family_names": [
+      "Nováková"
     ],
     "organizations": [
       {
@@ -3738,7 +2871,874 @@
     ],
     "since": "2023-10-25",
     "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1087&ImageWidth=140"
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1196&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1217",
+    "govity_total": 3252,
+    "govity_possible": 3257,
+    "govity": 0.998465,
+    "name": "Andrea Szabóová",
+    "given_names": [
+      "Andrea"
+    ],
+    "family_names": [
+      "Szabóová"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:1",
+        "classification": "group",
+        "name": "Klub HLAS - SD",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1217&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:769",
+    "govity_total": 4097,
+    "govity_possible": 4099,
+    "govity": 0.999512,
+    "name": "Peter Šuca",
+    "given_names": [
+      "Peter"
+    ],
+    "family_names": [
+      "Šuca"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:8",
+        "classification": "group",
+        "name": "Klub SMER - SD",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=769&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1188",
+    "govity_total": 1518,
+    "govity_possible": 3353,
+    "govity": 0.452729,
+    "name": "Július Jakab",
+    "given_names": [
+      "Július"
+    ],
+    "family_names": [
+      "Jakab"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:6",
+        "classification": "group",
+        "name": "Klub SLOVENSKO",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1188&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1190",
+    "govity_total": 1508,
+    "govity_possible": 2666,
+    "govity": 0.565641,
+    "name": "Rastislav Krátky",
+    "given_names": [
+      "Rastislav"
+    ],
+    "family_names": [
+      "Krátky"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:3",
+        "classification": "group",
+        "name": "Klub KDH",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1190&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1046",
+    "govity_total": 1358,
+    "govity_possible": 2920,
+    "govity": 0.465068,
+    "name": "Roman Mikulec",
+    "given_names": [
+      "Roman"
+    ],
+    "family_names": [
+      "Mikulec"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:6",
+        "classification": "group",
+        "name": "Klub SLOVENSKO",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1046&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:761",
+    "govity_total": 1914,
+    "govity_possible": 1922,
+    "govity": 0.995838,
+    "name": "Richard Raši",
+    "given_names": [
+      "Richard"
+    ],
+    "family_names": [
+      "Raši"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:1",
+        "classification": "group",
+        "name": "Klub HLAS - SD",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=761&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1019",
+    "govity_total": 4095,
+    "govity_possible": 4096,
+    "govity": 0.999756,
+    "name": "Viliam Zahorčák",
+    "given_names": [
+      "Viliam"
+    ],
+    "family_names": [
+      "Zahorčák"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:8",
+        "classification": "group",
+        "name": "Klub SMER - SD",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1019&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1208",
+    "govity_total": 4003,
+    "govity_possible": 4012,
+    "govity": 0.997757,
+    "name": "Dis. Puškárová",
+    "given_names": [
+      "Dis."
+    ],
+    "family_names": [
+      "Puškárová"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:1",
+        "classification": "group",
+        "name": "Klub HLAS - SD",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1208&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1121",
+    "govity_total": 1549,
+    "govity_possible": 2705,
+    "govity": 0.572643,
+    "name": "Zora Jaurová",
+    "given_names": [
+      "Zora"
+    ],
+    "family_names": [
+      "Jaurová"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:4",
+        "classification": "group",
+        "name": "Klub PS",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1121&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1211",
+    "govity_total": 3991,
+    "govity_possible": 3998,
+    "govity": 0.998249,
+    "name": "Zdenka Mačicová",
+    "given_names": [
+      "Zdenka"
+    ],
+    "family_names": [
+      "Mačicová"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:1",
+        "classification": "group",
+        "name": "Klub HLAS - SD",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1211&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1119",
+    "govity_total": 1888,
+    "govity_possible": 3298,
+    "govity": 0.572468,
+    "name": "Irena Bihariová",
+    "given_names": [
+      "Irena"
+    ],
+    "family_names": [
+      "Bihariová"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:4",
+        "classification": "group",
+        "name": "Klub PS",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1119&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:738",
+    "govity_total": 4060,
+    "govity_possible": 4061,
+    "govity": 0.999754,
+    "name": "Pavol Goga",
+    "given_names": [
+      "Pavol"
+    ],
+    "family_names": [
+      "Goga"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:8",
+        "classification": "group",
+        "name": "Klub SMER - SD",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=738&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1218",
+    "govity_total": 2700,
+    "govity_possible": 2701,
+    "govity": 0.99963,
+    "name": "Jozef Kačmár",
+    "given_names": [
+      "Jozef"
+    ],
+    "family_names": [
+      "Kačmár"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:8",
+        "classification": "group",
+        "name": "Klub SMER - SD",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1218&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1088",
+    "govity_total": 1578,
+    "govity_possible": 3257,
+    "govity": 0.484495,
+    "name": "Peter Pollák",
+    "given_names": [
+      "Peter"
+    ],
+    "family_names": [
+      "Pollák"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:6",
+        "classification": "group",
+        "name": "Klub SLOVENSKO",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1088&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1199",
+    "govity_total": 4058,
+    "govity_possible": 4076,
+    "govity": 0.995584,
+    "name": "Adam Lučanský",
+    "given_names": [
+      "Adam"
+    ],
+    "family_names": [
+      "Lučanský"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:10",
+        "classification": "group",
+        "name": "Klub SNS",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1199&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1143",
+    "govity_total": 2050,
+    "govity_possible": 3523,
+    "govity": 0.58189,
+    "name": "Veronika Šrobová",
+    "given_names": [
+      "Veronika"
+    ],
+    "family_names": [
+      "Šrobová"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:4",
+        "classification": "group",
+        "name": "Klub PS",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1143&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1115",
+    "govity_total": 1859,
+    "govity_possible": 3202,
+    "govity": 0.580575,
+    "name": "Michal Truban",
+    "given_names": [
+      "Michal"
+    ],
+    "family_names": [
+      "Truban"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:4",
+        "classification": "group",
+        "name": "Klub PS",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1115&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:961",
+    "govity_total": 2102,
+    "govity_possible": 3517,
+    "govity": 0.597668,
+    "name": "Igor Janckulík",
+    "given_names": [
+      "Igor"
+    ],
+    "family_names": [
+      "Janckulík"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:3",
+        "classification": "group",
+        "name": "Klub KDH",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=961&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1194",
+    "govity_total": 4098,
+    "govity_possible": 4099,
+    "govity": 0.999756,
+    "name": "Zuzana Plevíková",
+    "given_names": [
+      "Zuzana"
+    ],
+    "family_names": [
+      "Plevíková"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:8",
+        "classification": "group",
+        "name": "Klub SMER - SD",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1194&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1198",
+    "govity_total": 4022,
+    "govity_possible": 4037,
+    "govity": 0.996284,
+    "name": "Milan Garaj",
+    "given_names": [
+      "Milan"
+    ],
+    "family_names": [
+      "Garaj"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:10",
+        "classification": "group",
+        "name": "Klub SNS",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1198&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1214",
+    "govity_total": 3786,
+    "govity_possible": 3791,
+    "govity": 0.998681,
+    "name": "Richard Glück",
+    "given_names": [
+      "Richard"
+    ],
+    "family_names": [
+      "Glück"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:8",
+        "classification": "group",
+        "name": "Klub SMER - SD",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1214&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1124",
+    "govity_total": 2043,
+    "govity_possible": 3526,
+    "govity": 0.57941,
+    "name": "Ingrid Kosová",
+    "given_names": [
+      "Ingrid"
+    ],
+    "family_names": [
+      "Kosová"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:4",
+        "classification": "group",
+        "name": "Klub PS",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1124&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:899",
+    "govity_total": 4063,
+    "govity_possible": 4069,
+    "govity": 0.998525,
+    "name": "Peter Náhlik",
+    "given_names": [
+      "Peter"
+    ],
+    "family_names": [
+      "Náhlik"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:1",
+        "classification": "group",
+        "name": "Klub HLAS - SD",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=899&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1127",
+    "govity_total": 1862,
+    "govity_possible": 3174,
+    "govity": 0.586641,
+    "name": "Ivan Štefunko",
+    "given_names": [
+      "Ivan"
+    ],
+    "family_names": [
+      "Štefunko"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:4",
+        "classification": "group",
+        "name": "Klub PS",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1127&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1220",
+    "govity_total": 1802,
+    "govity_possible": 1863,
+    "govity": 0.967257,
+    "name": "Miroslav Radačovský",
+    "given_names": [
+      "Miroslav"
+    ],
+    "family_names": [
+      "Radačovský"
+    ],
+    "since": "2023-10-25",
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1220&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1126",
+    "govity_total": 2101,
+    "govity_possible": 3666,
+    "govity": 0.573104,
+    "name": "Tina Gažovičová",
+    "given_names": [
+      "Tina"
+    ],
+    "family_names": [
+      "Gažovičová"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:4",
+        "classification": "group",
+        "name": "Klub PS",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1126&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1195",
+    "govity_total": 4071,
+    "govity_possible": 4080,
+    "govity": 0.997794,
+    "name": "Jozef Cech",
+    "given_names": [
+      "Jozef"
+    ],
+    "family_names": [
+      "Cech"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:1",
+        "classification": "group",
+        "name": "Klub HLAS - SD",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1195&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:910",
+    "govity_total": 1447,
+    "govity_possible": 3318,
+    "govity": 0.436106,
+    "name": "Gábor Grendel",
+    "given_names": [
+      "Gábor"
+    ],
+    "family_names": [
+      "Grendel"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:6",
+        "classification": "group",
+        "name": "Klub SLOVENSKO",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=910&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1202",
+    "govity_total": 1908,
+    "govity_possible": 1913,
+    "govity": 0.997386,
+    "name": "Ján Hrubý",
+    "given_names": [
+      "Ján"
+    ],
+    "family_names": [
+      "Hrubý"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:1",
+        "classification": "group",
+        "name": "Klub HLAS - SD",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1202&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:966",
+    "govity_total": 1121,
+    "govity_possible": 2375,
+    "govity": 0.472,
+    "name": "Karol Galek",
+    "given_names": [
+      "Karol"
+    ],
+    "family_names": [
+      "Galek"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:11",
+        "classification": "group",
+        "name": "Klub SaS",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=966&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1204",
+    "govity_total": 4070,
+    "govity_possible": 4072,
+    "govity": 0.999509,
+    "name": "Jaroslav Mego",
+    "given_names": [
+      "Jaroslav"
+    ],
+    "family_names": [
+      "Mego"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:8",
+        "classification": "group",
+        "name": "Klub SMER - SD",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1204&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1163",
+    "govity_total": 4096,
+    "govity_possible": 4099,
+    "govity": 0.999268,
+    "name": "Justín Sedlák",
+    "given_names": [
+      "Justín"
+    ],
+    "family_names": [
+      "Sedlák"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:8",
+        "classification": "group",
+        "name": "Klub SMER - SD",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1163&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1134",
+    "govity_total": 1949,
+    "govity_possible": 3398,
+    "govity": 0.573573,
+    "name": "Darina Luščíková",
+    "given_names": [
+      "Darina"
+    ],
+    "family_names": [
+      "Luščíková"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:4",
+        "classification": "group",
+        "name": "Klub PS",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1134&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1129",
+    "govity_total": 1826,
+    "govity_possible": 3171,
+    "govity": 0.575844,
+    "name": "Jana Hanuliaková",
+    "given_names": [
+      "Jana"
+    ],
+    "family_names": [
+      "Hanuliaková"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:4",
+        "classification": "group",
+        "name": "Klub PS",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1129&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1139",
+    "govity_total": 1792,
+    "govity_possible": 3104,
+    "govity": 0.57732,
+    "name": "Dana Kleinert",
+    "given_names": [
+      "Dana"
+    ],
+    "family_names": [
+      "Kleinert"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:4",
+        "classification": "group",
+        "name": "Klub PS",
+        "since": "2023-10-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1139&ImageWidth=140"
     }
   }
 ]
