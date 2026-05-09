@@ -384,8 +384,9 @@ def _write_members_analyses(
     current_members = []
     for _, p in persons_raw.iterrows():
         mp_id = str(p["mp_id"])
+        parl_end = str(p.get("left_on", "") or "").strip()
         memberships: dict = {
-            "parliament": [{"id": _nrsr_org_id(_NRSR_ORG_ID), "name": "Národná rada Slovenskej republiky", "start_date": _TERM_START, "end_date": ""}],
+            "parliament": [{"id": _nrsr_org_id(_NRSR_ORG_ID), "name": "Národná rada Slovenskej republiky", "start_date": _TERM_START, "end_date": parl_end}],
         }
         groups = mp_club_memberships.get(mp_id, [])
         if groups:

@@ -12,6 +12,7 @@ import csv
 import logging
 import re
 import time
+from datetime import datetime
 from pathlib import Path
 
 import requests_html
@@ -29,17 +30,17 @@ _DELAY = 0.5
 
 _PERSONS_COLS = [
     "mp_id", "given_name", "family_name", "title", "born_on",
-    "email", "municipality", "region", "in_parliament",
+    "email", "municipality", "region", "in_parliament", "left_on",
 ]
 _MEMBERSHIPS_COLS = ["mp_id", "club_name", "start_date", "end_date"]
 
 
-def _get_mp_ids(session: requests_html.HTMLSession) -> tuple[list[str], set[str], dict[str, str]]:
-    """Return (all_ids, current_ids, list_name_map).
+def _get_mp_ids(session: requests_html.HTMLSession) -> tuple[list[str], set[str], dict[str, str], dict[str, str]]:
+    """Return (all_ids, current_ids, list_name_map, departure_dates).
 
-    all_ids includes current MPs plus former MPs who left mid-term (from zmeny page).
+    all_ids includes current MPs plus former MPs who left mid-term (from zmeny page + votes CSVs).
     list_name_map maps mp_id → raw anchor text from zoznam_abc (e.g. 'Remišová Veronika').
-    Used as a fallback when detail-page parsing yields only a title or bare initial.
+    departure_dates maps mp_id → ISO departure date (e.g. '2025-03-22') for former MPs.
     """
     r = session.get(_MP_LIST_URL)
     mp_ids = []
@@ -55,18 +56,32 @@ def _get_mp_ids(session: requests_html.HTMLSession) -> tuple[list[str], set[str]
                 list_name_map[mp_id] = text
     current = set(dict.fromkeys(mp_ids))
 
-    # Also fetch mid-term changes page to capture former MPs who left during the term
+    # Fetch mid-term changes page — captures former MPs and their departure dates
     r2 = session.get(_MP_CHANGES_URL)
-    for a in r2.html.find("a"):
-        href = a.attrs.get("href", "")
-        m = re.search(r"PoslanecID=(\d+)", href)
-        if m:
-            mp_id = m.group(1)
-            if mp_id not in current:
-                mp_ids.append(mp_id)
+    departure_dates: dict[str, str] = {}
+    # Each row: <td>DD. M. YYYY</td><td><a ...PoslanecID=ID...>Name</a> (-)</td>
+    for row_m in re.finditer(
+        r"<td>(\d+\.\s*\d+\.\s*\d+)</td>\s*<td>(.*?)</td>",
+        r2.html.html, re.DOTALL
+    ):
+        cell = row_m.group(2)
+        # Only departure rows have "(-)"
+        if "(-)" not in cell and "(−)" not in cell:
+            continue
+        id_m = re.search(r"PoslanecID=(\d+)", cell)
+        if not id_m:
+            continue
+        mp_id = id_m.group(1)
+        date_str = row_m.group(1).replace(" ", "")
+        try:
+            d = datetime.strptime(date_str, "%d.%m.%Y")
+            departure_dates[mp_id] = d.strftime("%Y-%m-%d")
+        except ValueError:
+            pass
+        if mp_id not in current:
+            mp_ids.append(mp_id)
 
     # Also collect voter IDs from cached votes CSVs — catches former MPs not listed in zmeny
-    # (e.g. MPs who became government ministers and gave up their seat very early)
     seen = set(mp_ids)
     for votes_file in sorted(_RAW.glob("votes*.csv")):
         try:
@@ -81,7 +96,7 @@ def _get_mp_ids(session: requests_html.HTMLSession) -> tuple[list[str], set[str]
 
     all_ids = list(dict.fromkeys(mp_ids))
     logging.info("Found %d current + %d former MP IDs", len(current), len(all_ids) - len(current))
-    return all_ids, current, list_name_map
+    return all_ids, current, list_name_map, departure_dates
 
 
 # Slovak pre-nominal academic titles to strip from h1 name
@@ -223,7 +238,7 @@ def main() -> None:
     session = requests_html.HTMLSession()
 
     logging.info("Fetching MP list from %s", _MP_LIST_URL)
-    mp_ids, current_ids, list_name_map = _get_mp_ids(session)
+    mp_ids, current_ids, list_name_map, departure_dates = _get_mp_ids(session)
     logging.info("Found %d MP IDs (%d current)", len(mp_ids), len(current_ids))
 
     persons_out = _RAW / "persons_raw.csv"
@@ -244,6 +259,7 @@ def main() -> None:
             try:
                 person, memberships = _scrape_mp(session, mp_id)
                 person["in_parliament"] = mp_id in current_ids
+                person["left_on"] = departure_dates.get(mp_id, "")
                 # Fallback: if given_name looks wrong, use the list-page anchor text
                 # List format: "Remišová Veronika" (family first, given last)
                 given = person.get("given_name", "")
