@@ -264,6 +264,22 @@ def build_persons_and_memberships() -> None:
         memberships_source["start_date"] = memberships_source["start_date"].replace("", _TERM_START).fillna(_TERM_START)
         memberships_source["end_date"] = memberships_source["end_date"].replace("", None)
 
+    # Normalize club names: clubs renamed mid-term get the same canonical name/ID
+    _CLUB_NAME_ALIASES: dict[str, str] = {
+        "Klub HLAS - SD": "Klub HLAS - sociálna demokracia",
+        "Klub PS": "Klub Progresívne Slovensko",
+        "Klub SLOVENSKO": "Klub SLOVENSKO - ZA ĽUDÍ",
+        "Klub SaS": "Klub Sloboda a Solidarita",
+        "Klub SNS": "Klub Slovenská národná strana",
+        "Klub SMER - SD": "Klub SMER - sociálna demokracia",
+    }
+    memberships_source["club_name"] = memberships_source["club_name"].map(
+        lambda n: _CLUB_NAME_ALIASES.get(n, n) if isinstance(n, str) else n
+    )
+    memberships_raw["club_name"] = memberships_raw["club_name"].map(
+        lambda n: _CLUB_NAME_ALIASES.get(n, n) if isinstance(n, str) else n
+    )
+
     # collect all club names from both scraped and vote-derived data
     all_clubs = set(memberships_raw["club_name"].dropna().unique()) | \
                 set(memberships_source["club_name"].dropna().unique())
