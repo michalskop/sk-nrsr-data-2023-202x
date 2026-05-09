@@ -13,21 +13,21 @@
     ],
     "organizations": [
       {
-        "id": "nrsr:org:club:3",
+        "id": "nrsr:org:club:2",
         "classification": "group",
         "name": "Klub KDH",
         "since": "2023-11-14",
         "until": "2024-09-12"
       },
       {
-        "id": "nrsr:org:club:11",
+        "id": "nrsr:org:club:6",
         "classification": "group",
-        "name": "Klub SaS",
+        "name": "Klub Sloboda a Solidarita",
         "since": "2025-01-21",
         "until": "2026-05-07"
       },
       {
-        "id": "nrsr:org:club:12",
+        "id": "nrsr:org:club:6",
         "classification": "group",
         "name": "Klub Sloboda a Solidarita",
         "since": "2026-05-07"
@@ -53,14 +53,14 @@
     ],
     "organizations": [
       {
-        "id": "nrsr:org:club:8",
+        "id": "nrsr:org:club:5",
         "classification": "group",
-        "name": "Klub SMER - SD",
+        "name": "Klub SMER - sociálna demokracia",
         "since": "2023-11-14",
         "until": "2026-05-07"
       },
       {
-        "id": "nrsr:org:club:9",
+        "id": "nrsr:org:club:5",
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
         "since": "2026-05-07"
@@ -88,12 +88,12 @@
       {
         "id": "nrsr:org:club:1",
         "classification": "group",
-        "name": "Klub HLAS - SD",
+        "name": "Klub HLAS - sociálna demokracia",
         "since": "2023-11-14",
         "until": "2026-05-07"
       },
       {
-        "id": "nrsr:org:club:2",
+        "id": "nrsr:org:club:1",
         "classification": "group",
         "name": "Klub HLAS - sociálna demokracia",
         "since": "2026-05-07"
@@ -119,14 +119,14 @@
     ],
     "organizations": [
       {
-        "id": "nrsr:org:club:8",
+        "id": "nrsr:org:club:5",
         "classification": "group",
-        "name": "Klub SMER - SD",
+        "name": "Klub SMER - sociálna demokracia",
         "since": "2023-11-14",
         "until": "2026-05-07"
       },
       {
-        "id": "nrsr:org:club:9",
+        "id": "nrsr:org:club:5",
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
         "since": "2026-05-07"
@@ -154,12 +154,12 @@
       {
         "id": "nrsr:org:club:1",
         "classification": "group",
-        "name": "Klub HLAS - SD",
+        "name": "Klub HLAS - sociálna demokracia",
         "since": "2023-11-14",
         "until": "2026-05-07"
       },
       {
-        "id": "nrsr:org:club:2",
+        "id": "nrsr:org:club:1",
         "classification": "group",
         "name": "Klub HLAS - sociálna demokracia",
         "since": "2026-05-07"
@@ -185,14 +185,14 @@
     ],
     "organizations": [
       {
-        "id": "nrsr:org:club:4",
+        "id": "nrsr:org:club:3",
         "classification": "group",
-        "name": "Klub PS",
+        "name": "Klub Progresívne Slovensko",
         "since": "2023-11-14",
         "until": "2026-05-07"
       },
       {
-        "id": "nrsr:org:club:5",
+        "id": "nrsr:org:club:3",
         "classification": "group",
         "name": "Klub Progresívne Slovensko",
         "since": "2026-05-07"
@@ -218,9 +218,9 @@
     ],
     "organizations": [
       {
-        "id": "nrsr:org:club:11",
+        "id": "nrsr:org:club:6",
         "classification": "group",
-        "name": "Klub SaS",
+        "name": "Klub Sloboda a Solidarita",
         "since": "2023-11-14",
         "until": "2026-04-24"
       },
@@ -253,12 +253,12 @@
       {
         "id": "nrsr:org:club:1",
         "classification": "group",
-        "name": "Klub HLAS - SD",
+        "name": "Klub HLAS - sociálna demokracia",
         "since": "2023-11-14",
         "until": "2026-05-07"
       },
       {
-        "id": "nrsr:org:club:2",
+        "id": "nrsr:org:club:1",
         "classification": "group",
         "name": "Klub HLAS - sociálna demokracia",
         "since": "2026-05-07"
@@ -284,14 +284,14 @@
     ],
     "organizations": [
       {
-        "id": "nrsr:org:club:6",
+        "id": "nrsr:org:club:4",
         "classification": "group",
-        "name": "Klub SLOVENSKO",
+        "name": "Klub SLOVENSKO - ZA ĽUDÍ",
         "since": "2023-11-14",
         "until": "2026-05-07"
       },
       {
-        "id": "nrsr:org:club:7",
+        "id": "nrsr:org:club:4",
         "classification": "group",
         "name": "Klub SLOVENSKO - ZA ĽUDÍ",
         "since": "2026-05-07"
@@ -319,12 +319,12 @@
       {
         "id": "nrsr:org:club:1",
         "classification": "group",
-        "name": "Klub HLAS - SD",
+        "name": "Klub HLAS - sociálna demokracia",
         "since": "2023-11-14",
         "until": "2026-05-07"
       },
       {
-        "id": "nrsr:org:club:2",
+        "id": "nrsr:org:club:1",
         "classification": "group",
         "name": "Klub HLAS - sociálna demokracia",
         "since": "2026-05-07"
@@ -350,7 +350,7 @@
     ],
     "organizations": [
       {
-        "id": "nrsr:org:club:3",
+        "id": "nrsr:org:club:2",
         "classification": "group",
         "name": "Klub KDH",
         "since": "2023-11-14"
@@ -376,14 +376,14 @@
     ],
     "organizations": [
       {
-        "id": "nrsr:org:club:8",
+        "id": "nrsr:org:club:5",
         "classification": "group",
-        "name": "Klub SMER - SD",
+        "name": "Klub SMER - sociálna demokracia",
         "since": "2023-11-14",
         "until": "2026-05-07"
       },
       {
-        "id": "nrsr:org:club:9",
+        "id": "nrsr:org:club:5",
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
         "since": "2026-05-07"
@@ -411,12 +411,12 @@
       {
         "id": "nrsr:org:club:1",
         "classification": "group",
-        "name": "Klub HLAS - SD",
+        "name": "Klub HLAS - sociálna demokracia",
         "since": "2023-11-14",
         "until": "2026-05-07"
       },
       {
-        "id": "nrsr:org:club:2",
+        "id": "nrsr:org:club:1",
         "classification": "group",
         "name": "Klub HLAS - sociálna demokracia",
         "since": "2026-05-07"
@@ -442,14 +442,14 @@
     ],
     "organizations": [
       {
-        "id": "nrsr:org:club:10",
+        "id": "nrsr:org:club:7",
         "classification": "group",
-        "name": "Klub SNS",
+        "name": "Klub Slovenská národná strana",
         "since": "2023-11-14",
         "until": "2026-05-07"
       },
       {
-        "id": "nrsr:org:club:13",
+        "id": "nrsr:org:club:7",
         "classification": "group",
         "name": "Klub Slovenská národná strana",
         "since": "2026-05-07"
@@ -475,14 +475,14 @@
     ],
     "organizations": [
       {
-        "id": "nrsr:org:club:4",
+        "id": "nrsr:org:club:3",
         "classification": "group",
-        "name": "Klub PS",
+        "name": "Klub Progresívne Slovensko",
         "since": "2023-11-14",
         "until": "2026-05-07"
       },
       {
-        "id": "nrsr:org:club:5",
+        "id": "nrsr:org:club:3",
         "classification": "group",
         "name": "Klub Progresívne Slovensko",
         "since": "2026-05-07"
@@ -510,12 +510,12 @@
       {
         "id": "nrsr:org:club:1",
         "classification": "group",
-        "name": "Klub HLAS - SD",
+        "name": "Klub HLAS - sociálna demokracia",
         "since": "2024-04-18",
         "until": "2026-05-07"
       },
       {
-        "id": "nrsr:org:club:2",
+        "id": "nrsr:org:club:1",
         "classification": "group",
         "name": "Klub HLAS - sociálna demokracia",
         "since": "2026-05-07"
@@ -541,14 +541,14 @@
     ],
     "organizations": [
       {
-        "id": "nrsr:org:club:11",
+        "id": "nrsr:org:club:6",
         "classification": "group",
-        "name": "Klub SaS",
+        "name": "Klub Sloboda a Solidarita",
         "since": "2023-11-14",
         "until": "2026-05-07"
       },
       {
-        "id": "nrsr:org:club:12",
+        "id": "nrsr:org:club:6",
         "classification": "group",
         "name": "Klub Sloboda a Solidarita",
         "since": "2026-05-07"
@@ -574,14 +574,14 @@
     ],
     "organizations": [
       {
-        "id": "nrsr:org:club:4",
+        "id": "nrsr:org:club:3",
         "classification": "group",
-        "name": "Klub PS",
+        "name": "Klub Progresívne Slovensko",
         "since": "2023-11-14",
         "until": "2026-05-07"
       },
       {
-        "id": "nrsr:org:club:5",
+        "id": "nrsr:org:club:3",
         "classification": "group",
         "name": "Klub Progresívne Slovensko",
         "since": "2026-05-07"
@@ -607,14 +607,14 @@
     ],
     "organizations": [
       {
-        "id": "nrsr:org:club:4",
+        "id": "nrsr:org:club:3",
         "classification": "group",
-        "name": "Klub PS",
+        "name": "Klub Progresívne Slovensko",
         "since": "2024-02-08",
         "until": "2026-05-07"
       },
       {
-        "id": "nrsr:org:club:5",
+        "id": "nrsr:org:club:3",
         "classification": "group",
         "name": "Klub Progresívne Slovensko",
         "since": "2026-05-07"
@@ -640,14 +640,14 @@
     ],
     "organizations": [
       {
-        "id": "nrsr:org:club:6",
+        "id": "nrsr:org:club:4",
         "classification": "group",
-        "name": "Klub SLOVENSKO",
+        "name": "Klub SLOVENSKO - ZA ĽUDÍ",
         "since": "2025-09-09",
         "until": "2026-05-07"
       },
       {
-        "id": "nrsr:org:club:7",
+        "id": "nrsr:org:club:4",
         "classification": "group",
         "name": "Klub SLOVENSKO - ZA ĽUDÍ",
         "since": "2026-05-07"
@@ -673,14 +673,14 @@
     ],
     "organizations": [
       {
-        "id": "nrsr:org:club:4",
+        "id": "nrsr:org:club:3",
         "classification": "group",
-        "name": "Klub PS",
+        "name": "Klub Progresívne Slovensko",
         "since": "2023-11-14",
         "until": "2026-05-07"
       },
       {
-        "id": "nrsr:org:club:5",
+        "id": "nrsr:org:club:3",
         "classification": "group",
         "name": "Klub Progresívne Slovensko",
         "since": "2026-05-07"
@@ -708,12 +708,12 @@
       {
         "id": "nrsr:org:club:1",
         "classification": "group",
-        "name": "Klub HLAS - SD",
+        "name": "Klub HLAS - sociálna demokracia",
         "since": "2023-11-14",
         "until": "2026-05-07"
       },
       {
-        "id": "nrsr:org:club:2",
+        "id": "nrsr:org:club:1",
         "classification": "group",
         "name": "Klub HLAS - sociálna demokracia",
         "since": "2026-05-07"
@@ -739,14 +739,14 @@
     ],
     "organizations": [
       {
-        "id": "nrsr:org:club:8",
+        "id": "nrsr:org:club:5",
         "classification": "group",
-        "name": "Klub SMER - SD",
+        "name": "Klub SMER - sociálna demokracia",
         "since": "2023-11-14",
         "until": "2026-05-07"
       },
       {
-        "id": "nrsr:org:club:9",
+        "id": "nrsr:org:club:5",
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
         "since": "2026-05-07"
@@ -772,14 +772,14 @@
     ],
     "organizations": [
       {
-        "id": "nrsr:org:club:10",
+        "id": "nrsr:org:club:7",
         "classification": "group",
-        "name": "Klub SNS",
+        "name": "Klub Slovenská národná strana",
         "since": "2023-11-14",
         "until": "2026-05-07"
       },
       {
-        "id": "nrsr:org:club:13",
+        "id": "nrsr:org:club:7",
         "classification": "group",
         "name": "Klub Slovenská národná strana",
         "since": "2026-05-07"
@@ -807,7 +807,7 @@
       {
         "id": "nrsr:org:club:1",
         "classification": "group",
-        "name": "Klub HLAS - SD",
+        "name": "Klub HLAS - sociálna demokracia",
         "since": "2023-11-14",
         "until": "2025-12-11"
       },
@@ -838,14 +838,14 @@
     ],
     "organizations": [
       {
-        "id": "nrsr:org:club:11",
+        "id": "nrsr:org:club:6",
         "classification": "group",
-        "name": "Klub SaS",
+        "name": "Klub Sloboda a Solidarita",
         "since": "2024-09-10",
         "until": "2026-05-07"
       },
       {
-        "id": "nrsr:org:club:12",
+        "id": "nrsr:org:club:6",
         "classification": "group",
         "name": "Klub Sloboda a Solidarita",
         "since": "2026-05-07"
@@ -871,14 +871,14 @@
     ],
     "organizations": [
       {
-        "id": "nrsr:org:club:8",
+        "id": "nrsr:org:club:5",
         "classification": "group",
-        "name": "Klub SMER - SD",
+        "name": "Klub SMER - sociálna demokracia",
         "since": "2023-11-14",
         "until": "2026-05-07"
       },
       {
-        "id": "nrsr:org:club:9",
+        "id": "nrsr:org:club:5",
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
         "since": "2026-05-07"
@@ -904,9 +904,9 @@
     ],
     "organizations": [
       {
-        "id": "nrsr:org:club:6",
+        "id": "nrsr:org:club:4",
         "classification": "group",
-        "name": "Klub SLOVENSKO",
+        "name": "Klub SLOVENSKO - ZA ĽUDÍ",
         "since": "2023-11-14",
         "until": "2024-08-21"
       },
@@ -937,14 +937,14 @@
     ],
     "organizations": [
       {
-        "id": "nrsr:org:club:10",
+        "id": "nrsr:org:club:7",
         "classification": "group",
-        "name": "Klub SNS",
+        "name": "Klub Slovenská národná strana",
         "since": "2023-11-14",
         "until": "2026-05-07"
       },
       {
-        "id": "nrsr:org:club:13",
+        "id": "nrsr:org:club:7",
         "classification": "group",
         "name": "Klub Slovenská národná strana",
         "since": "2026-05-07"
@@ -970,14 +970,14 @@
     ],
     "organizations": [
       {
-        "id": "nrsr:org:club:8",
+        "id": "nrsr:org:club:5",
         "classification": "group",
-        "name": "Klub SMER - SD",
+        "name": "Klub SMER - sociálna demokracia",
         "since": "2023-11-14",
         "until": "2026-05-07"
       },
       {
-        "id": "nrsr:org:club:9",
+        "id": "nrsr:org:club:5",
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
         "since": "2026-05-07"
@@ -1005,12 +1005,12 @@
       {
         "id": "nrsr:org:club:1",
         "classification": "group",
-        "name": "Klub HLAS - SD",
+        "name": "Klub HLAS - sociálna demokracia",
         "since": "2023-11-14",
         "until": "2026-05-07"
       },
       {
-        "id": "nrsr:org:club:2",
+        "id": "nrsr:org:club:1",
         "classification": "group",
         "name": "Klub HLAS - sociálna demokracia",
         "since": "2026-05-07"
@@ -1036,14 +1036,14 @@
     ],
     "organizations": [
       {
-        "id": "nrsr:org:club:4",
+        "id": "nrsr:org:club:3",
         "classification": "group",
-        "name": "Klub PS",
+        "name": "Klub Progresívne Slovensko",
         "since": "2023-11-14",
         "until": "2026-05-07"
       },
       {
-        "id": "nrsr:org:club:5",
+        "id": "nrsr:org:club:3",
         "classification": "group",
         "name": "Klub Progresívne Slovensko",
         "since": "2026-05-07"
@@ -1069,14 +1069,14 @@
     ],
     "organizations": [
       {
-        "id": "nrsr:org:club:8",
+        "id": "nrsr:org:club:5",
         "classification": "group",
-        "name": "Klub SMER - SD",
+        "name": "Klub SMER - sociálna demokracia",
         "since": "2024-02-08",
         "until": "2026-05-07"
       },
       {
-        "id": "nrsr:org:club:9",
+        "id": "nrsr:org:club:5",
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
         "since": "2026-05-07"
@@ -1102,14 +1102,14 @@
     ],
     "organizations": [
       {
-        "id": "nrsr:org:club:8",
+        "id": "nrsr:org:club:5",
         "classification": "group",
-        "name": "Klub SMER - SD",
+        "name": "Klub SMER - sociálna demokracia",
         "since": "2023-11-14",
         "until": "2026-05-07"
       },
       {
-        "id": "nrsr:org:club:9",
+        "id": "nrsr:org:club:5",
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
         "since": "2026-05-07"
@@ -1135,14 +1135,14 @@
     ],
     "organizations": [
       {
-        "id": "nrsr:org:club:4",
+        "id": "nrsr:org:club:3",
         "classification": "group",
-        "name": "Klub PS",
+        "name": "Klub Progresívne Slovensko",
         "since": "2025-09-09",
         "until": "2026-05-07"
       },
       {
-        "id": "nrsr:org:club:5",
+        "id": "nrsr:org:club:3",
         "classification": "group",
         "name": "Klub Progresívne Slovensko",
         "since": "2026-05-07"
@@ -1168,14 +1168,14 @@
     ],
     "organizations": [
       {
-        "id": "nrsr:org:club:6",
+        "id": "nrsr:org:club:4",
         "classification": "group",
-        "name": "Klub SLOVENSKO",
+        "name": "Klub SLOVENSKO - ZA ĽUDÍ",
         "since": "2023-11-14",
         "until": "2026-05-07"
       },
       {
-        "id": "nrsr:org:club:7",
+        "id": "nrsr:org:club:4",
         "classification": "group",
         "name": "Klub SLOVENSKO - ZA ĽUDÍ",
         "since": "2026-05-07"
@@ -1201,14 +1201,14 @@
     ],
     "organizations": [
       {
-        "id": "nrsr:org:club:11",
+        "id": "nrsr:org:club:6",
         "classification": "group",
-        "name": "Klub SaS",
+        "name": "Klub Sloboda a Solidarita",
         "since": "2023-11-14",
         "until": "2026-05-07"
       },
       {
-        "id": "nrsr:org:club:12",
+        "id": "nrsr:org:club:6",
         "classification": "group",
         "name": "Klub Sloboda a Solidarita",
         "since": "2026-05-07"
@@ -1234,14 +1234,14 @@
     ],
     "organizations": [
       {
-        "id": "nrsr:org:club:8",
+        "id": "nrsr:org:club:5",
         "classification": "group",
-        "name": "Klub SMER - SD",
+        "name": "Klub SMER - sociálna demokracia",
         "since": "2023-11-14",
         "until": "2026-05-07"
       },
       {
-        "id": "nrsr:org:club:9",
+        "id": "nrsr:org:club:5",
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
         "since": "2026-05-07"
@@ -1267,14 +1267,14 @@
     ],
     "organizations": [
       {
-        "id": "nrsr:org:club:8",
+        "id": "nrsr:org:club:5",
         "classification": "group",
-        "name": "Klub SMER - SD",
+        "name": "Klub SMER - sociálna demokracia",
         "since": "2023-11-14",
         "until": "2026-05-07"
       },
       {
-        "id": "nrsr:org:club:9",
+        "id": "nrsr:org:club:5",
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
         "since": "2026-05-07"
@@ -1300,14 +1300,14 @@
     ],
     "organizations": [
       {
-        "id": "nrsr:org:club:4",
+        "id": "nrsr:org:club:3",
         "classification": "group",
-        "name": "Klub PS",
+        "name": "Klub Progresívne Slovensko",
         "since": "2023-11-14",
         "until": "2026-05-07"
       },
       {
-        "id": "nrsr:org:club:5",
+        "id": "nrsr:org:club:3",
         "classification": "group",
         "name": "Klub Progresívne Slovensko",
         "since": "2026-05-07"
@@ -1333,14 +1333,14 @@
     ],
     "organizations": [
       {
-        "id": "nrsr:org:club:4",
+        "id": "nrsr:org:club:3",
         "classification": "group",
-        "name": "Klub PS",
+        "name": "Klub Progresívne Slovensko",
         "since": "2023-11-14",
         "until": "2026-05-07"
       },
       {
-        "id": "nrsr:org:club:5",
+        "id": "nrsr:org:club:3",
         "classification": "group",
         "name": "Klub Progresívne Slovensko",
         "since": "2026-05-07"
@@ -1366,14 +1366,14 @@
     ],
     "organizations": [
       {
-        "id": "nrsr:org:club:8",
+        "id": "nrsr:org:club:5",
         "classification": "group",
-        "name": "Klub SMER - SD",
+        "name": "Klub SMER - sociálna demokracia",
         "since": "2023-11-14",
         "until": "2026-05-07"
       },
       {
-        "id": "nrsr:org:club:9",
+        "id": "nrsr:org:club:5",
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
         "since": "2026-05-07"
@@ -1399,14 +1399,14 @@
     ],
     "organizations": [
       {
-        "id": "nrsr:org:club:11",
+        "id": "nrsr:org:club:6",
         "classification": "group",
-        "name": "Klub SaS",
+        "name": "Klub Sloboda a Solidarita",
         "since": "2023-11-14",
         "until": "2026-05-07"
       },
       {
-        "id": "nrsr:org:club:12",
+        "id": "nrsr:org:club:6",
         "classification": "group",
         "name": "Klub Sloboda a Solidarita",
         "since": "2026-05-07"
@@ -1432,7 +1432,7 @@
     ],
     "organizations": [
       {
-        "id": "nrsr:org:club:3",
+        "id": "nrsr:org:club:2",
         "classification": "group",
         "name": "Klub KDH",
         "since": "2023-11-14"
@@ -1458,14 +1458,14 @@
     ],
     "organizations": [
       {
-        "id": "nrsr:org:club:8",
+        "id": "nrsr:org:club:5",
         "classification": "group",
-        "name": "Klub SMER - SD",
+        "name": "Klub SMER - sociálna demokracia",
         "since": "2024-07-15",
         "until": "2026-05-07"
       },
       {
-        "id": "nrsr:org:club:9",
+        "id": "nrsr:org:club:5",
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
         "since": "2026-05-07"
@@ -1493,12 +1493,12 @@
       {
         "id": "nrsr:org:club:1",
         "classification": "group",
-        "name": "Klub HLAS - SD",
+        "name": "Klub HLAS - sociálna demokracia",
         "since": "2025-03-25",
         "until": "2026-05-07"
       },
       {
-        "id": "nrsr:org:club:2",
+        "id": "nrsr:org:club:1",
         "classification": "group",
         "name": "Klub HLAS - sociálna demokracia",
         "since": "2026-05-07"
@@ -1524,14 +1524,14 @@
     ],
     "organizations": [
       {
-        "id": "nrsr:org:club:6",
+        "id": "nrsr:org:club:4",
         "classification": "group",
-        "name": "Klub SLOVENSKO",
+        "name": "Klub SLOVENSKO - ZA ĽUDÍ",
         "since": "2023-11-14",
         "until": "2026-05-07"
       },
       {
-        "id": "nrsr:org:club:7",
+        "id": "nrsr:org:club:4",
         "classification": "group",
         "name": "Klub SLOVENSKO - ZA ĽUDÍ",
         "since": "2026-05-07"
@@ -1559,12 +1559,12 @@
       {
         "id": "nrsr:org:club:1",
         "classification": "group",
-        "name": "Klub HLAS - SD",
+        "name": "Klub HLAS - sociálna demokracia",
         "since": "2023-11-14",
         "until": "2026-05-07"
       },
       {
-        "id": "nrsr:org:club:2",
+        "id": "nrsr:org:club:1",
         "classification": "group",
         "name": "Klub HLAS - sociálna demokracia",
         "since": "2026-05-07"
@@ -1590,7 +1590,7 @@
     ],
     "organizations": [
       {
-        "id": "nrsr:org:club:3",
+        "id": "nrsr:org:club:2",
         "classification": "group",
         "name": "Klub KDH",
         "since": "2023-11-14"
@@ -1616,14 +1616,14 @@
     ],
     "organizations": [
       {
-        "id": "nrsr:org:club:8",
+        "id": "nrsr:org:club:5",
         "classification": "group",
-        "name": "Klub SMER - SD",
+        "name": "Klub SMER - sociálna demokracia",
         "since": "2023-11-14",
         "until": "2026-05-07"
       },
       {
-        "id": "nrsr:org:club:9",
+        "id": "nrsr:org:club:5",
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
         "since": "2026-05-07"
@@ -1649,14 +1649,14 @@
     ],
     "organizations": [
       {
-        "id": "nrsr:org:club:4",
+        "id": "nrsr:org:club:3",
         "classification": "group",
-        "name": "Klub PS",
+        "name": "Klub Progresívne Slovensko",
         "since": "2023-11-14",
         "until": "2026-05-07"
       },
       {
-        "id": "nrsr:org:club:5",
+        "id": "nrsr:org:club:3",
         "classification": "group",
         "name": "Klub Progresívne Slovensko",
         "since": "2026-05-07"
@@ -1682,14 +1682,14 @@
     ],
     "organizations": [
       {
-        "id": "nrsr:org:club:8",
+        "id": "nrsr:org:club:5",
         "classification": "group",
-        "name": "Klub SMER - SD",
+        "name": "Klub SMER - sociálna demokracia",
         "since": "2023-11-14",
         "until": "2026-05-07"
       },
       {
-        "id": "nrsr:org:club:9",
+        "id": "nrsr:org:club:5",
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
         "since": "2026-05-07"
@@ -1715,14 +1715,14 @@
     ],
     "organizations": [
       {
-        "id": "nrsr:org:club:4",
+        "id": "nrsr:org:club:3",
         "classification": "group",
-        "name": "Klub PS",
+        "name": "Klub Progresívne Slovensko",
         "since": "2023-11-14",
         "until": "2026-05-07"
       },
       {
-        "id": "nrsr:org:club:5",
+        "id": "nrsr:org:club:3",
         "classification": "group",
         "name": "Klub Progresívne Slovensko",
         "since": "2026-05-07"
@@ -1748,14 +1748,14 @@
     ],
     "organizations": [
       {
-        "id": "nrsr:org:club:8",
+        "id": "nrsr:org:club:5",
         "classification": "group",
-        "name": "Klub SMER - SD",
+        "name": "Klub SMER - sociálna demokracia",
         "since": "2024-07-15",
         "until": "2026-05-07"
       },
       {
-        "id": "nrsr:org:club:9",
+        "id": "nrsr:org:club:5",
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
         "since": "2026-05-07"
@@ -1783,12 +1783,12 @@
       {
         "id": "nrsr:org:club:1",
         "classification": "group",
-        "name": "Klub HLAS - SD",
+        "name": "Klub HLAS - sociálna demokracia",
         "since": "2023-11-14",
         "until": "2026-05-07"
       },
       {
-        "id": "nrsr:org:club:2",
+        "id": "nrsr:org:club:1",
         "classification": "group",
         "name": "Klub HLAS - sociálna demokracia",
         "since": "2026-05-07"
@@ -1814,14 +1814,14 @@
     ],
     "organizations": [
       {
-        "id": "nrsr:org:club:8",
+        "id": "nrsr:org:club:5",
         "classification": "group",
-        "name": "Klub SMER - SD",
+        "name": "Klub SMER - sociálna demokracia",
         "since": "2023-11-14",
         "until": "2026-05-07"
       },
       {
-        "id": "nrsr:org:club:9",
+        "id": "nrsr:org:club:5",
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
         "since": "2026-05-07"
@@ -1847,14 +1847,14 @@
     ],
     "organizations": [
       {
-        "id": "nrsr:org:club:8",
+        "id": "nrsr:org:club:5",
         "classification": "group",
-        "name": "Klub SMER - SD",
+        "name": "Klub SMER - sociálna demokracia",
         "since": "2023-11-14",
         "until": "2026-05-07"
       },
       {
-        "id": "nrsr:org:club:9",
+        "id": "nrsr:org:club:5",
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
         "since": "2026-05-07"
@@ -1880,14 +1880,14 @@
     ],
     "organizations": [
       {
-        "id": "nrsr:org:club:8",
+        "id": "nrsr:org:club:5",
         "classification": "group",
-        "name": "Klub SMER - SD",
+        "name": "Klub SMER - sociálna demokracia",
         "since": "2023-11-14",
         "until": "2026-05-07"
       },
       {
-        "id": "nrsr:org:club:9",
+        "id": "nrsr:org:club:5",
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
         "since": "2026-05-07"
@@ -1913,14 +1913,14 @@
     ],
     "organizations": [
       {
-        "id": "nrsr:org:club:4",
+        "id": "nrsr:org:club:3",
         "classification": "group",
-        "name": "Klub PS",
+        "name": "Klub Progresívne Slovensko",
         "since": "2023-11-14",
         "until": "2026-05-07"
       },
       {
-        "id": "nrsr:org:club:5",
+        "id": "nrsr:org:club:3",
         "classification": "group",
         "name": "Klub Progresívne Slovensko",
         "since": "2026-05-07"
@@ -1946,14 +1946,14 @@
     ],
     "organizations": [
       {
-        "id": "nrsr:org:club:4",
+        "id": "nrsr:org:club:3",
         "classification": "group",
-        "name": "Klub PS",
+        "name": "Klub Progresívne Slovensko",
         "since": "2023-11-14",
         "until": "2026-05-07"
       },
       {
-        "id": "nrsr:org:club:5",
+        "id": "nrsr:org:club:3",
         "classification": "group",
         "name": "Klub Progresívne Slovensko",
         "since": "2026-05-07"
@@ -1981,12 +1981,12 @@
       {
         "id": "nrsr:org:club:1",
         "classification": "group",
-        "name": "Klub HLAS - SD",
+        "name": "Klub HLAS - sociálna demokracia",
         "since": "2025-11-25",
         "until": "2026-05-07"
       },
       {
-        "id": "nrsr:org:club:2",
+        "id": "nrsr:org:club:1",
         "classification": "group",
         "name": "Klub HLAS - sociálna demokracia",
         "since": "2026-05-07"
@@ -2012,7 +2012,7 @@
     ],
     "organizations": [
       {
-        "id": "nrsr:org:club:3",
+        "id": "nrsr:org:club:2",
         "classification": "group",
         "name": "Klub KDH",
         "since": "2026-02-03"
@@ -2038,14 +2038,14 @@
     ],
     "organizations": [
       {
-        "id": "nrsr:org:club:11",
+        "id": "nrsr:org:club:6",
         "classification": "group",
-        "name": "Klub SaS",
+        "name": "Klub Sloboda a Solidarita",
         "since": "2023-11-14",
         "until": "2026-05-07"
       },
       {
-        "id": "nrsr:org:club:12",
+        "id": "nrsr:org:club:6",
         "classification": "group",
         "name": "Klub Sloboda a Solidarita",
         "since": "2026-05-07"
@@ -2071,14 +2071,14 @@
     ],
     "organizations": [
       {
-        "id": "nrsr:org:club:4",
+        "id": "nrsr:org:club:3",
         "classification": "group",
-        "name": "Klub PS",
+        "name": "Klub Progresívne Slovensko",
         "since": "2023-11-14",
         "until": "2026-05-07"
       },
       {
-        "id": "nrsr:org:club:5",
+        "id": "nrsr:org:club:3",
         "classification": "group",
         "name": "Klub Progresívne Slovensko",
         "since": "2026-05-07"
@@ -2104,14 +2104,14 @@
     ],
     "organizations": [
       {
-        "id": "nrsr:org:club:10",
+        "id": "nrsr:org:club:7",
         "classification": "group",
-        "name": "Klub SNS",
+        "name": "Klub Slovenská národná strana",
         "since": "2023-11-14",
         "until": "2026-05-07"
       },
       {
-        "id": "nrsr:org:club:13",
+        "id": "nrsr:org:club:7",
         "classification": "group",
         "name": "Klub Slovenská národná strana",
         "since": "2026-05-07"
@@ -2137,14 +2137,14 @@
     ],
     "organizations": [
       {
-        "id": "nrsr:org:club:6",
+        "id": "nrsr:org:club:4",
         "classification": "group",
-        "name": "Klub SLOVENSKO",
+        "name": "Klub SLOVENSKO - ZA ĽUDÍ",
         "since": "2023-11-14",
         "until": "2026-05-07"
       },
       {
-        "id": "nrsr:org:club:7",
+        "id": "nrsr:org:club:4",
         "classification": "group",
         "name": "Klub SLOVENSKO - ZA ĽUDÍ",
         "since": "2026-05-07"
@@ -2170,14 +2170,14 @@
     ],
     "organizations": [
       {
-        "id": "nrsr:org:club:10",
+        "id": "nrsr:org:club:7",
         "classification": "group",
-        "name": "Klub SNS",
+        "name": "Klub Slovenská národná strana",
         "since": "2023-11-14",
         "until": "2026-05-07"
       },
       {
-        "id": "nrsr:org:club:13",
+        "id": "nrsr:org:club:7",
         "classification": "group",
         "name": "Klub Slovenská národná strana",
         "since": "2026-05-07"
@@ -2203,14 +2203,14 @@
     ],
     "organizations": [
       {
-        "id": "nrsr:org:club:6",
+        "id": "nrsr:org:club:4",
         "classification": "group",
-        "name": "Klub SLOVENSKO",
+        "name": "Klub SLOVENSKO - ZA ĽUDÍ",
         "since": "2023-11-14",
         "until": "2025-10-01"
       },
       {
-        "id": "nrsr:org:club:3",
+        "id": "nrsr:org:club:2",
         "classification": "group",
         "name": "Klub KDH",
         "since": "2026-01-27"
@@ -2236,14 +2236,14 @@
     ],
     "organizations": [
       {
-        "id": "nrsr:org:club:11",
+        "id": "nrsr:org:club:6",
         "classification": "group",
-        "name": "Klub SaS",
+        "name": "Klub Sloboda a Solidarita",
         "since": "2023-11-14",
         "until": "2026-05-07"
       },
       {
-        "id": "nrsr:org:club:12",
+        "id": "nrsr:org:club:6",
         "classification": "group",
         "name": "Klub Sloboda a Solidarita",
         "since": "2026-05-07"
@@ -2269,14 +2269,14 @@
     ],
     "organizations": [
       {
-        "id": "nrsr:org:club:8",
+        "id": "nrsr:org:club:5",
         "classification": "group",
-        "name": "Klub SMER - SD",
+        "name": "Klub SMER - sociálna demokracia",
         "since": "2023-11-14",
         "until": "2026-05-07"
       },
       {
-        "id": "nrsr:org:club:9",
+        "id": "nrsr:org:club:5",
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
         "since": "2026-05-07"
@@ -2302,14 +2302,14 @@
     ],
     "organizations": [
       {
-        "id": "nrsr:org:club:8",
+        "id": "nrsr:org:club:5",
         "classification": "group",
-        "name": "Klub SMER - SD",
+        "name": "Klub SMER - sociálna demokracia",
         "since": "2023-11-14",
         "until": "2026-05-07"
       },
       {
-        "id": "nrsr:org:club:9",
+        "id": "nrsr:org:club:5",
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
         "since": "2026-05-07"
@@ -2335,14 +2335,14 @@
     ],
     "organizations": [
       {
-        "id": "nrsr:org:club:4",
+        "id": "nrsr:org:club:3",
         "classification": "group",
-        "name": "Klub PS",
+        "name": "Klub Progresívne Slovensko",
         "since": "2023-11-14",
         "until": "2026-05-07"
       },
       {
-        "id": "nrsr:org:club:5",
+        "id": "nrsr:org:club:3",
         "classification": "group",
         "name": "Klub Progresívne Slovensko",
         "since": "2026-05-07"
@@ -2370,12 +2370,12 @@
       {
         "id": "nrsr:org:club:1",
         "classification": "group",
-        "name": "Klub HLAS - SD",
+        "name": "Klub HLAS - sociálna demokracia",
         "since": "2023-11-14",
         "until": "2026-05-07"
       },
       {
-        "id": "nrsr:org:club:2",
+        "id": "nrsr:org:club:1",
         "classification": "group",
         "name": "Klub HLAS - sociálna demokracia",
         "since": "2026-05-07"
@@ -2401,14 +2401,14 @@
     ],
     "organizations": [
       {
-        "id": "nrsr:org:club:11",
+        "id": "nrsr:org:club:6",
         "classification": "group",
-        "name": "Klub SaS",
+        "name": "Klub Sloboda a Solidarita",
         "since": "2023-11-14",
         "until": "2026-05-07"
       },
       {
-        "id": "nrsr:org:club:12",
+        "id": "nrsr:org:club:6",
         "classification": "group",
         "name": "Klub Sloboda a Solidarita",
         "since": "2026-05-07"
@@ -2434,14 +2434,14 @@
     ],
     "organizations": [
       {
-        "id": "nrsr:org:club:8",
+        "id": "nrsr:org:club:5",
         "classification": "group",
-        "name": "Klub SMER - SD",
+        "name": "Klub SMER - sociálna demokracia",
         "since": "2023-11-14",
         "until": "2026-05-07"
       },
       {
-        "id": "nrsr:org:club:9",
+        "id": "nrsr:org:club:5",
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
         "since": "2026-05-07"
@@ -2467,14 +2467,14 @@
     ],
     "organizations": [
       {
-        "id": "nrsr:org:club:10",
+        "id": "nrsr:org:club:7",
         "classification": "group",
-        "name": "Klub SNS",
+        "name": "Klub Slovenská národná strana",
         "since": "2023-11-14",
         "until": "2026-05-07"
       },
       {
-        "id": "nrsr:org:club:13",
+        "id": "nrsr:org:club:7",
         "classification": "group",
         "name": "Klub Slovenská národná strana",
         "since": "2026-05-07"
@@ -2500,14 +2500,14 @@
     ],
     "organizations": [
       {
-        "id": "nrsr:org:club:8",
+        "id": "nrsr:org:club:5",
         "classification": "group",
-        "name": "Klub SMER - SD",
+        "name": "Klub SMER - sociálna demokracia",
         "since": "2023-11-14",
         "until": "2026-05-07"
       },
       {
-        "id": "nrsr:org:club:9",
+        "id": "nrsr:org:club:5",
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
         "since": "2026-05-07"
@@ -2533,14 +2533,14 @@
     ],
     "organizations": [
       {
-        "id": "nrsr:org:club:4",
+        "id": "nrsr:org:club:3",
         "classification": "group",
-        "name": "Klub PS",
+        "name": "Klub Progresívne Slovensko",
         "since": "2023-11-14",
         "until": "2026-05-07"
       },
       {
-        "id": "nrsr:org:club:5",
+        "id": "nrsr:org:club:3",
         "classification": "group",
         "name": "Klub Progresívne Slovensko",
         "since": "2026-05-07"
@@ -2566,9 +2566,9 @@
     ],
     "organizations": [
       {
-        "id": "nrsr:org:club:10",
+        "id": "nrsr:org:club:7",
         "classification": "group",
-        "name": "Klub SNS",
+        "name": "Klub Slovenská národná strana",
         "since": "2023-11-14",
         "until": "2024-10-22"
       },
@@ -2599,14 +2599,14 @@
     ],
     "organizations": [
       {
-        "id": "nrsr:org:club:8",
+        "id": "nrsr:org:club:5",
         "classification": "group",
-        "name": "Klub SMER - SD",
+        "name": "Klub SMER - sociálna demokracia",
         "since": "2025-11-25",
         "until": "2026-05-07"
       },
       {
-        "id": "nrsr:org:club:9",
+        "id": "nrsr:org:club:5",
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
         "since": "2026-05-07"
@@ -2634,12 +2634,12 @@
       {
         "id": "nrsr:org:club:1",
         "classification": "group",
-        "name": "Klub HLAS - SD",
+        "name": "Klub HLAS - sociálna demokracia",
         "since": "2023-11-14",
         "until": "2026-05-07"
       },
       {
-        "id": "nrsr:org:club:2",
+        "id": "nrsr:org:club:1",
         "classification": "group",
         "name": "Klub HLAS - sociálna demokracia",
         "since": "2026-05-07"
@@ -2665,7 +2665,7 @@
     ],
     "organizations": [
       {
-        "id": "nrsr:org:club:3",
+        "id": "nrsr:org:club:2",
         "classification": "group",
         "name": "Klub KDH",
         "since": "2023-11-14"
@@ -2691,7 +2691,7 @@
     ],
     "organizations": [
       {
-        "id": "nrsr:org:club:3",
+        "id": "nrsr:org:club:2",
         "classification": "group",
         "name": "Klub KDH",
         "since": "2023-11-14"
@@ -2719,7 +2719,7 @@
       {
         "id": "nrsr:org:club:1",
         "classification": "group",
-        "name": "Klub HLAS - SD",
+        "name": "Klub HLAS - sociálna demokracia",
         "since": "2023-11-14",
         "until": "2025-02-04"
       },
@@ -2750,14 +2750,14 @@
     ],
     "organizations": [
       {
-        "id": "nrsr:org:club:11",
+        "id": "nrsr:org:club:6",
         "classification": "group",
-        "name": "Klub SaS",
+        "name": "Klub Sloboda a Solidarita",
         "since": "2023-11-14",
         "until": "2026-05-07"
       },
       {
-        "id": "nrsr:org:club:12",
+        "id": "nrsr:org:club:6",
         "classification": "group",
         "name": "Klub Sloboda a Solidarita",
         "since": "2026-05-07"
@@ -2783,14 +2783,14 @@
     ],
     "organizations": [
       {
-        "id": "nrsr:org:club:8",
+        "id": "nrsr:org:club:5",
         "classification": "group",
-        "name": "Klub SMER - SD",
+        "name": "Klub SMER - sociálna demokracia",
         "since": "2023-11-14",
         "until": "2026-05-07"
       },
       {
-        "id": "nrsr:org:club:9",
+        "id": "nrsr:org:club:5",
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
         "since": "2026-05-07"
@@ -2816,14 +2816,14 @@
     ],
     "organizations": [
       {
-        "id": "nrsr:org:club:6",
+        "id": "nrsr:org:club:4",
         "classification": "group",
-        "name": "Klub SLOVENSKO",
+        "name": "Klub SLOVENSKO - ZA ĽUDÍ",
         "since": "2023-11-14",
         "until": "2026-05-07"
       },
       {
-        "id": "nrsr:org:club:7",
+        "id": "nrsr:org:club:4",
         "classification": "group",
         "name": "Klub SLOVENSKO - ZA ĽUDÍ",
         "since": "2026-05-07"
@@ -2849,14 +2849,14 @@
     ],
     "organizations": [
       {
-        "id": "nrsr:org:club:8",
+        "id": "nrsr:org:club:5",
         "classification": "group",
-        "name": "Klub SMER - SD",
+        "name": "Klub SMER - sociálna demokracia",
         "since": "2023-11-14",
         "until": "2026-05-07"
       },
       {
-        "id": "nrsr:org:club:9",
+        "id": "nrsr:org:club:5",
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
         "since": "2026-05-07"
@@ -2882,14 +2882,14 @@
     ],
     "organizations": [
       {
-        "id": "nrsr:org:club:8",
+        "id": "nrsr:org:club:5",
         "classification": "group",
-        "name": "Klub SMER - SD",
+        "name": "Klub SMER - sociálna demokracia",
         "since": "2023-11-14",
         "until": "2026-05-07"
       },
       {
-        "id": "nrsr:org:club:9",
+        "id": "nrsr:org:club:5",
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
         "since": "2026-05-07"
@@ -2915,14 +2915,14 @@
     ],
     "organizations": [
       {
-        "id": "nrsr:org:club:4",
+        "id": "nrsr:org:club:3",
         "classification": "group",
-        "name": "Klub PS",
+        "name": "Klub Progresívne Slovensko",
         "since": "2023-11-14",
         "until": "2026-05-07"
       },
       {
-        "id": "nrsr:org:club:5",
+        "id": "nrsr:org:club:3",
         "classification": "group",
         "name": "Klub Progresívne Slovensko",
         "since": "2026-05-07"
@@ -2948,14 +2948,14 @@
     ],
     "organizations": [
       {
-        "id": "nrsr:org:club:10",
+        "id": "nrsr:org:club:7",
         "classification": "group",
-        "name": "Klub SNS",
+        "name": "Klub Slovenská národná strana",
         "since": "2023-11-14",
         "until": "2026-05-07"
       },
       {
-        "id": "nrsr:org:club:13",
+        "id": "nrsr:org:club:7",
         "classification": "group",
         "name": "Klub Slovenská národná strana",
         "since": "2026-05-07"
@@ -2981,7 +2981,7 @@
     ],
     "organizations": [
       {
-        "id": "nrsr:org:club:3",
+        "id": "nrsr:org:club:2",
         "classification": "group",
         "name": "Klub KDH",
         "since": "2023-11-14"
@@ -3007,14 +3007,14 @@
     ],
     "organizations": [
       {
-        "id": "nrsr:org:club:6",
+        "id": "nrsr:org:club:4",
         "classification": "group",
-        "name": "Klub SLOVENSKO",
+        "name": "Klub SLOVENSKO - ZA ĽUDÍ",
         "since": "2023-11-14",
         "until": "2026-05-07"
       },
       {
-        "id": "nrsr:org:club:7",
+        "id": "nrsr:org:club:4",
         "classification": "group",
         "name": "Klub SLOVENSKO - ZA ĽUDÍ",
         "since": "2026-05-07"
@@ -3040,21 +3040,21 @@
     ],
     "organizations": [
       {
-        "id": "nrsr:org:club:8",
+        "id": "nrsr:org:club:5",
         "classification": "group",
-        "name": "Klub SMER - SD",
+        "name": "Klub SMER - sociálna demokracia",
         "since": "2023-11-14",
         "until": "2024-10-22"
       },
       {
-        "id": "nrsr:org:club:10",
+        "id": "nrsr:org:club:7",
         "classification": "group",
-        "name": "Klub SNS",
+        "name": "Klub Slovenská národná strana",
         "since": "2024-10-23",
         "until": "2026-05-07"
       },
       {
-        "id": "nrsr:org:club:13",
+        "id": "nrsr:org:club:7",
         "classification": "group",
         "name": "Klub Slovenská národná strana",
         "since": "2026-05-07"
@@ -3082,12 +3082,12 @@
       {
         "id": "nrsr:org:club:1",
         "classification": "group",
-        "name": "Klub HLAS - SD",
+        "name": "Klub HLAS - sociálna demokracia",
         "since": "2023-11-14",
         "until": "2026-05-07"
       },
       {
-        "id": "nrsr:org:club:2",
+        "id": "nrsr:org:club:1",
         "classification": "group",
         "name": "Klub HLAS - sociálna demokracia",
         "since": "2026-05-07"
@@ -3113,14 +3113,14 @@
     ],
     "organizations": [
       {
-        "id": "nrsr:org:club:4",
+        "id": "nrsr:org:club:3",
         "classification": "group",
-        "name": "Klub PS",
+        "name": "Klub Progresívne Slovensko",
         "since": "2023-12-06",
         "until": "2026-05-07"
       },
       {
-        "id": "nrsr:org:club:5",
+        "id": "nrsr:org:club:3",
         "classification": "group",
         "name": "Klub Progresívne Slovensko",
         "since": "2026-05-07"
@@ -3148,12 +3148,12 @@
       {
         "id": "nrsr:org:club:1",
         "classification": "group",
-        "name": "Klub HLAS - SD",
+        "name": "Klub HLAS - sociálna demokracia",
         "since": "2023-11-14",
         "until": "2026-05-07"
       },
       {
-        "id": "nrsr:org:club:2",
+        "id": "nrsr:org:club:1",
         "classification": "group",
         "name": "Klub HLAS - sociálna demokracia",
         "since": "2026-05-07"
@@ -3179,7 +3179,7 @@
     ],
     "organizations": [
       {
-        "id": "nrsr:org:club:3",
+        "id": "nrsr:org:club:2",
         "classification": "group",
         "name": "Klub KDH",
         "since": "2026-04-16"
@@ -3205,14 +3205,14 @@
     ],
     "organizations": [
       {
-        "id": "nrsr:org:club:4",
+        "id": "nrsr:org:club:3",
         "classification": "group",
-        "name": "Klub PS",
+        "name": "Klub Progresívne Slovensko",
         "since": "2023-11-14",
         "until": "2026-05-07"
       },
       {
-        "id": "nrsr:org:club:5",
+        "id": "nrsr:org:club:3",
         "classification": "group",
         "name": "Klub Progresívne Slovensko",
         "since": "2026-05-07"
@@ -3238,14 +3238,14 @@
     ],
     "organizations": [
       {
-        "id": "nrsr:org:club:8",
+        "id": "nrsr:org:club:5",
         "classification": "group",
-        "name": "Klub SMER - SD",
+        "name": "Klub SMER - sociálna demokracia",
         "since": "2023-11-14",
         "until": "2026-05-07"
       },
       {
-        "id": "nrsr:org:club:9",
+        "id": "nrsr:org:club:5",
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
         "since": "2026-05-07"
@@ -3271,14 +3271,14 @@
     ],
     "organizations": [
       {
-        "id": "nrsr:org:club:4",
+        "id": "nrsr:org:club:3",
         "classification": "group",
-        "name": "Klub PS",
+        "name": "Klub Progresívne Slovensko",
         "since": "2023-11-14",
         "until": "2026-05-07"
       },
       {
-        "id": "nrsr:org:club:5",
+        "id": "nrsr:org:club:3",
         "classification": "group",
         "name": "Klub Progresívne Slovensko",
         "since": "2026-05-07"
@@ -3304,14 +3304,14 @@
     ],
     "organizations": [
       {
-        "id": "nrsr:org:club:8",
+        "id": "nrsr:org:club:5",
         "classification": "group",
-        "name": "Klub SMER - SD",
+        "name": "Klub SMER - sociálna demokracia",
         "since": "2023-11-14",
         "until": "2026-05-07"
       },
       {
-        "id": "nrsr:org:club:9",
+        "id": "nrsr:org:club:5",
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
         "since": "2026-05-07"
@@ -3337,14 +3337,14 @@
     ],
     "organizations": [
       {
-        "id": "nrsr:org:club:8",
+        "id": "nrsr:org:club:5",
         "classification": "group",
-        "name": "Klub SMER - SD",
+        "name": "Klub SMER - sociálna demokracia",
         "since": "2023-11-14",
         "until": "2026-05-07"
       },
       {
-        "id": "nrsr:org:club:9",
+        "id": "nrsr:org:club:5",
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
         "since": "2026-05-07"
@@ -3370,14 +3370,14 @@
     ],
     "organizations": [
       {
-        "id": "nrsr:org:club:6",
+        "id": "nrsr:org:club:4",
         "classification": "group",
-        "name": "Klub SLOVENSKO",
+        "name": "Klub SLOVENSKO - ZA ĽUDÍ",
         "since": "2023-11-14",
         "until": "2026-05-07"
       },
       {
-        "id": "nrsr:org:club:7",
+        "id": "nrsr:org:club:4",
         "classification": "group",
         "name": "Klub SLOVENSKO - ZA ĽUDÍ",
         "since": "2026-05-07"
@@ -3403,14 +3403,14 @@
     ],
     "organizations": [
       {
-        "id": "nrsr:org:club:6",
+        "id": "nrsr:org:club:4",
         "classification": "group",
-        "name": "Klub SLOVENSKO",
+        "name": "Klub SLOVENSKO - ZA ĽUDÍ",
         "since": "2023-11-14",
         "until": "2026-05-07"
       },
       {
-        "id": "nrsr:org:club:7",
+        "id": "nrsr:org:club:4",
         "classification": "group",
         "name": "Klub SLOVENSKO - ZA ĽUDÍ",
         "since": "2026-05-07"
@@ -3436,14 +3436,14 @@
     ],
     "organizations": [
       {
-        "id": "nrsr:org:club:4",
+        "id": "nrsr:org:club:3",
         "classification": "group",
-        "name": "Klub PS",
+        "name": "Klub Progresívne Slovensko",
         "since": "2023-11-14",
         "until": "2026-05-07"
       },
       {
-        "id": "nrsr:org:club:5",
+        "id": "nrsr:org:club:3",
         "classification": "group",
         "name": "Klub Progresívne Slovensko",
         "since": "2026-05-07"
@@ -3471,12 +3471,12 @@
       {
         "id": "nrsr:org:club:1",
         "classification": "group",
-        "name": "Klub HLAS - SD",
+        "name": "Klub HLAS - sociálna demokracia",
         "since": "2023-11-14",
         "until": "2026-05-07"
       },
       {
-        "id": "nrsr:org:club:2",
+        "id": "nrsr:org:club:1",
         "classification": "group",
         "name": "Klub HLAS - sociálna demokracia",
         "since": "2026-05-07"
@@ -3504,12 +3504,12 @@
       {
         "id": "nrsr:org:club:1",
         "classification": "group",
-        "name": "Klub HLAS - SD",
+        "name": "Klub HLAS - sociálna demokracia",
         "since": "2023-11-14",
         "until": "2026-05-07"
       },
       {
-        "id": "nrsr:org:club:2",
+        "id": "nrsr:org:club:1",
         "classification": "group",
         "name": "Klub HLAS - sociálna demokracia",
         "since": "2026-05-07"
@@ -3563,12 +3563,12 @@
       {
         "id": "nrsr:org:club:1",
         "classification": "group",
-        "name": "Klub HLAS - SD",
+        "name": "Klub HLAS - sociálna demokracia",
         "since": "2025-03-25",
         "until": "2026-05-07"
       },
       {
-        "id": "nrsr:org:club:2",
+        "id": "nrsr:org:club:1",
         "classification": "group",
         "name": "Klub HLAS - sociálna demokracia",
         "since": "2026-05-07"
@@ -3594,14 +3594,14 @@
     ],
     "organizations": [
       {
-        "id": "nrsr:org:club:6",
+        "id": "nrsr:org:club:4",
         "classification": "group",
-        "name": "Klub SLOVENSKO",
+        "name": "Klub SLOVENSKO - ZA ĽUDÍ",
         "since": "2023-11-14",
         "until": "2026-05-07"
       },
       {
-        "id": "nrsr:org:club:7",
+        "id": "nrsr:org:club:4",
         "classification": "group",
         "name": "Klub SLOVENSKO - ZA ĽUDÍ",
         "since": "2026-05-07"
@@ -3627,14 +3627,14 @@
     ],
     "organizations": [
       {
-        "id": "nrsr:org:club:8",
+        "id": "nrsr:org:club:5",
         "classification": "group",
-        "name": "Klub SMER - SD",
+        "name": "Klub SMER - sociálna demokracia",
         "since": "2023-11-14",
         "until": "2026-05-07"
       },
       {
-        "id": "nrsr:org:club:9",
+        "id": "nrsr:org:club:5",
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
         "since": "2026-05-07"
@@ -3660,14 +3660,14 @@
     ],
     "organizations": [
       {
-        "id": "nrsr:org:club:4",
+        "id": "nrsr:org:club:3",
         "classification": "group",
-        "name": "Klub PS",
+        "name": "Klub Progresívne Slovensko",
         "since": "2023-11-14",
         "until": "2026-05-07"
       },
       {
-        "id": "nrsr:org:club:5",
+        "id": "nrsr:org:club:3",
         "classification": "group",
         "name": "Klub Progresívne Slovensko",
         "since": "2026-05-07"
@@ -3693,14 +3693,14 @@
     ],
     "organizations": [
       {
-        "id": "nrsr:org:club:8",
+        "id": "nrsr:org:club:5",
         "classification": "group",
-        "name": "Klub SMER - SD",
+        "name": "Klub SMER - sociálna demokracia",
         "since": "2023-11-14",
         "until": "2026-05-07"
       },
       {
-        "id": "nrsr:org:club:9",
+        "id": "nrsr:org:club:5",
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
         "since": "2026-05-07"
@@ -3726,14 +3726,14 @@
     ],
     "organizations": [
       {
-        "id": "nrsr:org:club:8",
+        "id": "nrsr:org:club:5",
         "classification": "group",
-        "name": "Klub SMER - SD",
+        "name": "Klub SMER - sociálna demokracia",
         "since": "2023-11-14",
         "until": "2026-05-07"
       },
       {
-        "id": "nrsr:org:club:9",
+        "id": "nrsr:org:club:5",
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
         "since": "2026-05-07"
@@ -3759,14 +3759,14 @@
     ],
     "organizations": [
       {
-        "id": "nrsr:org:club:8",
+        "id": "nrsr:org:club:5",
         "classification": "group",
-        "name": "Klub SMER - SD",
+        "name": "Klub SMER - sociálna demokracia",
         "since": "2023-11-14",
         "until": "2026-05-07"
       },
       {
-        "id": "nrsr:org:club:9",
+        "id": "nrsr:org:club:5",
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
         "since": "2026-05-07"
@@ -3792,14 +3792,14 @@
     ],
     "organizations": [
       {
-        "id": "nrsr:org:club:8",
+        "id": "nrsr:org:club:5",
         "classification": "group",
-        "name": "Klub SMER - SD",
+        "name": "Klub SMER - sociálna demokracia",
         "since": "2023-11-14",
         "until": "2026-05-07"
       },
       {
-        "id": "nrsr:org:club:9",
+        "id": "nrsr:org:club:5",
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
         "since": "2026-05-07"
@@ -3825,14 +3825,14 @@
     ],
     "organizations": [
       {
-        "id": "nrsr:org:club:4",
+        "id": "nrsr:org:club:3",
         "classification": "group",
-        "name": "Klub PS",
+        "name": "Klub Progresívne Slovensko",
         "since": "2023-11-14",
         "until": "2026-05-07"
       },
       {
-        "id": "nrsr:org:club:5",
+        "id": "nrsr:org:club:3",
         "classification": "group",
         "name": "Klub Progresívne Slovensko",
         "since": "2026-05-07"
@@ -3858,7 +3858,7 @@
     ],
     "organizations": [
       {
-        "id": "nrsr:org:club:3",
+        "id": "nrsr:org:club:2",
         "classification": "group",
         "name": "Klub KDH",
         "since": "2023-11-14"
@@ -3884,14 +3884,14 @@
     ],
     "organizations": [
       {
-        "id": "nrsr:org:club:4",
+        "id": "nrsr:org:club:3",
         "classification": "group",
-        "name": "Klub PS",
+        "name": "Klub Progresívne Slovensko",
         "since": "2023-11-14",
         "until": "2026-05-07"
       },
       {
-        "id": "nrsr:org:club:5",
+        "id": "nrsr:org:club:3",
         "classification": "group",
         "name": "Klub Progresívne Slovensko",
         "since": "2026-05-07"
@@ -3917,14 +3917,14 @@
     ],
     "organizations": [
       {
-        "id": "nrsr:org:club:8",
+        "id": "nrsr:org:club:5",
         "classification": "group",
-        "name": "Klub SMER - SD",
+        "name": "Klub SMER - sociálna demokracia",
         "since": "2023-11-14",
         "until": "2026-05-07"
       },
       {
-        "id": "nrsr:org:club:9",
+        "id": "nrsr:org:club:5",
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
         "since": "2026-05-07"
@@ -3950,14 +3950,14 @@
     ],
     "organizations": [
       {
-        "id": "nrsr:org:club:8",
+        "id": "nrsr:org:club:5",
         "classification": "group",
-        "name": "Klub SMER - SD",
+        "name": "Klub SMER - sociálna demokracia",
         "since": "2023-11-14",
         "until": "2026-05-07"
       },
       {
-        "id": "nrsr:org:club:9",
+        "id": "nrsr:org:club:5",
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
         "since": "2026-05-07"
@@ -3985,12 +3985,12 @@
       {
         "id": "nrsr:org:club:1",
         "classification": "group",
-        "name": "Klub HLAS - SD",
+        "name": "Klub HLAS - sociálna demokracia",
         "since": "2023-11-14",
         "until": "2026-05-07"
       },
       {
-        "id": "nrsr:org:club:2",
+        "id": "nrsr:org:club:1",
         "classification": "group",
         "name": "Klub HLAS - sociálna demokracia",
         "since": "2026-05-07"
@@ -4018,12 +4018,12 @@
       {
         "id": "nrsr:org:club:1",
         "classification": "group",
-        "name": "Klub HLAS - SD",
+        "name": "Klub HLAS - sociálna demokracia",
         "since": "2024-04-18",
         "until": "2026-05-07"
       },
       {
-        "id": "nrsr:org:club:2",
+        "id": "nrsr:org:club:1",
         "classification": "group",
         "name": "Klub HLAS - sociálna demokracia",
         "since": "2026-05-07"
@@ -4049,14 +4049,14 @@
     ],
     "organizations": [
       {
-        "id": "nrsr:org:club:11",
+        "id": "nrsr:org:club:6",
         "classification": "group",
-        "name": "Klub SaS",
+        "name": "Klub Sloboda a Solidarita",
         "since": "2023-11-14",
         "until": "2026-05-07"
       },
       {
-        "id": "nrsr:org:club:12",
+        "id": "nrsr:org:club:6",
         "classification": "group",
         "name": "Klub Sloboda a Solidarita",
         "since": "2026-05-07"
@@ -4082,9 +4082,9 @@
     ],
     "organizations": [
       {
-        "id": "nrsr:org:club:10",
+        "id": "nrsr:org:club:7",
         "classification": "group",
-        "name": "Klub SNS",
+        "name": "Klub Slovenská národná strana",
         "since": "2023-11-14",
         "until": "2024-10-22"
       },
@@ -4115,14 +4115,14 @@
     ],
     "organizations": [
       {
-        "id": "nrsr:org:club:4",
+        "id": "nrsr:org:club:3",
         "classification": "group",
-        "name": "Klub PS",
+        "name": "Klub Progresívne Slovensko",
         "since": "2023-11-14",
         "until": "2026-05-07"
       },
       {
-        "id": "nrsr:org:club:5",
+        "id": "nrsr:org:club:3",
         "classification": "group",
         "name": "Klub Progresívne Slovensko",
         "since": "2026-05-07"
@@ -4150,12 +4150,12 @@
       {
         "id": "nrsr:org:club:1",
         "classification": "group",
-        "name": "Klub HLAS - SD",
+        "name": "Klub HLAS - sociálna demokracia",
         "since": "2023-11-14",
         "until": "2026-05-07"
       },
       {
-        "id": "nrsr:org:club:2",
+        "id": "nrsr:org:club:1",
         "classification": "group",
         "name": "Klub HLAS - sociálna demokracia",
         "since": "2026-05-07"
@@ -4181,14 +4181,14 @@
     ],
     "organizations": [
       {
-        "id": "nrsr:org:club:6",
+        "id": "nrsr:org:club:4",
         "classification": "group",
-        "name": "Klub SLOVENSKO",
+        "name": "Klub SLOVENSKO - ZA ĽUDÍ",
         "since": "2023-11-14",
         "until": "2026-05-07"
       },
       {
-        "id": "nrsr:org:club:7",
+        "id": "nrsr:org:club:4",
         "classification": "group",
         "name": "Klub SLOVENSKO - ZA ĽUDÍ",
         "since": "2026-05-07"
@@ -4214,14 +4214,14 @@
     ],
     "organizations": [
       {
-        "id": "nrsr:org:club:6",
+        "id": "nrsr:org:club:4",
         "classification": "group",
-        "name": "Klub SLOVENSKO",
+        "name": "Klub SLOVENSKO - ZA ĽUDÍ",
         "since": "2023-11-14",
         "until": "2026-05-07"
       },
       {
-        "id": "nrsr:org:club:7",
+        "id": "nrsr:org:club:4",
         "classification": "group",
         "name": "Klub SLOVENSKO - ZA ĽUDÍ",
         "since": "2026-05-07"
@@ -4247,7 +4247,7 @@
     ],
     "organizations": [
       {
-        "id": "nrsr:org:club:3",
+        "id": "nrsr:org:club:2",
         "classification": "group",
         "name": "Klub KDH",
         "since": "2023-11-14"
@@ -4273,14 +4273,14 @@
     ],
     "organizations": [
       {
-        "id": "nrsr:org:club:4",
+        "id": "nrsr:org:club:3",
         "classification": "group",
-        "name": "Klub PS",
+        "name": "Klub Progresívne Slovensko",
         "since": "2023-11-14",
         "until": "2026-05-07"
       },
       {
-        "id": "nrsr:org:club:5",
+        "id": "nrsr:org:club:3",
         "classification": "group",
         "name": "Klub Progresívne Slovensko",
         "since": "2026-05-07"
@@ -4306,14 +4306,14 @@
     ],
     "organizations": [
       {
-        "id": "nrsr:org:club:4",
+        "id": "nrsr:org:club:3",
         "classification": "group",
-        "name": "Klub PS",
+        "name": "Klub Progresívne Slovensko",
         "since": "2023-11-14",
         "until": "2026-05-07"
       },
       {
-        "id": "nrsr:org:club:5",
+        "id": "nrsr:org:club:3",
         "classification": "group",
         "name": "Klub Progresívne Slovensko",
         "since": "2026-05-07"
@@ -4339,14 +4339,14 @@
     ],
     "organizations": [
       {
-        "id": "nrsr:org:club:4",
+        "id": "nrsr:org:club:3",
         "classification": "group",
-        "name": "Klub PS",
+        "name": "Klub Progresívne Slovensko",
         "since": "2023-11-14",
         "until": "2026-05-07"
       },
       {
-        "id": "nrsr:org:club:5",
+        "id": "nrsr:org:club:3",
         "classification": "group",
         "name": "Klub Progresívne Slovensko",
         "since": "2026-05-07"
@@ -4372,14 +4372,14 @@
     ],
     "organizations": [
       {
-        "id": "nrsr:org:club:8",
+        "id": "nrsr:org:club:5",
         "classification": "group",
-        "name": "Klub SMER - SD",
+        "name": "Klub SMER - sociálna demokracia",
         "since": "2023-11-14",
         "until": "2026-05-07"
       },
       {
-        "id": "nrsr:org:club:9",
+        "id": "nrsr:org:club:5",
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
         "since": "2026-05-07"
@@ -4405,21 +4405,21 @@
     ],
     "organizations": [
       {
-        "id": "nrsr:org:club:6",
+        "id": "nrsr:org:club:4",
         "classification": "group",
-        "name": "Klub SLOVENSKO",
+        "name": "Klub SLOVENSKO - ZA ĽUDÍ",
         "since": "2023-11-14",
         "until": "2024-08-21"
       },
       {
-        "id": "nrsr:org:club:4",
+        "id": "nrsr:org:club:3",
         "classification": "group",
-        "name": "Klub PS",
+        "name": "Klub Progresívne Slovensko",
         "since": "2024-10-03",
         "until": "2026-05-07"
       },
       {
-        "id": "nrsr:org:club:5",
+        "id": "nrsr:org:club:3",
         "classification": "group",
         "name": "Klub Progresívne Slovensko",
         "since": "2026-05-07"
@@ -4447,12 +4447,12 @@
       {
         "id": "nrsr:org:club:1",
         "classification": "group",
-        "name": "Klub HLAS - SD",
+        "name": "Klub HLAS - sociálna demokracia",
         "since": "2023-11-14",
         "until": "2026-05-07"
       },
       {
-        "id": "nrsr:org:club:2",
+        "id": "nrsr:org:club:1",
         "classification": "group",
         "name": "Klub HLAS - sociálna demokracia",
         "since": "2026-05-07"
@@ -4478,14 +4478,14 @@
     ],
     "organizations": [
       {
-        "id": "nrsr:org:club:4",
+        "id": "nrsr:org:club:3",
         "classification": "group",
-        "name": "Klub PS",
+        "name": "Klub Progresívne Slovensko",
         "since": "2023-11-14",
         "until": "2026-05-07"
       },
       {
-        "id": "nrsr:org:club:5",
+        "id": "nrsr:org:club:3",
         "classification": "group",
         "name": "Klub Progresívne Slovensko",
         "since": "2026-05-07"
@@ -4511,7 +4511,7 @@
     ],
     "organizations": [
       {
-        "id": "nrsr:org:club:3",
+        "id": "nrsr:org:club:2",
         "classification": "group",
         "name": "Klub KDH",
         "since": "2023-11-14"
@@ -4537,14 +4537,14 @@
     ],
     "organizations": [
       {
-        "id": "nrsr:org:club:4",
+        "id": "nrsr:org:club:3",
         "classification": "group",
-        "name": "Klub PS",
+        "name": "Klub Progresívne Slovensko",
         "since": "2023-11-14",
         "until": "2026-05-07"
       },
       {
-        "id": "nrsr:org:club:5",
+        "id": "nrsr:org:club:3",
         "classification": "group",
         "name": "Klub Progresívne Slovensko",
         "since": "2026-05-07"
@@ -4570,14 +4570,14 @@
     ],
     "organizations": [
       {
-        "id": "nrsr:org:club:8",
+        "id": "nrsr:org:club:5",
         "classification": "group",
-        "name": "Klub SMER - SD",
+        "name": "Klub SMER - sociálna demokracia",
         "since": "2023-11-14",
         "until": "2026-05-07"
       },
       {
-        "id": "nrsr:org:club:9",
+        "id": "nrsr:org:club:5",
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
         "since": "2026-05-07"
@@ -4603,14 +4603,14 @@
     ],
     "organizations": [
       {
-        "id": "nrsr:org:club:8",
+        "id": "nrsr:org:club:5",
         "classification": "group",
-        "name": "Klub SMER - SD",
+        "name": "Klub SMER - sociálna demokracia",
         "since": "2023-11-14",
         "until": "2026-05-07"
       },
       {
-        "id": "nrsr:org:club:9",
+        "id": "nrsr:org:club:5",
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
         "since": "2026-05-07"
@@ -4636,14 +4636,14 @@
     ],
     "organizations": [
       {
-        "id": "nrsr:org:club:4",
+        "id": "nrsr:org:club:3",
         "classification": "group",
-        "name": "Klub PS",
+        "name": "Klub Progresívne Slovensko",
         "since": "2023-11-14",
         "until": "2026-05-07"
       },
       {
-        "id": "nrsr:org:club:5",
+        "id": "nrsr:org:club:3",
         "classification": "group",
         "name": "Klub Progresívne Slovensko",
         "since": "2026-05-07"
@@ -4669,9 +4669,9 @@
     ],
     "organizations": [
       {
-        "id": "nrsr:org:club:6",
+        "id": "nrsr:org:club:4",
         "classification": "group",
-        "name": "Klub SLOVENSKO",
+        "name": "Klub SLOVENSKO - ZA ĽUDÍ",
         "since": "2023-11-14",
         "until": "2025-10-01"
       },
@@ -4702,14 +4702,14 @@
     ],
     "organizations": [
       {
-        "id": "nrsr:org:club:8",
+        "id": "nrsr:org:club:5",
         "classification": "group",
-        "name": "Klub SMER - SD",
+        "name": "Klub SMER - sociálna demokracia",
         "since": "2023-11-14",
         "until": "2026-05-07"
       },
       {
-        "id": "nrsr:org:club:9",
+        "id": "nrsr:org:club:5",
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
         "since": "2026-05-07"
@@ -4735,14 +4735,14 @@
     ],
     "organizations": [
       {
-        "id": "nrsr:org:club:4",
+        "id": "nrsr:org:club:3",
         "classification": "group",
-        "name": "Klub PS",
+        "name": "Klub Progresívne Slovensko",
         "since": "2023-11-14",
         "until": "2026-05-07"
       },
       {
-        "id": "nrsr:org:club:5",
+        "id": "nrsr:org:club:3",
         "classification": "group",
         "name": "Klub Progresívne Slovensko",
         "since": "2026-05-07"
@@ -4768,14 +4768,14 @@
     ],
     "organizations": [
       {
-        "id": "nrsr:org:club:11",
+        "id": "nrsr:org:club:6",
         "classification": "group",
-        "name": "Klub SaS",
+        "name": "Klub Sloboda a Solidarita",
         "since": "2023-11-14",
         "until": "2026-05-07"
       },
       {
-        "id": "nrsr:org:club:12",
+        "id": "nrsr:org:club:6",
         "classification": "group",
         "name": "Klub Sloboda a Solidarita",
         "since": "2026-05-07"
@@ -4803,12 +4803,12 @@
       {
         "id": "nrsr:org:club:1",
         "classification": "group",
-        "name": "Klub HLAS - SD",
+        "name": "Klub HLAS - sociálna demokracia",
         "since": "2023-11-14",
         "until": "2026-05-07"
       },
       {
-        "id": "nrsr:org:club:2",
+        "id": "nrsr:org:club:1",
         "classification": "group",
         "name": "Klub HLAS - sociálna demokracia",
         "since": "2026-05-07"
@@ -4834,14 +4834,14 @@
     ],
     "organizations": [
       {
-        "id": "nrsr:org:club:8",
+        "id": "nrsr:org:club:5",
         "classification": "group",
-        "name": "Klub SMER - SD",
+        "name": "Klub SMER - sociálna demokracia",
         "since": "2023-11-14",
         "until": "2026-05-07"
       },
       {
-        "id": "nrsr:org:club:9",
+        "id": "nrsr:org:club:5",
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
         "since": "2026-05-07"
@@ -4869,12 +4869,12 @@
       {
         "id": "nrsr:org:club:1",
         "classification": "group",
-        "name": "Klub HLAS - SD",
+        "name": "Klub HLAS - sociálna demokracia",
         "since": "2023-11-14",
         "until": "2026-05-07"
       },
       {
-        "id": "nrsr:org:club:2",
+        "id": "nrsr:org:club:1",
         "classification": "group",
         "name": "Klub HLAS - sociálna demokracia",
         "since": "2026-05-07"
@@ -4900,7 +4900,7 @@
     ],
     "organizations": [
       {
-        "id": "nrsr:org:club:3",
+        "id": "nrsr:org:club:2",
         "classification": "group",
         "name": "Klub KDH",
         "since": "2023-11-14"
@@ -4926,7 +4926,7 @@
     ],
     "organizations": [
       {
-        "id": "nrsr:org:club:3",
+        "id": "nrsr:org:club:2",
         "classification": "group",
         "name": "Klub KDH",
         "since": "2023-11-14"
@@ -4952,9 +4952,9 @@
     ],
     "organizations": [
       {
-        "id": "nrsr:org:club:8",
+        "id": "nrsr:org:club:5",
         "classification": "group",
-        "name": "Klub SMER - SD",
+        "name": "Klub SMER - sociálna demokracia",
         "since": "2023-11-14"
       }
     ],
@@ -4980,7 +4980,7 @@
       {
         "id": "nrsr:org:club:1",
         "classification": "group",
-        "name": "Klub HLAS - SD",
+        "name": "Klub HLAS - sociálna demokracia",
         "since": "2023-11-14"
       }
     ],
@@ -5004,9 +5004,9 @@
     ],
     "organizations": [
       {
-        "id": "nrsr:org:club:4",
+        "id": "nrsr:org:club:3",
         "classification": "group",
-        "name": "Klub PS",
+        "name": "Klub Progresívne Slovensko",
         "since": "2023-11-14"
       }
     ],
@@ -5030,9 +5030,9 @@
     ],
     "organizations": [
       {
-        "id": "nrsr:org:club:6",
+        "id": "nrsr:org:club:4",
         "classification": "group",
-        "name": "Klub SLOVENSKO",
+        "name": "Klub SLOVENSKO - ZA ĽUDÍ",
         "since": "2023-11-14"
       }
     ],
@@ -5058,7 +5058,7 @@
       {
         "id": "nrsr:org:club:1",
         "classification": "group",
-        "name": "Klub HLAS - SD",
+        "name": "Klub HLAS - sociálna demokracia",
         "since": "2023-11-14"
       }
     ],
@@ -5084,7 +5084,7 @@
       {
         "id": "nrsr:org:club:1",
         "classification": "group",
-        "name": "Klub HLAS - SD",
+        "name": "Klub HLAS - sociálna demokracia",
         "since": "2023-11-14"
       }
     ],
@@ -5108,9 +5108,9 @@
     ],
     "organizations": [
       {
-        "id": "nrsr:org:club:10",
+        "id": "nrsr:org:club:7",
         "classification": "group",
-        "name": "Klub SNS",
+        "name": "Klub Slovenská národná strana",
         "since": "2023-11-14"
       }
     ],
@@ -5152,9 +5152,9 @@
     ],
     "organizations": [
       {
-        "id": "nrsr:org:club:11",
+        "id": "nrsr:org:club:6",
         "classification": "group",
-        "name": "Klub SaS",
+        "name": "Klub Sloboda a Solidarita",
         "since": "2023-11-14"
       }
     ],
@@ -5178,9 +5178,9 @@
     ],
     "organizations": [
       {
-        "id": "nrsr:org:club:8",
+        "id": "nrsr:org:club:5",
         "classification": "group",
-        "name": "Klub SMER - SD",
+        "name": "Klub SMER - sociálna demokracia",
         "since": "2023-11-14"
       }
     ],
@@ -5204,9 +5204,9 @@
     ],
     "organizations": [
       {
-        "id": "nrsr:org:club:8",
+        "id": "nrsr:org:club:5",
         "classification": "group",
-        "name": "Klub SMER - SD",
+        "name": "Klub SMER - sociálna demokracia",
         "since": "2023-11-14"
       }
     ],
@@ -5302,9 +5302,9 @@
     ],
     "organizations": [
       {
-        "id": "nrsr:org:club:4",
+        "id": "nrsr:org:club:3",
         "classification": "group",
-        "name": "Klub PS",
+        "name": "Klub Progresívne Slovensko",
         "since": "2023-11-14"
       }
     ],
@@ -5474,7 +5474,7 @@
       {
         "id": "nrsr:org:club:1",
         "classification": "group",
-        "name": "Klub HLAS - SD",
+        "name": "Klub HLAS - sociálna demokracia",
         "since": "2023-11-14"
       }
     ],
@@ -5498,9 +5498,9 @@
     ],
     "organizations": [
       {
-        "id": "nrsr:org:club:8",
+        "id": "nrsr:org:club:5",
         "classification": "group",
-        "name": "Klub SMER - SD",
+        "name": "Klub SMER - sociálna demokracia",
         "since": "2023-11-14"
       }
     ],
@@ -5524,9 +5524,9 @@
     ],
     "organizations": [
       {
-        "id": "nrsr:org:club:4",
+        "id": "nrsr:org:club:3",
         "classification": "group",
-        "name": "Klub PS",
+        "name": "Klub Progresívne Slovensko",
         "since": "2023-11-14"
       }
     ],
@@ -5552,7 +5552,7 @@
       {
         "id": "nrsr:org:club:1",
         "classification": "group",
-        "name": "Klub HLAS - SD",
+        "name": "Klub HLAS - sociálna demokracia",
         "since": "2023-11-14"
       }
     ],

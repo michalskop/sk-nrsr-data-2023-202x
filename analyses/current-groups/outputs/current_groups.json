@@ -1,78 +1,42 @@
 [
   {
     "id": "nrsr:org:club:1",
-    "identifier": "Klub HLAS - SD",
-    "name": "Klub HLAS - SD",
-    "classification": "group"
-  },
-  {
-    "id": "nrsr:org:club:2",
     "identifier": "Klub HLAS - sociálna demokracia",
     "name": "Klub HLAS - sociálna demokracia",
     "classification": "group"
   },
   {
-    "id": "nrsr:org:club:3",
+    "id": "nrsr:org:club:2",
     "identifier": "Klub KDH",
     "name": "Klub KDH",
     "classification": "group"
   },
   {
-    "id": "nrsr:org:club:4",
-    "identifier": "Klub PS",
-    "name": "Klub PS",
-    "classification": "group"
-  },
-  {
-    "id": "nrsr:org:club:5",
+    "id": "nrsr:org:club:3",
     "identifier": "Klub Progresívne Slovensko",
     "name": "Klub Progresívne Slovensko",
     "classification": "group"
   },
   {
-    "id": "nrsr:org:club:6",
-    "identifier": "Klub SLOVENSKO",
-    "name": "Klub SLOVENSKO",
-    "classification": "group"
-  },
-  {
-    "id": "nrsr:org:club:7",
+    "id": "nrsr:org:club:4",
     "identifier": "Klub SLOVENSKO - ZA ĽUDÍ",
     "name": "Klub SLOVENSKO - ZA ĽUDÍ",
     "classification": "group"
   },
   {
-    "id": "nrsr:org:club:8",
-    "identifier": "Klub SMER - SD",
-    "name": "Klub SMER - SD",
-    "classification": "group"
-  },
-  {
-    "id": "nrsr:org:club:9",
+    "id": "nrsr:org:club:5",
     "identifier": "Klub SMER - sociálna demokracia",
     "name": "Klub SMER - sociálna demokracia",
     "classification": "group"
   },
   {
-    "id": "nrsr:org:club:10",
-    "identifier": "Klub SNS",
-    "name": "Klub SNS",
-    "classification": "group"
-  },
-  {
-    "id": "nrsr:org:club:11",
-    "identifier": "Klub SaS",
-    "name": "Klub SaS",
-    "classification": "group"
-  },
-  {
-    "id": "nrsr:org:club:12",
+    "id": "nrsr:org:club:6",
     "identifier": "Klub Sloboda a Solidarita",
     "name": "Klub Sloboda a Solidarita",
     "classification": "group"
   },
   {
-    "id": "nrsr:org:club:13",
+    "id": "nrsr:org:club:7",
     "identifier": "Klub Slovenská národná strana",
     "name": "Klub Slovenská národná strana",
     "classification": "group"
