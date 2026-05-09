@@ -109,6 +109,9 @@ _PRENOMINAL_TITLES = {
 # Latin conjunctions that appear between titles (e.g. "Mgr. et Mgr.") — not name tokens
 _TITLE_CONJUNCTIONS = {"et"}
 
+# Post-nominal titles that appear WITHOUT a preceding comma (e.g. "Hellebrandt Rastislav MSc.")
+_POSTNOMINAL_NO_COMMA = {"msc.", "msc", "mba.", "mba", "llm.", "llm", "bsc.", "bsc"}
+
 
 def _parse_name(full: str) -> tuple[str, str, str]:
     """Parse 'MUDr. Vladimír Baláž, PhD.' → (given_name, family_name, title).
@@ -136,6 +139,15 @@ def _parse_name(full: str) -> tuple[str, str, str]:
         else:
             consuming_titles = False
             name_tokens.append(tok)
+
+    # Strip trailing post-nominal titles that appear without a comma
+    # e.g. "Hellebrandt Rastislav MSc." → name_tokens = ["Hellebrandt", "Rastislav"]
+    trailing = []
+    while name_tokens and name_tokens[-1].lower() in _POSTNOMINAL_NO_COMMA:
+        trailing.insert(0, name_tokens.pop())
+    if trailing:
+        extra_post = " ".join(trailing)
+        title_after = (title_after + " " + extra_post).strip() if title_after else extra_post
 
     # If the first comma split off only pre-nominal titles (no name found),
     # the real name is in title_after — parse it too.
