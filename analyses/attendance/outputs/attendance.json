@@ -2050,12 +2050,12 @@
     "vote_events_total": 4173,
     "present": 2736,
     "absent": 1420,
-    "name": "Martina Holečková",
+    "name": "Martina Bajo Holečková",
     "given_names": [
       "Martina"
     ],
     "family_names": [
-      "Holečková"
+      "Bajo Holečková"
     ],
     "organizations": [
       {
@@ -3038,9 +3038,9 @@
     "vote_events_total": 4164,
     "present": 4061,
     "absent": 103,
-    "name": "et Čellár",
+    "name": "Miroslav Čellár",
     "given_names": [
-      "et"
+      "Miroslav"
     ],
     "family_names": [
       "Čellár"
@@ -3220,19 +3220,19 @@
     "vote_events_total": 4173,
     "present": 2455,
     "absent": 1718,
-    "name": "Jana Cigániková",
+    "name": "Jana Bittó Cigániková",
     "given_names": [
       "Jana"
     ],
     "family_names": [
-      "Cigániková"
+      "Bittó Cigániková"
     ],
     "organizations": [
       {
-        "id": "nrsr:org:club:11",
+        "id": "nrsr:org:nezavisli",
         "classification": "group",
-        "name": "Klub SaS",
-        "since": "2023-10-25"
+        "name": "Nezávislí",
+        "since": "2026-04-24"
       }
     ],
     "since": "2023-10-25",
