@@ -59,7 +59,7 @@ def _get_mp_ids(session: requests_html.HTMLSession) -> tuple[list[str], set[str]
 _PRENOMINAL_TITLES = {
     "prof.", "doc.", "mgr.", "ing.", "judr.", "mudr.", "phdr.", "rndr.",
     "paedr.", "paeddr.", "thdr.", "bc.", "mvdr.", "pharm.dr.", "dipl.",
-    "art.", "artd.",
+    "art.", "artd.", "rsdr.", "gen.", "v.", "dis.",
 }
 
 # Latin conjunctions that appear between titles (e.g. "Mgr. et Mgr.") — not name tokens

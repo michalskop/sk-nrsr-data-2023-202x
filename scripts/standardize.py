@@ -364,22 +364,32 @@ def _write_members_analyses(
     memberships_raw: pd.DataFrame,
     club_id_map: dict,
 ) -> None:
-    # Build current club per person: rows with no end_date are still-active memberships
-    active = memberships_raw[
-        memberships_raw["end_date"].isna() | (memberships_raw["end_date"] == "")
-    ]
-    latest_club = active.groupby("mp_id")["club_name"].last().to_dict()
+    # Index all club memberships per mp_id (historical + current), preserving order
+    mp_club_memberships: dict[str, list] = {}
+    for _, m in memberships_raw.iterrows():
+        pid = str(m["mp_id"])
+        cname = m.get("club_name", "")
+        cid = club_id_map.get(cname, "")
+        if cid:
+            end = m.get("end_date")
+            end_str = str(end) if pd.notna(end) and end else ""
+            mp_club_memberships.setdefault(pid, []).append({
+                "id": cid,
+                "name": cname,
+                "start_date": str(m.get("start_date") or _TERM_START),
+                "end_date": end_str,
+            })
 
     all_members = []
     current_members = []
     for _, p in persons_raw.iterrows():
         mp_id = str(p["mp_id"])
-        club = latest_club.get(mp_id, "")
         memberships: dict = {
             "parliament": [{"id": _nrsr_org_id(_NRSR_ORG_ID), "name": "Národná rada Slovenskej republiky", "start_date": _TERM_START, "end_date": ""}],
         }
-        if club:
-            memberships["groups"] = [{"id": club_id_map.get(club, ""), "name": club, "start_date": _TERM_START, "end_date": ""}]
+        groups = mp_club_memberships.get(mp_id, [])
+        if groups:
+            memberships["groups"] = groups
         record = {
             "id": _nrsr_person_id(mp_id),
             "given_name": p.get("given_name", ""),
