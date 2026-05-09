@@ -65,6 +65,20 @@ def _get_mp_ids(session: requests_html.HTMLSession) -> tuple[list[str], set[str]
             if mp_id not in current:
                 mp_ids.append(mp_id)
 
+    # Also collect voter IDs from cached votes CSVs — catches former MPs not listed in zmeny
+    # (e.g. MPs who became government ministers and gave up their seat very early)
+    seen = set(mp_ids)
+    for votes_file in sorted(_RAW.glob("votes*.csv")):
+        try:
+            with open(votes_file, encoding="utf-8") as f:
+                for row in csv.DictReader(f):
+                    vid = (row.get("voter_id") or "").strip()
+                    if vid and vid not in seen:
+                        mp_ids.append(vid)
+                        seen.add(vid)
+        except Exception as e:
+            logging.warning("Could not read %s for voter IDs: %s", votes_file, e)
+
     all_ids = list(dict.fromkeys(mp_ids))
     logging.info("Found %d current + %d former MP IDs", len(current), len(all_ids) - len(current))
     return all_ids, current, list_name_map
