@@ -64,6 +64,21 @@ def _load_existing_ids(path: Path) -> set[int]:
     return ids
 
 
+def _load_gap_ids(path: Path) -> set[int]:
+    if not path.exists():
+        return set()
+    ids: set[int] = set()
+    with open(path, encoding="utf-8") as f:
+        for line in f:
+            line = line.strip()
+            if line:
+                try:
+                    ids.add(int(line))
+                except ValueError:
+                    pass
+    return ids
+
+
 def _detect_max_id(session: requests_html.HTMLSession, start: int) -> int:
     """Binary search for the highest valid vote_event_id on nrsr.sk."""
     lo, hi = start, start + 20000
@@ -195,25 +210,30 @@ def main() -> None:
     ve_path = _RAW / "vote_events_raw.csv"
     v_path = _RAW / "votes_raw.csv"
 
+    gaps_path = _RAW / "vote_events_gaps.txt"
     existing_ids = _load_existing_ids(ve_path)
-    logging.info("Already have %d vote events", len(existing_ids))
+    gap_ids = _load_gap_ids(gaps_path)
+    checked_ids = existing_ids | gap_ids
+    logging.info("Already have %d vote events, %d known gaps", len(existing_ids), len(gap_ids))
 
     if args.end is None:
-        start_for_detect = max(existing_ids, default=args.start)
+        start_for_detect = max(checked_ids, default=args.start)
         end_id = _detect_max_id(session, start_for_detect)
     else:
         end_id = args.end
 
-    ids_to_fetch = [i for i in range(args.start, end_id + 1) if i not in existing_ids]
+    effective_start = max(checked_ids, default=args.start - 1) + 1
+    ids_to_fetch = list(range(effective_start, end_id + 1))
     if args.max_new is not None:
         ids_to_fetch = ids_to_fetch[:args.max_new]
-    logging.info("Will scrape %d vote events (%d–%d)", len(ids_to_fetch), args.start, end_id)
+    logging.info("Will scrape %d vote events (%d–%d)", len(ids_to_fetch), effective_start, end_id)
 
     ve_file_exists = ve_path.exists()
     v_file_exists = v_path.exists()
 
     with open(ve_path, "a", newline="", encoding="utf-8") as vef, \
-         open(v_path, "a", newline="", encoding="utf-8") as vf:
+         open(v_path, "a", newline="", encoding="utf-8") as vf, \
+         open(gaps_path, "a", encoding="utf-8") as gf:
         vew = csv.DictWriter(vef, fieldnames=_VOTE_EVENTS_COLS, extrasaction="ignore")
         vw = csv.DictWriter(vf, fieldnames=_VOTES_COLS, extrasaction="ignore")
         if not ve_file_exists:
@@ -232,6 +252,9 @@ def main() -> None:
                     vw.writerow(v)
                 vef.flush()
                 vf.flush()
+            else:
+                gf.write(f"{ve_id}\n")
+                gf.flush()
 
             time.sleep(_DELAY)
 

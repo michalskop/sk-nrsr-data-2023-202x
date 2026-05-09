@@ -62,6 +62,9 @@ _PRENOMINAL_TITLES = {
     "art.", "artd.",
 }
 
+# Latin conjunctions that appear between titles (e.g. "Mgr. et Mgr.") — not name tokens
+_TITLE_CONJUNCTIONS = {"et"}
+
 
 def _parse_name(full: str) -> tuple[str, str, str]:
     """Parse 'MUDr. Vladimír Baláž, PhD.' → (given_name, family_name, title).
@@ -79,10 +82,15 @@ def _parse_name(full: str) -> tuple[str, str, str]:
     tokens = name_part.strip().split()
     pre_titles = []
     name_tokens = []
+    consuming_titles = True
     for tok in tokens:
         if tok.lower() in _PRENOMINAL_TITLES:
             pre_titles.append(tok)
+        elif consuming_titles and tok.lower() in _TITLE_CONJUNCTIONS:
+            # "et" between pre-nominal titles (e.g. "Mgr. et Mgr.") — skip
+            pass
         else:
+            consuming_titles = False
             name_tokens.append(tok)
 
     # If the first comma split off only pre-nominal titles (no name found),
@@ -90,10 +98,14 @@ def _parse_name(full: str) -> tuple[str, str, str]:
     if not name_tokens and title_after:
         extra = title_after.split()
         extra_pre, extra_name = [], []
+        consuming_titles = True
         for tok in extra:
             if tok.lower() in _PRENOMINAL_TITLES:
                 extra_pre.append(tok)
+            elif consuming_titles and tok.lower() in _TITLE_CONJUNCTIONS:
+                pass
             else:
+                consuming_titles = False
                 extra_name.append(tok)
         pre_titles.extend(extra_pre)
         name_tokens = extra_name
@@ -103,6 +115,17 @@ def _parse_name(full: str) -> tuple[str, str, str]:
     given = name_tokens[0] if name_tokens else ""
     family = name_tokens[-1] if len(name_tokens) > 1 else name_tokens[0] if name_tokens else ""
     return given, family, title.strip(", ")
+
+
+_H1_PREFIXES = [
+    ("Meno ",          "given_name"),
+    ("Priezvisko ",    "family_name"),
+    ("Titul ",         "title"),
+    ("Narodený(á) ",   "born_on"),
+    ("Narodený ",      "born_on"),
+    ("Bydlisko ",      "municipality"),
+    ("Kraj ",          "region"),
+]
 
 
 def _scrape_mp(session: requests_html.HTMLSession, mp_id: str) -> tuple[dict, list[dict]]:
@@ -115,34 +138,25 @@ def _scrape_mp(session: requests_html.HTMLSession, mp_id: str) -> tuple[dict, li
     try:
         h1 = r.html.find("h1", first=True)
         if h1:
-            given, family, title = _parse_name(h1.text.strip())
-            person["given_name"] = given
-            person["family_name"] = family
-            person["title"] = title
-    except Exception:
-        pass
+            lines = [ln.strip() for ln in h1.text.strip().splitlines() if ln.strip()]
 
-    try:
-        for row in r.html.find("tr"):
-            cells = row.find("td")
-            if len(cells) < 2:
-                continue
-            label = cells[0].text.strip().lower()
-            value = cells[1].text.strip()
-            if label == "meno":
-                person["given_name"] = value
-            elif label == "priezvisko":
-                person["family_name"] = value
-            elif label == "titul":
-                person["title"] = value
-            elif "e-mail" in label:
-                person["email"] = value
-            elif "naroden" in label:
-                person["born_on"] = value
-            elif "obec" in label:
-                person["municipality"] = value
-            elif "kraj" in label:
-                person["region"] = value
+            # First line is the formatted title+name (e.g. "Mgr. Martina Bajo Holečková")
+            if lines:
+                given, family, title = _parse_name(lines[0])
+                person["given_name"] = given
+                person["family_name"] = family
+                person["title"] = title
+
+            # Remaining lines: "Label Value" pairs — override h1 parse with explicit fields
+            for line in lines[1:]:
+                lower = line.lower()
+                if "e-mail" in lower and " " in line:
+                    person["email"] = line.split(None, 1)[1].strip()
+                    continue
+                for prefix, field in _H1_PREFIXES:
+                    if line.startswith(prefix):
+                        person[field] = line[len(prefix):].strip()
+                        break
     except Exception:
         pass
 

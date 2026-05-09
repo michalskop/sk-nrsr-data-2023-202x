@@ -191,6 +191,7 @@ def _memberships_from_votes() -> pd.DataFrame:
                         "club_name": current_club,
                         "start_date": start,
                         "end_date": last_date,
+                        "last_vote_date": last_date,
                     })
                 current_club = club
                 start = date
@@ -201,9 +202,10 @@ def _memberships_from_votes() -> pd.DataFrame:
                 "club_name": current_club,
                 "start_date": start,
                 "end_date": None,  # still active
+                "last_vote_date": last_date,
             })
 
-    return pd.DataFrame(rows, columns=["mp_id", "club_name", "start_date", "end_date"])
+    return pd.DataFrame(rows, columns=["mp_id", "club_name", "start_date", "end_date", "last_vote_date"])
 
 
 def build_persons_and_memberships() -> None:
@@ -214,8 +216,48 @@ def build_persons_and_memberships() -> None:
     # Fall back to scraped memberships_raw if no vote data yet.
     vote_memberships = _memberships_from_votes()
     if not vote_memberships.empty:
-        logging.info("Using vote-derived membership intervals (%d rows)", len(vote_memberships))
-        memberships_source = vote_memberships
+        memberships_source = vote_memberships.copy()
+
+        # Reconcile: scraped memberships_raw reflects current club assignment
+        # (including Nezávislí for non-affiliated MPs). When the scraped current
+        # club differs from the vote-derived last club, close the stale open
+        # interval and add the scraped club as the new open one.
+        scraped_current = {
+            str(row["mp_id"]): row["club_name"]
+            for _, row in memberships_raw.iterrows()
+            if row.get("club_name")
+        }
+        rows_to_add = []
+        for mp_id, scraped_club in scraped_current.items():
+            mp_mask = memberships_source["mp_id"].astype(str) == mp_id
+            open_mask = mp_mask & memberships_source["end_date"].isna()
+            if open_mask.any():
+                vote_club = memberships_source.loc[open_mask, "club_name"].iloc[0]
+                if vote_club != scraped_club:
+                    transition = memberships_source.loc[open_mask, "last_vote_date"].iloc[0] or _TERM_START
+                    memberships_source.loc[open_mask, "end_date"] = transition
+                    rows_to_add.append({
+                        "mp_id": mp_id, "club_name": scraped_club,
+                        "start_date": transition, "end_date": None,
+                        "last_vote_date": None,
+                    })
+                    logging.info(
+                        "mp_id=%s: closed %s at %s, opening %s",
+                        mp_id, vote_club, transition, scraped_club,
+                    )
+            elif not mp_mask.any():
+                # MP not in vote data at all — use scraped club from term start
+                rows_to_add.append({
+                    "mp_id": mp_id, "club_name": scraped_club,
+                    "start_date": _TERM_START, "end_date": None,
+                    "last_vote_date": None,
+                })
+        if rows_to_add:
+            memberships_source = pd.concat(
+                [memberships_source, pd.DataFrame(rows_to_add)],
+                ignore_index=True,
+            )
+        logging.info("Using vote-derived membership intervals (%d rows after reconciliation)", len(memberships_source))
     else:
         logging.info("No vote data found; using scraped memberships (start_date defaults to term start)")
         memberships_source = memberships_raw.copy()
@@ -440,7 +482,7 @@ def main() -> None:
     _upload_dataset(_STD / "memberships.csv", "memberships", suffix=".csv")
     _upload_dataset(_STD / "organizations.csv", "organizations", suffix=".csv")
     # Upload raw CSVs so nightly runs can download and scrape incrementally
-    for raw_name in ("vote_events_raw.csv", "votes_raw.csv", "persons_raw.csv", "memberships_raw.csv"):
+    for raw_name in ("vote_events_raw.csv", "votes_raw.csv", "persons_raw.csv", "memberships_raw.csv", "vote_events_gaps.txt"):
         raw_file = _RAW / raw_name
         if raw_file.exists():
             remote = f"{_LEGISLATURE_B2_PREFIX}/raw/{raw_name}"

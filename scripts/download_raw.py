@@ -24,6 +24,7 @@ _RAW_FILES = [
     "votes_raw.csv",
     "persons_raw.csv",
     "memberships_raw.csv",
+    "vote_events_gaps.txt",
 ]
 
 
