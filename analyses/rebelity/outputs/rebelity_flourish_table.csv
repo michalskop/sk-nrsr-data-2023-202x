@@ -1,151 +1,190 @@
 id,name,photo,candidate_list,group,constituency,rebelity,rebelity_percent,rebelity_total,rebelity_possible
-nrsr:person:1151,Peter Kotlár,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1151&ImageWidth=140,,Klub SNS,,0.002919,0.3,12,4111
-nrsr:person:1119,Irena Bihariová,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1119&ImageWidth=140,,Klub PS,,0.001283,0.1,5,3897
-nrsr:person:1075,Tomáš Valášek,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1075&ImageWidth=140,,Klub PS,,0.002566,0.3,10,3897
-nrsr:person:1195,Jozef Cech,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1195&ImageWidth=140,,Klub HLAS - SD,,0.000729,0.1,3,4118
-nrsr:person:891,Jozef Ježík,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=891&ImageWidth=140,,Klub SMER - SD,,0.001702,0.2,7,4112
-nrsr:person:1213,Richard Dubovický,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1213&ImageWidth=140,,Klub PS,,0.000513,0.1,2,3897
-nrsr:person:862,Branislav Škripek,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=862&ImageWidth=140,,Klub KDH,,0.002891,0.3,11,3805
-nrsr:person:1205,Michal Kapuš,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1205&ImageWidth=140,,Klub SMER - SD,,0.000243,0.0,1,4112
-nrsr:person:1225,Gabriel Paľa,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1225&ImageWidth=140,,Klub KDH,,0.0,0.0,0,3805
-nrsr:person:1023,Peter Kmec,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1023&ImageWidth=140,,Klub HLAS - SD,,0.0,0.0,0,4118
-nrsr:person:808,Igor Matovič,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=808&ImageWidth=140,,Klub SLOVENSKO,,0.00204,0.2,8,3922
-nrsr:person:930,Dušan Tittel,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=930&ImageWidth=140,,Klub HLAS - SD,,0.000486,0.0,2,4118
-nrsr:person:1188,Július Jakab,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1188&ImageWidth=140,,Klub SLOVENSKO,,0.00051,0.1,2,3922
-nrsr:person:1194,Zuzana Plevíková,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1194&ImageWidth=140,,Klub SMER - SD,,0.000243,0.0,1,4112
-nrsr:person:1116,Lucia Plaváková,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1116&ImageWidth=140,,Klub PS,,0.000257,0.0,1,3897
-nrsr:person:1128,et Jurík,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1128&ImageWidth=140,,Klub PS,,0.00077,0.1,3,3897
-nrsr:person:1127,Ivan Štefunko,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1127&ImageWidth=140,,Klub PS,,0.002823,0.3,11,3897
-nrsr:person:879,Róbert Puci,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=879&ImageWidth=140,,Klub HLAS - SD,,0.000243,0.0,1,4118
-nrsr:person:293,Ľubomír Vážny,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=293&ImageWidth=140,,Klub SMER - SD,,0.003648,0.4,15,4112
-nrsr:person:1169,Karol Janas,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1169&ImageWidth=140,,Klub HLAS - SD,,0.000729,0.1,3,4118
-nrsr:person:1130,Zuzana Mesterová,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1130&ImageWidth=140,,Klub PS,,0.000257,0.0,1,3897
-nrsr:person:1159,Zuzana Matejičková,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1159&ImageWidth=140,,Klub SMER - SD,,0.001946,0.2,8,4112
-nrsr:person:1202,Ján Hrubý,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1202&ImageWidth=140,,Klub HLAS - SD,,0.0,0.0,0,4118
-nrsr:person:1220,Miroslav Radačovský,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1220&ImageWidth=140,,,,,,0,0
-nrsr:person:1218,Jozef Kačmár,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1218&ImageWidth=140,,Klub SMER - SD,,0.000243,0.0,1,4112
-nrsr:person:1042,Vladimíra Marcinková,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1042&ImageWidth=140,,Klub SaS,,0.015849,1.6,62,3912
-nrsr:person:966,Karol Galek,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=966&ImageWidth=140,,Klub SaS,,0.001534,0.2,6,3912
-nrsr:person:1184,František Majerský,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1184&ImageWidth=140,,Klub KDH,,0.002365,0.2,9,3805
-nrsr:person:1125,Štefan Kišš,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1125&ImageWidth=140,,Klub PS,,0.002053,0.2,8,3897
-nrsr:person:1140,Dávid Dej,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1140&ImageWidth=140,,Klub PS,,0.000257,0.0,1,3897
-nrsr:person:1123,Oskar Dvořák,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1123&ImageWidth=140,,Klub PS,,0.001026,0.1,4,3897
-nrsr:person:1144,Lukáš Bužo,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1144&ImageWidth=140,,Klub SLOVENSKO,,0.007649,0.8,30,3922
-nrsr:person:61,Dušan Jarjabek,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=61&ImageWidth=140,,Klub SMER - SD,,0.000486,0.0,2,4112
-nrsr:person:689,Ján Richter,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=689&ImageWidth=140,,Klub SMER - SD,,0.000486,0.0,2,4112
-nrsr:person:1120,Michal Sabo,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1120&ImageWidth=140,,Klub PS,,0.001796,0.2,7,3897
-nrsr:person:1019,Viliam Zahorčák,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1019&ImageWidth=140,,Klub SMER - SD,,0.0,0.0,0,4112
-nrsr:person:1161,Michal Stuška,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1161&ImageWidth=140,,Klub SMER - SD,,0.000486,0.0,2,4112
-nrsr:person:1187,Branislav Becík,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1187&ImageWidth=140,,Klub HLAS - SD,,0.000486,0.0,2,4118
-nrsr:person:1065,Michal Šipoš,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1065&ImageWidth=140,,Klub SLOVENSKO,,0.00153,0.2,6,3922
-nrsr:person:705,Jozef Valocký,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=705&ImageWidth=140,,Klub SMER - SD,,0.000973,0.1,4,4112
-nrsr:person:1172,Richard Eliáš,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1172&ImageWidth=140,,Klub HLAS - SD,,0.000971,0.1,4,4118
-nrsr:person:971,Branislav Gröhling,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=971&ImageWidth=140,,Klub SaS,,0.000256,0.0,1,3912
-nrsr:person:733,Michal Lukša,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=733&ImageWidth=140,,Klub SMER - SD,,0.000486,0.0,2,4112
-nrsr:person:671,Ján Kvorka,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=671&ImageWidth=140,,Klub SMER - SD,,0.000973,0.1,4,4112
-nrsr:person:1204,Jaroslav Mego,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1204&ImageWidth=140,,Klub SMER - SD,,0.00073,0.1,3,4112
-nrsr:person:1193,Igor Válek,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1193&ImageWidth=140,,Klub SMER - SD,,0.000486,0.0,2,4112
-nrsr:person:961,Igor Janckulík,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=961&ImageWidth=140,,Klub KDH,,0.001577,0.2,6,3805
-nrsr:person:1222,Gréta Gregorová,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1222&ImageWidth=140,,Klub PS,,0.000257,0.0,1,3897
-nrsr:person:873,Marián Kéry,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=873&ImageWidth=140,,Klub SMER - SD,,0.001946,0.2,8,4112
-nrsr:person:1152,Pavel Ľupták,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1152&ImageWidth=140,,Klub SNS,,0.003162,0.3,13,4111
-nrsr:person:929,Andrej Danko,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=929&ImageWidth=140,,Klub SNS,,0.002432,0.2,10,4111
-nrsr:person:1008,Ján Ferenčák,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1008&ImageWidth=140,,Klub HLAS - SD,,0.025983,2.6,107,4118
-nrsr:person:668,Stanislav Kubánek,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=668&ImageWidth=140,,Klub SMER - SD,,0.002189,0.2,9,4112
-nrsr:person:871,Vladimír Baláž,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=871&ImageWidth=140,,Klub SMER - SD,,0.002189,0.2,9,4112
-nrsr:person:761,Richard Raši,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=761&ImageWidth=140,,Klub HLAS - SD,,0.000729,0.1,3,4118
-nrsr:person:1154,gen. Gašpar,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1154&ImageWidth=140,,Klub SMER - SD,,0.000486,0.0,2,4112
-nrsr:person:1054,Jozef Pročko,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1054&ImageWidth=140,,Klub SLOVENSKO,,0.009434,0.9,37,3922
-nrsr:person:1032,Juraj Krúpa,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1032&ImageWidth=140,,Klub SaS,,0.004857,0.5,19,3912
-nrsr:person:1149,Roman Michelko,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1149&ImageWidth=140,,Klub SNS,,0.005595,0.6,23,4111
-nrsr:person:1115,Michal Truban,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1115&ImageWidth=140,,Klub PS,,0.003593,0.4,14,3897
-nrsr:person:997,Ján Blcháč,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=997&ImageWidth=140,,Klub HLAS - SD,,0.000486,0.0,2,4118
-nrsr:person:1132,Zuzana Števulová,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1132&ImageWidth=140,,Klub PS,,0.001026,0.1,4,3897
-nrsr:person:874,Augustín Hambálek,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=874&ImageWidth=140,,Klub SMER - SD,,0.00073,0.1,3,4112
-nrsr:person:907,Marek Krajčí,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=907&ImageWidth=140,,Klub SLOVENSKO,,0.021418,2.1,84,3922
-nrsr:person:900,František Petro,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=900&ImageWidth=140,,Klub SMER - SD,,0.0,0.0,0,4112
-nrsr:person:1170,Peter Kalivoda,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1170&ImageWidth=140,,Klub HLAS - SD,,0.000243,0.0,1,4118
-nrsr:person:1117,Jaroslav Spišiak,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1117&ImageWidth=140,,Klub PS,,0.00154,0.2,6,3897
-nrsr:person:1129,Jana Hanuliaková,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1129&ImageWidth=140,,Klub PS,,0.000257,0.0,1,3897
-nrsr:person:1183,Ján Horecký,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1183&ImageWidth=140,,Klub KDH,,0.000788,0.1,3,3805
-nrsr:person:1200,Boleslav Lešo,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1200&ImageWidth=140,,Klub SMER - SD,,0.000486,0.0,2,4112
-nrsr:person:233,Jaroslav Baška,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=233&ImageWidth=140,,Klub SMER - SD,,0.000973,0.1,4,4112
-nrsr:person:1087,Zdenko Svoboda,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1087&ImageWidth=140,,Klub HLAS - SD,,0.000729,0.1,3,4118
-nrsr:person:1009,Jozef Habánik,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1009&ImageWidth=140,,Klub SMER - SD,,0.000486,0.0,2,4112
-nrsr:person:1216,Dávid Demečko,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1216&ImageWidth=140,,Klub HLAS - SD,,0.000486,0.0,2,4118
-nrsr:person:1046,Roman Mikulec,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1046&ImageWidth=140,,Klub SLOVENSKO,,0.00204,0.2,8,3922
-nrsr:person:691,Peter Žiga,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=691&ImageWidth=140,,Klub HLAS - SD,,0.000243,0.0,1,4118
-nrsr:person:1196,Alena Nováková,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1196&ImageWidth=140,,Klub HLAS - SD,,0.000243,0.0,1,4118
-nrsr:person:1210,Dagmar Kramplová,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1210&ImageWidth=140,,Klub SNS,,0.00073,0.1,3,4111
-nrsr:person:1206,Peter Sokol,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1206&ImageWidth=140,,Klub SMER - SD,,0.000243,0.0,1,4112
-nrsr:person:1180,Martina Holečková,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1180&ImageWidth=140,,Klub SaS,,0.049335,4.9,193,3912
-nrsr:person:1214,Richard Glück,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1214&ImageWidth=140,,Klub SMER - SD,,0.000973,0.1,4,4112
-nrsr:person:1135,Branislav Vančo,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1135&ImageWidth=140,,Klub PS,,0.00154,0.2,6,3897
-nrsr:person:905,Veronika Remišová,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=905&ImageWidth=140,,Klub SLOVENSKO,,0.004335,0.4,17,3922
-nrsr:person:1163,Justín Sedlák,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1163&ImageWidth=140,,Klub SMER - SD,,0.000486,0.0,2,4112
-nrsr:person:892,Štefan Gašparovič,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=892&ImageWidth=140,,Klub HLAS - SD,,0.000243,0.0,1,4118
-nrsr:person:1208,Dis. Puškárová,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1208&ImageWidth=140,,Klub HLAS - SD,,0.000729,0.1,3,4118
-nrsr:person:1143,Veronika Šrobová,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1143&ImageWidth=140,,Klub PS,,0.001026,0.1,4,3897
-nrsr:person:1221,Igor Dušenka,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1221&ImageWidth=140,,Klub SLOVENSKO,,0.00051,0.1,2,3922
-nrsr:person:1223,Vladimír Macášek,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1223&ImageWidth=140,,Klub SMER - SD,,0.0,0.0,0,4112
-nrsr:person:1173,Roman Malatinec,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1173&ImageWidth=140,,Klub HLAS - SD,,0.002186,0.2,9,4118
-nrsr:person:1124,Ingrid Kosová,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1124&ImageWidth=140,,Klub PS,,0.00077,0.1,3,3897
-nrsr:person:910,Gábor Grendel,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=910&ImageWidth=140,,Klub SLOVENSKO,,0.00255,0.3,10,3922
-nrsr:person:1121,Zora Jaurová,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1121&ImageWidth=140,,Klub PS,,0.00077,0.1,3,3897
-nrsr:person:1212,Natália Nash,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1212&ImageWidth=140,,Klub PS,,0.000513,0.1,2,3897
-nrsr:person:1179,Marián Čaučík,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1179&ImageWidth=140,,Klub KDH,,0.001051,0.1,4,3805
-nrsr:person:1058,Anton Stredák,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1058&ImageWidth=140,,Klub SMER - SD,,0.00073,0.1,3,4112
-nrsr:person:656,Dušan Galis,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=656&ImageWidth=140,,Klub SMER - SD,,0.001946,0.2,8,4112
-nrsr:person:1146,Anežka Škopová,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1146&ImageWidth=140,,Klub SLOVENSKO,,0.008159,0.8,32,3922
-nrsr:person:931,Karol Farkašovský,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=931&ImageWidth=140,,Klub SNS,,0.001459,0.1,6,4111
-nrsr:person:1207,Michal Bartek,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1207&ImageWidth=140,,Klub HLAS - SD,,0.000729,0.1,3,4118
-nrsr:person:1160,Marcela Čavojová,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1160&ImageWidth=140,,Klub SMER - SD,,0.001702,0.2,7,4112
-nrsr:person:1037,Vladimír Ledecký,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1037&ImageWidth=140,,Klub SaS,,0.007157,0.7,28,3912
-nrsr:person:1133,Martin Dubéci,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1133&ImageWidth=140,,Klub PS,,0.001026,0.1,4,3897
-nrsr:person:1081,Ľubica Laššáková,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1081&ImageWidth=140,,Klub HLAS - SD,,0.000243,0.0,1,4118
-nrsr:person:1199,Adam Lučanský,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1199&ImageWidth=140,,Klub SNS,,0.001703,0.2,7,4111
-nrsr:person:1190,Rastislav Krátky,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1190&ImageWidth=140,,Klub KDH,,0.040999,4.1,156,3805
-nrsr:person:1211,Zdenka Mačicová,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1211&ImageWidth=140,,Klub HLAS - SD,,0.000486,0.0,2,4118
-nrsr:person:1134,Darina Luščíková,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1134&ImageWidth=140,,Klub PS,,0.001796,0.2,7,3897
-nrsr:person:1224,Monika Kolejáková,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1224&ImageWidth=140,,Klub KDH,,0.000263,0.0,1,3805
-nrsr:person:1088,Peter Pollák,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1088&ImageWidth=140,,Klub SLOVENSKO,,0.007904,0.8,31,3922
-nrsr:person:322,Dušan Muňko,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=322&ImageWidth=140,,Klub SNS,,0.003405,0.3,14,4111
-nrsr:person:859,Alojz Hlina,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=859&ImageWidth=140,,Klub SaS,,0.003067,0.3,12,3912
-nrsr:person:1156,Ján Mažgút,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1156&ImageWidth=140,,Klub SMER - SD,,0.00073,0.1,3,4112
-nrsr:person:991,Marián Viskupič,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=991&ImageWidth=140,,Klub SaS,,0.00409,0.4,16,3912
-nrsr:person:1145,Viliam Tankó,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1145&ImageWidth=140,,Klub PS,,0.098537,9.9,384,3897
-nrsr:person:1189,Marek Lackovič,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1189&ImageWidth=140,,Klub PS,,0.000257,0.0,1,3897
-nrsr:person:685,Ján Podmanický,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=685&ImageWidth=140,,Klub SMER - SD,,0.003891,0.4,16,4112
-nrsr:person:1203,et Čellár,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1203&ImageWidth=140,,Klub HLAS - SD,,0.0017,0.2,7,4118
-nrsr:person:1176,Erik Vlček,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1176&ImageWidth=140,,Klub HLAS - SD,,0.0017,0.2,7,4118
-nrsr:person:1177,Igor Šimko,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1177&ImageWidth=140,,Klub HLAS - SD,,0.0,0.0,0,4118
-nrsr:person:1118,Tamara Stohlová,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1118&ImageWidth=140,,Klub PS,,0.00154,0.2,6,3897
-nrsr:person:92,František Mikloško,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=92&ImageWidth=140,,Klub KDH,,0.006045,0.6,23,3805
-nrsr:person:1147,Tomáš Szalay,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1147&ImageWidth=140,,Klub SaS,,0.005112,0.5,20,3912
-nrsr:person:1141,Veronika Veslárová,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1141&ImageWidth=140,,Klub PS,,0.000513,0.1,2,3897
-nrsr:person:976,Jana Cigániková,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=976&ImageWidth=140,,Klub SaS,,0.008436,0.8,33,3912
-nrsr:person:1126,Tina Gažovičová,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1126&ImageWidth=140,,Klub PS,,0.0,0.0,0,3897
-nrsr:person:1139,Dana Kleinert,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1139&ImageWidth=140,,Klub PS,,0.000513,0.1,2,3897
-nrsr:person:785,Ľubomír Galko,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=785&ImageWidth=140,,Klub SLOVENSKO,,0.019888,2.0,78,3922
-nrsr:person:1158,Daniel Karas,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1158&ImageWidth=140,,Klub SMER - SD,,0.000243,0.0,1,4112
-nrsr:person:738,Pavol Goga,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=738&ImageWidth=140,,Klub SMER - SD,,0.0,0.0,0,4112
-nrsr:person:1217,Andrea Szabóová,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1217&ImageWidth=140,,Klub HLAS - SD,,0.0,0.0,0,4118
-nrsr:person:769,Peter Šuca,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=769&ImageWidth=140,,Klub SMER - SD,,0.000243,0.0,1,4112
-nrsr:person:1186,Andrea Turčanová,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1186&ImageWidth=140,,Klub KDH,,0.006045,0.6,23,3805
-nrsr:person:1114,Michal Šimečka,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1114&ImageWidth=140,,Klub PS,,0.002309,0.2,9,3897
-nrsr:person:1025,Mária Kolíková,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1025&ImageWidth=140,,Klub SaS,,0.006902,0.7,27,3912
-nrsr:person:1131,Ondrej Prostredník,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1131&ImageWidth=140,,Klub PS,,0.0,0.0,0,3897
-nrsr:person:962,Simona Petrík,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=962&ImageWidth=140,,Klub PS,,0.003079,0.3,12,3897
-nrsr:person:1219,Ján Horváth,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1219&ImageWidth=140,,Klub SMER - SD,,0.000486,0.0,2,4112
-nrsr:person:779,Ondrej Dostál,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=779&ImageWidth=140,,Klub SaS,,0.01227,1.2,48,3912
-nrsr:person:1182,Peter Stachura,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1182&ImageWidth=140,,Klub KDH,,0.002365,0.2,9,3805
-nrsr:person:1192,Ivan Hazucha,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1192&ImageWidth=140,,Klub SMER - SD,,0.001216,0.1,5,4112
-nrsr:person:762,Marián Saloň,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=762&ImageWidth=140,,Klub SMER - SD,,0.0,0.0,0,4112
-nrsr:person:1178,Milan Majerský,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1178&ImageWidth=140,,Klub KDH,,0.000263,0.0,1,3805
-nrsr:person:1198,Milan Garaj,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1198&ImageWidth=140,,Klub SNS,,0.001216,0.1,5,4111
-nrsr:person:1191,Andrej Sitkár,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1191&ImageWidth=140,,Klub SMER - SD,,0.000243,0.0,1,4112
-nrsr:person:1150,Ivan Ševčík,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1150&ImageWidth=140,,Klub SNS,,0.002676,0.3,11,4111
-nrsr:person:36,RSDr. Faič,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=36&ImageWidth=140,,Klub SMER - SD,,0.001946,0.2,8,4112
-nrsr:person:861,Richard Vašečka,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=861&ImageWidth=140,,Klub SLOVENSKO,,0.016063,1.6,63,3922
-nrsr:person:1142,Ján Hargaš,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1142&ImageWidth=140,,Klub PS,,0.00077,0.1,3,3897
-nrsr:person:899,Peter Náhlik,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=899&ImageWidth=140,,Klub HLAS - SD,,0.000243,0.0,1,4118
+nrsr:person:1180,Martina Holečková,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1180&ImageWidth=140,,Klub Sloboda a Solidarita,,0.001892,0.2,6,3172
+nrsr:person:871,Vladimír Baláž,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=871&ImageWidth=140,,Klub SMER - sociálna demokracia,,0.002199,0.2,9,4092
+nrsr:person:1207,Michal Bartek,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1207&ImageWidth=140,,Klub HLAS - sociálna demokracia,,0.000733,0.1,3,4094
+nrsr:person:233,Jaroslav Baška,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=233&ImageWidth=140,,Klub SMER - sociálna demokracia,,0.000978,0.1,4,4092
+nrsr:person:1187,Branislav Becík,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1187&ImageWidth=140,,Klub HLAS - sociálna demokracia,,0.000489,0.0,2,4094
+nrsr:person:1119,Irena Bihariová,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1119&ImageWidth=140,,Klub Progresívne Slovensko,,0.001292,0.1,5,3870
+nrsr:person:976,Jana Cigániková,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=976&ImageWidth=140,,Nezávislí,,0.017054,1.7,66,3870
+nrsr:person:997,Ján Blcháč,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=997&ImageWidth=140,,Klub HLAS - sociálna demokracia,,0.000489,0.0,2,4094
+nrsr:person:1144,Lukáš Bužo,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1144&ImageWidth=140,,Klub SLOVENSKO - ZA ĽUDÍ,,0.005631,0.6,22,3907
+nrsr:person:1195,Jozef Cech,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1195&ImageWidth=140,,Klub HLAS - sociálna demokracia,,0.000733,0.1,3,4094
+nrsr:person:1179,Marián Čaučík,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1179&ImageWidth=140,,Klub KDH,,0.001061,0.1,4,3770
+nrsr:person:1160,Marcela Čavojová,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1160&ImageWidth=140,,Klub SMER - sociálna demokracia,,0.001711,0.2,7,4092
+nrsr:person:1203,Miroslav Čellár,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1203&ImageWidth=140,,Klub HLAS - sociálna demokracia,,0.00171,0.2,7,4094
+nrsr:person:929,Andrej Danko,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=929&ImageWidth=140,,Klub Slovenská národná strana,,0.002201,0.2,9,4089
+nrsr:person:1140,Dávid Dej,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1140&ImageWidth=140,,Klub Progresívne Slovensko,,0.000258,0.0,1,3870
+nrsr:person:1216,Dávid Demečko,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1216&ImageWidth=140,,Klub HLAS - sociálna demokracia,,0.000619,0.1,2,3232
+nrsr:person:779,Ondrej Dostál,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=779&ImageWidth=140,,Klub Sloboda a Solidarita,,0.012571,1.3,49,3898
+nrsr:person:1133,Martin Dubéci,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1133&ImageWidth=140,,Klub Progresívne Slovensko,,0.001034,0.1,4,3870
+nrsr:person:1213,Richard Dubovický,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1213&ImageWidth=140,,Klub Progresívne Slovensko,,0.000542,0.1,2,3689
+nrsr:person:1221,Igor Dušenka,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1221&ImageWidth=140,,Klub SLOVENSKO - ZA ĽUDÍ,,0.001676,0.2,2,1193
+nrsr:person:1123,Oskar Dvořák,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1123&ImageWidth=140,,Klub Progresívne Slovensko,,0.001034,0.1,4,3870
+nrsr:person:1172,Richard Eliáš,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1172&ImageWidth=140,,Klub HLAS - sociálna demokracia,,0.000977,0.1,4,4094
+nrsr:person:36,Vladimír Faič,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=36&ImageWidth=140,,Klub SMER - sociálna demokracia,,0.001955,0.2,8,4092
+nrsr:person:931,Karol Farkašovský,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=931&ImageWidth=140,,Klub Slovenská národná strana,,0.001712,0.2,7,4089
+nrsr:person:1008,Ján Ferenčák,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1008&ImageWidth=140,,Nezávislí,,0.016316,1.6,66,4045
+nrsr:person:966,Karol Galek,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=966&ImageWidth=140,,Klub Sloboda a Solidarita,,0.002238,0.2,6,2681
+nrsr:person:656,Dušan Galis,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=656&ImageWidth=140,,Klub SMER - sociálna demokracia,,0.001955,0.2,8,4092
+nrsr:person:785,Ľubomír Galko,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=785&ImageWidth=140,,Nezávislí,,0.229921,23.0,876,3810
+nrsr:person:1198,Milan Garaj,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1198&ImageWidth=140,,Klub Slovenská národná strana,,0.000978,0.1,4,4089
+nrsr:person:1154,Tibor Gašpar,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1154&ImageWidth=140,,Klub SMER - sociálna demokracia,,0.000489,0.0,2,4092
+nrsr:person:892,Štefan Gašparovič,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=892&ImageWidth=140,,Klub HLAS - sociálna demokracia,,0.000244,0.0,1,4094
+nrsr:person:1126,Tina Gažovičová,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1126&ImageWidth=140,,Klub Progresívne Slovensko,,0.0,0.0,0,3870
+nrsr:person:1214,Richard Glück,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1214&ImageWidth=140,,Klub SMER - sociálna demokracia,,0.001044,0.1,4,3833
+nrsr:person:738,Pavol Goga,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=738&ImageWidth=140,,Klub SMER - sociálna demokracia,,0.0,0.0,0,4092
+nrsr:person:1222,Gréta Gregorová,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1222&ImageWidth=140,,Klub Progresívne Slovensko,,0.000839,0.1,1,1192
+nrsr:person:910,Gábor Grendel,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=910&ImageWidth=140,,Klub SLOVENSKO - ZA ĽUDÍ,,0.004095,0.4,16,3907
+nrsr:person:971,Branislav Gröhling,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=971&ImageWidth=140,,Klub Sloboda a Solidarita,,0.000513,0.1,2,3898
+nrsr:person:1009,Jozef Habánik,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1009&ImageWidth=140,,Klub SMER - sociálna demokracia,,0.000489,0.0,2,4092
+nrsr:person:874,Augustín Hambálek,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=874&ImageWidth=140,,Klub SMER - sociálna demokracia,,0.000733,0.1,3,4092
+nrsr:person:1129,Jana Hanuliaková,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1129&ImageWidth=140,,Klub Progresívne Slovensko,,0.000258,0.0,1,3870
+nrsr:person:1142,Ján Hargaš,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1142&ImageWidth=140,,Klub Progresívne Slovensko,,0.000775,0.1,3,3870
+nrsr:person:1192,Ivan Hazucha,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1192&ImageWidth=140,,Klub SMER - sociálna demokracia,,0.001222,0.1,5,4092
+nrsr:person:859,Alojz Hlina,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=859&ImageWidth=140,,Klub Sloboda a Solidarita,,0.003335,0.3,13,3898
+nrsr:person:1183,Ján Horecký,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1183&ImageWidth=140,,Klub KDH,,0.000796,0.1,3,3770
+nrsr:person:1219,Ján Horváth,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1219&ImageWidth=140,,Klub SMER - sociálna demokracia,,0.00073,0.1,2,2741
+nrsr:person:1202,Ján Hrubý,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1202&ImageWidth=140,,Klub HLAS - sociálna demokracia,,0.0,0.0,0,1919
+nrsr:person:1188,Július Jakab,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1188&ImageWidth=140,,Klub SLOVENSKO - ZA ĽUDÍ,,0.000512,0.1,2,3907
+nrsr:person:1169,Karol Janas,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1169&ImageWidth=140,,Klub HLAS - sociálna demokracia,,0.000733,0.1,3,4094
+nrsr:person:961,Igor Janckulík,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=961&ImageWidth=140,,Klub KDH,,0.001592,0.2,6,3770
+nrsr:person:61,Dušan Jarjabek,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=61&ImageWidth=140,,Klub SMER - sociálna demokracia,,0.000489,0.0,2,4092
+nrsr:person:1121,Zora Jaurová,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1121&ImageWidth=140,,Klub Progresívne Slovensko,,0.000775,0.1,3,3870
+nrsr:person:891,Jozef Ježík,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=891&ImageWidth=140,,Klub SMER - sociálna demokracia,,0.001711,0.2,7,4092
+nrsr:person:1128,Beáta Jurík,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1128&ImageWidth=140,,Klub Progresívne Slovensko,,0.000775,0.1,3,3870
+nrsr:person:1218,Jozef Kačmár,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1218&ImageWidth=140,,Klub SMER - sociálna demokracia,,0.000365,0.0,1,2741
+nrsr:person:1170,Peter Kalivoda,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1170&ImageWidth=140,,Klub HLAS - sociálna demokracia,,0.000244,0.0,1,4094
+nrsr:person:1205,Michal Kapuš,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1205&ImageWidth=140,,Klub SMER - sociálna demokracia,,0.000244,0.0,1,4092
+nrsr:person:1158,Daniel Karas,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1158&ImageWidth=140,,Klub SMER - sociálna demokracia,,0.000244,0.0,1,4092
+nrsr:person:873,Marián Kéry,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=873&ImageWidth=140,,Klub SMER - sociálna demokracia,,0.001955,0.2,8,4092
+nrsr:person:1125,Štefan Kišš,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1125&ImageWidth=140,,Klub Progresívne Slovensko,,0.002067,0.2,8,3870
+nrsr:person:1139,Dana Kleinert,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1139&ImageWidth=140,,Klub Progresívne Slovensko,,0.000517,0.1,2,3870
+nrsr:person:1023,Peter Kmec,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1023&ImageWidth=140,,Klub HLAS - sociálna demokracia,,0.0,0.0,0,671
+nrsr:person:1224,Monika Kolejáková,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1224&ImageWidth=140,,Klub KDH,,0.002105,0.2,1,475
+nrsr:person:1025,Mária Kolíková,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1025&ImageWidth=140,,Klub Sloboda a Solidarita,,0.00667,0.7,26,3898
+nrsr:person:1124,Ingrid Kosová,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1124&ImageWidth=140,,Klub Progresívne Slovensko,,0.000775,0.1,3,3870
+nrsr:person:1151,Peter Kotlár,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1151&ImageWidth=140,,Klub Slovenská národná strana,,0.00269,0.3,11,4089
+nrsr:person:907,Marek Krajčí,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=907&ImageWidth=140,,Klub SLOVENSKO - ZA ĽUDÍ,,0.020732,2.1,81,3907
+nrsr:person:1210,Dagmar Kramplová,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1210&ImageWidth=140,,Klub Slovenská národná strana,,0.000489,0.0,2,4089
+nrsr:person:1190,Rastislav Krátky,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1190&ImageWidth=140,,Klub KDH,,0.003668,0.4,13,3544
+nrsr:person:1032,Juraj Krúpa,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1032&ImageWidth=140,,Klub Sloboda a Solidarita,,0.004874,0.5,19,3898
+nrsr:person:668,Stanislav Kubánek,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=668&ImageWidth=140,,Klub SMER - sociálna demokracia,,0.002199,0.2,9,4092
+nrsr:person:671,Ján Kvorka,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=671&ImageWidth=140,,Klub SMER - sociálna demokracia,,0.000978,0.1,4,4092
+nrsr:person:1189,Marek Lackovič,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1189&ImageWidth=140,,Klub Progresívne Slovensko,,0.000258,0.0,1,3870
+nrsr:person:1081,Ľubica Laššáková,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1081&ImageWidth=140,,Klub HLAS - sociálna demokracia,,0.000244,0.0,1,4094
+nrsr:person:1037,Vladimír Ledecký,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1037&ImageWidth=140,,Klub Sloboda a Solidarita,,0.006414,0.6,25,3898
+nrsr:person:1200,Boleslav Lešo,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1200&ImageWidth=140,,Klub SMER - sociálna demokracia,,0.000489,0.0,2,4092
+nrsr:person:1199,Adam Lučanský,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1199&ImageWidth=140,,Klub Slovenská národná strana,,0.001712,0.2,7,4089
+nrsr:person:733,Michal Lukša,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=733&ImageWidth=140,,Klub SMER - sociálna demokracia,,0.000489,0.0,2,4092
+nrsr:person:1134,Darina Luščíková,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1134&ImageWidth=140,,Klub Progresívne Slovensko,,0.001809,0.2,7,3870
+nrsr:person:1152,Pavel Ľupták,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1152&ImageWidth=140,,Nezávislí,,0.001254,0.1,5,3986
+nrsr:person:1223,Vladimír Macášek,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1223&ImageWidth=140,,Klub SMER - sociálna demokracia,,0.0,0.0,0,672
+nrsr:person:1211,Zdenka Mačicová,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1211&ImageWidth=140,,Klub HLAS - sociálna demokracia,,0.000489,0.0,2,4094
+nrsr:person:1184,František Majerský,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1184&ImageWidth=140,,Klub KDH,,0.002653,0.3,10,3770
+nrsr:person:1178,Milan Majerský,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1178&ImageWidth=140,,Klub KDH,,0.000265,0.0,1,3770
+nrsr:person:1173,Roman Malatinec,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1173&ImageWidth=140,,Nezávislí,,0.001969,0.2,8,4062
+nrsr:person:1042,Vladimíra Marcinková,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1042&ImageWidth=140,,Klub Sloboda a Solidarita,,0.016162,1.6,63,3898
+nrsr:person:1159,Zuzana Matejičková,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1159&ImageWidth=140,,Klub SMER - sociálna demokracia,,0.001955,0.2,8,4092
+nrsr:person:808,Igor Matovič,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=808&ImageWidth=140,,Klub SLOVENSKO - ZA ĽUDÍ,,0.003327,0.3,13,3907
+nrsr:person:1156,Ján Mažgút,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1156&ImageWidth=140,,Klub SMER - sociálna demokracia,,0.000733,0.1,3,4092
+nrsr:person:1204,Jaroslav Mego,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1204&ImageWidth=140,,Klub SMER - sociálna demokracia,,0.000733,0.1,3,4092
+nrsr:person:1130,Zuzana Mesterová,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1130&ImageWidth=140,,Klub Progresívne Slovensko,,0.000258,0.0,1,3870
+nrsr:person:1149,Roman Michelko,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1149&ImageWidth=140,,Klub Slovenská národná strana,,0.005869,0.6,24,4089
+nrsr:person:92,František Mikloško,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=92&ImageWidth=140,,Klub KDH,,0.006101,0.6,23,3770
+nrsr:person:1046,Roman Mikulec,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1046&ImageWidth=140,,Klub SLOVENSKO - ZA ĽUDÍ,,0.003583,0.4,14,3907
+nrsr:person:322,Dušan Muňko,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=322&ImageWidth=140,,Klub Slovenská národná strana,,0.003667,0.4,15,4090
+nrsr:person:899,Peter Náhlik,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=899&ImageWidth=140,,Klub HLAS - sociálna demokracia,,0.000244,0.0,1,4094
+nrsr:person:1212,Natália Nash,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1212&ImageWidth=140,,Klub Progresívne Slovensko,,0.000522,0.1,2,3835
+nrsr:person:1196,Alena Nováková,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1196&ImageWidth=140,,Klub HLAS - sociálna demokracia,,0.000244,0.0,1,4094
+nrsr:person:1225,Gabriel Paľa,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1225&ImageWidth=140,,Klub KDH,,0.0,0.0,0,212
+nrsr:person:962,Simona Petrík,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=962&ImageWidth=140,,Klub Progresívne Slovensko,,0.003101,0.3,12,3870
+nrsr:person:900,František Petro,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=900&ImageWidth=140,,Klub SMER - sociálna demokracia,,0.0,0.0,0,4092
+nrsr:person:1116,Lucia Plaváková,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1116&ImageWidth=140,,Klub Progresívne Slovensko,,0.000258,0.0,1,3870
+nrsr:person:1194,Zuzana Plevíková,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1194&ImageWidth=140,,Klub SMER - sociálna demokracia,,0.000244,0.0,1,4092
+nrsr:person:685,Ján Podmanický,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=685&ImageWidth=140,,Klub SMER - sociálna demokracia,,0.00391,0.4,16,4092
+nrsr:person:1088,Peter Pollák,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1088&ImageWidth=140,,Klub SLOVENSKO - ZA ĽUDÍ,,0.005631,0.6,22,3907
+nrsr:person:1054,Jozef Pročko,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1054&ImageWidth=140,,Klub SLOVENSKO - ZA ĽUDÍ,,0.009982,1.0,39,3907
+nrsr:person:1131,Ondrej Prostredník,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1131&ImageWidth=140,,Klub Progresívne Slovensko,,0.0,0.0,0,3870
+nrsr:person:879,Róbert Puci,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=879&ImageWidth=140,,Klub HLAS - sociálna demokracia,,0.000244,0.0,1,4094
+nrsr:person:1208,Paula Puškárová,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1208&ImageWidth=140,,Klub HLAS - sociálna demokracia,,0.000733,0.1,3,4094
+nrsr:person:1220,Miroslav Radačovský,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1220&ImageWidth=140,,Nezávislí,,0.011271,1.1,29,2573
+nrsr:person:761,Richard Raši,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=761&ImageWidth=140,,Klub HLAS - sociálna demokracia,,0.001563,0.2,3,1919
+nrsr:person:905,Veronika Remišová,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=905&ImageWidth=140,,Klub SLOVENSKO - ZA ĽUDÍ,,0.004095,0.4,16,3907
+nrsr:person:689,Ján Richter,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=689&ImageWidth=140,,Klub SMER - sociálna demokracia,,0.000489,0.0,2,4092
+nrsr:person:1120,Michal Sabo,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1120&ImageWidth=140,,Klub Progresívne Slovensko,,0.001809,0.2,7,3870
+nrsr:person:762,Marián Saloň,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=762&ImageWidth=140,,Klub SMER - sociálna demokracia,,0.0,0.0,0,4092
+nrsr:person:1163,Justín Sedlák,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1163&ImageWidth=140,,Klub SMER - sociálna demokracia,,0.000489,0.0,2,4092
+nrsr:person:1191,Andrej Sitkár,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1191&ImageWidth=140,,Klub SMER - sociálna demokracia,,0.000244,0.0,1,4092
+nrsr:person:1206,Peter Sokol,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1206&ImageWidth=140,,Klub SMER - sociálna demokracia,,0.000244,0.0,1,4092
+nrsr:person:1117,Jaroslav Spišiak,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1117&ImageWidth=140,,Klub Progresívne Slovensko,,0.00155,0.2,6,3870
+nrsr:person:1182,Peter Stachura,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1182&ImageWidth=140,,Klub KDH,,0.002122,0.2,8,3770
+nrsr:person:1118,Tamara Stohlová,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1118&ImageWidth=140,,Klub Progresívne Slovensko,,0.00155,0.2,6,3870
+nrsr:person:1058,Anton Stredák,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1058&ImageWidth=140,,Klub SMER - sociálna demokracia,,0.000733,0.1,3,4092
+nrsr:person:1161,Michal Stuška,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1161&ImageWidth=140,,Klub SMER - sociálna demokracia,,0.000489,0.0,2,4092
+nrsr:person:1087,Zdenko Svoboda,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1087&ImageWidth=140,,Klub HLAS - sociálna demokracia,,0.000733,0.1,3,4094
+nrsr:person:1217,Andrea Szabóová,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1217&ImageWidth=140,,Klub HLAS - sociálna demokracia,,0.0,0.0,0,3232
+nrsr:person:1147,Tomáš Szalay,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1147&ImageWidth=140,,Klub Sloboda a Solidarita,,0.005131,0.5,20,3898
+nrsr:person:1150,Ivan Ševčík,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1150&ImageWidth=140,,Nezávislí,,0.002258,0.2,9,3986
+nrsr:person:1114,Michal Šimečka,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1114&ImageWidth=140,,Klub Progresívne Slovensko,,0.002326,0.2,9,3870
+nrsr:person:1177,Igor Šimko,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1177&ImageWidth=140,,Klub HLAS - sociálna demokracia,,0.0,0.0,0,4094
+nrsr:person:1065,Michal Šipoš,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1065&ImageWidth=140,,Klub SLOVENSKO - ZA ĽUDÍ,,0.001792,0.2,7,3907
+nrsr:person:1146,Anežka Škopová,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1146&ImageWidth=140,,Klub SLOVENSKO - ZA ĽUDÍ,,0.006143,0.6,24,3907
+nrsr:person:862,Branislav Škripek,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=862&ImageWidth=140,,Klub KDH,,0.002918,0.3,11,3770
+nrsr:person:1143,Veronika Šrobová,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1143&ImageWidth=140,,Klub Progresívne Slovensko,,0.001034,0.1,4,3870
+nrsr:person:1127,Ivan Štefunko,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1127&ImageWidth=140,,Klub Progresívne Slovensko,,0.002842,0.3,11,3870
+nrsr:person:1132,Zuzana Števulová,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1132&ImageWidth=140,,Klub Progresívne Slovensko,,0.001034,0.1,4,3870
+nrsr:person:769,Peter Šuca,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=769&ImageWidth=140,,Klub SMER - sociálna demokracia,,0.000244,0.0,1,4092
+nrsr:person:1145,Viliam Tankó,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1145&ImageWidth=140,,Klub Progresívne Slovensko,,0.00655,0.7,24,3664
+nrsr:person:930,Dušan Tittel,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=930&ImageWidth=140,,Klub HLAS - sociálna demokracia,,0.000489,0.0,2,4094
+nrsr:person:1115,Michal Truban,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1115&ImageWidth=140,,Klub Progresívne Slovensko,,0.003618,0.4,14,3870
+nrsr:person:1186,Andrea Turčanová,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1186&ImageWidth=140,,Klub KDH,,0.009814,1.0,37,3770
+nrsr:person:1075,Tomáš Valášek,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1075&ImageWidth=140,,Klub Progresívne Slovensko,,0.002584,0.3,10,3870
+nrsr:person:1193,Igor Válek,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1193&ImageWidth=140,,Klub SMER - sociálna demokracia,,0.000489,0.0,2,4092
+nrsr:person:705,Jozef Valocký,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=705&ImageWidth=140,,Klub SMER - sociálna demokracia,,0.000978,0.1,4,4092
+nrsr:person:1135,Branislav Vančo,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1135&ImageWidth=140,,Klub Progresívne Slovensko,,0.00155,0.2,6,3870
+nrsr:person:861,Richard Vašečka,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=861&ImageWidth=140,,Nezávislí,,0.10815,10.8,418,3865
+nrsr:person:293,Ľubomír Vážny,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=293&ImageWidth=140,,Klub SMER - sociálna demokracia,,0.003666,0.4,15,4092
+nrsr:person:1141,Veronika Veslárová,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1141&ImageWidth=140,,Klub Progresívne Slovensko,,0.000517,0.1,2,3870
+nrsr:person:991,Marián Viskupič,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=991&ImageWidth=140,,Klub Sloboda a Solidarita,,0.004361,0.4,17,3898
+nrsr:person:1176,Erik Vlček,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1176&ImageWidth=140,,Klub HLAS - sociálna demokracia,,0.00171,0.2,7,4094
+nrsr:person:1019,Viliam Zahorčák,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1019&ImageWidth=140,,Klub SMER - sociálna demokracia,,0.0,0.0,0,4092
+nrsr:person:691,Peter Žiga,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=691&ImageWidth=140,,Klub HLAS - sociálna demokracia,,0.000244,0.0,1,4094
+nrsr:person:1181,Jozef Hajko,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1181&ImageWidth=140,,Klub KDH,,0.001061,0.1,4,3770
+nrsr:person:1185,Martin Šmilňák,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1185&ImageWidth=140,,Klub KDH,,0.001857,0.2,7,3770
+nrsr:person:732,Jana Vaľová,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=732&ImageWidth=140,,Klub SMER - SD,,0.003937,0.4,16,4064
+nrsr:person:1197,Peter Slyško,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1197&ImageWidth=140,,Klub HLAS - SD,,0.000492,0.0,2,4066
+nrsr:person:1137,Viera Kalmárová,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1137&ImageWidth=140,,Klub PS,,0.000781,0.1,3,3842
+nrsr:person:147,Anna Záborská,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=147&ImageWidth=140,,Klub SLOVENSKO,,0.01057,1.1,41,3879
+nrsr:person:1175,Radomír Šalitroš,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1175&ImageWidth=140,,Klub HLAS - SD,,0.002951,0.3,12,4066
+nrsr:person:1201,Samuel Migaľ,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1201&ImageWidth=140,,Klub HLAS - SD,,0.002213,0.2,9,4066
+nrsr:person:1148,Rudolf Huliak,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1148&ImageWidth=140,,Klub SNS,,0.000246,0.0,1,4061
+nrsr:person:1168,Zuzana Dolinková,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1168&ImageWidth=140,,,,,,0,0
+nrsr:person:767,Richard Sulík,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=767&ImageWidth=140,,Klub SaS,,0.001034,0.1,4,3870
+nrsr:person:885,Ľuboš Blaha,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=885&ImageWidth=140,,Klub SMER - SD,,0.0,0.0,0,4064
+nrsr:person:1153,Erik Kaliňák,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1153&ImageWidth=140,,Klub SMER - SD,,0.000246,0.0,1,4064
+nrsr:person:238,Juraj Blanár,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=238&ImageWidth=140,,,,,,0,0
+nrsr:person:1164,Tomáš Drucker,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1164&ImageWidth=140,,,,,,0,0
+nrsr:person:40,Robert Fico,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=40&ImageWidth=140,,,,,,0,0
+nrsr:person:1155,Juraj Gedra,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1155&ImageWidth=140,,,,,,0,0
+nrsr:person:1136,MSc. Hellebrandt,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1136&ImageWidth=140,,Klub PS,,0.0,0.0,0,3842
+nrsr:person:790,Igor Choma,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=790&ImageWidth=140,,,,,,0,0
+nrsr:person:1165,Michal Kaliňák,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1165&ImageWidth=140,,,,,,0,0
+nrsr:person:271,Robert Kaliňák,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=271&ImageWidth=140,,,,,,0,0
+nrsr:person:880,Ladislav Kamenický,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=880&ImageWidth=140,,,,,,0,0
+nrsr:person:1034,Filip Kuffa,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1034&ImageWidth=140,,,,,,0,0
+nrsr:person:858,Štefan Kuffa,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=858&ImageWidth=140,,,,,,0,0
+nrsr:person:1166,Dr. Kurilovská,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1166&ImageWidth=140,,,,,,0,0
+nrsr:person:1157,Igor Melicher,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1157&ImageWidth=140,,,,,,0,0
+nrsr:person:1174,Michal Moško,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1174&ImageWidth=140,,Klub HLAS - SD,,0.0,0.0,0,4066
+nrsr:person:974,Martin Nemky,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=974&ImageWidth=140,,Klub SMER - SD,,0.0,0.0,0,4064
+nrsr:person:1138,MBA Pekár,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1138&ImageWidth=140,,Klub PS,,0.00026,0.0,1,3842
+nrsr:person:682,Peter Pellegrini,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=682&ImageWidth=140,,Klub HLAS - SD,,0.000246,0.0,1,4066
+nrsr:person:941,Denisa Saková,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=941&ImageWidth=140,,,,,,0,0
+nrsr:person:1162,Jozef Smatana,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1162&ImageWidth=140,,,,,,0,0
+nrsr:person:877,Boris Susko,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=877&ImageWidth=140,,,,,,0,0
+nrsr:person:1171,Kamil Šaško,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1171&ImageWidth=140,,,,,,0,0
+nrsr:person:918,Martina Šimkovičová,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=918&ImageWidth=140,,,,,,0,0
+nrsr:person:1069,Matúš Eštok,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1069&ImageWidth=140,,,,,,0,0
+nrsr:person:1071,Richard Takáč,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1071&ImageWidth=140,,,,,,0,0
+nrsr:person:1072,Tomáš Taraba,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1072&ImageWidth=140,,,,,,0,0
+nrsr:person:940,Erik Tomáš,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=940&ImageWidth=140,,,,,,0,0
