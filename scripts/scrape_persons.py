@@ -104,12 +104,14 @@ _PRENOMINAL_TITLES = {
     "prof.", "doc.", "mgr.", "ing.", "judr.", "mudr.", "phdr.", "rndr.",
     "paedr.", "paeddr.", "thdr.", "bc.", "mvdr.", "pharm.dr.", "dipl.",
     "art.", "artd.", "rsdr.", "gen.", "v.", "dis.",
+    "msc.", "msc", "mba.", "mba", "llm.", "llm", "bsc.", "bsc",
 }
 
 # Latin conjunctions that appear between titles (e.g. "Mgr. et Mgr.") — not name tokens
 _TITLE_CONJUNCTIONS = {"et"}
 
-# Post-nominal titles that appear WITHOUT a preceding comma (e.g. "Hellebrandt Rastislav MSc.")
+# Post-nominal titles that appear WITHOUT a preceding comma — fallback for edge cases
+# Note: msc/mba are also in _PRENOMINAL_TITLES (NRSR sometimes places them before the name)
 _POSTNOMINAL_NO_COMMA = {"msc.", "msc", "mba.", "mba", "llm.", "llm", "bsc.", "bsc"}
 
 
