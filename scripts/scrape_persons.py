@@ -23,6 +23,7 @@ _RAW = _ROOT / "work" / "raw"
 _RAW.mkdir(parents=True, exist_ok=True)
 
 _MP_LIST_URL = "https://www.nrsr.sk/web/Default.aspx?sid=poslanci/zoznam_abc"
+_MP_CHANGES_URL = "https://www.nrsr.sk/web/Default.aspx?sid=poslanci/zmeny&CisObdobia=9"
 _MP_DETAIL_URL = "https://www.nrsr.sk/web/Default.aspx?sid=poslanci/poslanec&PoslanecID={mp_id}&CisObdobia=9"
 _DELAY = 0.5
 
@@ -36,6 +37,7 @@ _MEMBERSHIPS_COLS = ["mp_id", "club_name", "start_date", "end_date"]
 def _get_mp_ids(session: requests_html.HTMLSession) -> tuple[list[str], set[str], dict[str, str]]:
     """Return (all_ids, current_ids, list_name_map).
 
+    all_ids includes current MPs plus former MPs who left mid-term (from zmeny page).
     list_name_map maps mp_id → raw anchor text from zoznam_abc (e.g. 'Remišová Veronika').
     Used as a fallback when detail-page parsing yields only a title or bare initial.
     """
@@ -52,7 +54,20 @@ def _get_mp_ids(session: requests_html.HTMLSession) -> tuple[list[str], set[str]
             if text:
                 list_name_map[mp_id] = text
     current = set(dict.fromkeys(mp_ids))
-    return list(current), current, list_name_map
+
+    # Also fetch mid-term changes page to capture former MPs who left during the term
+    r2 = session.get(_MP_CHANGES_URL)
+    for a in r2.html.find("a"):
+        href = a.attrs.get("href", "")
+        m = re.search(r"PoslanecID=(\d+)", href)
+        if m:
+            mp_id = m.group(1)
+            if mp_id not in current:
+                mp_ids.append(mp_id)
+
+    all_ids = list(dict.fromkeys(mp_ids))
+    logging.info("Found %d current + %d former MP IDs", len(current), len(all_ids) - len(current))
+    return all_ids, current, list_name_map
 
 
 # Slovak pre-nominal academic titles to strip from h1 name
