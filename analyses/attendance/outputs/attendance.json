@@ -613,7 +613,15 @@
     "present_share": 0.9603297269,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1220&ImageWidth=140"
-    }
+    },
+    "organizations": [
+      {
+        "id": "nrsr:org:nezavisli",
+        "classification": "group",
+        "name": "Nezávislí",
+        "since": "2023-10-25"
+      }
+    ]
   },
   {
     "person_id": "nrsr:person:1218",
@@ -1279,10 +1287,10 @@
     ],
     "organizations": [
       {
-        "id": "nrsr:org:club:10",
+        "id": "nrsr:org:nezavisli",
         "classification": "group",
-        "name": "Klub SNS",
-        "since": "2023-10-25"
+        "name": "Nezávislí",
+        "since": "2024-10-22"
       }
     ],
     "since": "2023-10-25",
@@ -1331,10 +1339,10 @@
     ],
     "organizations": [
       {
-        "id": "nrsr:org:club:1",
+        "id": "nrsr:org:nezavisli",
         "classification": "group",
-        "name": "Klub HLAS - SD",
-        "since": "2023-10-25"
+        "name": "Nezávislí",
+        "since": "2025-12-11"
       }
     ],
     "since": "2023-10-25",
@@ -2319,10 +2327,10 @@
     ],
     "organizations": [
       {
-        "id": "nrsr:org:club:1",
+        "id": "nrsr:org:nezavisli",
         "classification": "group",
-        "name": "Klub HLAS - SD",
-        "since": "2023-10-25"
+        "name": "Nezávislí",
+        "since": "2025-02-04"
       }
     ],
     "since": "2023-10-25",
@@ -3307,10 +3315,10 @@
     ],
     "organizations": [
       {
-        "id": "nrsr:org:club:6",
+        "id": "nrsr:org:nezavisli",
         "classification": "group",
-        "name": "Klub SLOVENSKO",
-        "since": "2023-10-25"
+        "name": "Nezávislí",
+        "since": "2024-08-21"
       }
     ],
     "since": "2023-10-25",
@@ -3775,10 +3783,10 @@
     ],
     "organizations": [
       {
-        "id": "nrsr:org:club:10",
+        "id": "nrsr:org:nezavisli",
         "classification": "group",
-        "name": "Klub SNS",
-        "since": "2023-10-25"
+        "name": "Nezávislí",
+        "since": "2024-10-22"
       }
     ],
     "since": "2023-10-25",
@@ -3827,10 +3835,10 @@
     ],
     "organizations": [
       {
-        "id": "nrsr:org:club:6",
+        "id": "nrsr:org:nezavisli",
         "classification": "group",
-        "name": "Klub SLOVENSKO",
-        "since": "2023-10-25"
+        "name": "Nezávislí",
+        "since": "2025-10-01"
       }
     ],
     "since": "2023-10-25",
