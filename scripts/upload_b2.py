@@ -132,26 +132,38 @@ def upload_file(local_path: Path, remote_name: str) -> str:
         if not bucket_id:
             raise ValueError(f"B2 bucket not found: {bucket_name}")
 
-    upload_info = _b2_get_upload_url(api_url, auth_token, bucket_id)
-    upload_url = upload_info["uploadUrl"]
-    upload_auth = upload_info["authorizationToken"]
-
     sha1 = _sha1(local_path)
-    with open(local_path, "rb") as f:
-        r = requests.post(
-            upload_url,
-            headers={
-                "Authorization": upload_auth,
-                "X-Bz-File-Name": remote_name,
-                "Content-Type": "b2/x-auto",
-                "X-Bz-Content-Sha1": sha1,
-            },
-            data=f,
-            timeout=300,
-        )
-    r.raise_for_status()
-    logging.info("Uploaded %s -> b2://%s/%s", local_path, bucket_name, remote_name)
-    return f"https://f000.backblazeb2.com/file/{bucket_name}/{remote_name}"
+    last_exc: Exception | None = None
+    for attempt in range(5):
+        if attempt > 0:
+            import time; time.sleep(2 ** attempt)
+        upload_info = _b2_get_upload_url(api_url, auth_token, bucket_id)
+        upload_url = upload_info["uploadUrl"]
+        upload_auth = upload_info["authorizationToken"]
+        try:
+            with open(local_path, "rb") as f:
+                r = requests.post(
+                    upload_url,
+                    headers={
+                        "Authorization": upload_auth,
+                        "X-Bz-File-Name": remote_name,
+                        "Content-Type": "b2/x-auto",
+                        "X-Bz-Content-Sha1": sha1,
+                    },
+                    data=f,
+                    timeout=300,
+                )
+            if r.status_code in (400, 500, 503):
+                logging.warning("B2 upload attempt %d failed (%s); retrying", attempt + 1, r.status_code)
+                last_exc = requests.HTTPError(response=r)
+                continue
+            r.raise_for_status()
+            logging.info("Uploaded %s -> b2://%s/%s", local_path, bucket_name, remote_name)
+            return f"https://f000.backblazeb2.com/file/{bucket_name}/{remote_name}"
+        except requests.RequestException as exc:
+            logging.warning("B2 upload attempt %d error: %s", attempt + 1, exc)
+            last_exc = exc
+    raise last_exc or RuntimeError("B2 upload failed after retries")
 
 
 def prune_snapshots(prefix: str, *, keep: int = 5) -> None:
