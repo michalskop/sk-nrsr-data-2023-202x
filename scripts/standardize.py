@@ -396,11 +396,23 @@ def _write_members_analyses(
                 "end_date": end_str,
             })
 
+    # Last vote date per MP — fallback parliament end_date for former MPs with no zmeny entry
+    last_vote_by_mp: dict[str, str] = {}
+    if "last_vote_date" in memberships_raw.columns:
+        for _, row in memberships_raw.iterrows():
+            mid = str(row["mp_id"])
+            lv = str(row.get("last_vote_date") or "").strip()
+            if lv and lv > last_vote_by_mp.get(mid, ""):
+                last_vote_by_mp[mid] = lv
+
     all_members = []
     current_members = []
     for _, p in persons_raw.iterrows():
         mp_id = str(p["mp_id"])
         parl_end = str(p.get("left_on", "") or "").strip()
+        is_current = str(p.get("in_parliament", "")).lower() in ("true", "1", "yes")
+        if not parl_end and not is_current:
+            parl_end = last_vote_by_mp.get(mp_id, "")
         memberships: dict = {
             "parliament": [{"id": _nrsr_org_id(_NRSR_ORG_ID), "name": "Národná rada Slovenskej republiky", "start_date": _TERM_START, "end_date": parl_end}],
         }
@@ -418,7 +430,7 @@ def _write_members_analyses(
             "memberships": memberships,
         }
         all_members.append(record)
-        if str(p.get("in_parliament", "")).lower() in ("true", "1", "yes"):
+        if is_current:
             current_members.append(record)
 
     _write_analysis_output(
