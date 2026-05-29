@@ -1,9 +1,9 @@
 [
   {
     "person_id": "nrsr:person:1180",
-    "govity_total": 1430,
-    "govity_possible": 2742,
-    "govity": 0.521517,
+    "govity_total": 1440,
+    "govity_possible": 2760,
+    "govity": 0.521739,
     "name": "Martina Holečková",
     "given_names": [
       "Martina"
@@ -24,13 +24,13 @@
         "classification": "group",
         "name": "Klub Sloboda a Solidarita",
         "since": "2025-01-21",
-        "until": "2026-05-26"
+        "until": "2026-05-28"
       },
       {
         "id": "nrsr:org:club:6",
         "classification": "group",
         "name": "Klub Sloboda a Solidarita",
-        "since": "2026-05-26"
+        "since": "2026-05-28"
       }
     ],
     "since": "2023-10-25",
@@ -40,9 +40,9 @@
   },
   {
     "person_id": "nrsr:person:871",
-    "govity_total": 4036,
-    "govity_possible": 4045,
-    "govity": 0.997775,
+    "govity_total": 4055,
+    "govity_possible": 4064,
+    "govity": 0.997785,
     "name": "Vladimír Baláž",
     "given_names": [
       "Vladimír"
@@ -56,13 +56,13 @@
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
         "since": "2023-11-14",
-        "until": "2026-05-26"
+        "until": "2026-05-28"
       },
       {
         "id": "nrsr:org:club:5",
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
-        "since": "2026-05-26"
+        "since": "2026-05-28"
       }
     ],
     "since": "2023-10-25",
@@ -72,9 +72,9 @@
   },
   {
     "person_id": "nrsr:person:1207",
-    "govity_total": 4071,
-    "govity_possible": 4077,
-    "govity": 0.998528,
+    "govity_total": 4090,
+    "govity_possible": 4096,
+    "govity": 0.998535,
     "name": "Michal Bartek",
     "given_names": [
       "Michal"
@@ -88,13 +88,13 @@
         "classification": "group",
         "name": "Klub HLAS - sociálna demokracia",
         "since": "2023-11-14",
-        "until": "2026-05-26"
+        "until": "2026-05-28"
       },
       {
         "id": "nrsr:org:club:1",
         "classification": "group",
         "name": "Klub HLAS - sociálna demokracia",
-        "since": "2026-05-26"
+        "since": "2026-05-28"
       }
     ],
     "since": "2023-10-25",
@@ -104,9 +104,9 @@
   },
   {
     "person_id": "nrsr:person:233",
-    "govity_total": 3932,
-    "govity_possible": 3937,
-    "govity": 0.99873,
+    "govity_total": 3951,
+    "govity_possible": 3956,
+    "govity": 0.998736,
     "name": "Jaroslav Baška",
     "given_names": [
       "Jaroslav"
@@ -120,13 +120,13 @@
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
         "since": "2023-11-14",
-        "until": "2026-05-26"
+        "until": "2026-05-28"
       },
       {
         "id": "nrsr:org:club:5",
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
-        "since": "2026-05-26"
+        "since": "2026-05-28"
       }
     ],
     "since": "2023-10-25",
@@ -136,9 +136,9 @@
   },
   {
     "person_id": "nrsr:person:1187",
-    "govity_total": 4097,
-    "govity_possible": 4103,
-    "govity": 0.998538,
+    "govity_total": 4116,
+    "govity_possible": 4122,
+    "govity": 0.998544,
     "name": "Branislav Becík",
     "given_names": [
       "Branislav"
@@ -152,13 +152,13 @@
         "classification": "group",
         "name": "Klub HLAS - sociálna demokracia",
         "since": "2023-11-14",
-        "until": "2026-05-26"
+        "until": "2026-05-28"
       },
       {
         "id": "nrsr:org:club:1",
         "classification": "group",
         "name": "Klub HLAS - sociálna demokracia",
-        "since": "2026-05-26"
+        "since": "2026-05-28"
       }
     ],
     "since": "2023-10-25",
@@ -168,9 +168,9 @@
   },
   {
     "person_id": "nrsr:person:1119",
-    "govity_total": 1919,
-    "govity_possible": 3348,
-    "govity": 0.573178,
+    "govity_total": 1933,
+    "govity_possible": 3366,
+    "govity": 0.574272,
     "name": "Irena Bihariová",
     "given_names": [
       "Irena"
@@ -184,13 +184,13 @@
         "classification": "group",
         "name": "Klub Progresívne Slovensko",
         "since": "2023-11-14",
-        "until": "2026-05-26"
+        "until": "2026-05-28"
       },
       {
         "id": "nrsr:org:club:3",
         "classification": "group",
         "name": "Klub Progresívne Slovensko",
-        "since": "2026-05-26"
+        "since": "2026-05-28"
       }
     ],
     "since": "2023-10-25",
@@ -200,9 +200,9 @@
   },
   {
     "person_id": "nrsr:person:976",
-    "govity_total": 1212,
-    "govity_possible": 2440,
-    "govity": 0.496721,
+    "govity_total": 1227,
+    "govity_possible": 2459,
+    "govity": 0.498983,
     "name": "Jana Cigániková",
     "given_names": [
       "Jana"
@@ -232,9 +232,9 @@
   },
   {
     "person_id": "nrsr:person:997",
-    "govity_total": 3881,
-    "govity_possible": 3888,
-    "govity": 0.9982,
+    "govity_total": 3900,
+    "govity_possible": 3907,
+    "govity": 0.998208,
     "name": "Ján Blcháč",
     "given_names": [
       "Ján"
@@ -248,13 +248,13 @@
         "classification": "group",
         "name": "Klub HLAS - sociálna demokracia",
         "since": "2023-11-14",
-        "until": "2026-05-26"
+        "until": "2026-05-28"
       },
       {
         "id": "nrsr:org:club:1",
         "classification": "group",
         "name": "Klub HLAS - sociálna demokracia",
-        "since": "2026-05-26"
+        "since": "2026-05-28"
       }
     ],
     "since": "2023-10-25",
@@ -264,9 +264,9 @@
   },
   {
     "person_id": "nrsr:person:1144",
-    "govity_total": 1645,
-    "govity_possible": 3558,
-    "govity": 0.462338,
+    "govity_total": 1655,
+    "govity_possible": 3577,
+    "govity": 0.462678,
     "name": "Lukáš Bužo",
     "given_names": [
       "Lukáš"
@@ -280,13 +280,13 @@
         "classification": "group",
         "name": "Klub SLOVENSKO - ZA ĽUDÍ",
         "since": "2023-11-14",
-        "until": "2026-05-26"
+        "until": "2026-05-28"
       },
       {
         "id": "nrsr:org:club:4",
         "classification": "group",
         "name": "Klub SLOVENSKO - ZA ĽUDÍ",
-        "since": "2026-05-26"
+        "since": "2026-05-28"
       }
     ],
     "since": "2023-10-25",
@@ -296,9 +296,9 @@
   },
   {
     "person_id": "nrsr:person:1195",
-    "govity_total": 4085,
-    "govity_possible": 4093,
-    "govity": 0.998045,
+    "govity_total": 4104,
+    "govity_possible": 4112,
+    "govity": 0.998054,
     "name": "Jozef Cech",
     "given_names": [
       "Jozef"
@@ -312,13 +312,13 @@
         "classification": "group",
         "name": "Klub HLAS - sociálna demokracia",
         "since": "2023-11-14",
-        "until": "2026-05-26"
+        "until": "2026-05-28"
       },
       {
         "id": "nrsr:org:club:1",
         "classification": "group",
         "name": "Klub HLAS - sociálna demokracia",
-        "since": "2026-05-26"
+        "since": "2026-05-28"
       }
     ],
     "since": "2023-10-25",
@@ -328,9 +328,9 @@
   },
   {
     "person_id": "nrsr:person:1179",
-    "govity_total": 1993,
-    "govity_possible": 3410,
-    "govity": 0.584457,
+    "govity_total": 2008,
+    "govity_possible": 3429,
+    "govity": 0.585593,
     "name": "Marián Čaučík",
     "given_names": [
       "Marián"
@@ -353,9 +353,9 @@
   },
   {
     "person_id": "nrsr:person:1160",
-    "govity_total": 4030,
-    "govity_possible": 4036,
-    "govity": 0.998513,
+    "govity_total": 4049,
+    "govity_possible": 4055,
+    "govity": 0.99852,
     "name": "Marcela Čavojová",
     "given_names": [
       "Marcela"
@@ -369,13 +369,13 @@
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
         "since": "2023-11-14",
-        "until": "2026-05-26"
+        "until": "2026-05-28"
       },
       {
         "id": "nrsr:org:club:5",
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
-        "since": "2026-05-26"
+        "since": "2026-05-28"
       }
     ],
     "since": "2023-10-25",
@@ -385,9 +385,9 @@
   },
   {
     "person_id": "nrsr:person:1203",
-    "govity_total": 4061,
-    "govity_possible": 4074,
-    "govity": 0.996809,
+    "govity_total": 4080,
+    "govity_possible": 4093,
+    "govity": 0.996824,
     "name": "Miroslav Čellár",
     "given_names": [
       "Miroslav"
@@ -401,13 +401,13 @@
         "classification": "group",
         "name": "Klub HLAS - sociálna demokracia",
         "since": "2023-11-14",
-        "until": "2026-05-26"
+        "until": "2026-05-28"
       },
       {
         "id": "nrsr:org:club:1",
         "classification": "group",
         "name": "Klub HLAS - sociálna demokracia",
-        "since": "2026-05-26"
+        "since": "2026-05-28"
       }
     ],
     "since": "2023-10-25",
@@ -417,9 +417,9 @@
   },
   {
     "person_id": "nrsr:person:929",
-    "govity_total": 4018,
-    "govity_possible": 4037,
-    "govity": 0.995294,
+    "govity_total": 4037,
+    "govity_possible": 4056,
+    "govity": 0.995316,
     "name": "Andrej Danko",
     "given_names": [
       "Andrej"
@@ -433,13 +433,13 @@
         "classification": "group",
         "name": "Klub Slovenská národná strana",
         "since": "2023-11-14",
-        "until": "2026-05-26"
+        "until": "2026-05-28"
       },
       {
         "id": "nrsr:org:club:7",
         "classification": "group",
         "name": "Klub Slovenská národná strana",
-        "since": "2026-05-26"
+        "since": "2026-05-28"
       }
     ],
     "since": "2023-10-25",
@@ -449,9 +449,9 @@
   },
   {
     "person_id": "nrsr:person:1140",
-    "govity_total": 2183,
-    "govity_possible": 3807,
-    "govity": 0.573417,
+    "govity_total": 2199,
+    "govity_possible": 3826,
+    "govity": 0.574752,
     "name": "Dávid Dej",
     "given_names": [
       "Dávid"
@@ -465,13 +465,13 @@
         "classification": "group",
         "name": "Klub Progresívne Slovensko",
         "since": "2023-11-14",
-        "until": "2026-05-26"
+        "until": "2026-05-28"
       },
       {
         "id": "nrsr:org:club:3",
         "classification": "group",
         "name": "Klub Progresívne Slovensko",
-        "since": "2026-05-26"
+        "since": "2026-05-28"
       }
     ],
     "since": "2023-10-25",
@@ -481,9 +481,9 @@
   },
   {
     "person_id": "nrsr:person:1216",
-    "govity_total": 3278,
-    "govity_possible": 3283,
-    "govity": 0.998477,
+    "govity_total": 3297,
+    "govity_possible": 3302,
+    "govity": 0.998486,
     "name": "Dávid Demečko",
     "given_names": [
       "Dávid"
@@ -497,13 +497,13 @@
         "classification": "group",
         "name": "Klub HLAS - sociálna demokracia",
         "since": "2024-04-18",
-        "until": "2026-05-26"
+        "until": "2026-05-28"
       },
       {
         "id": "nrsr:org:club:1",
         "classification": "group",
         "name": "Klub HLAS - sociálna demokracia",
-        "since": "2026-05-26"
+        "since": "2026-05-28"
       }
     ],
     "since": "2023-10-25",
@@ -513,9 +513,9 @@
   },
   {
     "person_id": "nrsr:person:779",
-    "govity_total": 1667,
-    "govity_possible": 3708,
-    "govity": 0.449569,
+    "govity_total": 1677,
+    "govity_possible": 3726,
+    "govity": 0.450081,
     "name": "Ondrej Dostál",
     "given_names": [
       "Ondrej"
@@ -529,13 +529,13 @@
         "classification": "group",
         "name": "Klub Sloboda a Solidarita",
         "since": "2023-11-14",
-        "until": "2026-05-26"
+        "until": "2026-05-28"
       },
       {
         "id": "nrsr:org:club:6",
         "classification": "group",
         "name": "Klub Sloboda a Solidarita",
-        "since": "2026-05-26"
+        "since": "2026-05-28"
       }
     ],
     "since": "2023-10-25",
@@ -545,9 +545,9 @@
   },
   {
     "person_id": "nrsr:person:1133",
-    "govity_total": 2013,
-    "govity_possible": 3518,
-    "govity": 0.5722,
+    "govity_total": 2029,
+    "govity_possible": 3537,
+    "govity": 0.57365,
     "name": "Martin Dubéci",
     "given_names": [
       "Martin"
@@ -561,13 +561,13 @@
         "classification": "group",
         "name": "Klub Progresívne Slovensko",
         "since": "2023-11-14",
-        "until": "2026-05-26"
+        "until": "2026-05-28"
       },
       {
         "id": "nrsr:org:club:3",
         "classification": "group",
         "name": "Klub Progresívne Slovensko",
-        "since": "2026-05-26"
+        "since": "2026-05-28"
       }
     ],
     "since": "2023-10-25",
@@ -577,9 +577,9 @@
   },
   {
     "person_id": "nrsr:person:1213",
-    "govity_total": 1818,
-    "govity_possible": 3151,
-    "govity": 0.57696,
+    "govity_total": 1833,
+    "govity_possible": 3170,
+    "govity": 0.578233,
     "name": "Richard Dubovický",
     "given_names": [
       "Richard"
@@ -593,13 +593,13 @@
         "classification": "group",
         "name": "Klub Progresívne Slovensko",
         "since": "2024-02-08",
-        "until": "2026-05-26"
+        "until": "2026-05-28"
       },
       {
         "id": "nrsr:org:club:3",
         "classification": "group",
         "name": "Klub Progresívne Slovensko",
-        "since": "2026-05-26"
+        "since": "2026-05-28"
       }
     ],
     "since": "2023-10-25",
@@ -609,9 +609,9 @@
   },
   {
     "person_id": "nrsr:person:1221",
-    "govity_total": 489,
-    "govity_possible": 1168,
-    "govity": 0.418664,
+    "govity_total": 499,
+    "govity_possible": 1187,
+    "govity": 0.420388,
     "name": "Igor Dušenka",
     "given_names": [
       "Igor"
@@ -625,13 +625,13 @@
         "classification": "group",
         "name": "Klub SLOVENSKO - ZA ĽUDÍ",
         "since": "2025-09-09",
-        "until": "2026-05-26"
+        "until": "2026-05-28"
       },
       {
         "id": "nrsr:org:club:4",
         "classification": "group",
         "name": "Klub SLOVENSKO - ZA ĽUDÍ",
-        "since": "2026-05-26"
+        "since": "2026-05-28"
       }
     ],
     "since": "2023-10-25",
@@ -641,9 +641,9 @@
   },
   {
     "person_id": "nrsr:person:1123",
-    "govity_total": 2021,
-    "govity_possible": 3492,
-    "govity": 0.578751,
+    "govity_total": 2036,
+    "govity_possible": 3511,
+    "govity": 0.579892,
     "name": "Oskar Dvořák",
     "given_names": [
       "Oskar"
@@ -657,13 +657,13 @@
         "classification": "group",
         "name": "Klub Progresívne Slovensko",
         "since": "2023-11-14",
-        "until": "2026-05-26"
+        "until": "2026-05-28"
       },
       {
         "id": "nrsr:org:club:3",
         "classification": "group",
         "name": "Klub Progresívne Slovensko",
-        "since": "2026-05-26"
+        "since": "2026-05-28"
       }
     ],
     "since": "2023-10-25",
@@ -673,9 +673,9 @@
   },
   {
     "person_id": "nrsr:person:1172",
-    "govity_total": 4082,
-    "govity_possible": 4090,
-    "govity": 0.998044,
+    "govity_total": 4101,
+    "govity_possible": 4109,
+    "govity": 0.998053,
     "name": "Richard Eliáš",
     "given_names": [
       "Richard"
@@ -689,13 +689,13 @@
         "classification": "group",
         "name": "Klub HLAS - sociálna demokracia",
         "since": "2023-11-14",
-        "until": "2026-05-26"
+        "until": "2026-05-28"
       },
       {
         "id": "nrsr:org:club:1",
         "classification": "group",
         "name": "Klub HLAS - sociálna demokracia",
-        "since": "2026-05-26"
+        "since": "2026-05-28"
       }
     ],
     "since": "2023-10-25",
@@ -705,9 +705,9 @@
   },
   {
     "person_id": "nrsr:person:36",
-    "govity_total": 3986,
-    "govity_possible": 3994,
-    "govity": 0.997997,
+    "govity_total": 4004,
+    "govity_possible": 4012,
+    "govity": 0.998006,
     "name": "Vladimír Faič",
     "given_names": [
       "Vladimír"
@@ -721,13 +721,13 @@
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
         "since": "2023-11-14",
-        "until": "2026-05-26"
+        "until": "2026-05-28"
       },
       {
         "id": "nrsr:org:club:5",
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
-        "since": "2026-05-26"
+        "since": "2026-05-28"
       }
     ],
     "since": "2023-10-25",
@@ -737,9 +737,9 @@
   },
   {
     "person_id": "nrsr:person:931",
-    "govity_total": 4072,
-    "govity_possible": 4087,
-    "govity": 0.99633,
+    "govity_total": 4091,
+    "govity_possible": 4106,
+    "govity": 0.996347,
     "name": "Karol Farkašovský",
     "given_names": [
       "Karol"
@@ -753,13 +753,13 @@
         "classification": "group",
         "name": "Klub Slovenská národná strana",
         "since": "2023-11-14",
-        "until": "2026-05-26"
+        "until": "2026-05-28"
       },
       {
         "id": "nrsr:org:club:7",
         "classification": "group",
         "name": "Klub Slovenská národná strana",
-        "since": "2026-05-26"
+        "since": "2026-05-28"
       }
     ],
     "since": "2023-10-25",
@@ -769,9 +769,9 @@
   },
   {
     "person_id": "nrsr:person:1008",
-    "govity_total": 3467,
-    "govity_possible": 3589,
-    "govity": 0.966007,
+    "govity_total": 3482,
+    "govity_possible": 3608,
+    "govity": 0.965078,
     "name": "Ján Ferenčák",
     "given_names": [
       "Ján"
@@ -801,9 +801,9 @@
   },
   {
     "person_id": "nrsr:person:966",
-    "govity_total": 1156,
-    "govity_possible": 2429,
-    "govity": 0.475916,
+    "govity_total": 1167,
+    "govity_possible": 2448,
+    "govity": 0.476716,
     "name": "Karol Galek",
     "given_names": [
       "Karol"
@@ -817,13 +817,13 @@
         "classification": "group",
         "name": "Klub Sloboda a Solidarita",
         "since": "2024-09-10",
-        "until": "2026-05-26"
+        "until": "2026-05-28"
       },
       {
         "id": "nrsr:org:club:6",
         "classification": "group",
         "name": "Klub Sloboda a Solidarita",
-        "since": "2026-05-26"
+        "since": "2026-05-28"
       }
     ],
     "since": "2023-10-25",
@@ -833,9 +833,9 @@
   },
   {
     "person_id": "nrsr:person:656",
-    "govity_total": 4059,
-    "govity_possible": 4068,
-    "govity": 0.997788,
+    "govity_total": 4078,
+    "govity_possible": 4087,
+    "govity": 0.997798,
     "name": "Dušan Galis",
     "given_names": [
       "Dušan"
@@ -849,13 +849,13 @@
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
         "since": "2023-11-14",
-        "until": "2026-05-26"
+        "until": "2026-05-28"
       },
       {
         "id": "nrsr:org:club:5",
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
-        "since": "2026-05-26"
+        "since": "2026-05-28"
       }
     ],
     "since": "2023-10-25",
@@ -865,9 +865,9 @@
   },
   {
     "person_id": "nrsr:person:785",
-    "govity_total": 1690,
-    "govity_possible": 3519,
-    "govity": 0.48025,
+    "govity_total": 1703,
+    "govity_possible": 3538,
+    "govity": 0.481345,
     "name": "Ľubomír Galko",
     "given_names": [
       "Ľubomír"
@@ -897,9 +897,9 @@
   },
   {
     "person_id": "nrsr:person:1198",
-    "govity_total": 4036,
-    "govity_possible": 4050,
-    "govity": 0.996543,
+    "govity_total": 4055,
+    "govity_possible": 4069,
+    "govity": 0.996559,
     "name": "Milan Garaj",
     "given_names": [
       "Milan"
@@ -913,13 +913,13 @@
         "classification": "group",
         "name": "Klub Slovenská národná strana",
         "since": "2023-11-14",
-        "until": "2026-05-26"
+        "until": "2026-05-28"
       },
       {
         "id": "nrsr:org:club:7",
         "classification": "group",
         "name": "Klub Slovenská národná strana",
-        "since": "2026-05-26"
+        "since": "2026-05-28"
       }
     ],
     "since": "2023-10-25",
@@ -929,9 +929,9 @@
   },
   {
     "person_id": "nrsr:person:1154",
-    "govity_total": 4069,
-    "govity_possible": 4071,
-    "govity": 0.999509,
+    "govity_total": 4088,
+    "govity_possible": 4090,
+    "govity": 0.999511,
     "name": "Tibor Gašpar",
     "given_names": [
       "Tibor"
@@ -945,13 +945,13 @@
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
         "since": "2023-11-14",
-        "until": "2026-05-26"
+        "until": "2026-05-28"
       },
       {
         "id": "nrsr:org:club:5",
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
-        "since": "2026-05-26"
+        "since": "2026-05-28"
       }
     ],
     "since": "2023-10-25",
@@ -961,9 +961,9 @@
   },
   {
     "person_id": "nrsr:person:892",
-    "govity_total": 4107,
-    "govity_possible": 4113,
-    "govity": 0.998541,
+    "govity_total": 4126,
+    "govity_possible": 4132,
+    "govity": 0.998548,
     "name": "Štefan Gašparovič",
     "given_names": [
       "Štefan"
@@ -977,13 +977,13 @@
         "classification": "group",
         "name": "Klub HLAS - sociálna demokracia",
         "since": "2023-11-14",
-        "until": "2026-05-26"
+        "until": "2026-05-28"
       },
       {
         "id": "nrsr:org:club:1",
         "classification": "group",
         "name": "Klub HLAS - sociálna demokracia",
-        "since": "2026-05-26"
+        "since": "2026-05-28"
       }
     ],
     "since": "2023-10-25",
@@ -993,9 +993,9 @@
   },
   {
     "person_id": "nrsr:person:1126",
-    "govity_total": 2132,
-    "govity_possible": 3716,
-    "govity": 0.573735,
+    "govity_total": 2147,
+    "govity_possible": 3735,
+    "govity": 0.574833,
     "name": "Tina Gažovičová",
     "given_names": [
       "Tina"
@@ -1009,13 +1009,13 @@
         "classification": "group",
         "name": "Klub Progresívne Slovensko",
         "since": "2023-11-14",
-        "until": "2026-05-26"
+        "until": "2026-05-28"
       },
       {
         "id": "nrsr:org:club:3",
         "classification": "group",
         "name": "Klub Progresívne Slovensko",
-        "since": "2026-05-26"
+        "since": "2026-05-28"
       }
     ],
     "since": "2023-10-25",
@@ -1025,9 +1025,9 @@
   },
   {
     "person_id": "nrsr:person:1214",
-    "govity_total": 3810,
-    "govity_possible": 3815,
-    "govity": 0.998689,
+    "govity_total": 3829,
+    "govity_possible": 3834,
+    "govity": 0.998696,
     "name": "Richard Glück",
     "given_names": [
       "Richard"
@@ -1041,13 +1041,13 @@
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
         "since": "2024-02-08",
-        "until": "2026-05-26"
+        "until": "2026-05-28"
       },
       {
         "id": "nrsr:org:club:5",
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
-        "since": "2026-05-26"
+        "since": "2026-05-28"
       }
     ],
     "since": "2023-10-25",
@@ -1057,9 +1057,9 @@
   },
   {
     "person_id": "nrsr:person:738",
-    "govity_total": 4084,
-    "govity_possible": 4085,
-    "govity": 0.999755,
+    "govity_total": 4103,
+    "govity_possible": 4104,
+    "govity": 0.999756,
     "name": "Pavol Goga",
     "given_names": [
       "Pavol"
@@ -1073,13 +1073,13 @@
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
         "since": "2023-11-14",
-        "until": "2026-05-26"
+        "until": "2026-05-28"
       },
       {
         "id": "nrsr:org:club:5",
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
-        "since": "2026-05-26"
+        "since": "2026-05-28"
       }
     ],
     "since": "2023-10-25",
@@ -1089,9 +1089,9 @@
   },
   {
     "person_id": "nrsr:person:1222",
-    "govity_total": 508,
-    "govity_possible": 1036,
-    "govity": 0.490347,
+    "govity_total": 523,
+    "govity_possible": 1055,
+    "govity": 0.495735,
     "name": "Gréta Gregorová",
     "given_names": [
       "Gréta"
@@ -1105,13 +1105,13 @@
         "classification": "group",
         "name": "Klub Progresívne Slovensko",
         "since": "2025-09-09",
-        "until": "2026-05-26"
+        "until": "2026-05-28"
       },
       {
         "id": "nrsr:org:club:3",
         "classification": "group",
         "name": "Klub Progresívne Slovensko",
-        "since": "2026-05-26"
+        "since": "2026-05-28"
       }
     ],
     "since": "2023-10-25",
@@ -1121,9 +1121,9 @@
   },
   {
     "person_id": "nrsr:person:910",
-    "govity_total": 1474,
-    "govity_possible": 3366,
-    "govity": 0.437908,
+    "govity_total": 1484,
+    "govity_possible": 3385,
+    "govity": 0.438405,
     "name": "Gábor Grendel",
     "given_names": [
       "Gábor"
@@ -1137,13 +1137,13 @@
         "classification": "group",
         "name": "Klub SLOVENSKO - ZA ĽUDÍ",
         "since": "2023-11-14",
-        "until": "2026-05-26"
+        "until": "2026-05-28"
       },
       {
         "id": "nrsr:org:club:4",
         "classification": "group",
         "name": "Klub SLOVENSKO - ZA ĽUDÍ",
-        "since": "2026-05-26"
+        "since": "2026-05-28"
       }
     ],
     "since": "2023-10-25",
@@ -1153,9 +1153,9 @@
   },
   {
     "person_id": "nrsr:person:971",
-    "govity_total": 1604,
-    "govity_possible": 3185,
-    "govity": 0.503611,
+    "govity_total": 1615,
+    "govity_possible": 3204,
+    "govity": 0.504057,
     "name": "Branislav Gröhling",
     "given_names": [
       "Branislav"
@@ -1169,13 +1169,13 @@
         "classification": "group",
         "name": "Klub Sloboda a Solidarita",
         "since": "2023-11-14",
-        "until": "2026-05-26"
+        "until": "2026-05-28"
       },
       {
         "id": "nrsr:org:club:6",
         "classification": "group",
         "name": "Klub Sloboda a Solidarita",
-        "since": "2026-05-26"
+        "since": "2026-05-28"
       }
     ],
     "since": "2023-10-25",
@@ -1185,9 +1185,9 @@
   },
   {
     "person_id": "nrsr:person:1009",
-    "govity_total": 4070,
-    "govity_possible": 4073,
-    "govity": 0.999263,
+    "govity_total": 4089,
+    "govity_possible": 4092,
+    "govity": 0.999267,
     "name": "Jozef Habánik",
     "given_names": [
       "Jozef"
@@ -1201,13 +1201,13 @@
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
         "since": "2023-11-14",
-        "until": "2026-05-26"
+        "until": "2026-05-28"
       },
       {
         "id": "nrsr:org:club:5",
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
-        "since": "2026-05-26"
+        "since": "2026-05-28"
       }
     ],
     "since": "2023-10-25",
@@ -1217,9 +1217,9 @@
   },
   {
     "person_id": "nrsr:person:874",
-    "govity_total": 4105,
-    "govity_possible": 4107,
-    "govity": 0.999513,
+    "govity_total": 4124,
+    "govity_possible": 4126,
+    "govity": 0.999515,
     "name": "Augustín Hambálek",
     "given_names": [
       "Augustín"
@@ -1233,13 +1233,13 @@
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
         "since": "2023-11-14",
-        "until": "2026-05-26"
+        "until": "2026-05-28"
       },
       {
         "id": "nrsr:org:club:5",
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
-        "since": "2026-05-26"
+        "since": "2026-05-28"
       }
     ],
     "since": "2023-10-25",
@@ -1249,9 +1249,9 @@
   },
   {
     "person_id": "nrsr:person:1129",
-    "govity_total": 1856,
-    "govity_possible": 3220,
-    "govity": 0.576398,
+    "govity_total": 1871,
+    "govity_possible": 3239,
+    "govity": 0.577647,
     "name": "Jana Hanuliaková",
     "given_names": [
       "Jana"
@@ -1265,13 +1265,13 @@
         "classification": "group",
         "name": "Klub Progresívne Slovensko",
         "since": "2023-11-14",
-        "until": "2026-05-26"
+        "until": "2026-05-28"
       },
       {
         "id": "nrsr:org:club:3",
         "classification": "group",
         "name": "Klub Progresívne Slovensko",
-        "since": "2026-05-26"
+        "since": "2026-05-28"
       }
     ],
     "since": "2023-10-25",
@@ -1281,9 +1281,9 @@
   },
   {
     "person_id": "nrsr:person:1142",
-    "govity_total": 1953,
-    "govity_possible": 3412,
-    "govity": 0.572392,
+    "govity_total": 1968,
+    "govity_possible": 3431,
+    "govity": 0.573594,
     "name": "Ján Hargaš",
     "given_names": [
       "Ján"
@@ -1297,13 +1297,13 @@
         "classification": "group",
         "name": "Klub Progresívne Slovensko",
         "since": "2023-11-14",
-        "until": "2026-05-26"
+        "until": "2026-05-28"
       },
       {
         "id": "nrsr:org:club:3",
         "classification": "group",
         "name": "Klub Progresívne Slovensko",
-        "since": "2026-05-26"
+        "since": "2026-05-28"
       }
     ],
     "since": "2023-10-25",
@@ -1313,9 +1313,9 @@
   },
   {
     "person_id": "nrsr:person:1192",
-    "govity_total": 4052,
-    "govity_possible": 4056,
-    "govity": 0.999014,
+    "govity_total": 4071,
+    "govity_possible": 4075,
+    "govity": 0.999018,
     "name": "Ivan Hazucha",
     "given_names": [
       "Ivan"
@@ -1329,13 +1329,13 @@
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
         "since": "2023-11-14",
-        "until": "2026-05-26"
+        "until": "2026-05-28"
       },
       {
         "id": "nrsr:org:club:5",
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
-        "since": "2026-05-26"
+        "since": "2026-05-28"
       }
     ],
     "since": "2023-10-25",
@@ -1345,9 +1345,9 @@
   },
   {
     "person_id": "nrsr:person:859",
-    "govity_total": 1618,
-    "govity_possible": 3072,
-    "govity": 0.526693,
+    "govity_total": 1629,
+    "govity_possible": 3091,
+    "govity": 0.527014,
     "name": "Alojz Hlina",
     "given_names": [
       "Alojz"
@@ -1361,13 +1361,13 @@
         "classification": "group",
         "name": "Klub Sloboda a Solidarita",
         "since": "2023-11-14",
-        "until": "2026-05-26"
+        "until": "2026-05-28"
       },
       {
         "id": "nrsr:org:club:6",
         "classification": "group",
         "name": "Klub Sloboda a Solidarita",
-        "since": "2026-05-26"
+        "since": "2026-05-28"
       }
     ],
     "since": "2023-10-25",
@@ -1377,9 +1377,9 @@
   },
   {
     "person_id": "nrsr:person:1183",
-    "govity_total": 1786,
-    "govity_possible": 3128,
-    "govity": 0.570972,
+    "govity_total": 1801,
+    "govity_possible": 3147,
+    "govity": 0.572291,
     "name": "Ján Horecký",
     "given_names": [
       "Ján"
@@ -1402,9 +1402,9 @@
   },
   {
     "person_id": "nrsr:person:1219",
-    "govity_total": 2754,
-    "govity_possible": 2756,
-    "govity": 0.999274,
+    "govity_total": 2773,
+    "govity_possible": 2775,
+    "govity": 0.999279,
     "name": "Ján Horváth",
     "given_names": [
       "Ján"
@@ -1418,13 +1418,13 @@
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
         "since": "2024-07-15",
-        "until": "2026-05-26"
+        "until": "2026-05-28"
       },
       {
         "id": "nrsr:org:club:5",
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
-        "since": "2026-05-26"
+        "since": "2026-05-28"
       }
     ],
     "since": "2023-10-25",
@@ -1434,9 +1434,9 @@
   },
   {
     "person_id": "nrsr:person:1202",
-    "govity_total": 1922,
-    "govity_possible": 1926,
-    "govity": 0.997923,
+    "govity_total": 1941,
+    "govity_possible": 1945,
+    "govity": 0.997943,
     "name": "Ján Hrubý",
     "given_names": [
       "Ján"
@@ -1450,13 +1450,13 @@
         "classification": "group",
         "name": "Klub HLAS - sociálna demokracia",
         "since": "2025-03-25",
-        "until": "2026-05-26"
+        "until": "2026-05-28"
       },
       {
         "id": "nrsr:org:club:1",
         "classification": "group",
         "name": "Klub HLAS - sociálna demokracia",
-        "since": "2026-05-26"
+        "since": "2026-05-28"
       }
     ],
     "since": "2023-10-25",
@@ -1466,9 +1466,9 @@
   },
   {
     "person_id": "nrsr:person:1188",
-    "govity_total": 1542,
-    "govity_possible": 3398,
-    "govity": 0.453796,
+    "govity_total": 1552,
+    "govity_possible": 3417,
+    "govity": 0.4542,
     "name": "Július Jakab",
     "given_names": [
       "Július"
@@ -1482,13 +1482,13 @@
         "classification": "group",
         "name": "Klub SLOVENSKO - ZA ĽUDÍ",
         "since": "2023-11-14",
-        "until": "2026-05-26"
+        "until": "2026-05-28"
       },
       {
         "id": "nrsr:org:club:4",
         "classification": "group",
         "name": "Klub SLOVENSKO - ZA ĽUDÍ",
-        "since": "2026-05-26"
+        "since": "2026-05-28"
       }
     ],
     "since": "2023-10-25",
@@ -1498,9 +1498,9 @@
   },
   {
     "person_id": "nrsr:person:1169",
-    "govity_total": 4099,
-    "govity_possible": 4106,
-    "govity": 0.998295,
+    "govity_total": 4118,
+    "govity_possible": 4125,
+    "govity": 0.998303,
     "name": "Karol Janas",
     "given_names": [
       "Karol"
@@ -1514,13 +1514,13 @@
         "classification": "group",
         "name": "Klub HLAS - sociálna demokracia",
         "since": "2023-11-14",
-        "until": "2026-05-26"
+        "until": "2026-05-28"
       },
       {
         "id": "nrsr:org:club:1",
         "classification": "group",
         "name": "Klub HLAS - sociálna demokracia",
-        "since": "2026-05-26"
+        "since": "2026-05-28"
       }
     ],
     "since": "2023-10-25",
@@ -1530,9 +1530,9 @@
   },
   {
     "person_id": "nrsr:person:961",
-    "govity_total": 2132,
-    "govity_possible": 3566,
-    "govity": 0.597869,
+    "govity_total": 2147,
+    "govity_possible": 3585,
+    "govity": 0.598884,
     "name": "Igor Janckulík",
     "given_names": [
       "Igor"
@@ -1555,9 +1555,9 @@
   },
   {
     "person_id": "nrsr:person:61",
-    "govity_total": 4040,
-    "govity_possible": 4042,
-    "govity": 0.999505,
+    "govity_total": 4056,
+    "govity_possible": 4061,
+    "govity": 0.998769,
     "name": "Dušan Jarjabek",
     "given_names": [
       "Dušan"
@@ -1571,13 +1571,13 @@
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
         "since": "2023-11-14",
-        "until": "2026-05-26"
+        "until": "2026-05-28"
       },
       {
         "id": "nrsr:org:club:5",
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
-        "since": "2026-05-26"
+        "since": "2026-05-28"
       }
     ],
     "since": "2023-10-25",
@@ -1603,13 +1603,13 @@
         "classification": "group",
         "name": "Klub Progresívne Slovensko",
         "since": "2023-11-14",
-        "until": "2026-05-26"
+        "until": "2026-05-28"
       },
       {
         "id": "nrsr:org:club:3",
         "classification": "group",
         "name": "Klub Progresívne Slovensko",
-        "since": "2026-05-26"
+        "since": "2026-05-28"
       }
     ],
     "since": "2023-10-25",
@@ -1619,9 +1619,9 @@
   },
   {
     "person_id": "nrsr:person:891",
-    "govity_total": 4094,
-    "govity_possible": 4100,
-    "govity": 0.998537,
+    "govity_total": 4113,
+    "govity_possible": 4119,
+    "govity": 0.998543,
     "name": "Jozef Ježík",
     "given_names": [
       "Jozef"
@@ -1635,13 +1635,13 @@
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
         "since": "2023-11-14",
-        "until": "2026-05-26"
+        "until": "2026-05-28"
       },
       {
         "id": "nrsr:org:club:5",
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
-        "since": "2026-05-26"
+        "since": "2026-05-28"
       }
     ],
     "since": "2023-10-25",
@@ -1651,9 +1651,9 @@
   },
   {
     "person_id": "nrsr:person:1128",
-    "govity_total": 2046,
-    "govity_possible": 3583,
-    "govity": 0.57103,
+    "govity_total": 2062,
+    "govity_possible": 3602,
+    "govity": 0.57246,
     "name": "Beáta Jurík",
     "given_names": [
       "Beáta"
@@ -1667,13 +1667,13 @@
         "classification": "group",
         "name": "Klub Progresívne Slovensko",
         "since": "2023-11-14",
-        "until": "2026-05-26"
+        "until": "2026-05-28"
       },
       {
         "id": "nrsr:org:club:3",
         "classification": "group",
         "name": "Klub Progresívne Slovensko",
-        "since": "2026-05-26"
+        "since": "2026-05-28"
       }
     ],
     "since": "2023-10-25",
@@ -1683,9 +1683,9 @@
   },
   {
     "person_id": "nrsr:person:1218",
-    "govity_total": 2724,
-    "govity_possible": 2725,
-    "govity": 0.999633,
+    "govity_total": 2743,
+    "govity_possible": 2744,
+    "govity": 0.999636,
     "name": "Jozef Kačmár",
     "given_names": [
       "Jozef"
@@ -1699,13 +1699,13 @@
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
         "since": "2024-07-15",
-        "until": "2026-05-26"
+        "until": "2026-05-28"
       },
       {
         "id": "nrsr:org:club:5",
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
-        "since": "2026-05-26"
+        "since": "2026-05-28"
       }
     ],
     "since": "2023-10-25",
@@ -1715,9 +1715,9 @@
   },
   {
     "person_id": "nrsr:person:1170",
-    "govity_total": 3997,
-    "govity_possible": 4003,
-    "govity": 0.998501,
+    "govity_total": 4016,
+    "govity_possible": 4022,
+    "govity": 0.998508,
     "name": "Peter Kalivoda",
     "given_names": [
       "Peter"
@@ -1731,13 +1731,13 @@
         "classification": "group",
         "name": "Klub HLAS - sociálna demokracia",
         "since": "2023-11-14",
-        "until": "2026-05-26"
+        "until": "2026-05-28"
       },
       {
         "id": "nrsr:org:club:1",
         "classification": "group",
         "name": "Klub HLAS - sociálna demokracia",
-        "since": "2026-05-26"
+        "since": "2026-05-28"
       }
     ],
     "since": "2023-10-25",
@@ -1747,9 +1747,9 @@
   },
   {
     "person_id": "nrsr:person:1205",
-    "govity_total": 4083,
-    "govity_possible": 4084,
-    "govity": 0.999755,
+    "govity_total": 4102,
+    "govity_possible": 4103,
+    "govity": 0.999756,
     "name": "Michal Kapuš",
     "given_names": [
       "Michal"
@@ -1763,13 +1763,13 @@
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
         "since": "2023-11-14",
-        "until": "2026-05-26"
+        "until": "2026-05-28"
       },
       {
         "id": "nrsr:org:club:5",
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
-        "since": "2026-05-26"
+        "since": "2026-05-28"
       }
     ],
     "since": "2023-10-25",
@@ -1779,8 +1779,8 @@
   },
   {
     "person_id": "nrsr:person:1158",
-    "govity_total": 4104,
-    "govity_possible": 4104,
+    "govity_total": 4123,
+    "govity_possible": 4123,
     "govity": 1.0,
     "name": "Daniel Karas",
     "given_names": [
@@ -1795,13 +1795,13 @@
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
         "since": "2023-11-14",
-        "until": "2026-05-26"
+        "until": "2026-05-28"
       },
       {
         "id": "nrsr:org:club:5",
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
-        "since": "2026-05-26"
+        "since": "2026-05-28"
       }
     ],
     "since": "2023-10-25",
@@ -1811,9 +1811,9 @@
   },
   {
     "person_id": "nrsr:person:873",
-    "govity_total": 4072,
-    "govity_possible": 4081,
-    "govity": 0.997795,
+    "govity_total": 4091,
+    "govity_possible": 4100,
+    "govity": 0.997805,
     "name": "Marián Kéry",
     "given_names": [
       "Marián"
@@ -1827,13 +1827,13 @@
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
         "since": "2023-11-14",
-        "until": "2026-05-26"
+        "until": "2026-05-28"
       },
       {
         "id": "nrsr:org:club:5",
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
-        "since": "2026-05-26"
+        "since": "2026-05-28"
       }
     ],
     "since": "2023-10-25",
@@ -1859,13 +1859,13 @@
         "classification": "group",
         "name": "Klub Progresívne Slovensko",
         "since": "2023-11-14",
-        "until": "2026-05-26"
+        "until": "2026-05-28"
       },
       {
         "id": "nrsr:org:club:3",
         "classification": "group",
         "name": "Klub Progresívne Slovensko",
-        "since": "2026-05-26"
+        "since": "2026-05-28"
       }
     ],
     "since": "2023-10-25",
@@ -1875,9 +1875,9 @@
   },
   {
     "person_id": "nrsr:person:1139",
-    "govity_total": 1814,
-    "govity_possible": 3138,
-    "govity": 0.578075,
+    "govity_total": 1829,
+    "govity_possible": 3157,
+    "govity": 0.579347,
     "name": "Dana Kleinert",
     "given_names": [
       "Dana"
@@ -1891,13 +1891,13 @@
         "classification": "group",
         "name": "Klub Progresívne Slovensko",
         "since": "2023-11-14",
-        "until": "2026-05-26"
+        "until": "2026-05-28"
       },
       {
         "id": "nrsr:org:club:3",
         "classification": "group",
         "name": "Klub Progresívne Slovensko",
-        "since": "2026-05-26"
+        "since": "2026-05-28"
       }
     ],
     "since": "2023-10-25",
@@ -1907,8 +1907,8 @@
   },
   {
     "person_id": "nrsr:person:1023",
-    "govity_total": 692,
-    "govity_possible": 692,
+    "govity_total": 711,
+    "govity_possible": 711,
     "govity": 1.0,
     "name": "Peter Kmec",
     "given_names": [
@@ -1923,13 +1923,13 @@
         "classification": "group",
         "name": "Klub HLAS - sociálna demokracia",
         "since": "2025-11-25",
-        "until": "2026-05-26"
+        "until": "2026-05-28"
       },
       {
         "id": "nrsr:org:club:1",
         "classification": "group",
         "name": "Klub HLAS - sociálna demokracia",
-        "since": "2026-05-26"
+        "since": "2026-05-28"
       }
     ],
     "since": "2023-10-25",
@@ -1939,9 +1939,9 @@
   },
   {
     "person_id": "nrsr:person:1224",
-    "govity_total": 215,
-    "govity_possible": 442,
-    "govity": 0.486425,
+    "govity_total": 229,
+    "govity_possible": 461,
+    "govity": 0.496746,
     "name": "Monika Kolejáková",
     "given_names": [
       "Monika"
@@ -1964,9 +1964,9 @@
   },
   {
     "person_id": "nrsr:person:1025",
-    "govity_total": 1562,
-    "govity_possible": 3422,
-    "govity": 0.456458,
+    "govity_total": 1572,
+    "govity_possible": 3440,
+    "govity": 0.456977,
     "name": "Mária Kolíková",
     "given_names": [
       "Mária"
@@ -1980,13 +1980,13 @@
         "classification": "group",
         "name": "Klub Sloboda a Solidarita",
         "since": "2023-11-14",
-        "until": "2026-05-26"
+        "until": "2026-05-28"
       },
       {
         "id": "nrsr:org:club:6",
         "classification": "group",
         "name": "Klub Sloboda a Solidarita",
-        "since": "2026-05-26"
+        "since": "2026-05-28"
       }
     ],
     "since": "2023-10-25",
@@ -1996,9 +1996,9 @@
   },
   {
     "person_id": "nrsr:person:1124",
-    "govity_total": 2076,
-    "govity_possible": 3577,
-    "govity": 0.580375,
+    "govity_total": 2092,
+    "govity_possible": 3596,
+    "govity": 0.581758,
     "name": "Ingrid Kosová",
     "given_names": [
       "Ingrid"
@@ -2012,13 +2012,13 @@
         "classification": "group",
         "name": "Klub Progresívne Slovensko",
         "since": "2023-11-14",
-        "until": "2026-05-26"
+        "until": "2026-05-28"
       },
       {
         "id": "nrsr:org:club:3",
         "classification": "group",
         "name": "Klub Progresívne Slovensko",
-        "since": "2026-05-26"
+        "since": "2026-05-28"
       }
     ],
     "since": "2023-10-25",
@@ -2028,9 +2028,9 @@
   },
   {
     "person_id": "nrsr:person:1151",
-    "govity_total": 4021,
-    "govity_possible": 4038,
-    "govity": 0.99579,
+    "govity_total": 4040,
+    "govity_possible": 4057,
+    "govity": 0.99581,
     "name": "Peter Kotlár",
     "given_names": [
       "Peter"
@@ -2044,13 +2044,13 @@
         "classification": "group",
         "name": "Klub Slovenská národná strana",
         "since": "2023-11-14",
-        "until": "2026-05-26"
+        "until": "2026-05-28"
       },
       {
         "id": "nrsr:org:club:7",
         "classification": "group",
         "name": "Klub Slovenská národná strana",
-        "since": "2026-05-26"
+        "since": "2026-05-28"
       }
     ],
     "since": "2023-10-25",
@@ -2060,9 +2060,9 @@
   },
   {
     "person_id": "nrsr:person:907",
-    "govity_total": 1447,
-    "govity_possible": 3032,
-    "govity": 0.477243,
+    "govity_total": 1457,
+    "govity_possible": 3051,
+    "govity": 0.477548,
     "name": "Marek Krajčí",
     "given_names": [
       "Marek"
@@ -2076,13 +2076,13 @@
         "classification": "group",
         "name": "Klub SLOVENSKO - ZA ĽUDÍ",
         "since": "2023-11-14",
-        "until": "2026-05-26"
+        "until": "2026-05-28"
       },
       {
         "id": "nrsr:org:club:4",
         "classification": "group",
         "name": "Klub SLOVENSKO - ZA ĽUDÍ",
-        "since": "2026-05-26"
+        "since": "2026-05-28"
       }
     ],
     "since": "2023-10-25",
@@ -2092,9 +2092,9 @@
   },
   {
     "person_id": "nrsr:person:1210",
-    "govity_total": 4090,
-    "govity_possible": 4103,
-    "govity": 0.996832,
+    "govity_total": 4109,
+    "govity_possible": 4122,
+    "govity": 0.996846,
     "name": "Dagmar Kramplová",
     "given_names": [
       "Dagmar"
@@ -2108,13 +2108,13 @@
         "classification": "group",
         "name": "Klub Slovenská národná strana",
         "since": "2023-11-14",
-        "until": "2026-05-26"
+        "until": "2026-05-28"
       },
       {
         "id": "nrsr:org:club:7",
         "classification": "group",
         "name": "Klub Slovenská národná strana",
-        "since": "2026-05-26"
+        "since": "2026-05-28"
       }
     ],
     "since": "2023-10-25",
@@ -2124,9 +2124,9 @@
   },
   {
     "person_id": "nrsr:person:1190",
-    "govity_total": 1528,
-    "govity_possible": 2704,
-    "govity": 0.565089,
+    "govity_total": 1543,
+    "govity_possible": 2723,
+    "govity": 0.566654,
     "name": "Rastislav Krátky",
     "given_names": [
       "Rastislav"
@@ -2156,9 +2156,9 @@
   },
   {
     "person_id": "nrsr:person:1032",
-    "govity_total": 1830,
-    "govity_possible": 3443,
-    "govity": 0.531513,
+    "govity_total": 1840,
+    "govity_possible": 3462,
+    "govity": 0.531485,
     "name": "Juraj Krúpa",
     "given_names": [
       "Juraj"
@@ -2172,13 +2172,13 @@
         "classification": "group",
         "name": "Klub Sloboda a Solidarita",
         "since": "2023-11-14",
-        "until": "2026-05-26"
+        "until": "2026-05-28"
       },
       {
         "id": "nrsr:org:club:6",
         "classification": "group",
         "name": "Klub Sloboda a Solidarita",
-        "since": "2026-05-26"
+        "since": "2026-05-28"
       }
     ],
     "since": "2023-10-25",
@@ -2188,9 +2188,9 @@
   },
   {
     "person_id": "nrsr:person:668",
-    "govity_total": 4083,
-    "govity_possible": 4093,
-    "govity": 0.997557,
+    "govity_total": 4102,
+    "govity_possible": 4112,
+    "govity": 0.997568,
     "name": "Stanislav Kubánek",
     "given_names": [
       "Stanislav"
@@ -2204,13 +2204,13 @@
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
         "since": "2023-11-14",
-        "until": "2026-05-26"
+        "until": "2026-05-28"
       },
       {
         "id": "nrsr:org:club:5",
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
-        "since": "2026-05-26"
+        "since": "2026-05-28"
       }
     ],
     "since": "2023-10-25",
@@ -2220,9 +2220,9 @@
   },
   {
     "person_id": "nrsr:person:671",
-    "govity_total": 4086,
-    "govity_possible": 4089,
-    "govity": 0.999266,
+    "govity_total": 4105,
+    "govity_possible": 4108,
+    "govity": 0.99927,
     "name": "Ján Kvorka",
     "given_names": [
       "Ján"
@@ -2236,13 +2236,13 @@
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
         "since": "2023-11-14",
-        "until": "2026-05-26"
+        "until": "2026-05-28"
       },
       {
         "id": "nrsr:org:club:5",
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
-        "since": "2026-05-26"
+        "since": "2026-05-28"
       }
     ],
     "since": "2023-10-25",
@@ -2252,9 +2252,9 @@
   },
   {
     "person_id": "nrsr:person:1189",
-    "govity_total": 2113,
-    "govity_possible": 3670,
-    "govity": 0.575749,
+    "govity_total": 2128,
+    "govity_possible": 3689,
+    "govity": 0.57685,
     "name": "Marek Lackovič",
     "given_names": [
       "Marek"
@@ -2268,13 +2268,13 @@
         "classification": "group",
         "name": "Klub Progresívne Slovensko",
         "since": "2023-11-14",
-        "until": "2026-05-26"
+        "until": "2026-05-28"
       },
       {
         "id": "nrsr:org:club:3",
         "classification": "group",
         "name": "Klub Progresívne Slovensko",
-        "since": "2026-05-26"
+        "since": "2026-05-28"
       }
     ],
     "since": "2023-10-25",
@@ -2284,9 +2284,9 @@
   },
   {
     "person_id": "nrsr:person:1081",
-    "govity_total": 4053,
-    "govity_possible": 4058,
-    "govity": 0.998768,
+    "govity_total": 4072,
+    "govity_possible": 4077,
+    "govity": 0.998774,
     "name": "Ľubica Laššáková",
     "given_names": [
       "Ľubica"
@@ -2300,13 +2300,13 @@
         "classification": "group",
         "name": "Klub HLAS - sociálna demokracia",
         "since": "2023-11-14",
-        "until": "2026-05-26"
+        "until": "2026-05-28"
       },
       {
         "id": "nrsr:org:club:1",
         "classification": "group",
         "name": "Klub HLAS - sociálna demokracia",
-        "since": "2026-05-26"
+        "since": "2026-05-28"
       }
     ],
     "since": "2023-10-25",
@@ -2316,9 +2316,9 @@
   },
   {
     "person_id": "nrsr:person:1037",
-    "govity_total": 1773,
-    "govity_possible": 3515,
-    "govity": 0.50441,
+    "govity_total": 1783,
+    "govity_possible": 3533,
+    "govity": 0.50467,
     "name": "Vladimír Ledecký",
     "given_names": [
       "Vladimír"
@@ -2332,13 +2332,13 @@
         "classification": "group",
         "name": "Klub Sloboda a Solidarita",
         "since": "2023-11-14",
-        "until": "2026-05-26"
+        "until": "2026-05-28"
       },
       {
         "id": "nrsr:org:club:6",
         "classification": "group",
         "name": "Klub Sloboda a Solidarita",
-        "since": "2026-05-26"
+        "since": "2026-05-28"
       }
     ],
     "since": "2023-10-25",
@@ -2348,9 +2348,9 @@
   },
   {
     "person_id": "nrsr:person:1200",
-    "govity_total": 4106,
-    "govity_possible": 4107,
-    "govity": 0.999757,
+    "govity_total": 4125,
+    "govity_possible": 4126,
+    "govity": 0.999758,
     "name": "Boleslav Lešo",
     "given_names": [
       "Boleslav"
@@ -2364,13 +2364,13 @@
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
         "since": "2023-11-14",
-        "until": "2026-05-26"
+        "until": "2026-05-28"
       },
       {
         "id": "nrsr:org:club:5",
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
-        "since": "2026-05-26"
+        "since": "2026-05-28"
       }
     ],
     "since": "2023-10-25",
@@ -2380,9 +2380,9 @@
   },
   {
     "person_id": "nrsr:person:1199",
-    "govity_total": 4072,
-    "govity_possible": 4089,
-    "govity": 0.995843,
+    "govity_total": 4091,
+    "govity_possible": 4108,
+    "govity": 0.995862,
     "name": "Adam Lučanský",
     "given_names": [
       "Adam"
@@ -2396,13 +2396,13 @@
         "classification": "group",
         "name": "Klub Slovenská národná strana",
         "since": "2023-11-14",
-        "until": "2026-05-26"
+        "until": "2026-05-28"
       },
       {
         "id": "nrsr:org:club:7",
         "classification": "group",
         "name": "Klub Slovenská národná strana",
-        "since": "2026-05-26"
+        "since": "2026-05-28"
       }
     ],
     "since": "2023-10-25",
@@ -2412,9 +2412,9 @@
   },
   {
     "person_id": "nrsr:person:733",
-    "govity_total": 4102,
-    "govity_possible": 4103,
-    "govity": 0.999756,
+    "govity_total": 4121,
+    "govity_possible": 4122,
+    "govity": 0.999757,
     "name": "Michal Lukša",
     "given_names": [
       "Michal"
@@ -2428,13 +2428,13 @@
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
         "since": "2023-11-14",
-        "until": "2026-05-26"
+        "until": "2026-05-28"
       },
       {
         "id": "nrsr:org:club:5",
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
-        "since": "2026-05-26"
+        "since": "2026-05-28"
       }
     ],
     "since": "2023-10-25",
@@ -2444,9 +2444,9 @@
   },
   {
     "person_id": "nrsr:person:1134",
-    "govity_total": 1979,
-    "govity_possible": 3427,
-    "govity": 0.577473,
+    "govity_total": 1994,
+    "govity_possible": 3446,
+    "govity": 0.578642,
     "name": "Darina Luščíková",
     "given_names": [
       "Darina"
@@ -2460,13 +2460,13 @@
         "classification": "group",
         "name": "Klub Progresívne Slovensko",
         "since": "2023-11-14",
-        "until": "2026-05-26"
+        "until": "2026-05-28"
       },
       {
         "id": "nrsr:org:club:3",
         "classification": "group",
         "name": "Klub Progresívne Slovensko",
-        "since": "2026-05-26"
+        "since": "2026-05-28"
       }
     ],
     "since": "2023-10-25",
@@ -2476,9 +2476,9 @@
   },
   {
     "person_id": "nrsr:person:1152",
-    "govity_total": 3675,
-    "govity_possible": 3685,
-    "govity": 0.997286,
+    "govity_total": 3694,
+    "govity_possible": 3704,
+    "govity": 0.9973,
     "name": "Pavel Ľupták",
     "given_names": [
       "Pavel"
@@ -2508,8 +2508,8 @@
   },
   {
     "person_id": "nrsr:person:1223",
-    "govity_total": 694,
-    "govity_possible": 694,
+    "govity_total": 713,
+    "govity_possible": 713,
     "govity": 1.0,
     "name": "Vladimír Macášek",
     "given_names": [
@@ -2524,13 +2524,13 @@
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
         "since": "2025-11-25",
-        "until": "2026-05-26"
+        "until": "2026-05-28"
       },
       {
         "id": "nrsr:org:club:5",
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
-        "since": "2026-05-26"
+        "since": "2026-05-28"
       }
     ],
     "since": "2023-10-25",
@@ -2540,9 +2540,9 @@
   },
   {
     "person_id": "nrsr:person:1211",
-    "govity_total": 4016,
-    "govity_possible": 4022,
-    "govity": 0.998508,
+    "govity_total": 4035,
+    "govity_possible": 4041,
+    "govity": 0.998515,
     "name": "Zdenka Mačicová",
     "given_names": [
       "Zdenka"
@@ -2556,13 +2556,13 @@
         "classification": "group",
         "name": "Klub HLAS - sociálna demokracia",
         "since": "2023-11-14",
-        "until": "2026-05-26"
+        "until": "2026-05-28"
       },
       {
         "id": "nrsr:org:club:1",
         "classification": "group",
         "name": "Klub HLAS - sociálna demokracia",
-        "since": "2026-05-26"
+        "since": "2026-05-28"
       }
     ],
     "since": "2023-10-25",
@@ -2572,9 +2572,9 @@
   },
   {
     "person_id": "nrsr:person:1184",
-    "govity_total": 1759,
-    "govity_possible": 2825,
-    "govity": 0.622655,
+    "govity_total": 1772,
+    "govity_possible": 2844,
+    "govity": 0.623066,
     "name": "František Majerský",
     "given_names": [
       "František"
@@ -2597,9 +2597,9 @@
   },
   {
     "person_id": "nrsr:person:1178",
-    "govity_total": 1860,
-    "govity_possible": 3114,
-    "govity": 0.597303,
+    "govity_total": 1874,
+    "govity_possible": 3133,
+    "govity": 0.598149,
     "name": "Milan Majerský",
     "given_names": [
       "Milan"
@@ -2622,9 +2622,9 @@
   },
   {
     "person_id": "nrsr:person:1173",
-    "govity_total": 4071,
-    "govity_possible": 4081,
-    "govity": 0.99755,
+    "govity_total": 4090,
+    "govity_possible": 4100,
+    "govity": 0.997561,
     "name": "Roman Malatinec",
     "given_names": [
       "Roman"
@@ -2654,9 +2654,9 @@
   },
   {
     "person_id": "nrsr:person:1042",
-    "govity_total": 1377,
-    "govity_possible": 3013,
-    "govity": 0.45702,
+    "govity_total": 1390,
+    "govity_possible": 3032,
+    "govity": 0.458443,
     "name": "Vladimíra Marcinková",
     "given_names": [
       "Vladimíra"
@@ -2670,13 +2670,13 @@
         "classification": "group",
         "name": "Klub Sloboda a Solidarita",
         "since": "2023-11-14",
-        "until": "2026-05-26"
+        "until": "2026-05-28"
       },
       {
         "id": "nrsr:org:club:6",
         "classification": "group",
         "name": "Klub Sloboda a Solidarita",
-        "since": "2026-05-26"
+        "since": "2026-05-28"
       }
     ],
     "since": "2023-10-25",
@@ -2686,9 +2686,9 @@
   },
   {
     "person_id": "nrsr:person:1159",
-    "govity_total": 4103,
-    "govity_possible": 4112,
-    "govity": 0.997811,
+    "govity_total": 4122,
+    "govity_possible": 4131,
+    "govity": 0.997821,
     "name": "Zuzana Matejičková",
     "given_names": [
       "Zuzana"
@@ -2702,13 +2702,13 @@
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
         "since": "2023-11-14",
-        "until": "2026-05-26"
+        "until": "2026-05-28"
       },
       {
         "id": "nrsr:org:club:5",
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
-        "since": "2026-05-26"
+        "since": "2026-05-28"
       }
     ],
     "since": "2023-10-25",
@@ -2718,9 +2718,9 @@
   },
   {
     "person_id": "nrsr:person:808",
-    "govity_total": 1281,
-    "govity_possible": 2757,
-    "govity": 0.464635,
+    "govity_total": 1291,
+    "govity_possible": 2776,
+    "govity": 0.465058,
     "name": "Igor Matovič",
     "given_names": [
       "Igor"
@@ -2734,13 +2734,13 @@
         "classification": "group",
         "name": "Klub SLOVENSKO - ZA ĽUDÍ",
         "since": "2023-11-14",
-        "until": "2026-05-26"
+        "until": "2026-05-28"
       },
       {
         "id": "nrsr:org:club:4",
         "classification": "group",
         "name": "Klub SLOVENSKO - ZA ĽUDÍ",
-        "since": "2026-05-26"
+        "since": "2026-05-28"
       }
     ],
     "since": "2023-10-25",
@@ -2750,9 +2750,9 @@
   },
   {
     "person_id": "nrsr:person:1156",
-    "govity_total": 4096,
-    "govity_possible": 4100,
-    "govity": 0.999024,
+    "govity_total": 4115,
+    "govity_possible": 4119,
+    "govity": 0.999029,
     "name": "Ján Mažgút",
     "given_names": [
       "Ján"
@@ -2766,13 +2766,13 @@
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
         "since": "2023-11-14",
-        "until": "2026-05-26"
+        "until": "2026-05-28"
       },
       {
         "id": "nrsr:org:club:5",
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
-        "since": "2026-05-26"
+        "since": "2026-05-28"
       }
     ],
     "since": "2023-10-25",
@@ -2782,9 +2782,9 @@
   },
   {
     "person_id": "nrsr:person:1204",
-    "govity_total": 4094,
-    "govity_possible": 4096,
-    "govity": 0.999512,
+    "govity_total": 4113,
+    "govity_possible": 4115,
+    "govity": 0.999514,
     "name": "Jaroslav Mego",
     "given_names": [
       "Jaroslav"
@@ -2798,13 +2798,13 @@
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
         "since": "2023-11-14",
-        "until": "2026-05-26"
+        "until": "2026-05-28"
       },
       {
         "id": "nrsr:org:club:5",
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
-        "since": "2026-05-26"
+        "since": "2026-05-28"
       }
     ],
     "since": "2023-10-25",
@@ -2814,9 +2814,9 @@
   },
   {
     "person_id": "nrsr:person:1130",
-    "govity_total": 2153,
-    "govity_possible": 3722,
-    "govity": 0.578452,
+    "govity_total": 2168,
+    "govity_possible": 3741,
+    "govity": 0.579524,
     "name": "Zuzana Mesterová",
     "given_names": [
       "Zuzana"
@@ -2830,13 +2830,13 @@
         "classification": "group",
         "name": "Klub Progresívne Slovensko",
         "since": "2023-11-14",
-        "until": "2026-05-26"
+        "until": "2026-05-28"
       },
       {
         "id": "nrsr:org:club:3",
         "classification": "group",
         "name": "Klub Progresívne Slovensko",
-        "since": "2026-05-26"
+        "since": "2026-05-28"
       }
     ],
     "since": "2023-10-25",
@@ -2846,9 +2846,9 @@
   },
   {
     "person_id": "nrsr:person:1149",
-    "govity_total": 4063,
-    "govity_possible": 4091,
-    "govity": 0.993156,
+    "govity_total": 4082,
+    "govity_possible": 4110,
+    "govity": 0.993187,
     "name": "Roman Michelko",
     "given_names": [
       "Roman"
@@ -2862,13 +2862,13 @@
         "classification": "group",
         "name": "Klub Slovenská národná strana",
         "since": "2023-11-14",
-        "until": "2026-05-26"
+        "until": "2026-05-28"
       },
       {
         "id": "nrsr:org:club:7",
         "classification": "group",
         "name": "Klub Slovenská národná strana",
-        "since": "2026-05-26"
+        "since": "2026-05-28"
       }
     ],
     "since": "2023-10-25",
@@ -2878,9 +2878,9 @@
   },
   {
     "person_id": "nrsr:person:92",
-    "govity_total": 1549,
-    "govity_possible": 2651,
-    "govity": 0.584308,
+    "govity_total": 1564,
+    "govity_possible": 2670,
+    "govity": 0.585768,
     "name": "František Mikloško",
     "given_names": [
       "František"
@@ -2903,9 +2903,9 @@
   },
   {
     "person_id": "nrsr:person:1046",
-    "govity_total": 1377,
-    "govity_possible": 2960,
-    "govity": 0.465203,
+    "govity_total": 1387,
+    "govity_possible": 2979,
+    "govity": 0.465592,
     "name": "Roman Mikulec",
     "given_names": [
       "Roman"
@@ -2919,13 +2919,13 @@
         "classification": "group",
         "name": "Klub SLOVENSKO - ZA ĽUDÍ",
         "since": "2023-11-14",
-        "until": "2026-05-26"
+        "until": "2026-05-28"
       },
       {
         "id": "nrsr:org:club:4",
         "classification": "group",
         "name": "Klub SLOVENSKO - ZA ĽUDÍ",
-        "since": "2026-05-26"
+        "since": "2026-05-28"
       }
     ],
     "since": "2023-10-25",
@@ -2935,9 +2935,9 @@
   },
   {
     "person_id": "nrsr:person:322",
-    "govity_total": 3909,
-    "govity_possible": 3919,
-    "govity": 0.997448,
+    "govity_total": 3926,
+    "govity_possible": 3937,
+    "govity": 0.997206,
     "name": "Dušan Muňko",
     "given_names": [
       "Dušan"
@@ -2958,13 +2958,13 @@
         "classification": "group",
         "name": "Klub Slovenská národná strana",
         "since": "2024-10-23",
-        "until": "2026-05-26"
+        "until": "2026-05-28"
       },
       {
         "id": "nrsr:org:club:7",
         "classification": "group",
         "name": "Klub Slovenská národná strana",
-        "since": "2026-05-26"
+        "since": "2026-05-28"
       }
     ],
     "since": "2023-10-25",
@@ -2974,9 +2974,9 @@
   },
   {
     "person_id": "nrsr:person:899",
-    "govity_total": 4068,
-    "govity_possible": 4073,
-    "govity": 0.998772,
+    "govity_total": 4087,
+    "govity_possible": 4092,
+    "govity": 0.998778,
     "name": "Peter Náhlik",
     "given_names": [
       "Peter"
@@ -2990,13 +2990,13 @@
         "classification": "group",
         "name": "Klub HLAS - sociálna demokracia",
         "since": "2023-11-14",
-        "until": "2026-05-26"
+        "until": "2026-05-28"
       },
       {
         "id": "nrsr:org:club:1",
         "classification": "group",
         "name": "Klub HLAS - sociálna demokracia",
-        "since": "2026-05-26"
+        "since": "2026-05-28"
       }
     ],
     "since": "2023-10-25",
@@ -3006,9 +3006,9 @@
   },
   {
     "person_id": "nrsr:person:1212",
-    "govity_total": 2074,
-    "govity_possible": 3641,
-    "govity": 0.569624,
+    "govity_total": 2090,
+    "govity_possible": 3660,
+    "govity": 0.571038,
     "name": "Natália Nash",
     "given_names": [
       "Natália"
@@ -3022,13 +3022,13 @@
         "classification": "group",
         "name": "Klub Progresívne Slovensko",
         "since": "2023-12-06",
-        "until": "2026-05-26"
+        "until": "2026-05-28"
       },
       {
         "id": "nrsr:org:club:3",
         "classification": "group",
         "name": "Klub Progresívne Slovensko",
-        "since": "2026-05-26"
+        "since": "2026-05-28"
       }
     ],
     "since": "2023-10-25",
@@ -3038,9 +3038,9 @@
   },
   {
     "person_id": "nrsr:person:1196",
-    "govity_total": 4095,
-    "govity_possible": 4101,
-    "govity": 0.998537,
+    "govity_total": 4114,
+    "govity_possible": 4120,
+    "govity": 0.998544,
     "name": "Alena Nováková",
     "given_names": [
       "Alena"
@@ -3054,13 +3054,13 @@
         "classification": "group",
         "name": "Klub HLAS - sociálna demokracia",
         "since": "2023-11-14",
-        "until": "2026-05-26"
+        "until": "2026-05-28"
       },
       {
         "id": "nrsr:org:club:1",
         "classification": "group",
         "name": "Klub HLAS - sociálna demokracia",
-        "since": "2026-05-26"
+        "since": "2026-05-28"
       }
     ],
     "since": "2023-10-25",
@@ -3070,9 +3070,9 @@
   },
   {
     "person_id": "nrsr:person:1225",
-    "govity_total": 113,
-    "govity_possible": 204,
-    "govity": 0.553922,
+    "govity_total": 127,
+    "govity_possible": 223,
+    "govity": 0.569507,
     "name": "Gabriel Paľa",
     "given_names": [
       "Gabriel"
@@ -3095,9 +3095,9 @@
   },
   {
     "person_id": "nrsr:person:962",
-    "govity_total": 1749,
-    "govity_possible": 3101,
-    "govity": 0.564012,
+    "govity_total": 1764,
+    "govity_possible": 3120,
+    "govity": 0.565385,
     "name": "Simona Petrík",
     "given_names": [
       "Simona"
@@ -3111,13 +3111,13 @@
         "classification": "group",
         "name": "Klub Progresívne Slovensko",
         "since": "2023-11-14",
-        "until": "2026-05-26"
+        "until": "2026-05-28"
       },
       {
         "id": "nrsr:org:club:3",
         "classification": "group",
         "name": "Klub Progresívne Slovensko",
-        "since": "2026-05-26"
+        "since": "2026-05-28"
       }
     ],
     "since": "2023-10-25",
@@ -3127,9 +3127,9 @@
   },
   {
     "person_id": "nrsr:person:900",
-    "govity_total": 4110,
-    "govity_possible": 4111,
-    "govity": 0.999757,
+    "govity_total": 4129,
+    "govity_possible": 4130,
+    "govity": 0.999758,
     "name": "František Petro",
     "given_names": [
       "František"
@@ -3143,13 +3143,13 @@
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
         "since": "2023-11-14",
-        "until": "2026-05-26"
+        "until": "2026-05-28"
       },
       {
         "id": "nrsr:org:club:5",
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
-        "since": "2026-05-26"
+        "since": "2026-05-28"
       }
     ],
     "since": "2023-10-25",
@@ -3175,13 +3175,13 @@
         "classification": "group",
         "name": "Klub Progresívne Slovensko",
         "since": "2023-11-14",
-        "until": "2026-05-26"
+        "until": "2026-05-28"
       },
       {
         "id": "nrsr:org:club:3",
         "classification": "group",
         "name": "Klub Progresívne Slovensko",
-        "since": "2026-05-26"
+        "since": "2026-05-28"
       }
     ],
     "since": "2023-10-25",
@@ -3191,9 +3191,9 @@
   },
   {
     "person_id": "nrsr:person:1194",
-    "govity_total": 4111,
-    "govity_possible": 4112,
-    "govity": 0.999757,
+    "govity_total": 4130,
+    "govity_possible": 4131,
+    "govity": 0.999758,
     "name": "Zuzana Plevíková",
     "given_names": [
       "Zuzana"
@@ -3207,13 +3207,13 @@
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
         "since": "2023-11-14",
-        "until": "2026-05-26"
+        "until": "2026-05-28"
       },
       {
         "id": "nrsr:org:club:5",
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
-        "since": "2026-05-26"
+        "since": "2026-05-28"
       }
     ],
     "since": "2023-10-25",
@@ -3223,9 +3223,9 @@
   },
   {
     "person_id": "nrsr:person:685",
-    "govity_total": 4043,
-    "govity_possible": 4058,
-    "govity": 0.996304,
+    "govity_total": 4062,
+    "govity_possible": 4077,
+    "govity": 0.996321,
     "name": "Ján Podmanický",
     "given_names": [
       "Ján"
@@ -3239,13 +3239,13 @@
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
         "since": "2023-11-14",
-        "until": "2026-05-26"
+        "until": "2026-05-28"
       },
       {
         "id": "nrsr:org:club:5",
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
-        "since": "2026-05-26"
+        "since": "2026-05-28"
       }
     ],
     "since": "2023-10-25",
@@ -3255,9 +3255,9 @@
   },
   {
     "person_id": "nrsr:person:1088",
-    "govity_total": 1601,
-    "govity_possible": 3301,
-    "govity": 0.485005,
+    "govity_total": 1611,
+    "govity_possible": 3320,
+    "govity": 0.485241,
     "name": "Peter Pollák",
     "given_names": [
       "Peter"
@@ -3271,13 +3271,13 @@
         "classification": "group",
         "name": "Klub SLOVENSKO - ZA ĽUDÍ",
         "since": "2023-11-14",
-        "until": "2026-05-26"
+        "until": "2026-05-28"
       },
       {
         "id": "nrsr:org:club:4",
         "classification": "group",
         "name": "Klub SLOVENSKO - ZA ĽUDÍ",
-        "since": "2026-05-26"
+        "since": "2026-05-28"
       }
     ],
     "since": "2023-10-25",
@@ -3287,9 +3287,9 @@
   },
   {
     "person_id": "nrsr:person:1054",
-    "govity_total": 1336,
-    "govity_possible": 3127,
-    "govity": 0.427247,
+    "govity_total": 1342,
+    "govity_possible": 3146,
+    "govity": 0.426573,
     "name": "Jozef Pročko",
     "given_names": [
       "Jozef"
@@ -3303,13 +3303,13 @@
         "classification": "group",
         "name": "Klub SLOVENSKO - ZA ĽUDÍ",
         "since": "2023-11-14",
-        "until": "2026-05-26"
+        "until": "2026-05-28"
       },
       {
         "id": "nrsr:org:club:4",
         "classification": "group",
         "name": "Klub SLOVENSKO - ZA ĽUDÍ",
-        "since": "2026-05-26"
+        "since": "2026-05-28"
       }
     ],
     "since": "2023-10-25",
@@ -3319,9 +3319,9 @@
   },
   {
     "person_id": "nrsr:person:1131",
-    "govity_total": 2153,
-    "govity_possible": 3757,
-    "govity": 0.573064,
+    "govity_total": 2168,
+    "govity_possible": 3776,
+    "govity": 0.574153,
     "name": "Ondrej Prostredník",
     "given_names": [
       "Ondrej"
@@ -3335,13 +3335,13 @@
         "classification": "group",
         "name": "Klub Progresívne Slovensko",
         "since": "2023-11-14",
-        "until": "2026-05-26"
+        "until": "2026-05-28"
       },
       {
         "id": "nrsr:org:club:3",
         "classification": "group",
         "name": "Klub Progresívne Slovensko",
-        "since": "2026-05-26"
+        "since": "2026-05-28"
       }
     ],
     "since": "2023-10-25",
@@ -3351,9 +3351,9 @@
   },
   {
     "person_id": "nrsr:person:879",
-    "govity_total": 4076,
-    "govity_possible": 4082,
-    "govity": 0.99853,
+    "govity_total": 4095,
+    "govity_possible": 4101,
+    "govity": 0.998537,
     "name": "Róbert Puci",
     "given_names": [
       "Róbert"
@@ -3367,13 +3367,13 @@
         "classification": "group",
         "name": "Klub HLAS - sociálna demokracia",
         "since": "2023-11-14",
-        "until": "2026-05-26"
+        "until": "2026-05-28"
       },
       {
         "id": "nrsr:org:club:1",
         "classification": "group",
         "name": "Klub HLAS - sociálna demokracia",
-        "since": "2026-05-26"
+        "since": "2026-05-28"
       }
     ],
     "since": "2023-10-25",
@@ -3383,9 +3383,9 @@
   },
   {
     "person_id": "nrsr:person:1208",
-    "govity_total": 4028,
-    "govity_possible": 4036,
-    "govity": 0.998018,
+    "govity_total": 4047,
+    "govity_possible": 4055,
+    "govity": 0.998027,
     "name": "Paula Puškárová",
     "given_names": [
       "Paula"
@@ -3399,13 +3399,13 @@
         "classification": "group",
         "name": "Klub HLAS - sociálna demokracia",
         "since": "2023-11-14",
-        "until": "2026-05-26"
+        "until": "2026-05-28"
       },
       {
         "id": "nrsr:org:club:1",
         "classification": "group",
         "name": "Klub HLAS - sociálna demokracia",
-        "since": "2026-05-26"
+        "since": "2026-05-28"
       }
     ],
     "since": "2023-10-25",
@@ -3415,9 +3415,9 @@
   },
   {
     "person_id": "nrsr:person:1220",
-    "govity_total": 1811,
-    "govity_possible": 1873,
-    "govity": 0.966898,
+    "govity_total": 1830,
+    "govity_possible": 1892,
+    "govity": 0.96723,
     "name": "Miroslav Radačovský",
     "given_names": [
       "Miroslav"
@@ -3440,9 +3440,9 @@
   },
   {
     "person_id": "nrsr:person:761",
-    "govity_total": 1931,
-    "govity_possible": 1938,
-    "govity": 0.996388,
+    "govity_total": 1950,
+    "govity_possible": 1957,
+    "govity": 0.996423,
     "name": "Richard Raši",
     "given_names": [
       "Richard"
@@ -3456,13 +3456,13 @@
         "classification": "group",
         "name": "Klub HLAS - sociálna demokracia",
         "since": "2025-03-25",
-        "until": "2026-05-26"
+        "until": "2026-05-28"
       },
       {
         "id": "nrsr:org:club:1",
         "classification": "group",
         "name": "Klub HLAS - sociálna demokracia",
-        "since": "2026-05-26"
+        "since": "2026-05-28"
       }
     ],
     "since": "2023-10-25",
@@ -3472,9 +3472,9 @@
   },
   {
     "person_id": "nrsr:person:905",
-    "govity_total": 1188,
-    "govity_possible": 2710,
-    "govity": 0.438376,
+    "govity_total": 1195,
+    "govity_possible": 2725,
+    "govity": 0.438532,
     "name": "Veronika Remišová",
     "given_names": [
       "Veronika"
@@ -3488,13 +3488,13 @@
         "classification": "group",
         "name": "Klub SLOVENSKO - ZA ĽUDÍ",
         "since": "2023-11-14",
-        "until": "2026-05-26"
+        "until": "2026-05-28"
       },
       {
         "id": "nrsr:org:club:4",
         "classification": "group",
         "name": "Klub SLOVENSKO - ZA ĽUDÍ",
-        "since": "2026-05-26"
+        "since": "2026-05-28"
       }
     ],
     "since": "2023-10-25",
@@ -3504,9 +3504,9 @@
   },
   {
     "person_id": "nrsr:person:689",
-    "govity_total": 4053,
-    "govity_possible": 4056,
-    "govity": 0.99926,
+    "govity_total": 4071,
+    "govity_possible": 4075,
+    "govity": 0.999018,
     "name": "Ján Richter",
     "given_names": [
       "Ján"
@@ -3520,13 +3520,13 @@
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
         "since": "2023-11-14",
-        "until": "2026-05-26"
+        "until": "2026-05-28"
       },
       {
         "id": "nrsr:org:club:5",
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
-        "since": "2026-05-26"
+        "since": "2026-05-28"
       }
     ],
     "since": "2023-10-25",
@@ -3536,9 +3536,9 @@
   },
   {
     "person_id": "nrsr:person:1120",
-    "govity_total": 2065,
-    "govity_possible": 3635,
-    "govity": 0.568088,
+    "govity_total": 2080,
+    "govity_possible": 3654,
+    "govity": 0.569239,
     "name": "Michal Sabo",
     "given_names": [
       "Michal"
@@ -3552,13 +3552,13 @@
         "classification": "group",
         "name": "Klub Progresívne Slovensko",
         "since": "2023-11-14",
-        "until": "2026-05-26"
+        "until": "2026-05-28"
       },
       {
         "id": "nrsr:org:club:3",
         "classification": "group",
         "name": "Klub Progresívne Slovensko",
-        "since": "2026-05-26"
+        "since": "2026-05-28"
       }
     ],
     "since": "2023-10-25",
@@ -3568,8 +3568,8 @@
   },
   {
     "person_id": "nrsr:person:762",
-    "govity_total": 4043,
-    "govity_possible": 4043,
+    "govity_total": 4062,
+    "govity_possible": 4062,
     "govity": 1.0,
     "name": "Marián Saloň",
     "given_names": [
@@ -3584,13 +3584,13 @@
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
         "since": "2023-11-14",
-        "until": "2026-05-26"
+        "until": "2026-05-28"
       },
       {
         "id": "nrsr:org:club:5",
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
-        "since": "2026-05-26"
+        "since": "2026-05-28"
       }
     ],
     "since": "2023-10-25",
@@ -3600,9 +3600,9 @@
   },
   {
     "person_id": "nrsr:person:1163",
-    "govity_total": 4099,
-    "govity_possible": 4102,
-    "govity": 0.999269,
+    "govity_total": 4118,
+    "govity_possible": 4121,
+    "govity": 0.999272,
     "name": "Justín Sedlák",
     "given_names": [
       "Justín"
@@ -3616,13 +3616,13 @@
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
         "since": "2023-11-14",
-        "until": "2026-05-26"
+        "until": "2026-05-28"
       },
       {
         "id": "nrsr:org:club:5",
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
-        "since": "2026-05-26"
+        "since": "2026-05-28"
       }
     ],
     "since": "2023-10-25",
@@ -3632,9 +3632,9 @@
   },
   {
     "person_id": "nrsr:person:1191",
-    "govity_total": 4106,
-    "govity_possible": 4108,
-    "govity": 0.999513,
+    "govity_total": 4125,
+    "govity_possible": 4127,
+    "govity": 0.999515,
     "name": "Andrej Sitkár",
     "given_names": [
       "Andrej"
@@ -3648,13 +3648,13 @@
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
         "since": "2023-11-14",
-        "until": "2026-05-26"
+        "until": "2026-05-28"
       },
       {
         "id": "nrsr:org:club:5",
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
-        "since": "2026-05-26"
+        "since": "2026-05-28"
       }
     ],
     "since": "2023-10-25",
@@ -3664,9 +3664,9 @@
   },
   {
     "person_id": "nrsr:person:1206",
-    "govity_total": 3551,
-    "govity_possible": 3552,
-    "govity": 0.999718,
+    "govity_total": 3570,
+    "govity_possible": 3571,
+    "govity": 0.99972,
     "name": "Peter Sokol",
     "given_names": [
       "Peter"
@@ -3680,13 +3680,13 @@
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
         "since": "2023-11-14",
-        "until": "2026-05-26"
+        "until": "2026-05-28"
       },
       {
         "id": "nrsr:org:club:5",
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
-        "since": "2026-05-26"
+        "since": "2026-05-28"
       }
     ],
     "since": "2023-10-25",
@@ -3696,9 +3696,9 @@
   },
   {
     "person_id": "nrsr:person:1117",
-    "govity_total": 1941,
-    "govity_possible": 3417,
-    "govity": 0.568042,
+    "govity_total": 1956,
+    "govity_possible": 3436,
+    "govity": 0.569267,
     "name": "Jaroslav Spišiak",
     "given_names": [
       "Jaroslav"
@@ -3712,13 +3712,13 @@
         "classification": "group",
         "name": "Klub Progresívne Slovensko",
         "since": "2023-11-14",
-        "until": "2026-05-26"
+        "until": "2026-05-28"
       },
       {
         "id": "nrsr:org:club:3",
         "classification": "group",
         "name": "Klub Progresívne Slovensko",
-        "since": "2026-05-26"
+        "since": "2026-05-28"
       }
     ],
     "since": "2023-10-25",
@@ -3728,9 +3728,9 @@
   },
   {
     "person_id": "nrsr:person:1182",
-    "govity_total": 1771,
-    "govity_possible": 2928,
-    "govity": 0.60485,
+    "govity_total": 1785,
+    "govity_possible": 2947,
+    "govity": 0.605701,
     "name": "Peter Stachura",
     "given_names": [
       "Peter"
@@ -3753,9 +3753,9 @@
   },
   {
     "person_id": "nrsr:person:1118",
-    "govity_total": 2036,
-    "govity_possible": 3570,
-    "govity": 0.570308,
+    "govity_total": 2051,
+    "govity_possible": 3589,
+    "govity": 0.571468,
     "name": "Tamara Stohlová",
     "given_names": [
       "Tamara"
@@ -3769,13 +3769,13 @@
         "classification": "group",
         "name": "Klub Progresívne Slovensko",
         "since": "2023-11-14",
-        "until": "2026-05-26"
+        "until": "2026-05-28"
       },
       {
         "id": "nrsr:org:club:3",
         "classification": "group",
         "name": "Klub Progresívne Slovensko",
-        "since": "2026-05-26"
+        "since": "2026-05-28"
       }
     ],
     "since": "2023-10-25",
@@ -3785,9 +3785,9 @@
   },
   {
     "person_id": "nrsr:person:1058",
-    "govity_total": 4104,
-    "govity_possible": 4108,
-    "govity": 0.999026,
+    "govity_total": 4123,
+    "govity_possible": 4127,
+    "govity": 0.999031,
     "name": "Anton Stredák",
     "given_names": [
       "Anton"
@@ -3801,13 +3801,13 @@
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
         "since": "2023-11-14",
-        "until": "2026-05-26"
+        "until": "2026-05-28"
       },
       {
         "id": "nrsr:org:club:5",
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
-        "since": "2026-05-26"
+        "since": "2026-05-28"
       }
     ],
     "since": "2023-10-25",
@@ -3817,9 +3817,9 @@
   },
   {
     "person_id": "nrsr:person:1161",
-    "govity_total": 4083,
-    "govity_possible": 4085,
-    "govity": 0.99951,
+    "govity_total": 4102,
+    "govity_possible": 4104,
+    "govity": 0.999513,
     "name": "Michal Stuška",
     "given_names": [
       "Michal"
@@ -3833,13 +3833,13 @@
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
         "since": "2023-11-14",
-        "until": "2026-05-26"
+        "until": "2026-05-28"
       },
       {
         "id": "nrsr:org:club:5",
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
-        "since": "2026-05-26"
+        "since": "2026-05-28"
       }
     ],
     "since": "2023-10-25",
@@ -3849,9 +3849,9 @@
   },
   {
     "person_id": "nrsr:person:1087",
-    "govity_total": 4095,
-    "govity_possible": 4103,
-    "govity": 0.99805,
+    "govity_total": 4113,
+    "govity_possible": 4121,
+    "govity": 0.998059,
     "name": "Zdenko Svoboda",
     "given_names": [
       "Zdenko"
@@ -3865,13 +3865,13 @@
         "classification": "group",
         "name": "Klub HLAS - sociálna demokracia",
         "since": "2023-11-14",
-        "until": "2026-05-26"
+        "until": "2026-05-28"
       },
       {
         "id": "nrsr:org:club:1",
         "classification": "group",
         "name": "Klub HLAS - sociálna demokracia",
-        "since": "2026-05-26"
+        "since": "2026-05-28"
       }
     ],
     "since": "2023-10-25",
@@ -3881,9 +3881,9 @@
   },
   {
     "person_id": "nrsr:person:1217",
-    "govity_total": 3277,
-    "govity_possible": 3281,
-    "govity": 0.998781,
+    "govity_total": 3296,
+    "govity_possible": 3300,
+    "govity": 0.998788,
     "name": "Andrea Szabóová",
     "given_names": [
       "Andrea"
@@ -3897,13 +3897,13 @@
         "classification": "group",
         "name": "Klub HLAS - sociálna demokracia",
         "since": "2024-04-18",
-        "until": "2026-05-26"
+        "until": "2026-05-28"
       },
       {
         "id": "nrsr:org:club:1",
         "classification": "group",
         "name": "Klub HLAS - sociálna demokracia",
-        "since": "2026-05-26"
+        "since": "2026-05-28"
       }
     ],
     "since": "2023-10-25",
@@ -3913,9 +3913,9 @@
   },
   {
     "person_id": "nrsr:person:1147",
-    "govity_total": 1662,
-    "govity_possible": 3551,
-    "govity": 0.468037,
+    "govity_total": 1671,
+    "govity_possible": 3567,
+    "govity": 0.468461,
     "name": "Tomáš Szalay",
     "given_names": [
       "Tomáš"
@@ -3929,13 +3929,13 @@
         "classification": "group",
         "name": "Klub Sloboda a Solidarita",
         "since": "2023-11-14",
-        "until": "2026-05-26"
+        "until": "2026-05-28"
       },
       {
         "id": "nrsr:org:club:6",
         "classification": "group",
         "name": "Klub Sloboda a Solidarita",
-        "since": "2026-05-26"
+        "since": "2026-05-28"
       }
     ],
     "since": "2023-10-25",
@@ -3945,9 +3945,9 @@
   },
   {
     "person_id": "nrsr:person:1150",
-    "govity_total": 3754,
-    "govity_possible": 3760,
-    "govity": 0.998404,
+    "govity_total": 3773,
+    "govity_possible": 3779,
+    "govity": 0.998412,
     "name": "Ivan Ševčík",
     "given_names": [
       "Ivan"
@@ -3977,9 +3977,9 @@
   },
   {
     "person_id": "nrsr:person:1114",
-    "govity_total": 1863,
-    "govity_possible": 3179,
-    "govity": 0.586033,
+    "govity_total": 1877,
+    "govity_possible": 3197,
+    "govity": 0.587113,
     "name": "Michal Šimečka",
     "given_names": [
       "Michal"
@@ -3993,13 +3993,13 @@
         "classification": "group",
         "name": "Klub Progresívne Slovensko",
         "since": "2023-11-14",
-        "until": "2026-05-26"
+        "until": "2026-05-28"
       },
       {
         "id": "nrsr:org:club:3",
         "classification": "group",
         "name": "Klub Progresívne Slovensko",
-        "since": "2026-05-26"
+        "since": "2026-05-28"
       }
     ],
     "since": "2023-10-25",
@@ -4009,9 +4009,9 @@
   },
   {
     "person_id": "nrsr:person:1177",
-    "govity_total": 3994,
-    "govity_possible": 3998,
-    "govity": 0.998999,
+    "govity_total": 4013,
+    "govity_possible": 4017,
+    "govity": 0.999004,
     "name": "Igor Šimko",
     "given_names": [
       "Igor"
@@ -4025,13 +4025,13 @@
         "classification": "group",
         "name": "Klub HLAS - sociálna demokracia",
         "since": "2023-11-14",
-        "until": "2026-05-26"
+        "until": "2026-05-28"
       },
       {
         "id": "nrsr:org:club:1",
         "classification": "group",
         "name": "Klub HLAS - sociálna demokracia",
-        "since": "2026-05-26"
+        "since": "2026-05-28"
       }
     ],
     "since": "2023-10-25",
@@ -4041,9 +4041,9 @@
   },
   {
     "person_id": "nrsr:person:1065",
-    "govity_total": 1485,
-    "govity_possible": 3425,
-    "govity": 0.433577,
+    "govity_total": 1495,
+    "govity_possible": 3444,
+    "govity": 0.434088,
     "name": "Michal Šipoš",
     "given_names": [
       "Michal"
@@ -4057,13 +4057,13 @@
         "classification": "group",
         "name": "Klub SLOVENSKO - ZA ĽUDÍ",
         "since": "2023-11-14",
-        "until": "2026-05-26"
+        "until": "2026-05-28"
       },
       {
         "id": "nrsr:org:club:4",
         "classification": "group",
         "name": "Klub SLOVENSKO - ZA ĽUDÍ",
-        "since": "2026-05-26"
+        "since": "2026-05-28"
       }
     ],
     "since": "2023-10-25",
@@ -4073,9 +4073,9 @@
   },
   {
     "person_id": "nrsr:person:1146",
-    "govity_total": 1723,
-    "govity_possible": 3599,
-    "govity": 0.478744,
+    "govity_total": 1733,
+    "govity_possible": 3618,
+    "govity": 0.478994,
     "name": "Anežka Škopová",
     "given_names": [
       "Anežka"
@@ -4089,13 +4089,13 @@
         "classification": "group",
         "name": "Klub SLOVENSKO - ZA ĽUDÍ",
         "since": "2023-11-14",
-        "until": "2026-05-26"
+        "until": "2026-05-28"
       },
       {
         "id": "nrsr:org:club:4",
         "classification": "group",
         "name": "Klub SLOVENSKO - ZA ĽUDÍ",
-        "since": "2026-05-26"
+        "since": "2026-05-28"
       }
     ],
     "since": "2023-10-25",
@@ -4105,9 +4105,9 @@
   },
   {
     "person_id": "nrsr:person:862",
-    "govity_total": 1634,
-    "govity_possible": 2683,
-    "govity": 0.60902,
+    "govity_total": 1649,
+    "govity_possible": 2702,
+    "govity": 0.610289,
     "name": "Branislav Škripek",
     "given_names": [
       "Branislav"
@@ -4130,9 +4130,9 @@
   },
   {
     "person_id": "nrsr:person:1143",
-    "govity_total": 2080,
-    "govity_possible": 3572,
-    "govity": 0.582307,
+    "govity_total": 2095,
+    "govity_possible": 3591,
+    "govity": 0.583403,
     "name": "Veronika Šrobová",
     "given_names": [
       "Veronika"
@@ -4146,13 +4146,13 @@
         "classification": "group",
         "name": "Klub Progresívne Slovensko",
         "since": "2023-11-14",
-        "until": "2026-05-26"
+        "until": "2026-05-28"
       },
       {
         "id": "nrsr:org:club:3",
         "classification": "group",
         "name": "Klub Progresívne Slovensko",
-        "since": "2026-05-26"
+        "since": "2026-05-28"
       }
     ],
     "since": "2023-10-25",
@@ -4162,9 +4162,9 @@
   },
   {
     "person_id": "nrsr:person:1127",
-    "govity_total": 1890,
-    "govity_possible": 3221,
-    "govity": 0.586774,
+    "govity_total": 1905,
+    "govity_possible": 3240,
+    "govity": 0.587963,
     "name": "Ivan Štefunko",
     "given_names": [
       "Ivan"
@@ -4178,13 +4178,13 @@
         "classification": "group",
         "name": "Klub Progresívne Slovensko",
         "since": "2023-11-14",
-        "until": "2026-05-26"
+        "until": "2026-05-28"
       },
       {
         "id": "nrsr:org:club:3",
         "classification": "group",
         "name": "Klub Progresívne Slovensko",
-        "since": "2026-05-26"
+        "since": "2026-05-28"
       }
     ],
     "since": "2023-10-25",
@@ -4194,9 +4194,9 @@
   },
   {
     "person_id": "nrsr:person:1132",
-    "govity_total": 1800,
-    "govity_possible": 3224,
-    "govity": 0.558313,
+    "govity_total": 1815,
+    "govity_possible": 3243,
+    "govity": 0.559667,
     "name": "Zuzana Števulová",
     "given_names": [
       "Zuzana"
@@ -4210,13 +4210,13 @@
         "classification": "group",
         "name": "Klub Progresívne Slovensko",
         "since": "2023-11-14",
-        "until": "2026-05-26"
+        "until": "2026-05-28"
       },
       {
         "id": "nrsr:org:club:3",
         "classification": "group",
         "name": "Klub Progresívne Slovensko",
-        "since": "2026-05-26"
+        "since": "2026-05-28"
       }
     ],
     "since": "2023-10-25",
@@ -4226,9 +4226,9 @@
   },
   {
     "person_id": "nrsr:person:769",
-    "govity_total": 4102,
-    "govity_possible": 4104,
-    "govity": 0.999513,
+    "govity_total": 4121,
+    "govity_possible": 4123,
+    "govity": 0.999515,
     "name": "Peter Šuca",
     "given_names": [
       "Peter"
@@ -4242,13 +4242,13 @@
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
         "since": "2023-11-14",
-        "until": "2026-05-26"
+        "until": "2026-05-28"
       },
       {
         "id": "nrsr:org:club:5",
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
-        "since": "2026-05-26"
+        "since": "2026-05-28"
       }
     ],
     "since": "2023-10-25",
@@ -4258,9 +4258,9 @@
   },
   {
     "person_id": "nrsr:person:1145",
-    "govity_total": 1614,
-    "govity_possible": 3337,
-    "govity": 0.483668,
+    "govity_total": 1630,
+    "govity_possible": 3356,
+    "govity": 0.485697,
     "name": "Viliam Tankó",
     "given_names": [
       "Viliam"
@@ -4281,13 +4281,13 @@
         "classification": "group",
         "name": "Klub Progresívne Slovensko",
         "since": "2024-10-03",
-        "until": "2026-05-26"
+        "until": "2026-05-28"
       },
       {
         "id": "nrsr:org:club:3",
         "classification": "group",
         "name": "Klub Progresívne Slovensko",
-        "since": "2026-05-26"
+        "since": "2026-05-28"
       }
     ],
     "since": "2023-10-25",
@@ -4297,9 +4297,9 @@
   },
   {
     "person_id": "nrsr:person:930",
-    "govity_total": 4090,
-    "govity_possible": 4097,
-    "govity": 0.998291,
+    "govity_total": 4109,
+    "govity_possible": 4116,
+    "govity": 0.998299,
     "name": "Dušan Tittel",
     "given_names": [
       "Dušan"
@@ -4313,13 +4313,13 @@
         "classification": "group",
         "name": "Klub HLAS - sociálna demokracia",
         "since": "2023-11-14",
-        "until": "2026-05-26"
+        "until": "2026-05-28"
       },
       {
         "id": "nrsr:org:club:1",
         "classification": "group",
         "name": "Klub HLAS - sociálna demokracia",
-        "since": "2026-05-26"
+        "since": "2026-05-28"
       }
     ],
     "since": "2023-10-25",
@@ -4329,9 +4329,9 @@
   },
   {
     "person_id": "nrsr:person:1115",
-    "govity_total": 1886,
-    "govity_possible": 3248,
-    "govity": 0.580665,
+    "govity_total": 1901,
+    "govity_possible": 3267,
+    "govity": 0.581879,
     "name": "Michal Truban",
     "given_names": [
       "Michal"
@@ -4345,13 +4345,13 @@
         "classification": "group",
         "name": "Klub Progresívne Slovensko",
         "since": "2023-11-14",
-        "until": "2026-05-26"
+        "until": "2026-05-28"
       },
       {
         "id": "nrsr:org:club:3",
         "classification": "group",
         "name": "Klub Progresívne Slovensko",
-        "since": "2026-05-26"
+        "since": "2026-05-28"
       }
     ],
     "since": "2023-10-25",
@@ -4386,9 +4386,9 @@
   },
   {
     "person_id": "nrsr:person:1075",
-    "govity_total": 1777,
-    "govity_possible": 2954,
-    "govity": 0.601557,
+    "govity_total": 1793,
+    "govity_possible": 2973,
+    "govity": 0.603095,
     "name": "Tomáš Valášek",
     "given_names": [
       "Tomáš"
@@ -4402,13 +4402,13 @@
         "classification": "group",
         "name": "Klub Progresívne Slovensko",
         "since": "2023-11-14",
-        "until": "2026-05-26"
+        "until": "2026-05-28"
       },
       {
         "id": "nrsr:org:club:3",
         "classification": "group",
         "name": "Klub Progresívne Slovensko",
-        "since": "2026-05-26"
+        "since": "2026-05-28"
       }
     ],
     "since": "2023-10-25",
@@ -4418,9 +4418,9 @@
   },
   {
     "person_id": "nrsr:person:1193",
-    "govity_total": 4108,
-    "govity_possible": 4109,
-    "govity": 0.999757,
+    "govity_total": 4127,
+    "govity_possible": 4128,
+    "govity": 0.999758,
     "name": "Igor Válek",
     "given_names": [
       "Igor"
@@ -4434,13 +4434,13 @@
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
         "since": "2023-11-14",
-        "until": "2026-05-26"
+        "until": "2026-05-28"
       },
       {
         "id": "nrsr:org:club:5",
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
-        "since": "2026-05-26"
+        "since": "2026-05-28"
       }
     ],
     "since": "2023-10-25",
@@ -4450,9 +4450,9 @@
   },
   {
     "person_id": "nrsr:person:705",
-    "govity_total": 4088,
-    "govity_possible": 4092,
-    "govity": 0.999022,
+    "govity_total": 4107,
+    "govity_possible": 4111,
+    "govity": 0.999027,
     "name": "Jozef Valocký",
     "given_names": [
       "Jozef"
@@ -4466,13 +4466,13 @@
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
         "since": "2023-11-14",
-        "until": "2026-05-26"
+        "until": "2026-05-28"
       },
       {
         "id": "nrsr:org:club:5",
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
-        "since": "2026-05-26"
+        "since": "2026-05-28"
       }
     ],
     "since": "2023-10-25",
@@ -4482,9 +4482,9 @@
   },
   {
     "person_id": "nrsr:person:1135",
-    "govity_total": 1992,
-    "govity_possible": 3512,
-    "govity": 0.567198,
+    "govity_total": 2007,
+    "govity_possible": 3531,
+    "govity": 0.568394,
     "name": "Branislav Vančo",
     "given_names": [
       "Branislav"
@@ -4498,13 +4498,13 @@
         "classification": "group",
         "name": "Klub Progresívne Slovensko",
         "since": "2023-11-14",
-        "until": "2026-05-26"
+        "until": "2026-05-28"
       },
       {
         "id": "nrsr:org:club:3",
         "classification": "group",
         "name": "Klub Progresívne Slovensko",
-        "since": "2026-05-26"
+        "since": "2026-05-28"
       }
     ],
     "since": "2023-10-25",
@@ -4546,9 +4546,9 @@
   },
   {
     "person_id": "nrsr:person:293",
-    "govity_total": 4019,
-    "govity_possible": 4033,
-    "govity": 0.996529,
+    "govity_total": 4037,
+    "govity_possible": 4052,
+    "govity": 0.996298,
     "name": "Ľubomír Vážny",
     "given_names": [
       "Ľubomír"
@@ -4562,13 +4562,13 @@
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
         "since": "2023-11-14",
-        "until": "2026-05-26"
+        "until": "2026-05-28"
       },
       {
         "id": "nrsr:org:club:5",
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
-        "since": "2026-05-26"
+        "since": "2026-05-28"
       }
     ],
     "since": "2023-10-25",
@@ -4578,9 +4578,9 @@
   },
   {
     "person_id": "nrsr:person:1141",
-    "govity_total": 2013,
-    "govity_possible": 3514,
-    "govity": 0.572851,
+    "govity_total": 2028,
+    "govity_possible": 3533,
+    "govity": 0.574016,
     "name": "Veronika Veslárová",
     "given_names": [
       "Veronika"
@@ -4594,13 +4594,13 @@
         "classification": "group",
         "name": "Klub Progresívne Slovensko",
         "since": "2023-11-14",
-        "until": "2026-05-26"
+        "until": "2026-05-28"
       },
       {
         "id": "nrsr:org:club:3",
         "classification": "group",
         "name": "Klub Progresívne Slovensko",
-        "since": "2026-05-26"
+        "since": "2026-05-28"
       }
     ],
     "since": "2023-10-25",
@@ -4610,9 +4610,9 @@
   },
   {
     "person_id": "nrsr:person:991",
-    "govity_total": 1854,
-    "govity_possible": 3691,
-    "govity": 0.502303,
+    "govity_total": 1865,
+    "govity_possible": 3709,
+    "govity": 0.502831,
     "name": "Marián Viskupič",
     "given_names": [
       "Marián"
@@ -4626,13 +4626,13 @@
         "classification": "group",
         "name": "Klub Sloboda a Solidarita",
         "since": "2023-11-14",
-        "until": "2026-05-26"
+        "until": "2026-05-28"
       },
       {
         "id": "nrsr:org:club:6",
         "classification": "group",
         "name": "Klub Sloboda a Solidarita",
-        "since": "2026-05-26"
+        "since": "2026-05-28"
       }
     ],
     "since": "2023-10-25",
@@ -4642,9 +4642,9 @@
   },
   {
     "person_id": "nrsr:person:1176",
-    "govity_total": 4031,
-    "govity_possible": 4041,
-    "govity": 0.997525,
+    "govity_total": 4050,
+    "govity_possible": 4060,
+    "govity": 0.997537,
     "name": "Erik Vlček",
     "given_names": [
       "Erik"
@@ -4658,13 +4658,13 @@
         "classification": "group",
         "name": "Klub HLAS - sociálna demokracia",
         "since": "2023-11-14",
-        "until": "2026-05-26"
+        "until": "2026-05-28"
       },
       {
         "id": "nrsr:org:club:1",
         "classification": "group",
         "name": "Klub HLAS - sociálna demokracia",
-        "since": "2026-05-26"
+        "since": "2026-05-28"
       }
     ],
     "since": "2023-10-25",
@@ -4674,9 +4674,9 @@
   },
   {
     "person_id": "nrsr:person:1019",
-    "govity_total": 4100,
-    "govity_possible": 4101,
-    "govity": 0.999756,
+    "govity_total": 4119,
+    "govity_possible": 4120,
+    "govity": 0.999757,
     "name": "Viliam Zahorčák",
     "given_names": [
       "Viliam"
@@ -4690,13 +4690,13 @@
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
         "since": "2023-11-14",
-        "until": "2026-05-26"
+        "until": "2026-05-28"
       },
       {
         "id": "nrsr:org:club:5",
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
-        "since": "2026-05-26"
+        "since": "2026-05-28"
       }
     ],
     "since": "2023-10-25",
@@ -4706,9 +4706,9 @@
   },
   {
     "person_id": "nrsr:person:691",
-    "govity_total": 3966,
-    "govity_possible": 3971,
-    "govity": 0.998741,
+    "govity_total": 3985,
+    "govity_possible": 3990,
+    "govity": 0.998747,
     "name": "Peter Žiga",
     "given_names": [
       "Peter"
@@ -4722,13 +4722,13 @@
         "classification": "group",
         "name": "Klub HLAS - sociálna demokracia",
         "since": "2023-11-14",
-        "until": "2026-05-26"
+        "until": "2026-05-28"
       },
       {
         "id": "nrsr:org:club:1",
         "classification": "group",
         "name": "Klub HLAS - sociálna demokracia",
-        "since": "2026-05-26"
+        "since": "2026-05-28"
       }
     ],
     "since": "2023-10-25",
