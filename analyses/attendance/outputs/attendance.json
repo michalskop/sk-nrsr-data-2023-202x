@@ -1,9 +1,9 @@
 [
   {
     "person_id": "nrsr:person:1180",
-    "vote_events_total": 4437,
-    "present": 2936,
-    "absent": 1484,
+    "vote_events_total": 4443,
+    "present": 2937,
+    "absent": 1489,
     "name": "Martina Holečková",
     "given_names": [
       "Martina"
@@ -24,25 +24,25 @@
         "classification": "group",
         "name": "Klub Sloboda a Solidarita",
         "since": "2025-01-21",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:6",
         "classification": "group",
         "name": "Klub Sloboda a Solidarita",
-        "since": "2026-06-17"
+        "since": "2026-06-18"
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.6617083615,
+    "present_share": 0.6610398379,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1180&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:871",
-    "vote_events_total": 4437,
-    "present": 4272,
+    "vote_events_total": 4443,
+    "present": 4278,
     "absent": 165,
     "name": "Vladimír Baláž",
     "given_names": [
@@ -57,25 +57,25 @@
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:5",
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
-        "since": "2026-06-17"
+        "since": "2026-06-18"
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.9628127113,
+    "present_share": 0.9628629305,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=871&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1207",
-    "vote_events_total": 4417,
-    "present": 4289,
+    "vote_events_total": 4423,
+    "present": 4295,
     "absent": 128,
     "name": "Michal Bartek",
     "given_names": [
@@ -90,25 +90,25 @@
         "classification": "group",
         "name": "Klub HLAS - sociálna demokracia",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:1",
         "classification": "group",
         "name": "Klub HLAS - sociálna demokracia",
-        "since": "2026-06-17"
+        "since": "2026-06-18"
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.971021055,
+    "present_share": 0.9710603663,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1207&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:233",
-    "vote_events_total": 4437,
-    "present": 4169,
+    "vote_events_total": 4443,
+    "present": 4175,
     "absent": 268,
     "name": "Jaroslav Baška",
     "given_names": [
@@ -123,25 +123,25 @@
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:5",
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
-        "since": "2026-06-17"
+        "since": "2026-06-18"
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.939598828,
+    "present_share": 0.9396803961,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=233&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1187",
-    "vote_events_total": 4437,
-    "present": 4337,
+    "vote_events_total": 4443,
+    "present": 4343,
     "absent": 100,
     "name": "Branislav Becík",
     "given_names": [
@@ -156,25 +156,25 @@
         "classification": "group",
         "name": "Klub HLAS - sociálna demokracia",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:1",
         "classification": "group",
         "name": "Klub HLAS - sociálna demokracia",
-        "since": "2026-06-17"
+        "since": "2026-06-18"
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.9774622493,
+    "present_share": 0.9774926851,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1187&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1119",
-    "vote_events_total": 4437,
-    "present": 3602,
+    "vote_events_total": 4443,
+    "present": 3608,
     "absent": 790,
     "name": "Irena Bihariová",
     "given_names": [
@@ -189,25 +189,25 @@
         "classification": "group",
         "name": "Klub Progresívne Slovensko",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:3",
         "classification": "group",
         "name": "Klub Progresívne Slovensko",
-        "since": "2026-06-17"
+        "since": "2026-06-18"
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.8118097814,
+    "present_share": 0.8120639208,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1119&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:976",
-    "vote_events_total": 4437,
-    "present": 2643,
+    "vote_events_total": 4443,
+    "present": 2649,
     "absent": 1794,
     "name": "Jana Cigániková",
     "given_names": [
@@ -232,15 +232,15 @@
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.5956727519,
+    "present_share": 0.5962187711,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=976&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:997",
-    "vote_events_total": 4437,
-    "present": 4122,
+    "vote_events_total": 4443,
+    "present": 4128,
     "absent": 315,
     "name": "Ján Blcháč",
     "given_names": [
@@ -255,26 +255,26 @@
         "classification": "group",
         "name": "Klub HLAS - sociálna demokracia",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:1",
         "classification": "group",
         "name": "Klub HLAS - sociálna demokracia",
-        "since": "2026-06-17"
+        "since": "2026-06-18"
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.9290060852,
+    "present_share": 0.9291019581,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=997&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1144",
-    "vote_events_total": 4437,
-    "present": 3809,
-    "absent": 628,
+    "vote_events_total": 4443,
+    "present": 3814,
+    "absent": 629,
     "name": "Lukáš Bužo",
     "given_names": [
       "Lukáš"
@@ -288,25 +288,25 @@
         "classification": "group",
         "name": "Klub SLOVENSKO - ZA ĽUDÍ",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:4",
         "classification": "group",
         "name": "Klub SLOVENSKO - ZA ĽUDÍ",
-        "since": "2026-06-17"
+        "since": "2026-06-18"
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.8584629254,
+    "present_share": 0.8584289894,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1144&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1195",
-    "vote_events_total": 4428,
-    "present": 4317,
+    "vote_events_total": 4434,
+    "present": 4323,
     "absent": 111,
     "name": "Jozef Cech",
     "given_names": [
@@ -321,25 +321,25 @@
         "classification": "group",
         "name": "Klub HLAS - sociálna demokracia",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:1",
         "classification": "group",
         "name": "Klub HLAS - sociálna demokracia",
-        "since": "2026-06-17"
+        "since": "2026-06-18"
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.9749322493,
+    "present_share": 0.9749661705,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1195&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1179",
-    "vote_events_total": 4437,
-    "present": 3660,
+    "vote_events_total": 4443,
+    "present": 3666,
     "absent": 774,
     "name": "Marián Čaučík",
     "given_names": [
@@ -357,15 +357,15 @@
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.8248816768,
+    "present_share": 0.8251181634,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1179&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1160",
-    "vote_events_total": 4437,
-    "present": 4268,
+    "vote_events_total": 4443,
+    "present": 4274,
     "absent": 161,
     "name": "Marcela Čavojová",
     "given_names": [
@@ -380,25 +380,25 @@
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:5",
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
-        "since": "2026-06-17"
+        "since": "2026-06-18"
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.9619112013,
+    "present_share": 0.9619626379,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1160&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1203",
-    "vote_events_total": 4428,
-    "present": 4298,
+    "vote_events_total": 4434,
+    "present": 4304,
     "absent": 130,
     "name": "Miroslav Čellár",
     "given_names": [
@@ -413,25 +413,25 @@
         "classification": "group",
         "name": "Klub HLAS - sociálna demokracia",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:1",
         "classification": "group",
         "name": "Klub HLAS - sociálna demokracia",
-        "since": "2026-06-17"
+        "since": "2026-06-18"
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.9706413731,
+    "present_share": 0.9706811006,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1203&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:929",
-    "vote_events_total": 4437,
-    "present": 4272,
+    "vote_events_total": 4443,
+    "present": 4278,
     "absent": 165,
     "name": "Andrej Danko",
     "given_names": [
@@ -446,25 +446,25 @@
         "classification": "group",
         "name": "Klub Slovenská národná strana",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:7",
         "classification": "group",
         "name": "Klub Slovenská národná strana",
-        "since": "2026-06-17"
+        "since": "2026-06-18"
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.9628127113,
+    "present_share": 0.9628629305,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=929&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1140",
-    "vote_events_total": 4437,
-    "present": 4039,
+    "vote_events_total": 4443,
+    "present": 4045,
     "absent": 348,
     "name": "Dávid Dej",
     "given_names": [
@@ -479,25 +479,25 @@
         "classification": "group",
         "name": "Klub Progresívne Slovensko",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:3",
         "classification": "group",
         "name": "Klub Progresívne Slovensko",
-        "since": "2026-06-17"
+        "since": "2026-06-18"
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.9102997521,
+    "present_share": 0.9104208868,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1140&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1216",
-    "vote_events_total": 3582,
-    "present": 3497,
+    "vote_events_total": 3588,
+    "present": 3503,
     "absent": 85,
     "name": "Dávid Demečko",
     "given_names": [
@@ -512,25 +512,25 @@
         "classification": "group",
         "name": "Klub HLAS - sociálna demokracia",
         "since": "2024-04-18",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:1",
         "classification": "group",
         "name": "Klub HLAS - sociálna demokracia",
-        "since": "2026-06-17"
+        "since": "2026-06-18"
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.9762702401,
+    "present_share": 0.976309922,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1216&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:779",
-    "vote_events_total": 4437,
-    "present": 3965,
+    "vote_events_total": 4443,
+    "present": 3971,
     "absent": 472,
     "name": "Ondrej Dostál",
     "given_names": [
@@ -545,25 +545,25 @@
         "classification": "group",
         "name": "Klub Sloboda a Solidarita",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:6",
         "classification": "group",
         "name": "Klub Sloboda a Solidarita",
-        "since": "2026-06-17"
+        "since": "2026-06-18"
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.8936218165,
+    "present_share": 0.8937654738,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=779&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1133",
-    "vote_events_total": 4437,
-    "present": 3725,
+    "vote_events_total": 4443,
+    "present": 3731,
     "absent": 670,
     "name": "Martin Dubéci",
     "given_names": [
@@ -578,25 +578,25 @@
         "classification": "group",
         "name": "Klub Progresívne Slovensko",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:3",
         "classification": "group",
         "name": "Klub Progresívne Slovensko",
-        "since": "2026-06-17"
+        "since": "2026-06-18"
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.8395312148,
+    "present_share": 0.8397479181,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1133&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1213",
-    "vote_events_total": 4153,
-    "present": 3307,
+    "vote_events_total": 4159,
+    "present": 3313,
     "absent": 801,
     "name": "Richard Dubovický",
     "given_names": [
@@ -611,26 +611,26 @@
         "classification": "group",
         "name": "Klub Progresívne Slovensko",
         "since": "2024-02-08",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:3",
         "classification": "group",
         "name": "Klub Progresívne Slovensko",
-        "since": "2026-06-17"
+        "since": "2026-06-18"
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.7962918372,
+    "present_share": 0.7965857177,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1213&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1221",
-    "vote_events_total": 1485,
-    "present": 1398,
-    "absent": 87,
+    "vote_events_total": 1491,
+    "present": 1403,
+    "absent": 88,
     "name": "Igor Dušenka",
     "given_names": [
       "Igor"
@@ -644,25 +644,25 @@
         "classification": "group",
         "name": "Klub SLOVENSKO - ZA ĽUDÍ",
         "since": "2025-09-09",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:4",
         "classification": "group",
         "name": "Klub SLOVENSKO - ZA ĽUDÍ",
-        "since": "2026-06-17"
+        "since": "2026-06-18"
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.9414141414,
+    "present_share": 0.9409792086,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1221&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1123",
-    "vote_events_total": 4437,
-    "present": 3699,
+    "vote_events_total": 4443,
+    "present": 3705,
     "absent": 693,
     "name": "Oskar Dvořák",
     "given_names": [
@@ -677,25 +677,25 @@
         "classification": "group",
         "name": "Klub Progresívne Slovensko",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:3",
         "classification": "group",
         "name": "Klub Progresívne Slovensko",
-        "since": "2026-06-17"
+        "since": "2026-06-18"
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.8336713996,
+    "present_share": 0.8338960162,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1123&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1172",
-    "vote_events_total": 4437,
-    "present": 4324,
+    "vote_events_total": 4443,
+    "present": 4330,
     "absent": 113,
     "name": "Richard Eliáš",
     "given_names": [
@@ -710,25 +710,25 @@
         "classification": "group",
         "name": "Klub HLAS - sociálna demokracia",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:1",
         "classification": "group",
         "name": "Klub HLAS - sociálna demokracia",
-        "since": "2026-06-17"
+        "since": "2026-06-18"
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.9745323417,
+    "present_share": 0.9745667342,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1172&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:36",
-    "vote_events_total": 4437,
-    "present": 4221,
+    "vote_events_total": 4443,
+    "present": 4227,
     "absent": 216,
     "name": "Vladimír Faič",
     "given_names": [
@@ -743,25 +743,25 @@
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:5",
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
-        "since": "2026-06-17"
+        "since": "2026-06-18"
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.9513184584,
+    "present_share": 0.9513841999,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=36&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:931",
-    "vote_events_total": 4417,
-    "present": 4302,
+    "vote_events_total": 4423,
+    "present": 4308,
     "absent": 115,
     "name": "Karol Farkašovský",
     "given_names": [
@@ -776,26 +776,26 @@
         "classification": "group",
         "name": "Klub Slovenská národná strana",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:7",
         "classification": "group",
         "name": "Klub Slovenská národná strana",
-        "since": "2026-06-17"
+        "since": "2026-06-18"
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.9739642291,
+    "present_share": 0.9739995478,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=931&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1008",
-    "vote_events_total": 4437,
+    "vote_events_total": 4443,
     "present": 3739,
-    "absent": 698,
+    "absent": 704,
     "name": "Ján Ferenčák",
     "given_names": [
       "Ján"
@@ -819,15 +819,15 @@
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.8426864999,
+    "present_share": 0.8415485033,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1008&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:966",
-    "vote_events_total": 3031,
-    "present": 2657,
+    "vote_events_total": 3037,
+    "present": 2663,
     "absent": 370,
     "name": "Karol Galek",
     "given_names": [
@@ -842,25 +842,25 @@
         "classification": "group",
         "name": "Klub Sloboda a Solidarita",
         "since": "2024-09-10",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:6",
         "classification": "group",
         "name": "Klub Sloboda a Solidarita",
-        "since": "2026-06-17"
+        "since": "2026-06-18"
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.8766083801,
+    "present_share": 0.8768521567,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=966&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:656",
-    "vote_events_total": 4437,
-    "present": 4300,
+    "vote_events_total": 4443,
+    "present": 4306,
     "absent": 124,
     "name": "Dušan Galis",
     "given_names": [
@@ -875,25 +875,25 @@
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:5",
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
-        "since": "2026-06-17"
+        "since": "2026-06-18"
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.9691232815,
+    "present_share": 0.9691649786,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=656&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:785",
-    "vote_events_total": 4437,
-    "present": 3762,
+    "vote_events_total": 4443,
+    "present": 3768,
     "absent": 675,
     "name": "Ľubomír Galko",
     "given_names": [
@@ -918,15 +918,15 @@
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.8478701826,
+    "present_share": 0.8480756246,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=785&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1198",
-    "vote_events_total": 4428,
-    "present": 4275,
+    "vote_events_total": 4434,
+    "present": 4281,
     "absent": 153,
     "name": "Milan Garaj",
     "given_names": [
@@ -941,25 +941,25 @@
         "classification": "group",
         "name": "Klub Slovenská národná strana",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:7",
         "classification": "group",
         "name": "Klub Slovenská národná strana",
-        "since": "2026-06-17"
+        "since": "2026-06-18"
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.9654471545,
+    "present_share": 0.9654939107,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1198&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1154",
-    "vote_events_total": 4437,
-    "present": 4305,
+    "vote_events_total": 4443,
+    "present": 4311,
     "absent": 132,
     "name": "Tibor Gašpar",
     "given_names": [
@@ -974,25 +974,25 @@
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:5",
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
-        "since": "2026-06-17"
+        "since": "2026-06-18"
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.970250169,
+    "present_share": 0.9702903444,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1154&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:892",
-    "vote_events_total": 4428,
-    "present": 4338,
+    "vote_events_total": 4434,
+    "present": 4344,
     "absent": 90,
     "name": "Štefan Gašparovič",
     "given_names": [
@@ -1007,25 +1007,25 @@
         "classification": "group",
         "name": "Klub HLAS - sociálna demokracia",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:1",
         "classification": "group",
         "name": "Klub HLAS - sociálna demokracia",
-        "since": "2026-06-17"
+        "since": "2026-06-18"
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.9796747967,
+    "present_share": 0.9797023004,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=892&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1126",
-    "vote_events_total": 4437,
-    "present": 3967,
+    "vote_events_total": 4443,
+    "present": 3973,
     "absent": 425,
     "name": "Tina Gažovičová",
     "given_names": [
@@ -1040,25 +1040,25 @@
         "classification": "group",
         "name": "Klub Progresívne Slovensko",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:3",
         "classification": "group",
         "name": "Klub Progresívne Slovensko",
-        "since": "2026-06-17"
+        "since": "2026-06-18"
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.8940725716,
+    "present_share": 0.8942156201,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1126&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1214",
-    "vote_events_total": 4153,
-    "present": 4027,
+    "vote_events_total": 4159,
+    "present": 4033,
     "absent": 126,
     "name": "Richard Glück",
     "given_names": [
@@ -1073,25 +1073,25 @@
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
         "since": "2024-02-08",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:5",
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
-        "since": "2026-06-17"
+        "since": "2026-06-18"
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.9696604864,
+    "present_share": 0.9697042558,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1214&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:738",
-    "vote_events_total": 4417,
-    "present": 4299,
+    "vote_events_total": 4423,
+    "present": 4305,
     "absent": 118,
     "name": "Pavol Goga",
     "given_names": [
@@ -1106,25 +1106,25 @@
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:5",
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
-        "since": "2026-06-17"
+        "since": "2026-06-18"
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.9732850351,
+    "present_share": 0.9733212752,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=738&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1222",
-    "vote_events_total": 1485,
-    "present": 1220,
+    "vote_events_total": 1491,
+    "present": 1226,
     "absent": 265,
     "name": "Gréta Gregorová",
     "given_names": [
@@ -1139,26 +1139,26 @@
         "classification": "group",
         "name": "Klub Progresívne Slovensko",
         "since": "2025-09-09",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:3",
         "classification": "group",
         "name": "Klub Progresívne Slovensko",
-        "since": "2026-06-17"
+        "since": "2026-06-18"
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.8215488215,
+    "present_share": 0.8222669349,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1222&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:910",
-    "vote_events_total": 4437,
+    "vote_events_total": 4443,
     "present": 3616,
-    "absent": 821,
+    "absent": 827,
     "name": "Gábor Grendel",
     "given_names": [
       "Gábor"
@@ -1172,25 +1172,25 @@
         "classification": "group",
         "name": "Klub SLOVENSKO - ZA ĽUDÍ",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:4",
         "classification": "group",
         "name": "Klub SLOVENSKO - ZA ĽUDÍ",
-        "since": "2026-06-17"
+        "since": "2026-06-18"
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.8149650665,
+    "present_share": 0.813864506,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=910&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:971",
-    "vote_events_total": 4437,
-    "present": 3390,
+    "vote_events_total": 4443,
+    "present": 3396,
     "absent": 1035,
     "name": "Branislav Gröhling",
     "given_names": [
@@ -1205,25 +1205,25 @@
         "classification": "group",
         "name": "Klub Sloboda a Solidarita",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:6",
         "classification": "group",
         "name": "Klub Sloboda a Solidarita",
-        "since": "2026-06-17"
+        "since": "2026-06-18"
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.7640297498,
+    "present_share": 0.7643484132,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=971&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1009",
-    "vote_events_total": 4437,
-    "present": 4305,
+    "vote_events_total": 4443,
+    "present": 4311,
     "absent": 132,
     "name": "Jozef Habánik",
     "given_names": [
@@ -1238,25 +1238,25 @@
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:5",
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
-        "since": "2026-06-17"
+        "since": "2026-06-18"
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.970250169,
+    "present_share": 0.9702903444,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1009&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:874",
-    "vote_events_total": 4437,
-    "present": 4340,
+    "vote_events_total": 4443,
+    "present": 4346,
     "absent": 97,
     "name": "Augustín Hambálek",
     "given_names": [
@@ -1271,26 +1271,26 @@
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:5",
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
-        "since": "2026-06-17"
+        "since": "2026-06-18"
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.9781383818,
+    "present_share": 0.9781679046,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=874&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1129",
-    "vote_events_total": 4437,
-    "present": 3436,
-    "absent": 956,
+    "vote_events_total": 4443,
+    "present": 3440,
+    "absent": 958,
     "name": "Jana Hanuliaková",
     "given_names": [
       "Jana"
@@ -1304,25 +1304,25 @@
         "classification": "group",
         "name": "Klub Progresívne Slovensko",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:3",
         "classification": "group",
         "name": "Klub Progresívne Slovensko",
-        "since": "2026-06-17"
+        "since": "2026-06-18"
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.7743971152,
+    "present_share": 0.7742516318,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1129&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1142",
-    "vote_events_total": 4437,
-    "present": 3662,
+    "vote_events_total": 4443,
+    "present": 3668,
     "absent": 730,
     "name": "Ján Hargaš",
     "given_names": [
@@ -1337,25 +1337,25 @@
         "classification": "group",
         "name": "Klub Progresívne Slovensko",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:3",
         "classification": "group",
         "name": "Klub Progresívne Slovensko",
-        "since": "2026-06-17"
+        "since": "2026-06-18"
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.8253324318,
+    "present_share": 0.8255683097,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1142&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1192",
-    "vote_events_total": 4428,
-    "present": 4281,
+    "vote_events_total": 4434,
+    "present": 4287,
     "absent": 147,
     "name": "Ivan Hazucha",
     "given_names": [
@@ -1370,25 +1370,25 @@
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:5",
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
-        "since": "2026-06-17"
+        "since": "2026-06-18"
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.966802168,
+    "present_share": 0.9668470907,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1192&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:859",
-    "vote_events_total": 4437,
-    "present": 3258,
+    "vote_events_total": 4443,
+    "present": 3264,
     "absent": 1169,
     "name": "Alojz Hlina",
     "given_names": [
@@ -1403,26 +1403,26 @@
         "classification": "group",
         "name": "Klub Sloboda a Solidarita",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:6",
         "classification": "group",
         "name": "Klub Sloboda a Solidarita",
-        "since": "2026-06-17"
+        "since": "2026-06-18"
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.7342799189,
+    "present_share": 0.7346387576,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=859&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1183",
-    "vote_events_total": 4437,
-    "present": 3342,
-    "absent": 1095,
+    "vote_events_total": 4443,
+    "present": 3347,
+    "absent": 1096,
     "name": "Ján Horecký",
     "given_names": [
       "Ján"
@@ -1439,15 +1439,15 @@
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.7532116295,
+    "present_share": 0.7533198289,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1183&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1219",
-    "vote_events_total": 3054,
-    "present": 2970,
+    "vote_events_total": 3060,
+    "present": 2976,
     "absent": 84,
     "name": "Ján Horváth",
     "given_names": [
@@ -1462,25 +1462,25 @@
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
         "since": "2024-07-15",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:5",
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
-        "since": "2026-06-17"
+        "since": "2026-06-18"
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.9724950884,
+    "present_share": 0.9725490196,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1219&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1202",
-    "vote_events_total": 2216,
-    "present": 2151,
+    "vote_events_total": 2222,
+    "present": 2157,
     "absent": 48,
     "name": "Ján Hrubý",
     "given_names": [
@@ -1495,26 +1495,26 @@
         "classification": "group",
         "name": "Klub HLAS - sociálna demokracia",
         "since": "2025-03-25",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:1",
         "classification": "group",
         "name": "Klub HLAS - sociálna demokracia",
-        "since": "2026-06-17"
+        "since": "2026-06-18"
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.97066787,
+    "present_share": 0.9707470747,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1202&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1188",
-    "vote_events_total": 4437,
-    "present": 3610,
-    "absent": 827,
+    "vote_events_total": 4443,
+    "present": 3614,
+    "absent": 829,
     "name": "Július Jakab",
     "given_names": [
       "Július"
@@ -1528,25 +1528,25 @@
         "classification": "group",
         "name": "Klub SLOVENSKO - ZA ĽUDÍ",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:4",
         "classification": "group",
         "name": "Klub SLOVENSKO - ZA ĽUDÍ",
-        "since": "2026-06-17"
+        "since": "2026-06-18"
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.8136128014,
+    "present_share": 0.8134143597,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1188&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1169",
-    "vote_events_total": 4437,
-    "present": 4340,
+    "vote_events_total": 4443,
+    "present": 4346,
     "absent": 97,
     "name": "Karol Janas",
     "given_names": [
@@ -1561,25 +1561,25 @@
         "classification": "group",
         "name": "Klub HLAS - sociálna demokracia",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:1",
         "classification": "group",
         "name": "Klub HLAS - sociálna demokracia",
-        "since": "2026-06-17"
+        "since": "2026-06-18"
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.9781383818,
+    "present_share": 0.9781679046,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1169&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:961",
-    "vote_events_total": 4437,
-    "present": 3820,
+    "vote_events_total": 4443,
+    "present": 3826,
     "absent": 612,
     "name": "Igor Janckulík",
     "given_names": [
@@ -1597,15 +1597,15 @@
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.860942078,
+    "present_share": 0.8611298672,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=961&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:61",
-    "vote_events_total": 4437,
-    "present": 4276,
+    "vote_events_total": 4443,
+    "present": 4282,
     "absent": 161,
     "name": "Dušan Jarjabek",
     "given_names": [
@@ -1620,26 +1620,26 @@
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:5",
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
-        "since": "2026-06-17"
+        "since": "2026-06-18"
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.9637142213,
+    "present_share": 0.963763223,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=61&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1121",
-    "vote_events_total": 4437,
-    "present": 2888,
-    "absent": 1504,
+    "vote_events_total": 4443,
+    "present": 2893,
+    "absent": 1505,
     "name": "Zora Jaurová",
     "given_names": [
       "Zora"
@@ -1653,25 +1653,25 @@
         "classification": "group",
         "name": "Klub Progresívne Slovensko",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:3",
         "classification": "group",
         "name": "Klub Progresívne Slovensko",
-        "since": "2026-06-17"
+        "since": "2026-06-18"
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.6508902412,
+    "present_share": 0.6511366194,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1121&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:891",
-    "vote_events_total": 4437,
-    "present": 4333,
+    "vote_events_total": 4443,
+    "present": 4339,
     "absent": 104,
     "name": "Jozef Ježík",
     "given_names": [
@@ -1686,25 +1686,25 @@
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:5",
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
-        "since": "2026-06-17"
+        "since": "2026-06-18"
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.9765607392,
+    "present_share": 0.9765923925,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=891&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1128",
-    "vote_events_total": 4437,
-    "present": 3799,
+    "vote_events_total": 4443,
+    "present": 3805,
     "absent": 590,
     "name": "Beáta Jurík",
     "given_names": [
@@ -1719,25 +1719,25 @@
         "classification": "group",
         "name": "Klub Progresívne Slovensko",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:3",
         "classification": "group",
         "name": "Klub Progresívne Slovensko",
-        "since": "2026-06-17"
+        "since": "2026-06-18"
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.8562091503,
+    "present_share": 0.8564033311,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1128&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1218",
-    "vote_events_total": 3054,
-    "present": 2938,
+    "vote_events_total": 3060,
+    "present": 2944,
     "absent": 116,
     "name": "Jozef Kačmár",
     "given_names": [
@@ -1752,25 +1752,25 @@
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
         "since": "2024-07-15",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:5",
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
-        "since": "2026-06-17"
+        "since": "2026-06-18"
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.9620170269,
+    "present_share": 0.9620915033,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1218&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1170",
-    "vote_events_total": 4437,
-    "present": 4237,
+    "vote_events_total": 4443,
+    "present": 4243,
     "absent": 200,
     "name": "Peter Kalivoda",
     "given_names": [
@@ -1785,25 +1785,25 @@
         "classification": "group",
         "name": "Klub HLAS - sociálna demokracia",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:1",
         "classification": "group",
         "name": "Klub HLAS - sociálna demokracia",
-        "since": "2026-06-17"
+        "since": "2026-06-18"
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.9549244985,
+    "present_share": 0.9549853702,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1170&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1205",
-    "vote_events_total": 4417,
-    "present": 4297,
+    "vote_events_total": 4423,
+    "present": 4303,
     "absent": 117,
     "name": "Michal Kapuš",
     "given_names": [
@@ -1818,25 +1818,25 @@
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:5",
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
-        "since": "2026-06-17"
+        "since": "2026-06-18"
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.9728322391,
+    "present_share": 0.9728690934,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1205&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1158",
-    "vote_events_total": 4437,
-    "present": 4336,
+    "vote_events_total": 4443,
+    "present": 4342,
     "absent": 101,
     "name": "Daniel Karas",
     "given_names": [
@@ -1851,25 +1851,25 @@
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:5",
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
-        "since": "2026-06-17"
+        "since": "2026-06-18"
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.9772368718,
+    "present_share": 0.977267612,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1158&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:873",
-    "vote_events_total": 4437,
-    "present": 4313,
+    "vote_events_total": 4443,
+    "present": 4319,
     "absent": 124,
     "name": "Marián Kéry",
     "given_names": [
@@ -1884,25 +1884,25 @@
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:5",
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
-        "since": "2026-06-17"
+        "since": "2026-06-18"
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.9720531891,
+    "present_share": 0.9720909296,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=873&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1125",
-    "vote_events_total": 4437,
-    "present": 3049,
+    "vote_events_total": 4443,
+    "present": 3055,
     "absent": 1388,
     "name": "Štefan Kišš",
     "given_names": [
@@ -1917,25 +1917,25 @@
         "classification": "group",
         "name": "Klub Progresívne Slovensko",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:3",
         "classification": "group",
         "name": "Klub Progresívne Slovensko",
-        "since": "2026-06-17"
+        "since": "2026-06-18"
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.6871760198,
+    "present_share": 0.6875984695,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1125&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1139",
-    "vote_events_total": 4437,
-    "present": 3384,
+    "vote_events_total": 4443,
+    "present": 3390,
     "absent": 1000,
     "name": "Dana Kleinert",
     "given_names": [
@@ -1950,25 +1950,25 @@
         "classification": "group",
         "name": "Klub Progresívne Slovensko",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:3",
         "classification": "group",
         "name": "Klub Progresívne Slovensko",
-        "since": "2026-06-17"
+        "since": "2026-06-18"
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.7626774848,
+    "present_share": 0.7629979743,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1139&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1023",
-    "vote_events_total": 953,
-    "present": 914,
+    "vote_events_total": 959,
+    "present": 920,
     "absent": 39,
     "name": "Peter Kmec",
     "given_names": [
@@ -1983,26 +1983,26 @@
         "classification": "group",
         "name": "Klub HLAS - sociálna demokracia",
         "since": "2025-11-25",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:1",
         "classification": "group",
         "name": "Klub HLAS - sociálna demokracia",
-        "since": "2026-06-17"
+        "since": "2026-06-18"
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.9590766002,
+    "present_share": 0.9593326382,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1023&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1224",
-    "vote_events_total": 744,
-    "present": 664,
-    "absent": 80,
+    "vote_events_total": 750,
+    "present": 665,
+    "absent": 85,
     "name": "Monika Kolejáková",
     "given_names": [
       "Monika"
@@ -2019,15 +2019,15 @@
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.8924731183,
+    "present_share": 0.8866666667,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1224&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1025",
-    "vote_events_total": 4437,
-    "present": 3674,
+    "vote_events_total": 4443,
+    "present": 3680,
     "absent": 763,
     "name": "Mária Kolíková",
     "given_names": [
@@ -2042,26 +2042,26 @@
         "classification": "group",
         "name": "Klub Sloboda a Solidarita",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:6",
         "classification": "group",
         "name": "Klub Sloboda a Solidarita",
-        "since": "2026-06-17"
+        "since": "2026-06-18"
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.8280369619,
+    "present_share": 0.8282691875,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1025&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1124",
-    "vote_events_total": 4437,
-    "present": 3746,
-    "absent": 646,
+    "vote_events_total": 4443,
+    "present": 3751,
+    "absent": 647,
     "name": "Ingrid Kosová",
     "given_names": [
       "Ingrid"
@@ -2075,25 +2075,25 @@
         "classification": "group",
         "name": "Klub Progresívne Slovensko",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:3",
         "classification": "group",
         "name": "Klub Progresívne Slovensko",
-        "since": "2026-06-17"
+        "since": "2026-06-18"
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.8442641424,
+    "present_share": 0.844249381,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1124&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1151",
-    "vote_events_total": 4437,
-    "present": 4272,
+    "vote_events_total": 4443,
+    "present": 4278,
     "absent": 154,
     "name": "Peter Kotlár",
     "given_names": [
@@ -2108,26 +2108,26 @@
         "classification": "group",
         "name": "Klub Slovenská národná strana",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:7",
         "classification": "group",
         "name": "Klub Slovenská národná strana",
-        "since": "2026-06-17"
+        "since": "2026-06-18"
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.9628127113,
+    "present_share": 0.9628629305,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1151&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:907",
-    "vote_events_total": 4437,
-    "present": 3202,
-    "absent": 1235,
+    "vote_events_total": 4443,
+    "present": 3207,
+    "absent": 1236,
     "name": "Marek Krajčí",
     "given_names": [
       "Marek"
@@ -2141,25 +2141,25 @@
         "classification": "group",
         "name": "Klub SLOVENSKO - ZA ĽUDÍ",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:4",
         "classification": "group",
         "name": "Klub SLOVENSKO - ZA ĽUDÍ",
-        "since": "2026-06-17"
+        "since": "2026-06-18"
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.7216587785,
+    "present_share": 0.7218095881,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=907&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1210",
-    "vote_events_total": 4417,
-    "present": 4317,
+    "vote_events_total": 4423,
+    "present": 4323,
     "absent": 100,
     "name": "Dagmar Kramplová",
     "given_names": [
@@ -2174,26 +2174,26 @@
         "classification": "group",
         "name": "Klub Slovenská národná strana",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:7",
         "classification": "group",
         "name": "Klub Slovenská národná strana",
-        "since": "2026-06-17"
+        "since": "2026-06-18"
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.9773601992,
+    "present_share": 0.9773909111,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1210&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1190",
-    "vote_events_total": 4437,
+    "vote_events_total": 4443,
     "present": 2916,
-    "absent": 1506,
+    "absent": 1512,
     "name": "Rastislav Krátky",
     "given_names": [
       "Rastislav"
@@ -2217,15 +2217,15 @@
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.6572008114,
+    "present_share": 0.6563133018,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1190&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1032",
-    "vote_events_total": 4437,
-    "present": 3689,
+    "vote_events_total": 4443,
+    "present": 3695,
     "absent": 748,
     "name": "Juraj Krúpa",
     "given_names": [
@@ -2240,25 +2240,25 @@
         "classification": "group",
         "name": "Klub Sloboda a Solidarita",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:6",
         "classification": "group",
         "name": "Klub Sloboda a Solidarita",
-        "since": "2026-06-17"
+        "since": "2026-06-18"
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.8314176245,
+    "present_share": 0.8316452847,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1032&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:668",
-    "vote_events_total": 4437,
-    "present": 4327,
+    "vote_events_total": 4443,
+    "present": 4333,
     "absent": 107,
     "name": "Stanislav Kubánek",
     "given_names": [
@@ -2273,25 +2273,25 @@
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:5",
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
-        "since": "2026-06-17"
+        "since": "2026-06-18"
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.9752084742,
+    "present_share": 0.9752419536,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=668&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:671",
-    "vote_events_total": 4437,
-    "present": 4322,
+    "vote_events_total": 4443,
+    "present": 4328,
     "absent": 115,
     "name": "Ján Kvorka",
     "given_names": [
@@ -2306,25 +2306,25 @@
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:5",
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
-        "since": "2026-06-17"
+        "since": "2026-06-18"
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.9740815867,
+    "present_share": 0.9741165879,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=671&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1189",
-    "vote_events_total": 4437,
-    "present": 3923,
+    "vote_events_total": 4443,
+    "present": 3929,
     "absent": 466,
     "name": "Marek Lackovič",
     "given_names": [
@@ -2339,25 +2339,25 @@
         "classification": "group",
         "name": "Klub Progresívne Slovensko",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:3",
         "classification": "group",
         "name": "Klub Progresívne Slovensko",
-        "since": "2026-06-17"
+        "since": "2026-06-18"
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.8841559612,
+    "present_share": 0.8843124015,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1189&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1081",
-    "vote_events_total": 4437,
-    "present": 4292,
+    "vote_events_total": 4443,
+    "present": 4298,
     "absent": 145,
     "name": "Ľubica Laššáková",
     "given_names": [
@@ -2372,25 +2372,25 @@
         "classification": "group",
         "name": "Klub HLAS - sociálna demokracia",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:1",
         "classification": "group",
         "name": "Klub HLAS - sociálna demokracia",
-        "since": "2026-06-17"
+        "since": "2026-06-18"
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.9673202614,
+    "present_share": 0.9673643934,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1081&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1037",
-    "vote_events_total": 4437,
-    "present": 3757,
+    "vote_events_total": 4443,
+    "present": 3763,
     "absent": 676,
     "name": "Vladimír Ledecký",
     "given_names": [
@@ -2405,25 +2405,25 @@
         "classification": "group",
         "name": "Klub Sloboda a Solidarita",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:6",
         "classification": "group",
         "name": "Klub Sloboda a Solidarita",
-        "since": "2026-06-17"
+        "since": "2026-06-18"
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.846743295,
+    "present_share": 0.8469502588,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1037&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1200",
-    "vote_events_total": 4428,
-    "present": 4332,
+    "vote_events_total": 4434,
+    "present": 4338,
     "absent": 96,
     "name": "Boleslav Lešo",
     "given_names": [
@@ -2438,25 +2438,25 @@
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:5",
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
-        "since": "2026-06-17"
+        "since": "2026-06-18"
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.9783197832,
+    "present_share": 0.9783491204,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1200&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1199",
-    "vote_events_total": 4428,
-    "present": 4314,
+    "vote_events_total": 4434,
+    "present": 4320,
     "absent": 111,
     "name": "Adam Lučanský",
     "given_names": [
@@ -2471,25 +2471,25 @@
         "classification": "group",
         "name": "Klub Slovenská národná strana",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:7",
         "classification": "group",
         "name": "Klub Slovenská národná strana",
-        "since": "2026-06-17"
+        "since": "2026-06-18"
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.9742547425,
+    "present_share": 0.9742895805,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1199&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:733",
-    "vote_events_total": 4428,
-    "present": 4326,
+    "vote_events_total": 4434,
+    "present": 4332,
     "absent": 102,
     "name": "Michal Lukša",
     "given_names": [
@@ -2504,25 +2504,25 @@
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:5",
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
-        "since": "2026-06-17"
+        "since": "2026-06-18"
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.9769647696,
+    "present_share": 0.9769959405,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=733&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1134",
-    "vote_events_total": 4437,
-    "present": 3619,
+    "vote_events_total": 4443,
+    "present": 3625,
     "absent": 773,
     "name": "Darina Luščíková",
     "given_names": [
@@ -2537,25 +2537,25 @@
         "classification": "group",
         "name": "Klub Progresívne Slovensko",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:3",
         "classification": "group",
         "name": "Klub Progresívne Slovensko",
-        "since": "2026-06-17"
+        "since": "2026-06-18"
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.815641199,
+    "present_share": 0.8158901643,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1134&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1152",
-    "vote_events_total": 4437,
-    "present": 3917,
+    "vote_events_total": 4443,
+    "present": 3923,
     "absent": 510,
     "name": "Pavel Ľupták",
     "given_names": [
@@ -2580,15 +2580,15 @@
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.8828036962,
+    "present_share": 0.8829619626,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1152&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1223",
-    "vote_events_total": 945,
-    "present": 904,
+    "vote_events_total": 951,
+    "present": 910,
     "absent": 38,
     "name": "Vladimír Macášek",
     "given_names": [
@@ -2603,25 +2603,25 @@
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
         "since": "2025-11-25",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:5",
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
-        "since": "2026-06-17"
+        "since": "2026-06-18"
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.9566137566,
+    "present_share": 0.9568874869,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1223&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1211",
-    "vote_events_total": 4417,
-    "present": 4236,
+    "vote_events_total": 4423,
+    "present": 4242,
     "absent": 181,
     "name": "Zdenka Mačicová",
     "given_names": [
@@ -2636,25 +2636,25 @@
         "classification": "group",
         "name": "Klub HLAS - sociálna demokracia",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:1",
         "classification": "group",
         "name": "Klub HLAS - sociálna demokracia",
-        "since": "2026-06-17"
+        "since": "2026-06-18"
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.9590219606,
+    "present_share": 0.9590775492,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1211&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1184",
-    "vote_events_total": 4437,
-    "present": 3063,
+    "vote_events_total": 4443,
+    "present": 3069,
     "absent": 1322,
     "name": "František Majerský",
     "given_names": [
@@ -2672,16 +2672,16 @@
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.6903313049,
+    "present_share": 0.6907494936,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1184&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1178",
-    "vote_events_total": 4437,
-    "present": 3348,
-    "absent": 1084,
+    "vote_events_total": 4443,
+    "present": 3349,
+    "absent": 1089,
     "name": "Milan Majerský",
     "given_names": [
       "Milan"
@@ -2698,15 +2698,15 @@
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.7545638945,
+    "present_share": 0.7537699752,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1178&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1173",
-    "vote_events_total": 4437,
-    "present": 4314,
+    "vote_events_total": 4443,
+    "present": 4320,
     "absent": 123,
     "name": "Roman Malatinec",
     "given_names": [
@@ -2731,15 +2731,15 @@
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.9722785666,
+    "present_share": 0.9723160027,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1173&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1042",
-    "vote_events_total": 4437,
-    "present": 3160,
+    "vote_events_total": 4443,
+    "present": 3166,
     "absent": 1277,
     "name": "Vladimíra Marcinková",
     "given_names": [
@@ -2754,25 +2754,25 @@
         "classification": "group",
         "name": "Klub Sloboda a Solidarita",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:6",
         "classification": "group",
         "name": "Klub Sloboda a Solidarita",
-        "since": "2026-06-17"
+        "since": "2026-06-18"
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.7121929231,
+    "present_share": 0.712581589,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1042&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1159",
-    "vote_events_total": 4437,
-    "present": 4345,
+    "vote_events_total": 4443,
+    "present": 4351,
     "absent": 92,
     "name": "Zuzana Matejičková",
     "given_names": [
@@ -2787,26 +2787,26 @@
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:5",
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
-        "since": "2026-06-17"
+        "since": "2026-06-18"
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.9792652693,
+    "present_share": 0.9792932703,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1159&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:808",
-    "vote_events_total": 4437,
-    "present": 2900,
-    "absent": 1532,
+    "vote_events_total": 4443,
+    "present": 2905,
+    "absent": 1533,
     "name": "Igor Matovič",
     "given_names": [
       "Igor"
@@ -2820,25 +2820,25 @@
         "classification": "group",
         "name": "Klub SLOVENSKO - ZA ĽUDÍ",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:4",
         "classification": "group",
         "name": "Klub SLOVENSKO - ZA ĽUDÍ",
-        "since": "2026-06-17"
+        "since": "2026-06-18"
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.6535947712,
+    "present_share": 0.6538374972,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=808&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1156",
-    "vote_events_total": 4437,
-    "present": 4334,
+    "vote_events_total": 4443,
+    "present": 4340,
     "absent": 103,
     "name": "Ján Mažgút",
     "given_names": [
@@ -2853,25 +2853,25 @@
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:5",
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
-        "since": "2026-06-17"
+        "since": "2026-06-18"
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.9767861167,
+    "present_share": 0.9768174657,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1156&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1204",
-    "vote_events_total": 4417,
-    "present": 4286,
+    "vote_events_total": 4423,
+    "present": 4292,
     "absent": 131,
     "name": "Jaroslav Mego",
     "given_names": [
@@ -2886,25 +2886,25 @@
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:5",
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
-        "since": "2026-06-17"
+        "since": "2026-06-18"
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.970341861,
+    "present_share": 0.9703820936,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1204&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1130",
-    "vote_events_total": 4437,
-    "present": 3971,
+    "vote_events_total": 4443,
+    "present": 3977,
     "absent": 421,
     "name": "Zuzana Mesterová",
     "given_names": [
@@ -2919,26 +2919,26 @@
         "classification": "group",
         "name": "Klub Progresívne Slovensko",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:3",
         "classification": "group",
         "name": "Klub Progresívne Slovensko",
-        "since": "2026-06-17"
+        "since": "2026-06-18"
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.8949740816,
+    "present_share": 0.8951159127,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1130&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1149",
-    "vote_events_total": 4437,
-    "present": 4319,
-    "absent": 118,
+    "vote_events_total": 4443,
+    "present": 4324,
+    "absent": 119,
     "name": "Roman Michelko",
     "given_names": [
       "Roman"
@@ -2952,26 +2952,26 @@
         "classification": "group",
         "name": "Klub Slovenská národná strana",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:7",
         "classification": "group",
         "name": "Klub Slovenská národná strana",
-        "since": "2026-06-17"
+        "since": "2026-06-18"
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.9734054541,
+    "present_share": 0.9732162953,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1149&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:92",
-    "vote_events_total": 4437,
-    "present": 2891,
-    "absent": 1546,
+    "vote_events_total": 4443,
+    "present": 2896,
+    "absent": 1547,
     "name": "František Mikloško",
     "given_names": [
       "František"
@@ -2988,16 +2988,16 @@
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.6515663737,
+    "present_share": 0.6518118388,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=92&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1046",
-    "vote_events_total": 4437,
-    "present": 3153,
-    "absent": 1271,
+    "vote_events_total": 4443,
+    "present": 3158,
+    "absent": 1272,
     "name": "Roman Mikulec",
     "given_names": [
       "Roman"
@@ -3011,26 +3011,26 @@
         "classification": "group",
         "name": "Klub SLOVENSKO - ZA ĽUDÍ",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:4",
         "classification": "group",
         "name": "Klub SLOVENSKO - ZA ĽUDÍ",
-        "since": "2026-06-17"
+        "since": "2026-06-18"
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.7106152806,
+    "present_share": 0.7107810038,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1046&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:322",
-    "vote_events_total": 4437,
-    "present": 4148,
-    "absent": 255,
+    "vote_events_total": 4443,
+    "present": 4153,
+    "absent": 256,
     "name": "Dušan Muňko",
     "given_names": [
       "Dušan"
@@ -3051,25 +3051,25 @@
         "classification": "group",
         "name": "Klub Slovenská národná strana",
         "since": "2024-10-23",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:7",
         "classification": "group",
         "name": "Klub Slovenská národná strana",
-        "since": "2026-06-17"
+        "since": "2026-06-18"
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.9348659004,
+    "present_share": 0.9347287869,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=322&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:899",
-    "vote_events_total": 4437,
-    "present": 4307,
+    "vote_events_total": 4443,
+    "present": 4313,
     "absent": 128,
     "name": "Peter Náhlik",
     "given_names": [
@@ -3084,25 +3084,25 @@
         "classification": "group",
         "name": "Klub HLAS - sociálna demokracia",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:1",
         "classification": "group",
         "name": "Klub HLAS - sociálna demokracia",
-        "since": "2026-06-17"
+        "since": "2026-06-18"
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.970700924,
+    "present_share": 0.9707404907,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=899&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1212",
-    "vote_events_total": 4364,
-    "present": 3872,
+    "vote_events_total": 4370,
+    "present": 3878,
     "absent": 447,
     "name": "Natália Nash",
     "given_names": [
@@ -3117,25 +3117,25 @@
         "classification": "group",
         "name": "Klub Progresívne Slovensko",
         "since": "2023-12-06",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:3",
         "classification": "group",
         "name": "Klub Progresívne Slovensko",
-        "since": "2026-06-17"
+        "since": "2026-06-18"
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.8872593951,
+    "present_share": 0.8874141876,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1212&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1196",
-    "vote_events_total": 4428,
-    "present": 4326,
+    "vote_events_total": 4434,
+    "present": 4332,
     "absent": 102,
     "name": "Alena Nováková",
     "given_names": [
@@ -3150,26 +3150,26 @@
         "classification": "group",
         "name": "Klub HLAS - sociálna demokracia",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:1",
         "classification": "group",
         "name": "Klub HLAS - sociálna demokracia",
-        "since": "2026-06-17"
+        "since": "2026-06-18"
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.9769647696,
+    "present_share": 0.9769959405,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1196&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1225",
-    "vote_events_total": 477,
-    "present": 397,
-    "absent": 80,
+    "vote_events_total": 483,
+    "present": 398,
+    "absent": 85,
     "name": "Gabriel Paľa",
     "given_names": [
       "Gabriel"
@@ -3186,15 +3186,15 @@
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.8322851153,
+    "present_share": 0.8240165631,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1225&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:962",
-    "vote_events_total": 4437,
-    "present": 3224,
+    "vote_events_total": 4443,
+    "present": 3230,
     "absent": 1213,
     "name": "Simona Petrík",
     "given_names": [
@@ -3209,25 +3209,25 @@
         "classification": "group",
         "name": "Klub Progresívne Slovensko",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:3",
         "classification": "group",
         "name": "Klub Progresívne Slovensko",
-        "since": "2026-06-17"
+        "since": "2026-06-18"
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.7266170836,
+    "present_share": 0.7269862705,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=962&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:900",
-    "vote_events_total": 4437,
-    "present": 4346,
+    "vote_events_total": 4443,
+    "present": 4352,
     "absent": 91,
     "name": "František Petro",
     "given_names": [
@@ -3242,25 +3242,25 @@
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:5",
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
-        "since": "2026-06-17"
+        "since": "2026-06-18"
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.9794906468,
+    "present_share": 0.9795183435,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=900&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1116",
-    "vote_events_total": 4437,
-    "present": 3252,
+    "vote_events_total": 4443,
+    "present": 3258,
     "absent": 1137,
     "name": "Lucia Plaváková",
     "given_names": [
@@ -3275,25 +3275,25 @@
         "classification": "group",
         "name": "Klub Progresívne Slovensko",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:3",
         "classification": "group",
         "name": "Klub Progresívne Slovensko",
-        "since": "2026-06-17"
+        "since": "2026-06-18"
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.7329276538,
+    "present_share": 0.7332883187,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1116&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1194",
-    "vote_events_total": 4428,
-    "present": 4337,
+    "vote_events_total": 4434,
+    "present": 4343,
     "absent": 91,
     "name": "Zuzana Plevíková",
     "given_names": [
@@ -3308,25 +3308,25 @@
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:5",
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
-        "since": "2026-06-17"
+        "since": "2026-06-18"
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.9794489612,
+    "present_share": 0.9794767704,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1194&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:685",
-    "vote_events_total": 4437,
-    "present": 4291,
+    "vote_events_total": 4443,
+    "present": 4297,
     "absent": 146,
     "name": "Ján Podmanický",
     "given_names": [
@@ -3341,26 +3341,26 @@
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:5",
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
-        "since": "2026-06-17"
+        "since": "2026-06-18"
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.9670948839,
+    "present_share": 0.9671393203,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=685&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1088",
-    "vote_events_total": 4437,
-    "present": 3551,
-    "absent": 883,
+    "vote_events_total": 4443,
+    "present": 3556,
+    "absent": 884,
     "name": "Peter Pollák",
     "given_names": [
       "Peter"
@@ -3374,26 +3374,26 @@
         "classification": "group",
         "name": "Klub SLOVENSKO - ZA ĽUDÍ",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:4",
         "classification": "group",
         "name": "Klub SLOVENSKO - ZA ĽUDÍ",
-        "since": "2026-06-17"
+        "since": "2026-06-18"
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.8003155285,
+    "present_share": 0.800360117,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1088&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1054",
-    "vote_events_total": 4437,
-    "present": 3340,
-    "absent": 1097,
+    "vote_events_total": 4443,
+    "present": 3344,
+    "absent": 1099,
     "name": "Jozef Pročko",
     "given_names": [
       "Jozef"
@@ -3407,25 +3407,25 @@
         "classification": "group",
         "name": "Klub SLOVENSKO - ZA ĽUDÍ",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:4",
         "classification": "group",
         "name": "Klub SLOVENSKO - ZA ĽUDÍ",
-        "since": "2026-06-17"
+        "since": "2026-06-18"
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.7527608745,
+    "present_share": 0.7526446095,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1054&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1131",
-    "vote_events_total": 4437,
-    "present": 4014,
+    "vote_events_total": 4443,
+    "present": 4020,
     "absent": 378,
     "name": "Ondrej Prostredník",
     "given_names": [
@@ -3440,25 +3440,25 @@
         "classification": "group",
         "name": "Klub Progresívne Slovensko",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:3",
         "classification": "group",
         "name": "Klub Progresívne Slovensko",
-        "since": "2026-06-17"
+        "since": "2026-06-18"
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.9046653144,
+    "present_share": 0.9047940581,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1131&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:879",
-    "vote_events_total": 4437,
-    "present": 4315,
+    "vote_events_total": 4443,
+    "present": 4321,
     "absent": 122,
     "name": "Róbert Puci",
     "given_names": [
@@ -3473,25 +3473,25 @@
         "classification": "group",
         "name": "Klub HLAS - sociálna demokracia",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:1",
         "classification": "group",
         "name": "Klub HLAS - sociálna demokracia",
-        "since": "2026-06-17"
+        "since": "2026-06-18"
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.9725039441,
+    "present_share": 0.9725410758,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=879&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1208",
-    "vote_events_total": 4417,
-    "present": 4245,
+    "vote_events_total": 4423,
+    "present": 4251,
     "absent": 172,
     "name": "Paula Puškárová",
     "given_names": [
@@ -3506,25 +3506,25 @@
         "classification": "group",
         "name": "Klub HLAS - sociálna demokracia",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:1",
         "classification": "group",
         "name": "Klub HLAS - sociálna demokracia",
-        "since": "2026-06-17"
+        "since": "2026-06-18"
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.9610595427,
+    "present_share": 0.9611123672,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1208&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1220",
-    "vote_events_total": 2205,
-    "present": 2074,
+    "vote_events_total": 2211,
+    "present": 2080,
     "absent": 131,
     "name": "Miroslav Radačovský",
     "given_names": [
@@ -3542,15 +3542,15 @@
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.9405895692,
+    "present_share": 0.9407507915,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1220&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:761",
-    "vote_events_total": 2213,
-    "present": 2159,
+    "vote_events_total": 2219,
+    "present": 2165,
     "absent": 54,
     "name": "Richard Raši",
     "given_names": [
@@ -3565,26 +3565,26 @@
         "classification": "group",
         "name": "Klub HLAS - sociálna demokracia",
         "since": "2025-03-25",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:1",
         "classification": "group",
         "name": "Klub HLAS - sociálna demokracia",
-        "since": "2026-06-17"
+        "since": "2026-06-18"
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.9755987347,
+    "present_share": 0.9756647138,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=761&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:905",
-    "vote_events_total": 4437,
-    "present": 2919,
-    "absent": 1518,
+    "vote_events_total": 4443,
+    "present": 2924,
+    "absent": 1519,
     "name": "Veronika Remišová",
     "given_names": [
       "Veronika"
@@ -3598,25 +3598,25 @@
         "classification": "group",
         "name": "Klub SLOVENSKO - ZA ĽUDÍ",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:4",
         "classification": "group",
         "name": "Klub SLOVENSKO - ZA ĽUDÍ",
-        "since": "2026-06-17"
+        "since": "2026-06-18"
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.6578769439,
+    "present_share": 0.658113887,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=905&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:689",
-    "vote_events_total": 4437,
-    "present": 4287,
+    "vote_events_total": 4443,
+    "present": 4293,
     "absent": 150,
     "name": "Ján Richter",
     "given_names": [
@@ -3631,25 +3631,25 @@
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:5",
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
-        "since": "2026-06-17"
+        "since": "2026-06-18"
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.9661933739,
+    "present_share": 0.9662390277,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=689&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1120",
-    "vote_events_total": 4437,
-    "present": 3886,
+    "vote_events_total": 4443,
+    "present": 3892,
     "absent": 506,
     "name": "Michal Sabo",
     "given_names": [
@@ -3664,25 +3664,25 @@
         "classification": "group",
         "name": "Klub Progresívne Slovensko",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:3",
         "classification": "group",
         "name": "Klub Progresívne Slovensko",
-        "since": "2026-06-17"
+        "since": "2026-06-18"
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.8758169935,
+    "present_share": 0.875984695,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1120&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:762",
-    "vote_events_total": 4437,
-    "present": 4277,
+    "vote_events_total": 4443,
+    "present": 4283,
     "absent": 160,
     "name": "Marián Saloň",
     "given_names": [
@@ -3697,25 +3697,25 @@
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:5",
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
-        "since": "2026-06-17"
+        "since": "2026-06-18"
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.9639395988,
+    "present_share": 0.9639882962,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=762&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1163",
-    "vote_events_total": 4437,
-    "present": 4332,
+    "vote_events_total": 4443,
+    "present": 4338,
     "absent": 102,
     "name": "Justín Sedlák",
     "given_names": [
@@ -3730,25 +3730,25 @@
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:5",
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
-        "since": "2026-06-17"
+        "since": "2026-06-18"
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.9763353617,
+    "present_share": 0.9763673194,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1163&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1191",
-    "vote_events_total": 4428,
-    "present": 4333,
+    "vote_events_total": 4434,
+    "present": 4339,
     "absent": 92,
     "name": "Andrej Sitkár",
     "given_names": [
@@ -3763,25 +3763,25 @@
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:5",
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
-        "since": "2026-06-17"
+        "since": "2026-06-18"
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.9785456188,
+    "present_share": 0.9785746504,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1191&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1206",
-    "vote_events_total": 4417,
-    "present": 3766,
+    "vote_events_total": 4423,
+    "present": 3772,
     "absent": 651,
     "name": "Peter Sokol",
     "given_names": [
@@ -3796,25 +3796,25 @@
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:5",
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
-        "since": "2026-06-17"
+        "since": "2026-06-18"
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.852614897,
+    "present_share": 0.8528148316,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1206&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1117",
-    "vote_events_total": 4437,
-    "present": 3649,
+    "vote_events_total": 4443,
+    "present": 3655,
     "absent": 735,
     "name": "Jaroslav Spišiak",
     "given_names": [
@@ -3829,25 +3829,25 @@
         "classification": "group",
         "name": "Klub Progresívne Slovensko",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:3",
         "classification": "group",
         "name": "Klub Progresívne Slovensko",
-        "since": "2026-06-17"
+        "since": "2026-06-18"
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.8224025242,
+    "present_share": 0.8226423588,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1117&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1182",
-    "vote_events_total": 4437,
-    "present": 3169,
+    "vote_events_total": 4443,
+    "present": 3175,
     "absent": 1249,
     "name": "Peter Stachura",
     "given_names": [
@@ -3865,16 +3865,16 @@
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.7142213207,
+    "present_share": 0.7146072474,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1182&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1118",
-    "vote_events_total": 4437,
-    "present": 3794,
-    "absent": 598,
+    "vote_events_total": 4443,
+    "present": 3795,
+    "absent": 603,
     "name": "Tamara Stohlová",
     "given_names": [
       "Tamara"
@@ -3888,25 +3888,25 @@
         "classification": "group",
         "name": "Klub Progresívne Slovensko",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:3",
         "classification": "group",
         "name": "Klub Progresívne Slovensko",
-        "since": "2026-06-17"
+        "since": "2026-06-18"
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.8550822628,
+    "present_share": 0.8541525996,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1118&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1058",
-    "vote_events_total": 4437,
-    "present": 4340,
+    "vote_events_total": 4443,
+    "present": 4346,
     "absent": 97,
     "name": "Anton Stredák",
     "given_names": [
@@ -3921,25 +3921,25 @@
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:5",
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
-        "since": "2026-06-17"
+        "since": "2026-06-18"
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.9781383818,
+    "present_share": 0.9781679046,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1058&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1161",
-    "vote_events_total": 4437,
-    "present": 4319,
+    "vote_events_total": 4443,
+    "present": 4325,
     "absent": 100,
     "name": "Michal Stuška",
     "given_names": [
@@ -3954,25 +3954,25 @@
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:5",
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
-        "since": "2026-06-17"
+        "since": "2026-06-18"
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.9734054541,
+    "present_share": 0.9734413684,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1161&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1087",
-    "vote_events_total": 4417,
-    "present": 4316,
+    "vote_events_total": 4423,
+    "present": 4322,
     "absent": 101,
     "name": "Zdenko Svoboda",
     "given_names": [
@@ -3987,25 +3987,25 @@
         "classification": "group",
         "name": "Klub HLAS - sociálna demokracia",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:1",
         "classification": "group",
         "name": "Klub HLAS - sociálna demokracia",
-        "since": "2026-06-17"
+        "since": "2026-06-18"
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.9771338012,
+    "present_share": 0.9771648203,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1087&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1217",
-    "vote_events_total": 3582,
-    "present": 3494,
+    "vote_events_total": 3588,
+    "present": 3500,
     "absent": 86,
     "name": "Andrea Szabóová",
     "given_names": [
@@ -4020,25 +4020,25 @@
         "classification": "group",
         "name": "Klub HLAS - sociálna demokracia",
         "since": "2024-04-18",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:1",
         "classification": "group",
         "name": "Klub HLAS - sociálna demokracia",
-        "since": "2026-06-17"
+        "since": "2026-06-18"
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.9754327192,
+    "present_share": 0.9754738016,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1217&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1147",
-    "vote_events_total": 4437,
-    "present": 3779,
+    "vote_events_total": 4443,
+    "present": 3785,
     "absent": 658,
     "name": "Tomáš Szalay",
     "given_names": [
@@ -4053,25 +4053,25 @@
         "classification": "group",
         "name": "Klub Sloboda a Solidarita",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:6",
         "classification": "group",
         "name": "Klub Sloboda a Solidarita",
-        "since": "2026-06-17"
+        "since": "2026-06-18"
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.8517016002,
+    "present_share": 0.8519018681,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1147&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1150",
-    "vote_events_total": 4437,
-    "present": 3994,
+    "vote_events_total": 4443,
+    "present": 4000,
     "absent": 443,
     "name": "Ivan Ševčík",
     "given_names": [
@@ -4096,15 +4096,15 @@
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.9001577643,
+    "present_share": 0.9002925951,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1150&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1114",
-    "vote_events_total": 4437,
-    "present": 3382,
+    "vote_events_total": 4443,
+    "present": 3388,
     "absent": 1055,
     "name": "Michal Šimečka",
     "given_names": [
@@ -4119,25 +4119,25 @@
         "classification": "group",
         "name": "Klub Progresívne Slovensko",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:3",
         "classification": "group",
         "name": "Klub Progresívne Slovensko",
-        "since": "2026-06-17"
+        "since": "2026-06-18"
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.7622267298,
+    "present_share": 0.762547828,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1114&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1177",
-    "vote_events_total": 4437,
-    "present": 4232,
+    "vote_events_total": 4443,
+    "present": 4238,
     "absent": 205,
     "name": "Igor Šimko",
     "given_names": [
@@ -4152,26 +4152,26 @@
         "classification": "group",
         "name": "Klub HLAS - sociálna demokracia",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:1",
         "classification": "group",
         "name": "Klub HLAS - sociálna demokracia",
-        "since": "2026-06-17"
+        "since": "2026-06-18"
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.953797611,
+    "present_share": 0.9538600045,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1177&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1065",
-    "vote_events_total": 4437,
-    "present": 3639,
-    "absent": 798,
+    "vote_events_total": 4443,
+    "present": 3644,
+    "absent": 799,
     "name": "Michal Šipoš",
     "given_names": [
       "Michal"
@@ -4185,26 +4185,26 @@
         "classification": "group",
         "name": "Klub SLOVENSKO - ZA ĽUDÍ",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:4",
         "classification": "group",
         "name": "Klub SLOVENSKO - ZA ĽUDÍ",
-        "since": "2026-06-17"
+        "since": "2026-06-18"
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.8201487492,
+    "present_share": 0.8201665541,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1065&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1146",
-    "vote_events_total": 4437,
-    "present": 3842,
-    "absent": 592,
+    "vote_events_total": 4443,
+    "present": 3847,
+    "absent": 593,
     "name": "Anežka Škopová",
     "given_names": [
       "Anežka"
@@ -4218,25 +4218,25 @@
         "classification": "group",
         "name": "Klub SLOVENSKO - ZA ĽUDÍ",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:4",
         "classification": "group",
         "name": "Klub SLOVENSKO - ZA ĽUDÍ",
-        "since": "2026-06-17"
+        "since": "2026-06-18"
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.8659003831,
+    "present_share": 0.8658564033,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1146&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:862",
-    "vote_events_total": 4437,
-    "present": 2924,
+    "vote_events_total": 4443,
+    "present": 2930,
     "absent": 1495,
     "name": "Branislav Škripek",
     "given_names": [
@@ -4254,15 +4254,15 @@
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.6590038314,
+    "present_share": 0.6594643259,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=862&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1143",
-    "vote_events_total": 4437,
-    "present": 3821,
+    "vote_events_total": 4443,
+    "present": 3827,
     "absent": 571,
     "name": "Veronika Šrobová",
     "given_names": [
@@ -4277,25 +4277,25 @@
         "classification": "group",
         "name": "Klub Progresívne Slovensko",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:3",
         "classification": "group",
         "name": "Klub Progresívne Slovensko",
-        "since": "2026-06-17"
+        "since": "2026-06-18"
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.8611674555,
+    "present_share": 0.8613549404,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1143&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1127",
-    "vote_events_total": 4437,
-    "present": 3468,
+    "vote_events_total": 4443,
+    "present": 3474,
     "absent": 914,
     "name": "Ivan Štefunko",
     "given_names": [
@@ -4310,25 +4310,25 @@
         "classification": "group",
         "name": "Klub Progresívne Slovensko",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:3",
         "classification": "group",
         "name": "Klub Progresívne Slovensko",
-        "since": "2026-06-17"
+        "since": "2026-06-18"
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.7816091954,
+    "present_share": 0.7819041188,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1127&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1132",
-    "vote_events_total": 4437,
-    "present": 3460,
+    "vote_events_total": 4443,
+    "present": 3466,
     "absent": 921,
     "name": "Zuzana Števulová",
     "given_names": [
@@ -4343,25 +4343,25 @@
         "classification": "group",
         "name": "Klub Progresívne Slovensko",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:3",
         "classification": "group",
         "name": "Klub Progresívne Slovensko",
-        "since": "2026-06-17"
+        "since": "2026-06-18"
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.7798061753,
+    "present_share": 0.7801035336,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1132&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:769",
-    "vote_events_total": 4437,
-    "present": 4337,
+    "vote_events_total": 4443,
+    "present": 4343,
     "absent": 97,
     "name": "Peter Šuca",
     "given_names": [
@@ -4376,26 +4376,26 @@
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:5",
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
-        "since": "2026-06-17"
+        "since": "2026-06-18"
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.9774622493,
+    "present_share": 0.9774926851,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=769&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1145",
-    "vote_events_total": 4437,
-    "present": 3576,
-    "absent": 814,
+    "vote_events_total": 4443,
+    "present": 3577,
+    "absent": 819,
     "name": "Viliam Tankó",
     "given_names": [
       "Viliam"
@@ -4416,25 +4416,25 @@
         "classification": "group",
         "name": "Klub Progresívne Slovensko",
         "since": "2024-10-03",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:3",
         "classification": "group",
         "name": "Klub Progresívne Slovensko",
-        "since": "2026-06-17"
+        "since": "2026-06-18"
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.8059499662,
+    "present_share": 0.8050866532,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1145&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:930",
-    "vote_events_total": 4437,
-    "present": 4331,
+    "vote_events_total": 4443,
+    "present": 4337,
     "absent": 106,
     "name": "Dušan Tittel",
     "given_names": [
@@ -4449,25 +4449,25 @@
         "classification": "group",
         "name": "Klub HLAS - sociálna demokracia",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:1",
         "classification": "group",
         "name": "Klub HLAS - sociálna demokracia",
-        "since": "2026-06-17"
+        "since": "2026-06-18"
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.9761099842,
+    "present_share": 0.9761422462,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=930&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1115",
-    "vote_events_total": 4437,
-    "present": 3458,
+    "vote_events_total": 4443,
+    "present": 3464,
     "absent": 915,
     "name": "Michal Truban",
     "given_names": [
@@ -4482,26 +4482,26 @@
         "classification": "group",
         "name": "Klub Progresívne Slovensko",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:3",
         "classification": "group",
         "name": "Klub Progresívne Slovensko",
-        "since": "2026-06-17"
+        "since": "2026-06-18"
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.7793554203,
+    "present_share": 0.7796533874,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1115&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1186",
-    "vote_events_total": 4437,
+    "vote_events_total": 4443,
     "present": 3128,
-    "absent": 1309,
+    "absent": 1315,
     "name": "Andrea Turčanová",
     "given_names": [
       "Andrea"
@@ -4518,15 +4518,15 @@
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.7049808429,
+    "present_share": 0.7040288094,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1186&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1075",
-    "vote_events_total": 4437,
-    "present": 3194,
+    "vote_events_total": 4443,
+    "present": 3200,
     "absent": 1198,
     "name": "Tomáš Valášek",
     "given_names": [
@@ -4541,25 +4541,25 @@
         "classification": "group",
         "name": "Klub Progresívne Slovensko",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:3",
         "classification": "group",
         "name": "Klub Progresívne Slovensko",
-        "since": "2026-06-17"
+        "since": "2026-06-18"
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.7198557584,
+    "present_share": 0.7202340761,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1075&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1193",
-    "vote_events_total": 4428,
-    "present": 4334,
+    "vote_events_total": 4434,
+    "present": 4340,
     "absent": 94,
     "name": "Igor Válek",
     "given_names": [
@@ -4574,25 +4574,25 @@
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:5",
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
-        "since": "2026-06-17"
+        "since": "2026-06-18"
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.9787714544,
+    "present_share": 0.9788001804,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1193&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:705",
-    "vote_events_total": 4437,
-    "present": 4323,
+    "vote_events_total": 4443,
+    "present": 4329,
     "absent": 103,
     "name": "Jozef Valocký",
     "given_names": [
@@ -4607,25 +4607,25 @@
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:5",
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
-        "since": "2026-06-17"
+        "since": "2026-06-18"
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.9743069642,
+    "present_share": 0.974341661,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=705&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1135",
-    "vote_events_total": 4437,
-    "present": 3734,
+    "vote_events_total": 4443,
+    "present": 3740,
     "absent": 658,
     "name": "Branislav Vančo",
     "given_names": [
@@ -4640,25 +4640,25 @@
         "classification": "group",
         "name": "Klub Progresívne Slovensko",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:3",
         "classification": "group",
         "name": "Klub Progresívne Slovensko",
-        "since": "2026-06-17"
+        "since": "2026-06-18"
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.8415596124,
+    "present_share": 0.8417735764,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1135&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:861",
-    "vote_events_total": 4437,
-    "present": 3573,
+    "vote_events_total": 4443,
+    "present": 3579,
     "absent": 864,
     "name": "Richard Vašečka",
     "given_names": [
@@ -4683,15 +4683,15 @@
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.8052738337,
+    "present_share": 0.8055367995,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=861&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:293",
-    "vote_events_total": 4437,
-    "present": 4262,
+    "vote_events_total": 4443,
+    "present": 4268,
     "absent": 169,
     "name": "Ľubomír Vážny",
     "given_names": [
@@ -4706,25 +4706,25 @@
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:5",
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
-        "since": "2026-06-17"
+        "since": "2026-06-18"
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.9605589362,
+    "present_share": 0.960612199,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=293&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1141",
-    "vote_events_total": 4437,
-    "present": 3742,
+    "vote_events_total": 4443,
+    "present": 3748,
     "absent": 642,
     "name": "Veronika Veslárová",
     "given_names": [
@@ -4739,25 +4739,25 @@
         "classification": "group",
         "name": "Klub Progresívne Slovensko",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:3",
         "classification": "group",
         "name": "Klub Progresívne Slovensko",
-        "since": "2026-06-17"
+        "since": "2026-06-18"
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.8433626324,
+    "present_share": 0.8435741616,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1141&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:991",
-    "vote_events_total": 4437,
-    "present": 3891,
+    "vote_events_total": 4443,
+    "present": 3897,
     "absent": 546,
     "name": "Marián Viskupič",
     "given_names": [
@@ -4772,25 +4772,25 @@
         "classification": "group",
         "name": "Klub Sloboda a Solidarita",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:6",
         "classification": "group",
         "name": "Klub Sloboda a Solidarita",
-        "since": "2026-06-17"
+        "since": "2026-06-18"
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.876943881,
+    "present_share": 0.8771100608,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=991&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1176",
-    "vote_events_total": 4437,
-    "present": 4275,
+    "vote_events_total": 4443,
+    "present": 4281,
     "absent": 162,
     "name": "Erik Vlček",
     "given_names": [
@@ -4805,25 +4805,25 @@
         "classification": "group",
         "name": "Klub HLAS - sociálna demokracia",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:1",
         "classification": "group",
         "name": "Klub HLAS - sociálna demokracia",
-        "since": "2026-06-17"
+        "since": "2026-06-18"
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.9634888438,
+    "present_share": 0.9635381499,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1176&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1019",
-    "vote_events_total": 4437,
-    "present": 4334,
+    "vote_events_total": 4443,
+    "present": 4340,
     "absent": 103,
     "name": "Viliam Zahorčák",
     "given_names": [
@@ -4838,25 +4838,25 @@
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:5",
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
-        "since": "2026-06-17"
+        "since": "2026-06-18"
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.9767861167,
+    "present_share": 0.9768174657,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1019&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:691",
-    "vote_events_total": 4437,
-    "present": 4206,
+    "vote_events_total": 4443,
+    "present": 4212,
     "absent": 231,
     "name": "Peter Žiga",
     "given_names": [
@@ -4871,17 +4871,17 @@
         "classification": "group",
         "name": "Klub HLAS - sociálna demokracia",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:1",
         "classification": "group",
         "name": "Klub HLAS - sociálna demokracia",
-        "since": "2026-06-17"
+        "since": "2026-06-18"
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.9479377958,
+    "present_share": 0.9480081026,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=691&ImageWidth=140"
     }

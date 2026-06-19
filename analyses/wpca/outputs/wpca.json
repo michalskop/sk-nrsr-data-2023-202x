@@ -2,11 +2,11 @@
   {
     "person_id": "nrsr:person:1008",
     "dims": [
-      -0.6146963972567381,
-      -0.49753080264378513,
-      0.05000167855195061
+      -0.6146585239434736,
+      -0.4975934425500182,
+      0.05007816389935437
     ],
-    "weight": 0.8309011157624376,
+    "weight": 0.8298123955516813,
     "included": true,
     "name": "Ján Ferenčák",
     "given_names": [
@@ -43,11 +43,11 @@
   {
     "person_id": "nrsr:person:1009",
     "dims": [
-      -0.8592348370873422,
-      0.016596516639426562,
-      0.0032977693936219743
+      -0.8592427992256495,
+      0.016517669897176956,
+      0.003315008889492407
     ],
-    "weight": 0.9905935722743877,
+    "weight": 0.9906058974088489,
     "included": true,
     "name": "Jozef Habánik",
     "given_names": [
@@ -69,13 +69,13 @@
         "name": "Klub SMER - sociálna demokracia",
         "classification": "groups",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:5",
         "name": "Klub SMER - sociálna demokracia",
         "classification": "groups",
-        "since": "2026-06-17",
+        "since": "2026-06-18",
         "until": ""
       }
     ],
@@ -84,11 +84,11 @@
   {
     "person_id": "nrsr:person:1019",
     "dims": [
-      -0.8606410537349329,
-      0.01577950984234781,
-      0.0016908847836530447
+      -0.8606467021943319,
+      0.01570049486473607,
+      0.0017101137066720502
     ],
-    "weight": 0.997976394981015,
+    "weight": 0.9979790464874828,
     "included": true,
     "name": "Viliam Zahorčák",
     "given_names": [
@@ -110,13 +110,13 @@
         "name": "Klub SMER - sociálna demokracia",
         "classification": "groups",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:5",
         "name": "Klub SMER - sociálna demokracia",
         "classification": "groups",
-        "since": "2026-06-17",
+        "since": "2026-06-18",
         "until": ""
       }
     ],
@@ -125,11 +125,11 @@
   {
     "person_id": "nrsr:person:1023",
     "dims": [
-      -0.8385831039785242,
-      0.6687421412310525,
-      -0.006266354713905338
+      -0.8385308271391394,
+      0.6686366033389667,
+      -0.005950018259624808
     ],
-    "weight": 0.2735480356021059,
+    "weight": 0.2744998972867034,
     "included": true,
     "name": "Peter Kmec",
     "given_names": [
@@ -151,13 +151,13 @@
         "name": "Klub HLAS - sociálna demokracia",
         "classification": "groups",
         "since": "2025-11-25",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:1",
         "name": "Klub HLAS - sociálna demokracia",
         "classification": "groups",
-        "since": "2026-06-17",
+        "since": "2026-06-18",
         "until": ""
       }
     ],
@@ -166,11 +166,11 @@
   {
     "person_id": "nrsr:person:1025",
     "dims": [
-      1.0842496099175678,
-      0.07196763581213073,
-      -0.11761481124454118
+      1.0843580688121268,
+      0.07183791174889341,
+      -0.11727349857326441
     ],
-    "weight": 0.8896078987307995,
+    "weight": 0.8897525442361185,
     "included": true,
     "name": "Mária Kolíková",
     "given_names": [
@@ -192,13 +192,13 @@
         "name": "Klub Sloboda a Solidarita",
         "classification": "groups",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:6",
         "name": "Klub Sloboda a Solidarita",
         "classification": "groups",
-        "since": "2026-06-17",
+        "since": "2026-06-18",
         "until": ""
       }
     ],
@@ -207,11 +207,11 @@
   {
     "person_id": "nrsr:person:1032",
     "dims": [
-      1.075820162205699,
-      0.07078929723898818,
-      -0.06841821498704975
+      1.0759415039020332,
+      0.07064556582746104,
+      -0.06811431218636936
     ],
-    "weight": 0.8829366733934858,
+    "weight": 0.8830900601289192,
     "included": true,
     "name": "Juraj Krúpa",
     "given_names": [
@@ -233,13 +233,13 @@
         "name": "Klub Sloboda a Solidarita",
         "classification": "groups",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:6",
         "name": "Klub Sloboda a Solidarita",
         "classification": "groups",
-        "since": "2026-06-17",
+        "since": "2026-06-18",
         "until": ""
       }
     ],
@@ -249,7 +249,7 @@
     "person_id": "nrsr:person:1034",
     "dims": [
       0.0,
-      -0.0,
+      0.0,
       0.0
     ],
     "weight": 0.0,
@@ -275,11 +275,11 @@
   {
     "person_id": "nrsr:person:1037",
     "dims": [
-      1.078788905183152,
-      0.057568257489082945,
-      -0.0921406957217285
+      1.0789028424790963,
+      0.0574405655424604,
+      -0.09180599881590426
     ],
-    "weight": 0.8979691678202327,
+    "weight": 0.898102857650475,
     "included": true,
     "name": "Vladimír Ledecký",
     "given_names": [
@@ -301,13 +301,13 @@
         "name": "Klub Sloboda a Solidarita",
         "classification": "groups",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:6",
         "name": "Klub Sloboda a Solidarita",
         "classification": "groups",
-        "since": "2026-06-17",
+        "since": "2026-06-18",
         "until": ""
       }
     ],
@@ -316,11 +316,11 @@
   {
     "person_id": "nrsr:person:1042",
     "dims": [
-      1.0799094207487554,
-      0.05651210087724612,
-      -0.08928323610303737
+      1.080046366322896,
+      0.05631181415259681,
+      -0.08894263585007066
     ],
-    "weight": 0.7732172540124642,
+    "weight": 0.7735144048458468,
     "included": true,
     "name": "Vladimíra Marcinková",
     "given_names": [
@@ -342,13 +342,13 @@
         "name": "Klub Sloboda a Solidarita",
         "classification": "groups",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:6",
         "name": "Klub Sloboda a Solidarita",
         "classification": "groups",
-        "since": "2026-06-17",
+        "since": "2026-06-18",
         "until": ""
       }
     ],
@@ -357,11 +357,11 @@
   {
     "person_id": "nrsr:person:1046",
     "dims": [
-      1.1047057296160554,
-      0.029691881335950458,
-      -0.22227227100052432
+      1.1047411606068522,
+      0.029786638403851592,
+      -0.22210609703837736
     ],
-    "weight": 0.7922913991227339,
+    "weight": 0.7922637455375238,
     "included": true,
     "name": "Roman Mikulec",
     "given_names": [
@@ -383,13 +383,13 @@
         "name": "Klub SLOVENSKO - ZA ĽUDÍ",
         "classification": "groups",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:4",
         "name": "Klub SLOVENSKO - ZA ĽUDÍ",
         "classification": "groups",
-        "since": "2026-06-17",
+        "since": "2026-06-18",
         "until": ""
       }
     ],
@@ -398,11 +398,11 @@
   {
     "person_id": "nrsr:person:1054",
     "dims": [
-      1.1063782195909655,
-      0.020491830185808774,
-      -0.21819456953351926
+      1.1063766258684598,
+      0.020611635341606517,
+      -0.21810650480625876
     ],
-    "weight": 0.8233292750045865,
+    "weight": 0.8229278286409087,
     "included": true,
     "name": "Jozef Pročko",
     "given_names": [
@@ -424,13 +424,13 @@
         "name": "Klub SLOVENSKO - ZA ĽUDÍ",
         "classification": "groups",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:4",
         "name": "Klub SLOVENSKO - ZA ĽUDÍ",
         "classification": "groups",
-        "since": "2026-06-17",
+        "since": "2026-06-18",
         "until": ""
       }
     ],
@@ -439,11 +439,11 @@
   {
     "person_id": "nrsr:person:1058",
     "dims": [
-      -0.8580591280103402,
-      0.015246850299356041,
-      0.002380739133830205
+      -0.8580684695138292,
+      0.015174529008129357,
+      0.00239857172349934
     ],
-    "weight": 0.9985156523624477,
+    "weight": 0.998517597286148,
     "included": true,
     "name": "Anton Stredák",
     "given_names": [
@@ -465,13 +465,13 @@
         "name": "Klub SMER - sociálna demokracia",
         "classification": "groups",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:5",
         "name": "Klub SMER - sociálna demokracia",
         "classification": "groups",
-        "since": "2026-06-17",
+        "since": "2026-06-18",
         "until": ""
       }
     ],
@@ -480,11 +480,11 @@
   {
     "person_id": "nrsr:person:1065",
     "dims": [
-      1.1133728101427238,
-      0.026994639831482762,
-      -0.2553921706386984
+      1.1133896768069051,
+      0.02711292674660859,
+      -0.25522671937831226
     ],
-    "weight": 0.8829922669379634,
+    "weight": 0.8828457690449883,
     "included": true,
     "name": "Michal Šipoš",
     "given_names": [
@@ -506,13 +506,13 @@
         "name": "Klub SLOVENSKO - ZA ĽUDÍ",
         "classification": "groups",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:4",
         "name": "Klub SLOVENSKO - ZA ĽUDÍ",
         "classification": "groups",
-        "since": "2026-06-17",
+        "since": "2026-06-18",
         "until": ""
       }
     ],
@@ -522,7 +522,7 @@
     "person_id": "nrsr:person:1069",
     "dims": [
       0.0,
-      -0.0,
+      0.0,
       0.0
     ],
     "weight": 0.0,
@@ -549,7 +549,7 @@
     "person_id": "nrsr:person:1071",
     "dims": [
       0.0,
-      -0.0,
+      0.0,
       0.0
     ],
     "weight": 0.0,
@@ -576,7 +576,7 @@
     "person_id": "nrsr:person:1072",
     "dims": [
       0.0,
-      -0.0,
+      0.0,
       0.0
     ],
     "weight": 0.0,
@@ -602,11 +602,11 @@
   {
     "person_id": "nrsr:person:1075",
     "dims": [
-      1.0827835896330498,
-      0.01450374749367214,
-      0.24004771053197088
+      1.0829001596192591,
+      0.014376672652306454,
+      0.23984094603793515
     ],
-    "weight": 0.7754076396648822,
+    "weight": 0.7757019204610439,
     "included": true,
     "name": "Tomáš Valášek",
     "given_names": [
@@ -628,13 +628,13 @@
         "name": "Klub Progresívne Slovensko",
         "classification": "groups",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:3",
         "name": "Klub Progresívne Slovensko",
         "classification": "groups",
-        "since": "2026-06-17",
+        "since": "2026-06-18",
         "until": ""
       }
     ],
@@ -643,11 +643,11 @@
   {
     "person_id": "nrsr:person:1081",
     "dims": [
-      -0.8580220534038918,
-      0.01691430057428465,
-      0.0031505108571434426
+      -0.8580321315915505,
+      0.016836402512631556,
+      0.0031685736952873846
     ],
-    "weight": 0.9852955074856709,
+    "weight": 0.9853147746137146,
     "included": true,
     "name": "Ľubica Laššáková",
     "given_names": [
@@ -669,13 +669,13 @@
         "name": "Klub HLAS - sociálna demokracia",
         "classification": "groups",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:1",
         "name": "Klub HLAS - sociálna demokracia",
         "classification": "groups",
-        "since": "2026-06-17",
+        "since": "2026-06-18",
         "until": ""
       }
     ],
@@ -684,11 +684,11 @@
   {
     "person_id": "nrsr:person:1087",
     "dims": [
-      -0.8552244064828527,
-      0.010308989776476254,
-      0.005252112236832413
+      -0.8552385656515061,
+      0.010244577054862015,
+      0.005266436971708899
     ],
-    "weight": 0.9960472989876418,
+    "weight": 0.9960524781664843,
     "included": true,
     "name": "Zdenko Svoboda",
     "given_names": [
@@ -710,13 +710,13 @@
         "name": "Klub HLAS - sociálna demokracia",
         "classification": "groups",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:1",
         "name": "Klub HLAS - sociálna demokracia",
         "classification": "groups",
-        "since": "2026-06-17",
+        "since": "2026-06-18",
         "until": ""
       }
     ],
@@ -725,11 +725,11 @@
   {
     "person_id": "nrsr:person:1088",
     "dims": [
-      1.1024421380701706,
-      0.02205524862568517,
-      -0.2282727180617987
+      1.1024720333930207,
+      0.022155648952154192,
+      -0.22812174032393215
     ],
-    "weight": 0.8755760881046494,
+    "weight": 0.8754393075458186,
     "included": true,
     "name": "Peter Pollák",
     "given_names": [
@@ -751,13 +751,13 @@
         "name": "Klub SLOVENSKO - ZA ĽUDÍ",
         "classification": "groups",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:4",
         "name": "Klub SLOVENSKO - ZA ĽUDÍ",
         "classification": "groups",
-        "since": "2026-06-17",
+        "since": "2026-06-18",
         "until": ""
       }
     ],
@@ -766,11 +766,11 @@
   {
     "person_id": "nrsr:person:1114",
     "dims": [
-      1.0803573851495167,
-      0.04091870340227631,
-      0.26405541035888236
+      1.080478733268814,
+      0.04073089082281477,
+      0.26380982381344803
     ],
-    "weight": 0.814506579495989,
+    "weight": 0.8147496293993215,
     "included": true,
     "name": "Michal Šimečka",
     "given_names": [
@@ -792,13 +792,13 @@
         "name": "Klub Progresívne Slovensko",
         "classification": "groups",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:3",
         "name": "Klub Progresívne Slovensko",
         "classification": "groups",
-        "since": "2026-06-17",
+        "since": "2026-06-18",
         "until": ""
       }
     ],
@@ -807,11 +807,11 @@
   {
     "person_id": "nrsr:person:1115",
     "dims": [
-      1.0771247889620659,
-      0.04870268026279333,
-      0.2572681712521308
+      1.0772420144175157,
+      0.04852701014630272,
+      0.25706663533564184
     ],
-    "weight": 0.8443269567537819,
+    "weight": 0.8445309333585027,
     "included": true,
     "name": "Michal Truban",
     "given_names": [
@@ -833,13 +833,13 @@
         "name": "Klub Progresívne Slovensko",
         "classification": "groups",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:3",
         "name": "Klub Progresívne Slovensko",
         "classification": "groups",
-        "since": "2026-06-17",
+        "since": "2026-06-18",
         "until": ""
       }
     ],
@@ -848,11 +848,11 @@
   {
     "person_id": "nrsr:person:1116",
     "dims": [
-      1.0867658454176912,
-      0.0495919164829405,
-      0.2933750320823069
+      1.0868796285241942,
+      0.049420809810865635,
+      0.29313066729646303
     ],
-    "weight": 0.7837633493998677,
+    "weight": 0.784046681805311,
     "included": true,
     "name": "Lucia Plaváková",
     "given_names": [
@@ -874,13 +874,13 @@
         "name": "Klub Progresívne Slovensko",
         "classification": "groups",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:3",
         "name": "Klub Progresívne Slovensko",
         "classification": "groups",
-        "since": "2026-06-17",
+        "since": "2026-06-18",
         "until": ""
       }
     ],
@@ -889,11 +889,11 @@
   {
     "person_id": "nrsr:person:1117",
     "dims": [
-      1.0883567519275235,
-      0.029692369960874404,
-      0.26672994993043425
+      1.0884497755834097,
+      0.029554116658482912,
+      0.26653362670817043
     ],
-    "weight": 0.875937446143754,
+    "weight": 0.876100003886449,
     "included": true,
     "name": "Jaroslav Spišiak",
     "given_names": [
@@ -915,13 +915,13 @@
         "name": "Klub Progresívne Slovensko",
         "classification": "groups",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:3",
         "name": "Klub Progresívne Slovensko",
         "classification": "groups",
-        "since": "2026-06-17",
+        "since": "2026-06-18",
         "until": ""
       }
     ],
@@ -930,11 +930,11 @@
   {
     "person_id": "nrsr:person:1118",
     "dims": [
-      1.091336378182499,
-      0.033305054460979554,
-      0.2606396877571139
+      1.0913244754274591,
+      0.03327094402299547,
+      0.26074708011536973
     ],
-    "weight": 0.920062042395637,
+    "weight": 0.919156307429225,
     "included": true,
     "name": "Tamara Stohlová",
     "given_names": [
@@ -956,13 +956,13 @@
         "name": "Klub Progresívne Slovensko",
         "classification": "groups",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:3",
         "name": "Klub Progresívne Slovensko",
         "classification": "groups",
-        "since": "2026-06-17",
+        "since": "2026-06-18",
         "until": ""
       }
     ],
@@ -971,11 +971,11 @@
   {
     "person_id": "nrsr:person:1119",
     "dims": [
-      1.092229088710743,
-      0.025719755681483825,
-      0.2608925853219432
+      1.0923141284262277,
+      0.025606052506235745,
+      0.26070235993192603
     ],
-    "weight": 0.8783168498473959,
+    "weight": 0.8784762898846836,
     "included": true,
     "name": "Irena Bihariová",
     "given_names": [
@@ -997,13 +997,13 @@
         "name": "Klub Progresívne Slovensko",
         "classification": "groups",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:3",
         "name": "Klub Progresívne Slovensko",
         "classification": "groups",
-        "since": "2026-06-17",
+        "since": "2026-06-18",
         "until": ""
       }
     ],
@@ -1012,11 +1012,11 @@
   {
     "person_id": "nrsr:person:1120",
     "dims": [
-      1.0900120919632255,
-      0.03681568047510956,
-      0.2613219122530568
+      1.0900942417893622,
+      0.036695249472543205,
+      0.26114401735166015
     ],
-    "weight": 0.9407317222324144,
+    "weight": 0.940809380777623,
     "included": true,
     "name": "Michal Sabo",
     "given_names": [
@@ -1038,13 +1038,13 @@
         "name": "Klub Progresívne Slovensko",
         "classification": "groups",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:3",
         "name": "Klub Progresívne Slovensko",
         "classification": "groups",
-        "since": "2026-06-17",
+        "since": "2026-06-18",
         "until": ""
       }
     ],
@@ -1053,11 +1053,11 @@
   {
     "person_id": "nrsr:person:1121",
     "dims": [
-      1.0792311397478,
-      0.04674965401333059,
-      0.27931446157387774
+      1.0793172532384945,
+      0.04668402826180163,
+      0.27901006682279683
     ],
-    "weight": 0.6899214463216532,
+    "weight": 0.6900279269125493,
     "included": true,
     "name": "Zora Jaurová",
     "given_names": [
@@ -1079,13 +1079,13 @@
         "name": "Klub Progresívne Slovensko",
         "classification": "groups",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:3",
         "name": "Klub Progresívne Slovensko",
         "classification": "groups",
-        "since": "2026-06-17",
+        "since": "2026-06-18",
         "until": ""
       }
     ],
@@ -1094,11 +1094,11 @@
   {
     "person_id": "nrsr:person:1123",
     "dims": [
-      1.0878273112174073,
-      0.03689003031925693,
-      0.27603948815244006
+      1.0879190288631202,
+      0.0367530964594942,
+      0.2758367299812729
     ],
-    "weight": 0.8954841363820836,
+    "weight": 0.8956210823205433,
     "included": true,
     "name": "Oskar Dvořák",
     "given_names": [
@@ -1120,13 +1120,13 @@
         "name": "Klub Progresívne Slovensko",
         "classification": "groups",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:3",
         "name": "Klub Progresívne Slovensko",
         "classification": "groups",
-        "since": "2026-06-17",
+        "since": "2026-06-18",
         "until": ""
       }
     ],
@@ -1135,11 +1135,11 @@
   {
     "person_id": "nrsr:person:1124",
     "dims": [
-      1.0895986207326254,
-      0.025362965960030008,
-      0.25956672411937753
+      1.0896517221788258,
+      0.02525102392156053,
+      0.2594855045560809
     ],
-    "weight": 0.910811276594562,
+    "weight": 0.9105950153514739,
     "included": true,
     "name": "Ingrid Kosová",
     "given_names": [
@@ -1161,13 +1161,13 @@
         "name": "Klub Progresívne Slovensko",
         "classification": "groups",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:3",
         "name": "Klub Progresívne Slovensko",
         "classification": "groups",
-        "since": "2026-06-17",
+        "since": "2026-06-18",
         "until": ""
       }
     ],
@@ -1176,11 +1176,11 @@
   {
     "person_id": "nrsr:person:1125",
     "dims": [
-      1.079758203517739,
-      0.030888652254310617,
-      0.26906302912369284
+      1.0798960412340028,
+      0.030697891506006637,
+      0.2688083813352728
     ],
-    "weight": 0.7390161054498353,
+    "weight": 0.7393580696562713,
     "included": true,
     "name": "Štefan Kišš",
     "given_names": [
@@ -1202,13 +1202,13 @@
         "name": "Klub Progresívne Slovensko",
         "classification": "groups",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:3",
         "name": "Klub Progresívne Slovensko",
         "classification": "groups",
-        "since": "2026-06-17",
+        "since": "2026-06-18",
         "until": ""
       }
     ],
@@ -1217,11 +1217,11 @@
   {
     "person_id": "nrsr:person:1126",
     "dims": [
-      1.0943499847171827,
-      0.041371975183523035,
-      0.266822459273741
+      1.0944228257466169,
+      0.04126058294581327,
+      0.26665539122670645
     ],
-    "weight": 0.9583437571229229,
+    "weight": 0.9583983388206292,
     "included": true,
     "name": "Tina Gažovičová",
     "given_names": [
@@ -1243,13 +1243,13 @@
         "name": "Klub Progresívne Slovensko",
         "classification": "groups",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:3",
         "name": "Klub Progresívne Slovensko",
         "classification": "groups",
-        "since": "2026-06-17",
+        "since": "2026-06-18",
         "until": ""
       }
     ],
@@ -1258,11 +1258,11 @@
   {
     "person_id": "nrsr:person:1127",
     "dims": [
-      1.08275417557331,
-      0.050860324238699746,
-      0.26037742829336447
+      1.082863246192109,
+      0.05070829591042553,
+      0.26016182118765696
     ],
-    "weight": 0.8417640943533637,
+    "weight": 0.8419714290473203,
     "included": true,
     "name": "Ivan Štefunko",
     "given_names": [
@@ -1284,13 +1284,13 @@
         "name": "Klub Progresívne Slovensko",
         "classification": "groups",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:3",
         "name": "Klub Progresívne Slovensko",
         "classification": "groups",
-        "since": "2026-06-17",
+        "since": "2026-06-18",
         "until": ""
       }
     ],
@@ -1299,11 +1299,11 @@
   {
     "person_id": "nrsr:person:1128",
     "dims": [
-      1.0952430914539477,
-      0.04179600387700019,
-      0.26345548980841227
+      1.0953225493293037,
+      0.0416667341048334,
+      0.2632623032182217
     ],
-    "weight": 0.9143970602133681,
+    "weight": 0.9145092247644535,
     "included": true,
     "name": "Beáta Jurík",
     "given_names": [
@@ -1325,13 +1325,13 @@
         "name": "Klub Progresívne Slovensko",
         "classification": "groups",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:3",
         "name": "Klub Progresívne Slovensko",
         "classification": "groups",
-        "since": "2026-06-17",
+        "since": "2026-06-18",
         "until": ""
       }
     ],
@@ -1340,11 +1340,11 @@
   {
     "person_id": "nrsr:person:1129",
     "dims": [
-      1.0852954544115099,
-      0.03768297619660044,
-      0.2822323899818727
+      1.085325926411887,
+      0.03760069460114096,
+      0.28224330809826165
     ],
-    "weight": 0.8182647031026758,
+    "weight": 0.8178365803689905,
     "included": true,
     "name": "Jana Hanuliaková",
     "given_names": [
@@ -1366,13 +1366,13 @@
         "name": "Klub Progresívne Slovensko",
         "classification": "groups",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:3",
         "name": "Klub Progresívne Slovensko",
         "classification": "groups",
-        "since": "2026-06-17",
+        "since": "2026-06-18",
         "until": ""
       }
     ],
@@ -1381,11 +1381,11 @@
   {
     "person_id": "nrsr:person:1130",
     "dims": [
-      1.093127974895897,
-      0.038800488694737865,
-      0.26379766764001805
+      1.0932021846695388,
+      0.03868862853041796,
+      0.2636255160656307
     ],
-    "weight": 0.9607120421176694,
+    "weight": 0.9607635206786851,
     "included": true,
     "name": "Zuzana Mesterová",
     "given_names": [
@@ -1407,13 +1407,13 @@
         "name": "Klub Progresívne Slovensko",
         "classification": "groups",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:3",
         "name": "Klub Progresívne Slovensko",
         "classification": "groups",
-        "since": "2026-06-17",
+        "since": "2026-06-18",
         "until": ""
       }
     ],
@@ -1422,11 +1422,11 @@
   {
     "person_id": "nrsr:person:1131",
     "dims": [
-      1.0968002681052622,
-      0.039795320750486585,
-      0.2644499312869168
+      1.0968690567838106,
+      0.03969166069079253,
+      0.26427420392676715
     ],
-    "weight": 0.9669941126436399,
+    "weight": 0.967037359879631,
     "included": true,
     "name": "Ondrej Prostredník",
     "given_names": [
@@ -1448,13 +1448,13 @@
         "name": "Klub Progresívne Slovensko",
         "classification": "groups",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:3",
         "name": "Klub Progresívne Slovensko",
         "classification": "groups",
-        "since": "2026-06-17",
+        "since": "2026-06-18",
         "until": ""
       }
     ],
@@ -1463,11 +1463,11 @@
   {
     "person_id": "nrsr:person:1132",
     "dims": [
-      1.0920653094732484,
-      0.0437456979156398,
-      0.27085277417406634
+      1.0921585142456884,
+      0.043611649348834464,
+      0.2706478264319051
     ],
-    "weight": 0.8424979291404684,
+    "weight": 0.8427043022991122,
     "included": true,
     "name": "Zuzana Števulová",
     "given_names": [
@@ -1489,13 +1489,13 @@
         "name": "Klub Progresívne Slovensko",
         "classification": "groups",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:3",
         "name": "Klub Progresívne Slovensko",
         "classification": "groups",
-        "since": "2026-06-17",
+        "since": "2026-06-18",
         "until": ""
       }
     ],
@@ -1504,11 +1504,11 @@
   {
     "person_id": "nrsr:person:1133",
     "dims": [
-      1.0884464582182436,
-      0.045493993916618965,
-      0.26664756609187423
+      1.0885366119435558,
+      0.045350146111813656,
+      0.2664631566067286
     ],
-    "weight": 0.9042679164095467,
+    "weight": 0.9043933530616891,
     "included": true,
     "name": "Martin Dubéci",
     "given_names": [
@@ -1530,13 +1530,13 @@
         "name": "Klub Progresívne Slovensko",
         "classification": "groups",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:3",
         "name": "Klub Progresívne Slovensko",
         "classification": "groups",
-        "since": "2026-06-17",
+        "since": "2026-06-18",
         "until": ""
       }
     ],
@@ -1545,11 +1545,11 @@
   {
     "person_id": "nrsr:person:1134",
     "dims": [
-      1.0916861811801455,
-      0.05048147733568976,
-      0.27130722580137734
+      1.0917789517827636,
+      0.05031920871277806,
+      0.2710968321088704
     ],
-    "weight": 0.8766712809308584,
+    "weight": 0.8768328771382411,
     "included": true,
     "name": "Darina Luščíková",
     "given_names": [
@@ -1571,13 +1571,13 @@
         "name": "Klub Progresívne Slovensko",
         "classification": "groups",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:3",
         "name": "Klub Progresívne Slovensko",
         "classification": "groups",
-        "since": "2026-06-17",
+        "since": "2026-06-18",
         "until": ""
       }
     ],
@@ -1586,11 +1586,11 @@
   {
     "person_id": "nrsr:person:1135",
     "dims": [
-      1.0916459718529807,
-      0.0435798307538014,
-      0.23832154336277314
+      1.0917308813520692,
+      0.04345176922342827,
+      0.23814953524680194
     ],
-    "weight": 0.9063971491630394,
+    "weight": 0.9065197959059035,
     "included": true,
     "name": "Branislav Vančo",
     "given_names": [
@@ -1612,13 +1612,13 @@
         "name": "Klub Progresívne Slovensko",
         "classification": "groups",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:3",
         "name": "Klub Progresívne Slovensko",
         "classification": "groups",
-        "since": "2026-06-17",
+        "since": "2026-06-18",
         "until": ""
       }
     ],
@@ -1627,11 +1627,11 @@
   {
     "person_id": "nrsr:person:1136",
     "dims": [
-      1.0469365690357109,
-      0.9368231283960713,
-      0.1260665297448754
+      1.0468754367687487,
+      0.9368456856305668,
+      0.12636272557212658
     ],
-    "weight": 0.019685674099523567,
+    "weight": 0.019659880186327472,
     "included": false,
     "name": "Tomáš Hellebrandt",
     "given_names": [
@@ -1662,11 +1662,11 @@
   {
     "person_id": "nrsr:person:1137",
     "dims": [
-      1.0303738847598471,
-      0.533180301872119,
-      0.4081162615001265
+      1.0303132121293264,
+      0.5332191504854917,
+      0.4083097163741648
     ],
-    "weight": 0.5710846856463028,
+    "weight": 0.5703363999267126,
     "included": true,
     "name": "Viera Kalmárová",
     "given_names": [
@@ -1697,11 +1697,11 @@
   {
     "person_id": "nrsr:person:1138",
     "dims": [
-      0.8767267147280138,
-      0.7840195204775553,
-      -0.21915307848799498
+      0.8766747312544132,
+      0.7841140511953375,
+      -0.21905058424688162
     ],
-    "weight": 0.0019012992211344419,
+    "weight": 0.00189880797055182,
     "included": false,
     "name": "Martin Pekár",
     "given_names": [
@@ -1732,11 +1732,11 @@
   {
     "person_id": "nrsr:person:1139",
     "dims": [
-      1.0868582215169085,
-      0.029518128732406924,
-      0.2915276147957435
+      1.0869629476308176,
+      0.02936970367239023,
+      0.291316363188109
     ],
-    "weight": 0.8176642928223176,
+    "weight": 0.8179032052100625,
     "included": true,
     "name": "Dana Kleinert",
     "given_names": [
@@ -1758,13 +1758,13 @@
         "name": "Klub Progresívne Slovensko",
         "classification": "groups",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:3",
         "name": "Klub Progresívne Slovensko",
         "classification": "groups",
-        "since": "2026-06-17",
+        "since": "2026-06-18",
         "until": ""
       }
     ],
@@ -1773,11 +1773,11 @@
   {
     "person_id": "nrsr:person:1140",
     "dims": [
-      1.094667389982696,
-      0.03879850667059826,
-      0.2651212675540542
+      1.0947383774475976,
+      0.03868585501580315,
+      0.26494709310909337
     ],
-    "weight": 0.9730037748016701,
+    "weight": 0.9730391476461998,
     "included": true,
     "name": "Dávid Dej",
     "given_names": [
@@ -1799,13 +1799,13 @@
         "name": "Klub Progresívne Slovensko",
         "classification": "groups",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:3",
         "name": "Klub Progresívne Slovensko",
         "classification": "groups",
-        "since": "2026-06-17",
+        "since": "2026-06-18",
         "until": ""
       }
     ],
@@ -1814,11 +1814,11 @@
   {
     "person_id": "nrsr:person:1141",
     "dims": [
-      1.0973545254301018,
-      0.031831217508786855,
-      0.2614023518217909
+      1.0974300672044937,
+      0.031718633796203245,
+      0.26120846505860607
     ],
-    "weight": 0.903795371281487,
+    "weight": 0.9039214271040958,
     "included": true,
     "name": "Veronika Veslárová",
     "given_names": [
@@ -1840,13 +1840,13 @@
         "name": "Klub Progresívne Slovensko",
         "classification": "groups",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:3",
         "name": "Klub Progresívne Slovensko",
         "classification": "groups",
-        "since": "2026-06-17",
+        "since": "2026-06-18",
         "until": ""
       }
     ],
@@ -1855,11 +1855,11 @@
   {
     "person_id": "nrsr:person:1142",
     "dims": [
-      1.096633500051082,
-      0.04639164367647911,
-      0.2537354246551144
+      1.0967150163574264,
+      0.04628190153240067,
+      0.25352664163636
     ],
-    "weight": 0.8844543771577247,
+    "weight": 0.884605775263307,
     "included": true,
     "name": "Ján Hargaš",
     "given_names": [
@@ -1881,13 +1881,13 @@
         "name": "Klub Progresívne Slovensko",
         "classification": "groups",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:3",
         "name": "Klub Progresívne Slovensko",
         "classification": "groups",
-        "since": "2026-06-17",
+        "since": "2026-06-18",
         "until": ""
       }
     ],
@@ -1896,11 +1896,11 @@
   {
     "person_id": "nrsr:person:1143",
     "dims": [
-      1.0915068431746378,
-      0.03616898939640188,
-      0.2650007707965282
+      1.0915872135176965,
+      0.03605718492776682,
+      0.2648158052553777
     ],
-    "weight": 0.9227638886572492,
+    "weight": 0.9228650902488992,
     "included": true,
     "name": "Veronika Šrobová",
     "given_names": [
@@ -1922,13 +1922,13 @@
         "name": "Klub Progresívne Slovensko",
         "classification": "groups",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:3",
         "name": "Klub Progresívne Slovensko",
         "classification": "groups",
-        "since": "2026-06-17",
+        "since": "2026-06-18",
         "until": ""
       }
     ],
@@ -1937,11 +1937,11 @@
   {
     "person_id": "nrsr:person:1144",
     "dims": [
-      1.1115926760062627,
-      0.021837894368755897,
-      -0.22706278880647132
+      1.1116080579265328,
+      0.021950987688423157,
+      -0.22691937149284552
     ],
-    "weight": 0.9170655503482937,
+    "weight": 0.9168744066225093,
     "included": true,
     "name": "Lukáš Bužo",
     "given_names": [
@@ -1963,13 +1963,13 @@
         "name": "Klub SLOVENSKO - ZA ĽUDÍ",
         "classification": "groups",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:4",
         "name": "Klub SLOVENSKO - ZA ĽUDÍ",
         "classification": "groups",
-        "since": "2026-06-17",
+        "since": "2026-06-18",
         "until": ""
       }
     ],
@@ -1978,11 +1978,11 @@
   {
     "person_id": "nrsr:person:1145",
     "dims": [
-      1.0962629450910215,
-      0.02462108104748036,
-      -0.012036022542520659
+      1.0962541538458013,
+      0.02463223661931664,
+      -0.011987844028312862
     ],
-    "weight": 0.8792841775213064,
+    "weight": 0.878431873323969,
     "included": true,
     "name": "Viliam Tankó",
     "given_names": [
@@ -2011,13 +2011,13 @@
         "name": "Klub Progresívne Slovensko",
         "classification": "groups",
         "since": "2024-10-03",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:3",
         "name": "Klub Progresívne Slovensko",
         "classification": "groups",
-        "since": "2026-06-17",
+        "since": "2026-06-18",
         "until": ""
       }
     ],
@@ -2026,11 +2026,11 @@
   {
     "person_id": "nrsr:person:1146",
     "dims": [
-      1.109834461927541,
-      0.01909313776746285,
-      -0.23432565624727217
+      1.1098509710829754,
+      0.019207493355139115,
+      -0.23417847047346024
     ],
-    "weight": 0.9278451386225032,
+    "weight": 0.9276398705257256,
     "included": true,
     "name": "Anežka Škopová",
     "given_names": [
@@ -2052,13 +2052,13 @@
         "name": "Klub SLOVENSKO - ZA ĽUDÍ",
         "classification": "groups",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:4",
         "name": "Klub SLOVENSKO - ZA ĽUDÍ",
         "classification": "groups",
-        "since": "2026-06-17",
+        "since": "2026-06-18",
         "until": ""
       }
     ],
@@ -2067,11 +2067,11 @@
   {
     "person_id": "nrsr:person:1147",
     "dims": [
-      1.0737675366908352,
-      0.038071192289414635,
-      -0.10051793030782484
+      1.0738832926369146,
+      0.03793009575766872,
+      -0.10017166196296132
     ],
-    "weight": 0.9152031666082936,
+    "weight": 0.9153142749274067,
     "included": true,
     "name": "Tomáš Szalay",
     "given_names": [
@@ -2093,13 +2093,13 @@
         "name": "Klub Sloboda a Solidarita",
         "classification": "groups",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:6",
         "name": "Klub Sloboda a Solidarita",
         "classification": "groups",
-        "since": "2026-06-17",
+        "since": "2026-06-18",
         "until": ""
       }
     ],
@@ -2108,11 +2108,11 @@
   {
     "person_id": "nrsr:person:1148",
     "dims": [
-      -0.7604751426388682,
-      -0.48951483269989954,
-      0.026705055735157746
+      -0.7604308562149206,
+      -0.4895660943609192,
+      0.026568162967499337
     ],
-    "weight": 0.3423339281842593,
+    "weight": 0.3418853719609356,
     "included": true,
     "name": "Rudolf Huliak",
     "given_names": [
@@ -2143,11 +2143,11 @@
   {
     "person_id": "nrsr:person:1149",
     "dims": [
-      -0.8420945572708735,
-      0.01355165538511399,
-      0.0014707247538236089
+      -0.8421265633983253,
+      0.013502985484434835,
+      0.0014693509774380848
     ],
-    "weight": 0.993756844955164,
+    "weight": 0.9937650252896792,
     "included": true,
     "name": "Roman Michelko",
     "given_names": [
@@ -2169,13 +2169,13 @@
         "name": "Klub Slovenská národná strana",
         "classification": "groups",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:7",
         "name": "Klub Slovenská národná strana",
         "classification": "groups",
-        "since": "2026-06-17",
+        "since": "2026-06-18",
         "until": ""
       }
     ],
@@ -2184,11 +2184,11 @@
   {
     "person_id": "nrsr:person:1150",
     "dims": [
-      -0.8582386361481218,
-      0.018674090303349412,
-      -0.0012790561065051439
+      -0.8582510698709546,
+      0.01860239436376862,
+      -0.0012618608164509226
     ],
-    "weight": 0.9288958566131302,
+    "weight": 0.9289890235574334,
     "included": true,
     "name": "Ivan Ševčík",
     "given_names": [
@@ -2225,11 +2225,11 @@
   {
     "person_id": "nrsr:person:1151",
     "dims": [
-      -0.8463596786773413,
-      0.013716068976119138,
-      0.005469023247980255
+      -0.8463865139314536,
+      0.013670308233204463,
+      0.00547652190145191
     ],
-    "weight": 0.9840557714438201,
+    "weight": 0.9840766629837934,
     "included": true,
     "name": "Peter Kotlár",
     "given_names": [
@@ -2251,13 +2251,13 @@
         "name": "Klub Slovenská národná strana",
         "classification": "groups",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:7",
         "name": "Klub Slovenská národná strana",
         "classification": "groups",
-        "since": "2026-06-17",
+        "since": "2026-06-18",
         "until": ""
       }
     ],
@@ -2266,11 +2266,11 @@
   {
     "person_id": "nrsr:person:1152",
     "dims": [
-      -0.8537555723668074,
-      0.015979210515417685,
-      -0.001315966365107615
+      -0.8537762074137443,
+      0.015920241405196985,
+      -0.0013081190338257904
     ],
-    "weight": 0.9124679642199949,
+    "weight": 0.9125826564434549,
     "included": true,
     "name": "Pavel Ľupták",
     "given_names": [
@@ -2307,11 +2307,11 @@
   {
     "person_id": "nrsr:person:1153",
     "dims": [
-      -0.7288695682773279,
-      -0.5762679986150439,
-      0.018331724899501575
+      -0.7288267556102579,
+      -0.5763117533468425,
+      0.018175611763650096
     ],
-    "weight": 0.23456584221440208,
+    "weight": 0.23425849327921913,
     "included": true,
     "name": "Erik Kaliňák",
     "given_names": [
@@ -2342,11 +2342,11 @@
   {
     "person_id": "nrsr:person:1154",
     "dims": [
-      -0.859966440153903,
-      0.01587760430624788,
-      0.0006370326734383547
+      -0.8599731933344059,
+      0.015799469990265613,
+      0.0006563704329572886
     ],
-    "weight": 0.9937902010818506,
+    "weight": 0.9937983377102154,
     "included": true,
     "name": "Tibor Gašpar",
     "given_names": [
@@ -2368,13 +2368,13 @@
         "name": "Klub SMER - sociálna demokracia",
         "classification": "groups",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:5",
         "name": "Klub SMER - sociálna demokracia",
         "classification": "groups",
-        "since": "2026-06-17",
+        "since": "2026-06-18",
         "until": ""
       }
     ],
@@ -2384,7 +2384,7 @@
     "person_id": "nrsr:person:1155",
     "dims": [
       0.0,
-      -0.0,
+      0.0,
       0.0
     ],
     "weight": 0.0,
@@ -2410,11 +2410,11 @@
   {
     "person_id": "nrsr:person:1156",
     "dims": [
-      -0.8588015613223413,
-      0.012773203382276114,
-      0.0003216670712134117
+      -0.8588102108977665,
+      0.01270320401329141,
+      0.0003400583833754675
     ],
-    "weight": 0.9967533370025073,
+    "weight": 0.9967575910678298,
     "included": true,
     "name": "Ján Mažgút",
     "given_names": [
@@ -2436,13 +2436,13 @@
         "name": "Klub SMER - sociálna demokracia",
         "classification": "groups",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:5",
         "name": "Klub SMER - sociálna demokracia",
         "classification": "groups",
-        "since": "2026-06-17",
+        "since": "2026-06-18",
         "until": ""
       }
     ],
@@ -2452,7 +2452,7 @@
     "person_id": "nrsr:person:1157",
     "dims": [
       0.0,
-      -0.0,
+      0.0,
       0.0
     ],
     "weight": 0.0,
@@ -2478,11 +2478,11 @@
   {
     "person_id": "nrsr:person:1158",
     "dims": [
-      -0.8608453126355413,
-      0.01560429345190601,
-      0.0014353381723339054
+      -0.8608507552531854,
+      0.0155253054373878,
+      0.001455219397845329
     ],
-    "weight": 0.9975538840429848,
+    "weight": 0.9975570891606933,
     "included": true,
     "name": "Daniel Karas",
     "given_names": [
@@ -2504,13 +2504,13 @@
         "name": "Klub SMER - sociálna demokracia",
         "classification": "groups",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:5",
         "name": "Klub SMER - sociálna demokracia",
         "classification": "groups",
-        "since": "2026-06-17",
+        "since": "2026-06-18",
         "until": ""
       }
     ],
@@ -2519,11 +2519,11 @@
   {
     "person_id": "nrsr:person:1159",
     "dims": [
-      -0.8560328065945102,
-      0.013176045516048037,
-      0.0008371888060691767
+      -0.8560451498472864,
+      0.013108842484041181,
+      0.0008514352564989121
     ],
-    "weight": 0.9991883342506268,
+    "weight": 0.9991893977669573,
     "included": true,
     "name": "Zuzana Matejičková",
     "given_names": [
@@ -2545,13 +2545,13 @@
         "name": "Klub SMER - sociálna demokracia",
         "classification": "groups",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:5",
         "name": "Klub SMER - sociálna demokracia",
         "classification": "groups",
-        "since": "2026-06-17",
+        "since": "2026-06-18",
         "until": ""
       }
     ],
@@ -2560,11 +2560,11 @@
   {
     "person_id": "nrsr:person:1160",
     "dims": [
-      -0.8556001994415452,
-      0.012169265831805321,
-      0.0007934678413259092
+      -0.8556143189921208,
+      0.012103816479978439,
+      0.0008083593559248534
     ],
-    "weight": 0.9808480239274615,
+    "weight": 0.9808731185422482,
     "included": true,
     "name": "Marcela Čavojová",
     "given_names": [
@@ -2586,13 +2586,13 @@
         "name": "Klub SMER - sociálna demokracia",
         "classification": "groups",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:5",
         "name": "Klub SMER - sociálna demokracia",
         "classification": "groups",
-        "since": "2026-06-17",
+        "since": "2026-06-18",
         "until": ""
       }
     ],
@@ -2601,11 +2601,11 @@
   {
     "person_id": "nrsr:person:1161",
     "dims": [
-      -0.860849581107705,
-      0.015788781415090082,
-      0.002188247639864814
+      -0.8608551271980318,
+      0.015709292120858344,
+      0.002207910447599305
     ],
-    "weight": 0.9948353597180297,
+    "weight": 0.9948421268870098,
     "included": true,
     "name": "Michal Stuška",
     "given_names": [
@@ -2627,13 +2627,13 @@
         "name": "Klub SMER - sociálna demokracia",
         "classification": "groups",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:5",
         "name": "Klub SMER - sociálna demokracia",
         "classification": "groups",
-        "since": "2026-06-17",
+        "since": "2026-06-18",
         "until": ""
       }
     ],
@@ -2643,7 +2643,7 @@
     "person_id": "nrsr:person:1162",
     "dims": [
       0.0,
-      -0.0,
+      0.0,
       0.0
     ],
     "weight": 0.0,
@@ -2669,11 +2669,11 @@
   {
     "person_id": "nrsr:person:1163",
     "dims": [
-      -0.8586781225615763,
-      0.014247127940926713,
-      0.001889224439262655
+      -0.8586867956937968,
+      0.014173305008284297,
+      0.0019055984558945232
     ],
-    "weight": 0.9965087254068059,
+    "weight": 0.9965132999838989,
     "included": true,
     "name": "Justín Sedlák",
     "given_names": [
@@ -2695,13 +2695,13 @@
         "name": "Klub SMER - sociálna demokracia",
         "classification": "groups",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:5",
         "name": "Klub SMER - sociálna demokracia",
         "classification": "groups",
-        "since": "2026-06-17",
+        "since": "2026-06-18",
         "until": ""
       }
     ],
@@ -2711,7 +2711,7 @@
     "person_id": "nrsr:person:1164",
     "dims": [
       0.0,
-      -0.0,
+      0.0,
       0.0
     ],
     "weight": 0.0,
@@ -2738,7 +2738,7 @@
     "person_id": "nrsr:person:1165",
     "dims": [
       0.0,
-      -0.0,
+      0.0,
       0.0
     ],
     "weight": 0.0,
@@ -2765,7 +2765,7 @@
     "person_id": "nrsr:person:1166",
     "dims": [
       0.0,
-      -0.0,
+      0.0,
       0.0
     ],
     "weight": 0.0,
@@ -2792,7 +2792,7 @@
     "person_id": "nrsr:person:1168",
     "dims": [
       0.0,
-      -0.0,
+      0.0,
       0.0
     ],
     "weight": 0.0,
@@ -2819,11 +2819,11 @@
   {
     "person_id": "nrsr:person:1169",
     "dims": [
-      -0.8578809058894057,
-      0.014141280345054135,
-      0.0010259338143251181
+      -0.8578906106385711,
+      0.014067212958968482,
+      0.0010434075967758983
     ],
-    "weight": 0.9980820227155223,
+    "weight": 0.9980845358191802,
     "included": true,
     "name": "Karol Janas",
     "given_names": [
@@ -2845,13 +2845,13 @@
         "name": "Klub HLAS - sociálna demokracia",
         "classification": "groups",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:1",
         "name": "Klub HLAS - sociálna demokracia",
         "classification": "groups",
-        "since": "2026-06-17",
+        "since": "2026-06-18",
         "until": ""
       }
     ],
@@ -2860,11 +2860,11 @@
   {
     "person_id": "nrsr:person:1170",
     "dims": [
-      -0.856477929485494,
-      0.016121322766334625,
-      0.004690197844970583
+      -0.8564907791310391,
+      0.016044203069274825,
+      0.004703782415320086
     ],
-    "weight": 0.9755443997842971,
+    "weight": 0.975576443677025,
     "included": true,
     "name": "Peter Kalivoda",
     "given_names": [
@@ -2886,13 +2886,13 @@
         "name": "Klub HLAS - sociálna demokracia",
         "classification": "groups",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:1",
         "name": "Klub HLAS - sociálna demokracia",
         "classification": "groups",
-        "since": "2026-06-17",
+        "since": "2026-06-18",
         "until": ""
       }
     ],
@@ -2902,7 +2902,7 @@
     "person_id": "nrsr:person:1171",
     "dims": [
       0.0,
-      -0.0,
+      0.0,
       0.0
     ],
     "weight": 0.0,
@@ -2928,11 +2928,11 @@
   {
     "person_id": "nrsr:person:1172",
     "dims": [
-      -0.856589631943388,
-      0.016631300317625265,
-      0.005458857860444724
+      -0.8566012390165785,
+      0.016555583111952144,
+      0.005473650804985955
     ],
-    "weight": 0.9943461365266265,
+    "weight": 0.9943535447191486,
     "included": true,
     "name": "Richard Eliáš",
     "given_names": [
@@ -2954,13 +2954,13 @@
         "name": "Klub HLAS - sociálna demokracia",
         "classification": "groups",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:1",
         "name": "Klub HLAS - sociálna demokracia",
         "classification": "groups",
-        "since": "2026-06-17",
+        "since": "2026-06-18",
         "until": ""
       }
     ],
@@ -2969,11 +2969,11 @@
   {
     "person_id": "nrsr:person:1173",
     "dims": [
-      -0.8488277141707095,
-      0.00105021277004002,
-      0.0018290861426010733
+      -0.848852153666819,
+      0.0010128277557229664,
+      0.001838604684979976
     ],
-    "weight": 0.9927839579268056,
+    "weight": 0.9927934130240459,
     "included": true,
     "name": "Roman Malatinec",
     "given_names": [
@@ -3010,11 +3010,11 @@
   {
     "person_id": "nrsr:person:1174",
     "dims": [
-      -0.6988202718419305,
-      -0.5937232265322143,
-      0.20208721173157
+      -0.6987797746305916,
+      -0.5937753807587136,
+      0.20197008181366927
     ],
-    "weight": 0.12923275349266444,
+    "weight": 0.12906342129663045,
     "included": true,
     "name": "Michal Moško",
     "given_names": [
@@ -3045,11 +3045,11 @@
   {
     "person_id": "nrsr:person:1175",
     "dims": [
-      -0.7407562666913177,
-      -0.49295455782050895,
-      0.046705020841721095
+      -0.7407127648674835,
+      -0.49301385001727766,
+      0.046587930402819604
     ],
-    "weight": 0.4096243544199648,
+    "weight": 0.4090876283222199,
     "included": true,
     "name": "Radomír Šalitroš",
     "given_names": [
@@ -3080,11 +3080,11 @@
   {
     "person_id": "nrsr:person:1176",
     "dims": [
-      -0.8565901241242477,
-      0.018920606109990024,
-      0.005651321181509756
+      -0.8566018970377394,
+      0.018847584637564672,
+      0.005660946329893078
     ],
-    "weight": 0.9846283849519395,
+    "weight": 0.9846485262029947,
     "included": true,
     "name": "Erik Vlček",
     "given_names": [
@@ -3106,13 +3106,13 @@
         "name": "Klub HLAS - sociálna demokracia",
         "classification": "groups",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:1",
         "name": "Klub HLAS - sociálna demokracia",
         "classification": "groups",
-        "since": "2026-06-17",
+        "since": "2026-06-18",
         "until": ""
       }
     ],
@@ -3121,11 +3121,11 @@
   {
     "person_id": "nrsr:person:1177",
     "dims": [
-      -0.8588229780325056,
-      0.015422921695620151,
-      0.005022173095490607
+      -0.8588327993658813,
+      0.015345066703689833,
+      0.005037846666724638
     ],
-    "weight": 0.9733929296130133,
+    "weight": 0.9734277925524532,
     "included": true,
     "name": "Igor Šimko",
     "given_names": [
@@ -3147,13 +3147,13 @@
         "name": "Klub HLAS - sociálna demokracia",
         "classification": "groups",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:1",
         "name": "Klub HLAS - sociálna demokracia",
         "classification": "groups",
-        "since": "2026-06-17",
+        "since": "2026-06-18",
         "until": ""
       }
     ],
@@ -3162,11 +3162,11 @@
   {
     "person_id": "nrsr:person:1178",
     "dims": [
-      0.9865866681035951,
-      -0.12815622705345203,
-      -0.39305430022229715
+      0.9866172358226912,
+      -0.12808128400317007,
+      -0.3931097909324092
     ],
-    "weight": 0.8556235649916333,
+    "weight": 0.8548022630237685,
     "included": true,
     "name": "Milan Majerský",
     "given_names": [
@@ -3196,11 +3196,11 @@
   {
     "person_id": "nrsr:person:1179",
     "dims": [
-      0.9989517205086544,
-      -0.12291740227339476,
-      -0.3805206651044384
+      0.999173490735785,
+      -0.12292120408257261,
+      -0.380217687948102
     ],
-    "weight": 0.9222357499847119,
+    "weight": 0.9223376435904127,
     "included": true,
     "name": "Marián Čaučík",
     "given_names": [
@@ -3230,11 +3230,11 @@
   {
     "person_id": "nrsr:person:1180",
     "dims": [
-      1.0582053941030658,
-      -0.05294154458738633,
-      -0.23521751004509478
+      1.0582201251494026,
+      -0.05292623198249325,
+      -0.2351717451641079
     ],
-    "weight": 0.7371815184820739,
+    "weight": 0.736515409770533,
     "included": true,
     "name": "Martina Holečková",
     "given_names": [
@@ -3263,13 +3263,13 @@
         "name": "Klub Sloboda a Solidarita",
         "classification": "groups",
         "since": "2025-01-21",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:6",
         "name": "Klub Sloboda a Solidarita",
         "classification": "groups",
-        "since": "2026-06-17",
+        "since": "2026-06-18",
         "until": ""
       }
     ],
@@ -3278,11 +3278,11 @@
   {
     "person_id": "nrsr:person:1181",
     "dims": [
-      0.9631713918725847,
-      -0.052834083106394106,
-      -0.42437150341730717
+      0.9631179796575159,
+      -0.05265464709456155,
+      -0.4248245930146798
     ],
-    "weight": 0.7269523062981927,
+    "weight": 0.7259997890213367,
     "included": true,
     "name": "Jozef Hajko",
     "given_names": [
@@ -3313,11 +3313,11 @@
   {
     "person_id": "nrsr:person:1182",
     "dims": [
-      0.9771948420928462,
-      -0.13518500349197415,
-      -0.4007379991334467
+      0.9775017079402741,
+      -0.13523725278330548,
+      -0.40030330593954916
     ],
-    "weight": 0.784575015149241,
+    "weight": 0.7848572840383536,
     "included": true,
     "name": "Peter Stachura",
     "given_names": [
@@ -3347,11 +3347,11 @@
   {
     "person_id": "nrsr:person:1183",
     "dims": [
-      1.0022087726146018,
-      -0.10311689649198331,
-      -0.3916018819466908
+      1.002369128081341,
+      -0.10304091212989776,
+      -0.3914452792038184
     ],
-    "weight": 0.8506257053430957,
+    "weight": 0.8505216169848928,
     "included": true,
     "name": "Ján Horecký",
     "given_names": [
@@ -3381,11 +3381,11 @@
   {
     "person_id": "nrsr:person:1184",
     "dims": [
-      0.9759523326909108,
-      -0.12217048605782266,
-      -0.394995904987939
+      0.9762730407852022,
+      -0.12225543179841462,
+      -0.39452970739429327
     ],
-    "weight": 0.7648726629863741,
+    "weight": 0.7651807476417583,
     "included": true,
     "name": "František Majerský",
     "given_names": [
@@ -3415,11 +3415,11 @@
   {
     "person_id": "nrsr:person:1185",
     "dims": [
-      0.9412120425312779,
-      0.07393675824431348,
-      -0.4811376155832638
+      0.9411588759726479,
+      0.0741209991343983,
+      -0.48170697337628055
     ],
-    "weight": 0.6673727046815324,
+    "weight": 0.6664982538739569,
     "included": true,
     "name": "Martin Šmilňák",
     "given_names": [
@@ -3450,11 +3450,11 @@
   {
     "person_id": "nrsr:person:1186",
     "dims": [
-      0.9864647583167837,
-      -0.11476207447747566,
-      -0.4209882411772719
+      0.9864117160105547,
+      -0.11458651481794765,
+      -0.42123498004758486
     ],
-    "weight": 0.7848307454538381,
+    "weight": 0.7838023907213806,
     "included": true,
     "name": "Andrea Turčanová",
     "given_names": [
@@ -3484,11 +3484,11 @@
   {
     "person_id": "nrsr:person:1187",
     "dims": [
-      -0.8591465054118859,
-      0.015417314613465405,
-      0.0013913603681054523
+      -0.8591543008158893,
+      0.015339059803464467,
+      0.0014093603203318942
     ],
-    "weight": 0.9975260872707463,
+    "weight": 0.9975293288102469,
     "included": true,
     "name": "Branislav Becík",
     "given_names": [
@@ -3510,13 +3510,13 @@
         "name": "Klub HLAS - sociálna demokracia",
         "classification": "groups",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:1",
         "name": "Klub HLAS - sociálna demokracia",
         "classification": "groups",
-        "since": "2026-06-17",
+        "since": "2026-06-18",
         "until": ""
       }
     ],
@@ -3525,11 +3525,11 @@
   {
     "person_id": "nrsr:person:1188",
     "dims": [
-      1.118935976702123,
-      0.04128917356249922,
-      -0.2267536583832885
+      1.1189239227836105,
+      0.0414193914912528,
+      -0.22667423033738648
     ],
-    "weight": 0.8776274898958735,
+    "weight": 0.877149345133333,
     "included": true,
     "name": "Július Jakab",
     "given_names": [
@@ -3551,13 +3551,13 @@
         "name": "Klub SLOVENSKO - ZA ĽUDÍ",
         "classification": "groups",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:4",
         "name": "Klub SLOVENSKO - ZA ĽUDÍ",
         "classification": "groups",
-        "since": "2026-06-17",
+        "since": "2026-06-18",
         "until": ""
       }
     ],
@@ -3566,11 +3566,11 @@
   {
     "person_id": "nrsr:person:1189",
     "dims": [
-      1.0918663163562357,
-      0.04201703558569417,
-      0.2692843287429562
+      1.0919447256245973,
+      0.041903129016306585,
+      0.2691001942298441
     ],
-    "weight": 0.946385585705788,
+    "weight": 0.9464558360584744,
     "included": true,
     "name": "Marek Lackovič",
     "given_names": [
@@ -3592,13 +3592,13 @@
         "name": "Klub Progresívne Slovensko",
         "classification": "groups",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:3",
         "name": "Klub Progresívne Slovensko",
         "classification": "groups",
-        "since": "2026-06-17",
+        "since": "2026-06-18",
         "until": ""
       }
     ],
@@ -3607,11 +3607,11 @@
   {
     "person_id": "nrsr:person:1190",
     "dims": [
-      1.0891925751524003,
-      0.0016519692130776563,
-      -0.15437141337474708
+      1.0891314565509684,
+      0.0018135728722072104,
+      -0.15441604823408087
     ],
-    "weight": 0.7616315593433292,
+    "weight": 0.7606336022385947,
     "included": true,
     "name": "Rastislav Krátky",
     "given_names": [
@@ -3648,11 +3648,11 @@
   {
     "person_id": "nrsr:person:1191",
     "dims": [
-      -0.859577019526431,
-      0.015617242291416604,
-      0.0015350124480824794
+      -0.8595840958590153,
+      0.015539680463532202,
+      0.0015523314615760815
     ],
-    "weight": 0.9988158575026269,
+    "weight": 0.9988174090709723,
     "included": true,
     "name": "Andrej Sitkár",
     "given_names": [
@@ -3674,13 +3674,13 @@
         "name": "Klub SMER - sociálna demokracia",
         "classification": "groups",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:5",
         "name": "Klub SMER - sociálna demokracia",
         "classification": "groups",
-        "since": "2026-06-17",
+        "since": "2026-06-18",
         "until": ""
       }
     ],
@@ -3689,11 +3689,11 @@
   {
     "person_id": "nrsr:person:1192",
     "dims": [
-      -0.859640313299311,
-      0.015303609798180923,
-      0.002518730462502121
+      -0.8596481316726815,
+      0.0152299107670914,
+      0.0025389720975490236
     ],
-    "weight": 0.9871745692890143,
+    "weight": 0.9871913743039094,
     "included": true,
     "name": "Ivan Hazucha",
     "given_names": [
@@ -3715,13 +3715,13 @@
         "name": "Klub SMER - sociálna demokracia",
         "classification": "groups",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:5",
         "name": "Klub SMER - sociálna demokracia",
         "classification": "groups",
-        "since": "2026-06-17",
+        "since": "2026-06-18",
         "until": ""
       }
     ],
@@ -3730,11 +3730,11 @@
   {
     "person_id": "nrsr:person:1193",
     "dims": [
-      -0.8604750720346672,
-      0.017133643600339074,
-      0.002269225263926552
+      -0.8604808339749507,
+      0.017054358127415004,
+      0.0022868355694035695
     ],
-    "weight": 0.9988325355659702,
+    "weight": 0.9988340652812401,
     "included": true,
     "name": "Igor Válek",
     "given_names": [
@@ -3756,13 +3756,13 @@
         "name": "Klub SMER - sociálna demokracia",
         "classification": "groups",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:5",
         "name": "Klub SMER - sociálna demokracia",
         "classification": "groups",
-        "since": "2026-06-17",
+        "since": "2026-06-18",
         "until": ""
       }
     ],
@@ -3771,11 +3771,11 @@
   {
     "person_id": "nrsr:person:1194",
     "dims": [
-      -0.8597620504983149,
-      0.015610695726512587,
-      0.001014229439011461
+      -0.8597688682458063,
+      0.01553260724277412,
+      0.001032340673735869
     ],
-    "weight": 0.9989604007182686,
+    "weight": 0.9989617628932947,
     "included": true,
     "name": "Zuzana Plevíková",
     "given_names": [
@@ -3797,13 +3797,13 @@
         "name": "Klub SMER - sociálna demokracia",
         "classification": "groups",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:5",
         "name": "Klub SMER - sociálna demokracia",
         "classification": "groups",
-        "since": "2026-06-17",
+        "since": "2026-06-18",
         "until": ""
       }
     ],
@@ -3812,11 +3812,11 @@
   {
     "person_id": "nrsr:person:1195",
     "dims": [
-      -0.8579584253292085,
-      0.015474245874335513,
-      0.004870113840080202
+      -0.8579681283562222,
+      0.015396481796465153,
+      0.004885348498031279
     ],
-    "weight": 0.9953579390361191,
+    "weight": 0.9953640214754069,
     "included": true,
     "name": "Jozef Cech",
     "given_names": [
@@ -3838,13 +3838,13 @@
         "name": "Klub HLAS - sociálna demokracia",
         "classification": "groups",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:1",
         "name": "Klub HLAS - sociálna demokracia",
         "classification": "groups",
-        "since": "2026-06-17",
+        "since": "2026-06-18",
         "until": ""
       }
     ],
@@ -3853,11 +3853,11 @@
   {
     "person_id": "nrsr:person:1196",
     "dims": [
-      -0.85865342913875,
-      0.015335015042550948,
-      0.003455912271620939
+      -0.858662065850266,
+      0.015256616790588831,
+      0.0034733232493466917
     ],
-    "weight": 0.9974260188906865,
+    "weight": 0.9974293915486387,
     "included": true,
     "name": "Alena Nováková",
     "given_names": [
@@ -3879,13 +3879,13 @@
         "name": "Klub HLAS - sociálna demokracia",
         "classification": "groups",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:1",
         "name": "Klub HLAS - sociálna demokracia",
         "classification": "groups",
-        "since": "2026-06-17",
+        "since": "2026-06-18",
         "until": ""
       }
     ],
@@ -3894,11 +3894,11 @@
   {
     "person_id": "nrsr:person:1197",
     "dims": [
-      -0.8177147786464727,
-      -0.24975657141372246,
-      0.011187104083751852
+      -0.8176681380606915,
+      -0.24983171194661213,
+      0.011291650179966892
     ],
-    "weight": 0.7222991266254163,
+    "weight": 0.721352706356565,
     "included": true,
     "name": "Peter Slyško",
     "given_names": [
@@ -3929,11 +3929,11 @@
   {
     "person_id": "nrsr:person:1198",
     "dims": [
-      -0.8530541986313033,
-      0.010736332646467174,
-      0.0019758258336164
+      -0.8530716522170624,
+      0.010672590490488075,
+      0.0019870201044549073
     ],
-    "weight": 0.9828160354019692,
+    "weight": 0.9828385513538722,
     "included": true,
     "name": "Milan Garaj",
     "given_names": [
@@ -3955,13 +3955,13 @@
         "name": "Klub Slovenská národná strana",
         "classification": "groups",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:7",
         "name": "Klub Slovenská národná strana",
         "classification": "groups",
-        "since": "2026-06-17",
+        "since": "2026-06-18",
         "until": ""
       }
     ],
@@ -3970,11 +3970,11 @@
   {
     "person_id": "nrsr:person:1199",
     "dims": [
-      -0.8512195129395052,
-      0.013215567276492675,
-      0.0002631274063069863
+      -0.8512385562910714,
+      0.013153684169396235,
+      0.0002720794576839601
     ],
-    "weight": 0.9964531318623283,
+    "weight": 0.9964577792830057,
     "included": true,
     "name": "Adam Lučanský",
     "given_names": [
@@ -3996,13 +3996,13 @@
         "name": "Klub Slovenská národná strana",
         "classification": "groups",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:7",
         "name": "Klub Slovenská národná strana",
         "classification": "groups",
-        "since": "2026-06-17",
+        "since": "2026-06-18",
         "until": ""
       }
     ],
@@ -4011,11 +4011,11 @@
   {
     "person_id": "nrsr:person:1200",
     "dims": [
-      -0.860248848003164,
-      0.015320656608756106,
-      0.0006501310154118197
+      -0.8602550766531784,
+      0.015243108776146541,
+      0.000668953235230225
     ],
-    "weight": 0.9986657549325373,
+    "weight": 0.99866750317856,
     "included": true,
     "name": "Boleslav Lešo",
     "given_names": [
@@ -4037,13 +4037,13 @@
         "name": "Klub SMER - sociálna demokracia",
         "classification": "groups",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:5",
         "name": "Klub SMER - sociálna demokracia",
         "classification": "groups",
-        "since": "2026-06-17",
+        "since": "2026-06-18",
         "until": ""
       }
     ],
@@ -4052,11 +4052,11 @@
   {
     "person_id": "nrsr:person:1201",
     "dims": [
-      -0.7471354902925614,
-      -0.4964496200460557,
-      0.042127258818554135
+      -0.7470916908529219,
+      -0.4965076429944071,
+      0.0420054817569862
     ],
-    "weight": 0.4119481645791291,
+    "weight": 0.411408393619561,
     "included": true,
     "name": "Samuel Migaľ",
     "given_names": [
@@ -4087,11 +4087,11 @@
   {
     "person_id": "nrsr:person:1202",
     "dims": [
-      -0.8427607145733839,
-      0.5046618784198384,
-      -0.06318476715640302
+      -0.8427503889039503,
+      0.5045820612495815,
+      -0.06289193440546871
     ],
-    "weight": 0.583576555090423,
+    "weight": 0.584122189958526,
     "included": true,
     "name": "Ján Hrubý",
     "given_names": [
@@ -4113,13 +4113,13 @@
         "name": "Klub HLAS - sociálna demokracia",
         "classification": "groups",
         "since": "2025-03-25",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:1",
         "name": "Klub HLAS - sociálna demokracia",
         "classification": "groups",
-        "since": "2026-06-17",
+        "since": "2026-06-18",
         "until": ""
       }
     ],
@@ -4128,11 +4128,11 @@
   {
     "person_id": "nrsr:person:1203",
     "dims": [
-      -0.8537332881139135,
-      0.013110519569955353,
-      0.008613727253556162
+      -0.8537492846251578,
+      0.013042984940386287,
+      0.008625972886621949
     ],
-    "weight": 0.9923614469887758,
+    "weight": 0.9923714556972566,
     "included": true,
     "name": "Miroslav Čellár",
     "given_names": [
@@ -4154,13 +4154,13 @@
         "name": "Klub HLAS - sociálna demokracia",
         "classification": "groups",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:1",
         "name": "Klub HLAS - sociálna demokracia",
         "classification": "groups",
-        "since": "2026-06-17",
+        "since": "2026-06-18",
         "until": ""
       }
     ],
@@ -4169,11 +4169,11 @@
   {
     "person_id": "nrsr:person:1204",
     "dims": [
-      -0.8596953246835609,
-      0.0138605488537972,
-      0.0017188030772707012
+      -0.8597032784043674,
+      0.013786800633963158,
+      0.0017374557657127052
     ],
-    "weight": 0.9888256975599995,
+    "weight": 0.988840339120441,
     "included": true,
     "name": "Jaroslav Mego",
     "given_names": [
@@ -4195,13 +4195,13 @@
         "name": "Klub SMER - sociálna demokracia",
         "classification": "groups",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:5",
         "name": "Klub SMER - sociálna demokracia",
         "classification": "groups",
-        "since": "2026-06-17",
+        "since": "2026-06-18",
         "until": ""
       }
     ],
@@ -4210,11 +4210,11 @@
   {
     "person_id": "nrsr:person:1205",
     "dims": [
-      -0.8602706967100656,
-      0.01619607757107789,
-      0.0032949447983472743
+      -0.8602772153116668,
+      0.016117015084333112,
+      0.00331319941824171
     ],
-    "weight": 0.9930952817758804,
+    "weight": 0.9931043289490487,
     "included": true,
     "name": "Michal Kapuš",
     "given_names": [
@@ -4236,13 +4236,13 @@
         "name": "Klub SMER - sociálna demokracia",
         "classification": "groups",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:5",
         "name": "Klub SMER - sociálna demokracia",
         "classification": "groups",
-        "since": "2026-06-17",
+        "since": "2026-06-18",
         "until": ""
       }
     ],
@@ -4251,11 +4251,11 @@
   {
     "person_id": "nrsr:person:1206",
     "dims": [
-      -0.8679809019984219,
-      0.008158758274272447,
-      -0.01852075432755041
+      -0.8679793135747433,
+      0.008082626015160698,
+      -0.018471196889245603
     ],
-    "weight": 0.9140968550731889,
+    "weight": 0.9142094129796294,
     "included": true,
     "name": "Peter Sokol",
     "given_names": [
@@ -4277,13 +4277,13 @@
         "name": "Klub SMER - sociálna demokracia",
         "classification": "groups",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:5",
         "name": "Klub SMER - sociálna demokracia",
         "classification": "groups",
-        "since": "2026-06-17",
+        "since": "2026-06-18",
         "until": ""
       }
     ],
@@ -4292,11 +4292,11 @@
   {
     "person_id": "nrsr:person:1207",
     "dims": [
-      -0.8582447431435675,
-      0.014420312202864606,
-      0.0014931668197514258
+      -0.8582543728779075,
+      0.014344373377548743,
+      0.001509758886220179
     ],
-    "weight": 0.9898875342595219,
+    "weight": 0.9899007845075035,
     "included": true,
     "name": "Michal Bartek",
     "given_names": [
@@ -4318,13 +4318,13 @@
         "name": "Klub HLAS - sociálna demokracia",
         "classification": "groups",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:1",
         "name": "Klub HLAS - sociálna demokracia",
         "classification": "groups",
-        "since": "2026-06-17",
+        "since": "2026-06-18",
         "until": ""
       }
     ],
@@ -4333,11 +4333,11 @@
   {
     "person_id": "nrsr:person:1208",
     "dims": [
-      -0.8561181613590118,
-      0.01210519987285326,
-      0.006036230351817916
+      -0.856131560557822,
+      0.012036800946355803,
+      0.006048669918292502
     ],
-    "weight": 0.9867742957687754,
+    "weight": 0.9867916252574773,
     "included": true,
     "name": "Paula Puškárová",
     "given_names": [
@@ -4359,13 +4359,13 @@
         "name": "Klub HLAS - sociálna demokracia",
         "classification": "groups",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:1",
         "name": "Klub HLAS - sociálna demokracia",
         "classification": "groups",
-        "since": "2026-06-17",
+        "since": "2026-06-18",
         "until": ""
       }
     ],
@@ -4374,11 +4374,11 @@
   {
     "person_id": "nrsr:person:1210",
     "dims": [
-      -0.8535781360003328,
-      0.01040140406742489,
-      0.002427954621131738
+      -0.8535942499167112,
+      0.010339637848036941,
+      0.0024397546678767493
     ],
-    "weight": 0.9975427653340896,
+    "weight": 0.9975459850205148,
     "included": true,
     "name": "Dagmar Kramplová",
     "given_names": [
@@ -4400,13 +4400,13 @@
         "name": "Klub Slovenská národná strana",
         "classification": "groups",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:7",
         "name": "Klub Slovenská národná strana",
         "classification": "groups",
-        "since": "2026-06-17",
+        "since": "2026-06-18",
         "until": ""
       }
     ],
@@ -4415,11 +4415,11 @@
   {
     "person_id": "nrsr:person:1211",
     "dims": [
-      -0.858686199648709,
-      0.01987523581956185,
-      0.005507953032044486
+      -0.8586950668413315,
+      0.019795659376722625,
+      0.0055276866122021
     ],
-    "weight": 0.9844671636729544,
+    "weight": 0.9844875161704041,
     "included": true,
     "name": "Zdenka Mačicová",
     "given_names": [
@@ -4441,13 +4441,13 @@
         "name": "Klub HLAS - sociálna demokracia",
         "classification": "groups",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:1",
         "name": "Klub HLAS - sociálna demokracia",
         "classification": "groups",
-        "since": "2026-06-17",
+        "since": "2026-06-18",
         "until": ""
       }
     ],
@@ -4456,11 +4456,11 @@
   {
     "person_id": "nrsr:person:1212",
     "dims": [
-      1.0881790097629833,
-      -0.036219425398300475,
-      0.2995534818696707
+      1.0882550629586525,
+      -0.03633238849590672,
+      0.2994024632692402
     ],
-    "weight": 0.9433446188228625,
+    "weight": 0.9434188537196095,
     "included": true,
     "name": "Natália Nash",
     "given_names": [
@@ -4482,13 +4482,13 @@
         "name": "Klub Progresívne Slovensko",
         "classification": "groups",
         "since": "2023-12-06",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:3",
         "name": "Klub Progresívne Slovensko",
         "classification": "groups",
-        "since": "2026-06-17",
+        "since": "2026-06-18",
         "until": ""
       }
     ],
@@ -4497,11 +4497,11 @@
   {
     "person_id": "nrsr:person:1213",
     "dims": [
-      1.070152144096248,
-      -0.2352198332816107,
-      0.2864276739210498
+      1.0702555174325914,
+      -0.2353674636855475,
+      0.28610152597058436
     ],
-    "weight": 0.810476047521362,
+    "weight": 0.8107243785845553,
     "included": true,
     "name": "Richard Dubovický",
     "given_names": [
@@ -4523,13 +4523,13 @@
         "name": "Klub Progresívne Slovensko",
         "classification": "groups",
         "since": "2024-02-08",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:3",
         "name": "Klub Progresívne Slovensko",
         "classification": "groups",
-        "since": "2026-06-17",
+        "since": "2026-06-18",
         "until": ""
       }
     ],
@@ -4538,11 +4538,11 @@
   {
     "person_id": "nrsr:person:1214",
     "dims": [
-      -0.8434206224075989,
-      0.21178779939156,
-      -0.021581661730491135
+      -0.8434336180113652,
+      0.21171435827572835,
+      -0.02149287975663455
     ],
-    "weight": 0.9503549647814896,
+    "weight": 0.9504200141022578,
     "included": true,
     "name": "Richard Glück",
     "given_names": [
@@ -4564,13 +4564,13 @@
         "name": "Klub SMER - sociálna demokracia",
         "classification": "groups",
         "since": "2024-02-08",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:5",
         "name": "Klub SMER - sociálna demokracia",
         "classification": "groups",
-        "since": "2026-06-17",
+        "since": "2026-06-18",
         "until": ""
       }
     ],
@@ -4579,11 +4579,11 @@
   {
     "person_id": "nrsr:person:1216",
     "dims": [
-      -0.8490607045316146,
-      0.2700341992034345,
-      -0.08303085942234241
+      -0.8490617312445491,
+      0.2699615457924778,
+      -0.08292760124455971
     ],
-    "weight": 0.8681265531446489,
+    "weight": 0.8682993454109363,
     "included": true,
     "name": "Dávid Demečko",
     "given_names": [
@@ -4605,13 +4605,13 @@
         "name": "Klub HLAS - sociálna demokracia",
         "classification": "groups",
         "since": "2024-04-18",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:1",
         "name": "Klub HLAS - sociálna demokracia",
         "classification": "groups",
-        "since": "2026-06-17",
+        "since": "2026-06-18",
         "until": ""
       }
     ],
@@ -4620,11 +4620,11 @@
   {
     "person_id": "nrsr:person:1217",
     "dims": [
-      -0.8480866113402427,
-      0.27050041901528277,
-      -0.08066865875085119
+      -0.8480891920110318,
+      0.2704271996817216,
+      -0.08056706997244467
     ],
-    "weight": 0.8670869538629176,
+    "weight": 0.8672611083042312,
     "included": true,
     "name": "Andrea Szabóová",
     "given_names": [
@@ -4646,13 +4646,13 @@
         "name": "Klub HLAS - sociálna demokracia",
         "classification": "groups",
         "since": "2024-04-18",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:1",
         "name": "Klub HLAS - sociálna demokracia",
         "classification": "groups",
-        "since": "2026-06-17",
+        "since": "2026-06-18",
         "until": ""
       }
     ],
@@ -4661,11 +4661,11 @@
   {
     "person_id": "nrsr:person:1218",
     "dims": [
-      -0.8493959633030232,
-      0.3321532934929641,
-      -0.0715545637699632
+      -0.8493944669876258,
+      0.33208363697229687,
+      -0.07143603574662745
     ],
-    "weight": 0.7567282087204035,
+    "weight": 0.7570469649608856,
     "included": true,
     "name": "Jozef Kačmár",
     "given_names": [
@@ -4687,13 +4687,13 @@
         "name": "Klub SMER - sociálna demokracia",
         "classification": "groups",
         "since": "2024-07-15",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:5",
         "name": "Klub SMER - sociálna demokracia",
         "classification": "groups",
-        "since": "2026-06-17",
+        "since": "2026-06-18",
         "until": ""
       }
     ],
@@ -4702,11 +4702,11 @@
   {
     "person_id": "nrsr:person:1219",
     "dims": [
-      -0.8490990076847548,
-      0.333761749163249,
-      -0.07403808743248562
+      -0.8490973294403559,
+      0.3336879877059775,
+      -0.07392026085113908
     ],
-    "weight": 0.7642611339971204,
+    "weight": 0.7645700199319316,
     "included": true,
     "name": "Ján Horváth",
     "given_names": [
@@ -4728,13 +4728,13 @@
         "name": "Klub SMER - sociálna demokracia",
         "classification": "groups",
         "since": "2024-07-15",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:5",
         "name": "Klub SMER - sociálna demokracia",
         "classification": "groups",
-        "since": "2026-06-17",
+        "since": "2026-06-18",
         "until": ""
       }
     ],
@@ -4743,11 +4743,11 @@
   {
     "person_id": "nrsr:person:1220",
     "dims": [
-      -0.779681168066992,
-      0.44202439155520534,
-      -0.0631227755018104
+      -0.7798198621112242,
+      0.4421359344839781,
+      -0.06291578428999375
     ],
-    "weight": 0.5631014526593172,
+    "weight": 0.5636739158195133,
     "included": true,
     "name": "Miroslav Radačovský",
     "given_names": [
@@ -4778,11 +4778,11 @@
   {
     "person_id": "nrsr:person:1221",
     "dims": [
-      1.06386713241904,
-      -0.7686379342620615,
-      -0.09852674699317848
+      1.063916583221308,
+      -0.7685569318955313,
+      -0.09868220140487925
     ],
-    "weight": 0.40337008066623314,
+    "weight": 0.4038520262279791,
     "included": true,
     "name": "Igor Dušenka",
     "given_names": [
@@ -4804,13 +4804,13 @@
         "name": "Klub SLOVENSKO - ZA ĽUDÍ",
         "classification": "groups",
         "since": "2025-09-09",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:4",
         "name": "Klub SLOVENSKO - ZA ĽUDÍ",
         "classification": "groups",
-        "since": "2026-06-17",
+        "since": "2026-06-18",
         "until": ""
       }
     ],
@@ -4819,11 +4819,11 @@
   {
     "person_id": "nrsr:person:1222",
     "dims": [
-      1.0458538766278116,
-      -0.7451510751594103,
-      0.08695888338315863
+      1.046055112645893,
+      -0.7452951320815315,
+      0.08647145233198411
     ],
-    "weight": 0.3509286901604986,
+    "weight": 0.35177916086012667,
     "included": true,
     "name": "Gréta Gregorová",
     "given_names": [
@@ -4845,13 +4845,13 @@
         "name": "Klub Progresívne Slovensko",
         "classification": "groups",
         "since": "2025-09-09",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:3",
         "name": "Klub Progresívne Slovensko",
         "classification": "groups",
-        "since": "2026-06-17",
+        "since": "2026-06-18",
         "until": ""
       }
     ],
@@ -4860,11 +4860,11 @@
   {
     "person_id": "nrsr:person:1223",
     "dims": [
-      -0.8388786810708547,
-      0.6690918764148276,
-      -0.0061880433361018415
+      -0.8388248586646845,
+      0.6689850290839431,
+      -0.005872275644933823
     ],
-    "weight": 0.27305325305625516,
+    "weight": 0.27400576304875274,
     "included": true,
     "name": "Vladimír Macášek",
     "given_names": [
@@ -4886,13 +4886,13 @@
         "name": "Klub SMER - sociálna demokracia",
         "classification": "groups",
         "since": "2025-11-25",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:5",
         "name": "Klub SMER - sociálna demokracia",
         "classification": "groups",
-        "since": "2026-06-17",
+        "since": "2026-06-18",
         "until": ""
       }
     ],
@@ -4901,11 +4901,11 @@
   {
     "person_id": "nrsr:person:1224",
     "dims": [
-      0.9938059309443399,
-      -0.8341865319432145,
-      -0.0017628958811592998
+      0.9939566331649211,
+      -0.8342188726745012,
+      -0.001437882579898748
     ],
-    "weight": 0.19806312091039993,
+    "weight": 0.19810341285748392,
     "included": true,
     "name": "Monika Kolejáková",
     "given_names": [
@@ -4935,11 +4935,11 @@
   {
     "person_id": "nrsr:person:1225",
     "dims": [
-      0.9892666080342829,
-      -0.8447675696264321,
-      0.0936387186030443
+      0.9895628715822221,
+      -0.844874374420245,
+      0.09444521871783526
     ],
-    "weight": 0.11345530556991724,
+    "weight": 0.1136064581679279,
     "included": true,
     "name": "Gabriel Paľa",
     "given_names": [
@@ -4969,11 +4969,11 @@
   {
     "person_id": "nrsr:person:147",
     "dims": [
-      1.0036674003711938,
-      0.48553639961145095,
-      -0.31818422806245567
+      1.0036072511645178,
+      0.48570435468223083,
+      -0.31830332917283555
     ],
-    "weight": 0.37846973209470924,
+    "weight": 0.3779738275415989,
     "included": true,
     "name": "Anna Záborská",
     "given_names": [
@@ -5004,11 +5004,11 @@
   {
     "person_id": "nrsr:person:233",
     "dims": [
-      -0.8583857219594381,
-      0.02063332889975229,
-      0.004765841565577444
+      -0.8583963868788101,
+      0.020554247710989144,
+      0.004782899589356733
     ],
-    "weight": 0.9563813050028633,
+    "weight": 0.9564384580790949,
     "included": true,
     "name": "Jaroslav Baška",
     "given_names": [
@@ -5030,13 +5030,13 @@
         "name": "Klub SMER - sociálna demokracia",
         "classification": "groups",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:5",
         "name": "Klub SMER - sociálna demokracia",
         "classification": "groups",
-        "since": "2026-06-17",
+        "since": "2026-06-18",
         "until": ""
       }
     ],
@@ -5046,7 +5046,7 @@
     "person_id": "nrsr:person:238",
     "dims": [
       0.0,
-      -0.0,
+      0.0,
       0.0
     ],
     "weight": 0.0,
@@ -5073,7 +5073,7 @@
     "person_id": "nrsr:person:271",
     "dims": [
       0.0,
-      -0.0,
+      0.0,
       0.0
     ],
     "weight": 0.0,
@@ -5099,11 +5099,11 @@
   {
     "person_id": "nrsr:person:293",
     "dims": [
-      -0.8504840748913135,
-      0.018220191999122348,
-      0.0025480379830333812
+      -0.8505046557671249,
+      0.018160125978341064,
+      0.00256928020750283
     ],
-    "weight": 0.9818097922469243,
+    "weight": 0.9818336266677029,
     "included": true,
     "name": "Ľubomír Vážny",
     "given_names": [
@@ -5125,13 +5125,13 @@
         "name": "Klub SMER - sociálna demokracia",
         "classification": "groups",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:5",
         "name": "Klub SMER - sociálna demokracia",
         "classification": "groups",
-        "since": "2026-06-17",
+        "since": "2026-06-18",
         "until": ""
       }
     ],
@@ -5140,11 +5140,11 @@
   {
     "person_id": "nrsr:person:322",
     "dims": [
-      -0.8540506222898983,
-      0.008357822854990343,
-      0.00697914586479763
+      -0.854068999931843,
+      0.008302127336406742,
+      0.006990433681115455
     ],
-    "weight": 0.9608788227511023,
+    "weight": 0.9609300827813649,
     "included": true,
     "name": "Dušan Muňko",
     "given_names": [
@@ -5173,13 +5173,13 @@
         "name": "Klub Slovenská národná strana",
         "classification": "groups",
         "since": "2024-10-23",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:7",
         "name": "Klub Slovenská národná strana",
         "classification": "groups",
-        "since": "2026-06-17",
+        "since": "2026-06-18",
         "until": ""
       }
     ],
@@ -5188,11 +5188,11 @@
   {
     "person_id": "nrsr:person:36",
     "dims": [
-      -0.8556529484172006,
-      0.015226970274077656,
-      0.007027946810094946
+      -0.8556672422092825,
+      0.015159909252945136,
+      0.0070441796053990705
     ],
-    "weight": 0.9735708289553419,
+    "weight": 0.9736054587953118,
     "included": true,
     "name": "Vladimír Faič",
     "given_names": [
@@ -5214,13 +5214,13 @@
         "name": "Klub SMER - sociálna demokracia",
         "classification": "groups",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:5",
         "name": "Klub SMER - sociálna demokracia",
         "classification": "groups",
-        "since": "2026-06-17",
+        "since": "2026-06-18",
         "until": ""
       }
     ],
@@ -5230,7 +5230,7 @@
     "person_id": "nrsr:person:40",
     "dims": [
       0.0,
-      -0.0,
+      0.0,
       0.0
     ],
     "weight": 0.0,
@@ -5256,11 +5256,11 @@
   {
     "person_id": "nrsr:person:61",
     "dims": [
-      -0.8585005348491735,
-      0.010436396460151558,
-      0.0011462188013731175
+      -0.8585103739996798,
+      0.010371285054152619,
+      0.0011660652440027702
     ],
-    "weight": 0.9852677107134321,
+    "weight": 0.9852870142632681,
     "included": true,
     "name": "Dušan Jarjabek",
     "given_names": [
@@ -5282,13 +5282,13 @@
         "name": "Klub SMER - sociálna demokracia",
         "classification": "groups",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:5",
         "name": "Klub SMER - sociálna demokracia",
         "classification": "groups",
-        "since": "2026-06-17",
+        "since": "2026-06-18",
         "until": ""
       }
     ],
@@ -5297,11 +5297,11 @@
   {
     "person_id": "nrsr:person:656",
     "dims": [
-      -0.8571289185610584,
-      0.02268930252468909,
-      0.0034410669432377626
+      -0.85713892461997,
+      0.022609599091593404,
+      0.003458991393084782
     ],
-    "weight": 0.9946852571479401,
+    "weight": 0.994692220994598,
     "included": true,
     "name": "Dušan Galis",
     "given_names": [
@@ -5323,13 +5323,13 @@
         "name": "Klub SMER - sociálna demokracia",
         "classification": "groups",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:5",
         "name": "Klub SMER - sociálna demokracia",
         "classification": "groups",
-        "since": "2026-06-17",
+        "since": "2026-06-18",
         "until": ""
       }
     ],
@@ -5338,11 +5338,11 @@
   {
     "person_id": "nrsr:person:668",
     "dims": [
-      -0.8563332413512094,
-      0.016758917910696645,
-      0.0013398803139562177
+      -0.8563447902293997,
+      0.016687768508999667,
+      0.0013522685178658138
     ],
-    "weight": 0.9968200492558806,
+    "weight": 0.9968242159089015,
     "included": true,
     "name": "Stanislav Kubánek",
     "given_names": [
@@ -5364,13 +5364,13 @@
         "name": "Klub SMER - sociálna demokracia",
         "classification": "groups",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:5",
         "name": "Klub SMER - sociálna demokracia",
         "classification": "groups",
-        "since": "2026-06-17",
+        "since": "2026-06-18",
         "until": ""
       }
     ],
@@ -5379,11 +5379,11 @@
   {
     "person_id": "nrsr:person:671",
     "dims": [
-      -0.8597001444594793,
-      0.016190626442529617,
-      0.0023621212855516978
+      -0.8597072680407539,
+      0.016112394257209263,
+      0.0023797522229685587
     ],
-    "weight": 0.9948853939080595,
+    "weight": 0.9948920955178138,
     "included": true,
     "name": "Ján Kvorka",
     "given_names": [
@@ -5405,13 +5405,13 @@
         "name": "Klub SMER - sociálna demokracia",
         "classification": "groups",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:5",
         "name": "Klub SMER - sociálna demokracia",
         "classification": "groups",
-        "since": "2026-06-17",
+        "since": "2026-06-18",
         "until": ""
       }
     ],
@@ -5420,11 +5420,11 @@
   {
     "person_id": "nrsr:person:682",
     "dims": [
-      -0.6994456072528558,
-      -0.5946030112996119,
-      0.19643304719969243
+      -0.6994050814345009,
+      -0.594654126030248,
+      0.19631241177197103
     ],
-    "weight": 0.12750935361385834,
+    "weight": 0.12734227956893726,
     "included": true,
     "name": "Peter Pellegrini",
     "given_names": [
@@ -5455,11 +5455,11 @@
   {
     "person_id": "nrsr:person:685",
     "dims": [
-      -0.8570712196348361,
-      0.013124051164354129,
-      -0.003465992742636465
+      -0.857082251499901,
+      0.013057094077297117,
+      -0.003447872810597448
     ],
-    "weight": 0.9893871923592235,
+    "weight": 0.9894010981994636,
     "included": true,
     "name": "Ján Podmanický",
     "given_names": [
@@ -5481,13 +5481,13 @@
         "name": "Klub SMER - sociálna demokracia",
         "classification": "groups",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:5",
         "name": "Klub SMER - sociálna demokracia",
         "classification": "groups",
-        "since": "2026-06-17",
+        "since": "2026-06-18",
         "until": ""
       }
     ],
@@ -5496,11 +5496,11 @@
   {
     "person_id": "nrsr:person:689",
     "dims": [
-      -0.8578509478505988,
-      0.012844043823595523,
-      -0.0014945166122878697
+      -0.8578614036803265,
+      0.012774368803022173,
+      -0.0014746492906613723
     ],
-    "weight": 0.9852176765234021,
+    "weight": 0.9852370456324641,
     "included": true,
     "name": "Ján Richter",
     "given_names": [
@@ -5522,13 +5522,13 @@
         "name": "Klub SMER - sociálna demokracia",
         "classification": "groups",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:5",
         "name": "Klub SMER - sociálna demokracia",
         "classification": "groups",
-        "since": "2026-06-17",
+        "since": "2026-06-18",
         "until": ""
       }
     ],
@@ -5537,11 +5537,11 @@
   {
     "person_id": "nrsr:person:691",
     "dims": [
-      -0.8576752961223947,
-      0.016877781658576545,
-      0.00869007094148443
+      -0.8576874309726339,
+      0.016800512682270282,
+      0.008704690333469727
     ],
-    "weight": 0.965176203739222,
+    "weight": 0.9652218329604193,
     "included": true,
     "name": "Peter Žiga",
     "given_names": [
@@ -5563,13 +5563,13 @@
         "name": "Klub HLAS - sociálna demokracia",
         "classification": "groups",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:1",
         "name": "Klub HLAS - sociálna demokracia",
         "classification": "groups",
-        "since": "2026-06-17",
+        "since": "2026-06-18",
         "until": ""
       }
     ],
@@ -5578,11 +5578,11 @@
   {
     "person_id": "nrsr:person:705",
     "dims": [
-      -0.8596760779580971,
-      0.016264911169439813,
-      0.0023828189701253664
+      -0.859683098188757,
+      0.016186237766053574,
+      0.00240100186012161
     ],
-    "weight": 0.9961251299499103,
+    "weight": 0.9961302071477349,
     "included": true,
     "name": "Jozef Valocký",
     "given_names": [
@@ -5604,13 +5604,13 @@
         "name": "Klub SMER - sociálna demokracia",
         "classification": "groups",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:5",
         "name": "Klub SMER - sociálna demokracia",
         "classification": "groups",
-        "since": "2026-06-17",
+        "since": "2026-06-18",
         "until": ""
       }
     ],
@@ -5619,11 +5619,11 @@
   {
     "person_id": "nrsr:person:732",
     "dims": [
-      -0.8185485094387255,
-      -0.24856783395472826,
-      0.008834509231769544
+      -0.8185018763502213,
+      -0.24864222046154158,
+      0.00894352956798532
     ],
-    "weight": 0.649760669791024,
+    "weight": 0.6489092958309506,
     "included": true,
     "name": "Jana Vaľová",
     "given_names": [
@@ -5654,11 +5654,11 @@
   {
     "person_id": "nrsr:person:733",
     "dims": [
-      -0.8605233578429078,
-      0.018654990774592355,
-      -1.5486937154394747e-05
+      -0.8605289473139178,
+      0.018576100001856704,
+      3.610823798626984e-06
     ],
-    "weight": 0.9977540208031045,
+    "weight": 0.9977569636839095,
     "included": true,
     "name": "Michal Lukša",
     "given_names": [
@@ -5680,13 +5680,13 @@
         "name": "Klub SMER - sociálna demokracia",
         "classification": "groups",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:5",
         "name": "Klub SMER - sociálna demokracia",
         "classification": "groups",
-        "since": "2026-06-17",
+        "since": "2026-06-18",
         "until": ""
       }
     ],
@@ -5695,11 +5695,11 @@
   {
     "person_id": "nrsr:person:738",
     "dims": [
-      -0.8609954163467721,
-      0.016940440821462052,
-      0.008278581858710325
+      -0.8610011764871918,
+      0.016859683333921474,
+      0.00829680350944985
     ],
-    "weight": 0.9925782618122385,
+    "weight": 0.9925879864307406,
     "included": true,
     "name": "Pavol Goga",
     "given_names": [
@@ -5721,13 +5721,13 @@
         "name": "Klub SMER - sociálna demokracia",
         "classification": "groups",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:5",
         "name": "Klub SMER - sociálna demokracia",
         "classification": "groups",
-        "since": "2026-06-17",
+        "since": "2026-06-18",
         "until": ""
       }
     ],
@@ -5736,11 +5736,11 @@
   {
     "person_id": "nrsr:person:761",
     "dims": [
-      -0.8387601889150508,
-      0.5023890673512855,
-      -0.06278264530473407
+      -0.8387588017312181,
+      0.5023177028498235,
+      -0.06249649211770758
     ],
-    "weight": 0.5836877421793782,
+    "weight": 0.5842332313603127,
     "included": true,
     "name": "Richard Raši",
     "given_names": [
@@ -5762,13 +5762,13 @@
         "name": "Klub HLAS - sociálna demokracia",
         "classification": "groups",
         "since": "2025-03-25",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:1",
         "name": "Klub HLAS - sociálna demokracia",
         "classification": "groups",
-        "since": "2026-06-17",
+        "since": "2026-06-18",
         "until": ""
       }
     ],
@@ -5777,11 +5777,11 @@
   {
     "person_id": "nrsr:person:762",
     "dims": [
-      -0.8613430641726557,
-      0.015580861390108239,
-      0.000940929622120393
+      -0.8613481805774098,
+      0.015501486142712639,
+      0.0009626327041665346
     ],
-    "weight": 0.9881307782540293,
+    "weight": 0.9881463303592745,
     "included": true,
     "name": "Marián Saloň",
     "given_names": [
@@ -5803,13 +5803,13 @@
         "name": "Klub SMER - sociálna demokracia",
         "classification": "groups",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:5",
         "name": "Klub SMER - sociálna demokracia",
         "classification": "groups",
-        "since": "2026-06-17",
+        "since": "2026-06-18",
         "until": ""
       }
     ],
@@ -5818,11 +5818,11 @@
   {
     "person_id": "nrsr:person:767",
     "dims": [
-      0.9777077833919535,
-      0.7443143515882369,
-      0.15998290621475644
+      0.9776500353650314,
+      0.7443376996089294,
+      0.1604178834746815
     ],
-    "weight": 0.14756194510693418,
+    "weight": 0.1473685963811607,
     "included": true,
     "name": "Richard Sulík",
     "given_names": [
@@ -5853,11 +5853,11 @@
   {
     "person_id": "nrsr:person:769",
     "dims": [
-      -0.8595241000181875,
-      0.01403575712841618,
-      0.0013181305306637272
+      -0.8595315116529967,
+      0.013962189874502214,
+      0.001337476637871276
     ],
-    "weight": 0.9982877188300895,
+    "weight": 0.9982899624124854,
     "included": true,
     "name": "Peter Šuca",
     "given_names": [
@@ -5879,13 +5879,13 @@
         "name": "Klub SMER - sociálna demokracia",
         "classification": "groups",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:5",
         "name": "Klub SMER - sociálna demokracia",
         "classification": "groups",
-        "since": "2026-06-17",
+        "since": "2026-06-18",
         "until": ""
       }
     ],
@@ -5894,11 +5894,11 @@
   {
     "person_id": "nrsr:person:779",
     "dims": [
-      1.0877989886748844,
-      0.056371343638323114,
-      -0.1376392583654945
+      1.0878924273316615,
+      0.056260313088869834,
+      -0.13728048177409624
     ],
-    "weight": 0.9508052724917583,
+    "weight": 0.950869731779494,
     "included": true,
     "name": "Ondrej Dostál",
     "given_names": [
@@ -5920,13 +5920,13 @@
         "name": "Klub Sloboda a Solidarita",
         "classification": "groups",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:6",
         "name": "Klub Sloboda a Solidarita",
         "classification": "groups",
-        "since": "2026-06-17",
+        "since": "2026-06-18",
         "until": ""
       }
     ],
@@ -5935,11 +5935,11 @@
   {
     "person_id": "nrsr:person:785",
     "dims": [
-      1.1190328436557497,
-      0.0324914550801597,
-      -0.1936804913717041
+      1.1190894385090644,
+      0.03247389490866792,
+      -0.19344403967223656
     ],
-    "weight": 0.9018551565792181,
+    "weight": 0.9019837546429186,
     "included": true,
     "name": "Ľubomír Galko",
     "given_names": [
@@ -5977,7 +5977,7 @@
     "person_id": "nrsr:person:790",
     "dims": [
       0.0,
-      -0.0,
+      0.0,
       0.0
     ],
     "weight": 0.0,
@@ -6003,11 +6003,11 @@
   {
     "person_id": "nrsr:person:808",
     "dims": [
-      1.1036382678835177,
-      0.04194219193294657,
-      -0.2436562951687548
+      1.103684840260748,
+      0.042032878457064195,
+      -0.24347791483152925
     ],
-    "weight": 0.7295985590153273,
+    "weight": 0.7296530511401177,
     "included": true,
     "name": "Igor Matovič",
     "given_names": [
@@ -6029,13 +6029,13 @@
         "name": "Klub SLOVENSKO - ZA ĽUDÍ",
         "classification": "groups",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:4",
         "name": "Klub SLOVENSKO - ZA ĽUDÍ",
         "classification": "groups",
-        "since": "2026-06-17",
+        "since": "2026-06-18",
         "until": ""
       }
     ],
@@ -6045,7 +6045,7 @@
     "person_id": "nrsr:person:858",
     "dims": [
       0.0,
-      -0.0,
+      0.0,
       0.0
     ],
     "weight": 0.0,
@@ -6071,11 +6071,11 @@
   {
     "person_id": "nrsr:person:859",
     "dims": [
-      1.0736068579517024,
-      0.05057053160427781,
-      -0.0998103895223015
+      1.0737545854915764,
+      0.05038111477487142,
+      -0.09944351059055628
     ],
-    "weight": 0.7894839251266145,
+    "weight": 0.7897597619272345,
     "included": true,
     "name": "Alojz Hlina",
     "given_names": [
@@ -6097,13 +6097,13 @@
         "name": "Klub Sloboda a Solidarita",
         "classification": "groups",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:6",
         "name": "Klub Sloboda a Solidarita",
         "classification": "groups",
-        "since": "2026-06-17",
+        "since": "2026-06-18",
         "until": ""
       }
     ],
@@ -6112,11 +6112,11 @@
   {
     "person_id": "nrsr:person:861",
     "dims": [
-      1.0923681694132514,
-      0.00952777332742251,
-      -0.30178988509567317
+      1.0924736397837103,
+      0.009525689787147271,
+      -0.3014508918619193
     ],
-    "weight": 0.8634344579907383,
+    "weight": 0.8636133982555396,
     "included": true,
     "name": "Richard Vašečka",
     "given_names": [
@@ -6153,11 +6153,11 @@
   {
     "person_id": "nrsr:person:862",
     "dims": [
-      0.975765799429476,
-      -0.16957164765600446,
-      -0.33449912354731853
+      0.9760689725856745,
+      -0.16962383763559882,
+      -0.3341460684012269
     ],
-    "weight": 0.7607420626316873,
+    "weight": 0.761055559565384,
     "included": true,
     "name": "Branislav Škripek",
     "given_names": [
@@ -6187,11 +6187,11 @@
   {
     "person_id": "nrsr:person:871",
     "dims": [
-      -0.8568039340308834,
-      0.019674717649209958,
-      0.006294527465062349
+      -0.8568148659295183,
+      0.019595722385920937,
+      0.006306040171334597
     ],
-    "weight": 0.9896429226638204,
+    "weight": 0.9896564934235729,
     "included": true,
     "name": "Vladimír Baláž",
     "given_names": [
@@ -6213,13 +6213,13 @@
         "name": "Klub SMER - sociálna demokracia",
         "classification": "groups",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:5",
         "name": "Klub SMER - sociálna demokracia",
         "classification": "groups",
-        "since": "2026-06-17",
+        "since": "2026-06-18",
         "until": ""
       }
     ],
@@ -6228,11 +6228,11 @@
   {
     "person_id": "nrsr:person:873",
     "dims": [
-      -0.8599168596198223,
-      0.0164986901751962,
-      -0.002657001196872384
+      -0.8599234748161976,
+      0.01642088580072021,
+      -0.0026374865257540996
     ],
-    "weight": 0.9941015249309251,
+    "weight": 0.9941092536352177,
     "included": true,
     "name": "Marián Kéry",
     "given_names": [
@@ -6254,13 +6254,13 @@
         "name": "Klub SMER - sociálna demokracia",
         "classification": "groups",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:5",
         "name": "Klub SMER - sociálna demokracia",
         "classification": "groups",
-        "since": "2026-06-17",
+        "since": "2026-06-18",
         "until": ""
       }
     ],
@@ -6269,11 +6269,11 @@
   {
     "person_id": "nrsr:person:874",
     "dims": [
-      -0.8605098973363345,
-      0.01718125038545441,
-      0.0021229078820767956
+      -0.8605156301730602,
+      0.01710161256922073,
+      0.0021405345590588595
     ],
-    "weight": 0.9981987691589254,
+    "weight": 0.9982011292910561,
     "included": true,
     "name": "Augustín Hambálek",
     "given_names": [
@@ -6295,13 +6295,13 @@
         "name": "Klub SMER - sociálna demokracia",
         "classification": "groups",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:5",
         "name": "Klub SMER - sociálna demokracia",
         "classification": "groups",
-        "since": "2026-06-17",
+        "since": "2026-06-18",
         "until": ""
       }
     ],
@@ -6311,7 +6311,7 @@
     "person_id": "nrsr:person:877",
     "dims": [
       0.0,
-      -0.0,
+      0.0,
       0.0
     ],
     "weight": 0.0,
@@ -6337,11 +6337,11 @@
   {
     "person_id": "nrsr:person:879",
     "dims": [
-      -0.8591874624623956,
-      0.01532002135650288,
-      0.004235990150579181
+      -0.8591954624638368,
+      0.015240747425480896,
+      0.004254227936977895
     ],
-    "weight": 0.9948575971358207,
+    "weight": 0.994864335167367,
     "included": true,
     "name": "Róbert Puci",
     "given_names": [
@@ -6363,13 +6363,13 @@
         "name": "Klub HLAS - sociálna demokracia",
         "classification": "groups",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:1",
         "name": "Klub HLAS - sociálna demokracia",
         "classification": "groups",
-        "since": "2026-06-17",
+        "since": "2026-06-18",
         "until": ""
       }
     ],
@@ -6379,7 +6379,7 @@
     "person_id": "nrsr:person:880",
     "dims": [
       0.0,
-      -0.0,
+      0.0,
       0.0
     ],
     "weight": 0.0,
@@ -6405,11 +6405,11 @@
   {
     "person_id": "nrsr:person:885",
     "dims": [
-      -0.7291708478441787,
-      -0.5757186271608132,
-      0.024930192905267646
+      -0.7291280272183034,
+      -0.5757635756251717,
+      0.024777602559363728
     ],
-    "weight": 0.23272569589219302,
+    "weight": 0.23242075807965,
     "included": true,
     "name": "Ľuboš Blaha",
     "given_names": [
@@ -6440,11 +6440,11 @@
   {
     "person_id": "nrsr:person:891",
     "dims": [
-      -0.8591479354166522,
-      0.013721239142418415,
-      0.0015736882968433276
+      -0.8591559934488837,
+      0.013647572412111574,
+      0.0015920425393491228
     ],
-    "weight": 0.9969312363448358,
+    "weight": 0.9969352573106882,
     "included": true,
     "name": "Jozef Ježík",
     "given_names": [
@@ -6466,13 +6466,13 @@
         "name": "Klub SMER - sociálna demokracia",
         "classification": "groups",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:5",
         "name": "Klub SMER - sociálna demokracia",
         "classification": "groups",
-        "since": "2026-06-17",
+        "since": "2026-06-18",
         "until": ""
       }
     ],
@@ -6481,11 +6481,11 @@
   {
     "person_id": "nrsr:person:892",
     "dims": [
-      -0.8588560680628091,
-      0.015422708895369121,
-      0.0037201275630256853
+      -0.8588642653098106,
+      0.015343865597241706,
+      0.003737430576338316
     ],
-    "weight": 0.9997387103409553,
+    "weight": 0.9997390527058012,
     "included": true,
     "name": "Štefan Gašparovič",
     "given_names": [
@@ -6507,13 +6507,13 @@
         "name": "Klub HLAS - sociálna demokracia",
         "classification": "groups",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:1",
         "name": "Klub HLAS - sociálna demokracia",
         "classification": "groups",
-        "since": "2026-06-17",
+        "since": "2026-06-18",
         "until": ""
       }
     ],
@@ -6522,11 +6522,11 @@
   {
     "person_id": "nrsr:person:899",
     "dims": [
-      -0.8578945080454069,
-      0.01558960327773173,
-      0.003516704544092655
+      -0.8579042808304506,
+      0.01551111481357742,
+      0.0035302613907484282
     ],
-    "weight": 0.9916665276828055,
+    "weight": 0.9916774469360902,
     "included": true,
     "name": "Peter Náhlik",
     "given_names": [
@@ -6548,13 +6548,13 @@
         "name": "Klub HLAS - sociálna demokracia",
         "classification": "groups",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:1",
         "name": "Klub HLAS - sociálna demokracia",
         "classification": "groups",
-        "since": "2026-06-17",
+        "since": "2026-06-18",
         "until": ""
       }
     ],
@@ -6563,11 +6563,11 @@
   {
     "person_id": "nrsr:person:900",
     "dims": [
-      -0.8605077619630902,
-      0.01606089950578055,
-      0.0013289200363797201
+      -0.8605134939227856,
+      0.01598194427632165,
+      0.0013481956920470067
     ],
-    "weight": 0.9996386419608955,
+    "weight": 0.9996391154441934,
     "included": true,
     "name": "František Petro",
     "given_names": [
@@ -6589,13 +6589,13 @@
         "name": "Klub SMER - sociálna demokracia",
         "classification": "groups",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:5",
         "name": "Klub SMER - sociálna demokracia",
         "classification": "groups",
-        "since": "2026-06-17",
+        "since": "2026-06-18",
         "until": ""
       }
     ],
@@ -6604,11 +6604,11 @@
   {
     "person_id": "nrsr:person:905",
     "dims": [
-      1.1095246546210955,
-      0.021286521379591698,
-      -0.24465323355386437
+      1.109567130495888,
+      0.021386033036864475,
+      -0.24443400430882442
     ],
-    "weight": 0.7020741951444599,
+    "weight": 0.7021647521278309,
     "included": true,
     "name": "Veronika Remišová",
     "given_names": [
@@ -6630,13 +6630,13 @@
         "name": "Klub SLOVENSKO - ZA ĽUDÍ",
         "classification": "groups",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:4",
         "name": "Klub SLOVENSKO - ZA ĽUDÍ",
         "classification": "groups",
-        "since": "2026-06-17",
+        "since": "2026-06-18",
         "until": ""
       }
     ],
@@ -6645,11 +6645,11 @@
   {
     "person_id": "nrsr:person:907",
     "dims": [
-      1.0736285193351396,
-      0.0030680259340618876,
-      -0.2829690372100001
+      1.0737101451048021,
+      0.0031294304795686425,
+      -0.28273520796676666
     ],
-    "weight": 0.774784991966733,
+    "weight": 0.7747802768262148,
     "included": true,
     "name": "Marek Krajčí",
     "given_names": [
@@ -6671,13 +6671,13 @@
         "name": "Klub SLOVENSKO - ZA ĽUDÍ",
         "classification": "groups",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:4",
         "name": "Klub SLOVENSKO - ZA ĽUDÍ",
         "classification": "groups",
-        "since": "2026-06-17",
+        "since": "2026-06-18",
         "until": ""
       }
     ],
@@ -6686,11 +6686,11 @@
   {
     "person_id": "nrsr:person:910",
     "dims": [
-      1.110986519602119,
-      0.03196024372386359,
-      -0.2376391689642364
+      1.1109235575374548,
+      0.032136831787666915,
+      -0.2377034347446615
     ],
-    "weight": 0.8944723338725907,
+    "weight": 0.893300317023202,
     "included": true,
     "name": "Gábor Grendel",
     "given_names": [
@@ -6712,13 +6712,13 @@
         "name": "Klub SLOVENSKO - ZA ĽUDÍ",
         "classification": "groups",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:4",
         "name": "Klub SLOVENSKO - ZA ĽUDÍ",
         "classification": "groups",
-        "since": "2026-06-17",
+        "since": "2026-06-18",
         "until": ""
       }
     ],
@@ -6728,7 +6728,7 @@
     "person_id": "nrsr:person:918",
     "dims": [
       0.0,
-      -0.0,
+      0.0,
       0.0
     ],
     "weight": 0.0,
@@ -6754,11 +6754,11 @@
   {
     "person_id": "nrsr:person:92",
     "dims": [
-      1.0076225878766303,
-      -0.1136091796006719,
-      -0.3218871488745398
+      1.0077980662773691,
+      -0.11353936096580615,
+      -0.32173329064407635
     ],
-    "weight": 0.7452425824313282,
+    "weight": 0.7452765763715001,
     "included": true,
     "name": "František Mikloško",
     "given_names": [
@@ -6788,11 +6788,11 @@
   {
     "person_id": "nrsr:person:929",
     "dims": [
-      -0.851200459286376,
-      0.01609508453961709,
-      0.0022366096664373516
+      -0.8512195739348233,
+      0.01602885331538498,
+      0.0022454758452498443
     ],
-    "weight": 0.9887200698254919,
+    "weight": 0.9887348497887436,
     "included": true,
     "name": "Andrej Danko",
     "given_names": [
@@ -6814,13 +6814,13 @@
         "name": "Klub Slovenská národná strana",
         "classification": "groups",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:7",
         "name": "Klub Slovenská národná strana",
         "classification": "groups",
-        "since": "2026-06-17",
+        "since": "2026-06-18",
         "until": ""
       }
     ],
@@ -6829,11 +6829,11 @@
   {
     "person_id": "nrsr:person:930",
     "dims": [
-      -0.857695547930507,
-      0.015332326848614013,
-      0.0029794148929925823
+      -0.8577054227430864,
+      0.015255307805519104,
+      0.0029956661789281073
     ],
-    "weight": 0.997414900181791,
+    "weight": 0.9974182874084602,
     "included": true,
     "name": "Dušan Tittel",
     "given_names": [
@@ -6855,13 +6855,13 @@
         "name": "Klub HLAS - sociálna demokracia",
         "classification": "groups",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:1",
         "name": "Klub HLAS - sociálna demokracia",
         "classification": "groups",
-        "since": "2026-06-17",
+        "since": "2026-06-18",
         "until": ""
       }
     ],
@@ -6870,11 +6870,11 @@
   {
     "person_id": "nrsr:person:931",
     "dims": [
-      -0.8528567432881463,
-      0.012063015077577777,
-      0.0023717233035422214
+      -0.8528736972577953,
+      0.012001124819939459,
+      0.0023813527880399725
     ],
-    "weight": 0.9965087254068059,
+    "weight": 0.9965132999838989,
     "included": true,
     "name": "Karol Farkašovský",
     "given_names": [
@@ -6896,13 +6896,13 @@
         "name": "Klub Slovenská národná strana",
         "classification": "groups",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:7",
         "name": "Klub Slovenská národná strana",
         "classification": "groups",
-        "since": "2026-06-17",
+        "since": "2026-06-18",
         "until": ""
       }
     ],
@@ -6912,7 +6912,7 @@
     "person_id": "nrsr:person:940",
     "dims": [
       0.0,
-      -0.0,
+      0.0,
       0.0
     ],
     "weight": 0.0,
@@ -6939,7 +6939,7 @@
     "person_id": "nrsr:person:941",
     "dims": [
       0.0,
-      -0.0,
+      0.0,
       0.0
     ],
     "weight": 0.0,
@@ -6965,11 +6965,11 @@
   {
     "person_id": "nrsr:person:961",
     "dims": [
-      0.9873846316506254,
-      -0.15001675388367006,
-      -0.3874578032184874
+      0.9876147047294404,
+      -0.1500191660377127,
+      -0.38715822892810214
     ],
-    "weight": 0.9502938118825642,
+    "weight": 0.9503589413312754,
     "included": true,
     "name": "Igor Janckulík",
     "given_names": [
@@ -6999,11 +6999,11 @@
   {
     "person_id": "nrsr:person:962",
     "dims": [
-      1.0808190302189455,
-      0.014111973009861752,
-      0.2593925566066083
+      1.0809400019969757,
+      0.013933499079670267,
+      0.2591608890776945
     ],
-    "weight": 0.7896896212411816,
+    "weight": 0.7899651885205399,
     "included": true,
     "name": "Simona Petrík",
     "given_names": [
@@ -7025,13 +7025,13 @@
         "name": "Klub Progresívne Slovensko",
         "classification": "groups",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:3",
         "name": "Klub Progresívne Slovensko",
         "classification": "groups",
-        "since": "2026-06-17",
+        "since": "2026-06-18",
         "until": ""
       }
     ],
@@ -7040,11 +7040,11 @@
   {
     "person_id": "nrsr:person:966",
     "dims": [
-      1.0385663272268462,
-      -0.4834955748906729,
-      -0.02295683233512936
+      1.0387118982772297,
+      -0.48362216196977753,
+      -0.022894965389070477
     ],
-    "weight": 0.706454966449296,
+    "weight": 0.7068395951430491,
     "included": true,
     "name": "Karol Galek",
     "given_names": [
@@ -7066,13 +7066,13 @@
         "name": "Klub Sloboda a Solidarita",
         "classification": "groups",
         "since": "2024-09-10",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:6",
         "name": "Klub Sloboda a Solidarita",
         "classification": "groups",
-        "since": "2026-06-17",
+        "since": "2026-06-18",
         "until": ""
       }
     ],
@@ -7081,11 +7081,11 @@
   {
     "person_id": "nrsr:person:971",
     "dims": [
-      1.0715801659447848,
-      0.05456571187814794,
-      -0.024716776608517264
+      1.0717106003311752,
+      0.054383605743836216,
+      -0.024431491735288215
     ],
-    "weight": 0.8427925749261997,
+    "weight": 0.8429985620138469,
     "included": true,
     "name": "Branislav Gröhling",
     "given_names": [
@@ -7107,13 +7107,13 @@
         "name": "Klub Sloboda a Solidarita",
         "classification": "groups",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:6",
         "name": "Klub Sloboda a Solidarita",
         "classification": "groups",
-        "since": "2026-06-17",
+        "since": "2026-06-18",
         "until": ""
       }
     ],
@@ -7122,11 +7122,11 @@
   {
     "person_id": "nrsr:person:974",
     "dims": [
-      -0.7565329940325688,
-      -0.6760698488239747,
-      0.08120627267470064
+      -0.7564889969071673,
+      -0.676105190595494,
+      0.08103535115019497
     ],
-    "weight": 0.04321286212245034,
+    "weight": 0.04315624080438391,
     "included": false,
     "name": "Martin Nemky",
     "given_names": [
@@ -7157,11 +7157,11 @@
   {
     "person_id": "nrsr:person:976",
     "dims": [
-      1.0343071602952951,
-      0.08937020243052077,
-      -0.08750829746490725
+      1.0345490634626535,
+      0.08906232245927832,
+      -0.08710392763214694
     ],
-    "weight": 0.6967872490646387,
+    "weight": 0.6971845452576994,
     "included": true,
     "name": "Jana Cigániková",
     "given_names": [
@@ -7198,11 +7198,11 @@
   {
     "person_id": "nrsr:person:991",
     "dims": [
-      1.0632921542864053,
-      0.029390474653744454,
-      -0.061376493001940195
+      1.0634213414127807,
+      0.02922522219402084,
+      -0.06106255459294232
     ],
-    "weight": 0.9306970874542049,
+    "weight": 0.9307878942663771,
     "included": true,
     "name": "Marián Viskupič",
     "given_names": [
@@ -7224,13 +7224,13 @@
         "name": "Klub Sloboda a Solidarita",
         "classification": "groups",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:6",
         "name": "Klub Sloboda a Solidarita",
         "classification": "groups",
-        "since": "2026-06-17",
+        "since": "2026-06-18",
         "until": ""
       }
     ],
@@ -7239,11 +7239,11 @@
   {
     "person_id": "nrsr:person:997",
     "dims": [
-      -0.8601717489864189,
-      0.016381872371776164,
-      0.012793424945344384
+      -0.8601802741743074,
+      0.016300585610144296,
+      0.012812875697494983
     ],
-    "weight": 0.9626300194021471,
+    "weight": 0.9626789848595048,
     "included": true,
     "name": "Ján Blcháč",
     "given_names": [
@@ -7265,13 +7265,13 @@
         "name": "Klub HLAS - sociálna demokracia",
         "classification": "groups",
         "since": "2023-11-14",
-        "until": "2026-06-17"
+        "until": "2026-06-18"
       },
       {
         "id": "nrsr:org:club:1",
         "name": "Klub HLAS - sociálna demokracia",
         "classification": "groups",
-        "since": "2026-06-17",
+        "since": "2026-06-18",
         "until": ""
       }
     ],
