@@ -144,24 +144,18 @@
         "name": "Národná rada Slovenskej republiky",
         "classification": "parliament",
         "since": "2023-10-25",
-        "until": ""
+        "until": "2025-11-25"
       },
       {
         "id": "nrsr:org:club:1",
         "name": "Klub HLAS - sociálna demokracia",
         "classification": "groups",
         "since": "2025-11-25",
-        "until": "2026-06-18"
-      },
-      {
-        "id": "nrsr:org:club:1",
-        "name": "Klub HLAS - sociálna demokracia",
-        "classification": "groups",
-        "since": "2026-06-18",
         "until": ""
       }
     ],
-    "since": "2023-10-25"
+    "since": "2023-10-25",
+    "until": "2025-11-25"
   },
   {
     "person_id": "nrsr:person:1025",
@@ -2326,7 +2320,7 @@
         "name": "Národná rada Slovenskej republiky",
         "classification": "parliament",
         "since": "2023-10-25",
-        "until": "2024-07-12"
+        "until": "2024-06-28"
       },
       {
         "id": "nrsr:org:club:5",
@@ -2337,7 +2331,7 @@
       }
     ],
     "since": "2023-10-25",
-    "until": "2024-07-12"
+    "until": "2024-06-28"
   },
   {
     "person_id": "nrsr:person:1154",
@@ -4106,7 +4100,7 @@
         "name": "Národná rada Slovenskej republiky",
         "classification": "parliament",
         "since": "2023-10-25",
-        "until": ""
+        "until": "2025-03-20"
       },
       {
         "id": "nrsr:org:club:1",
@@ -4116,14 +4110,15 @@
         "until": "2026-06-18"
       },
       {
-        "id": "nrsr:org:club:1",
-        "name": "Klub HLAS - sociálna demokracia",
+        "id": "nrsr:org:nezavisli",
+        "name": "Nezávislí",
         "classification": "groups",
         "since": "2026-06-18",
         "until": ""
       }
     ],
-    "since": "2023-10-25"
+    "since": "2023-10-25",
+    "until": "2025-03-20"
   },
   {
     "person_id": "nrsr:person:1203",
@@ -4763,13 +4758,6 @@
         "classification": "parliament",
         "since": "2023-10-25",
         "until": "2025-03-05"
-      },
-      {
-        "id": "nrsr:org:nezavisli",
-        "name": "Nezávislí",
-        "classification": "groups",
-        "since": "2023-10-25",
-        "until": ""
       }
     ],
     "since": "2023-10-25",
@@ -6424,7 +6412,7 @@
         "name": "Národná rada Slovenskej republiky",
         "classification": "parliament",
         "since": "2023-10-25",
-        "until": "2024-07-12"
+        "until": "2024-06-28"
       },
       {
         "id": "nrsr:org:club:5",
@@ -6435,7 +6423,7 @@
       }
     ],
     "since": "2023-10-25",
-    "until": "2024-07-12"
+    "until": "2024-06-28"
   },
   {
     "person_id": "nrsr:person:891",

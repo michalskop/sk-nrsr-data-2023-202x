@@ -44,7 +44,7 @@ nrsr:person:1192,Ivan Hazucha,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx
 nrsr:person:859,Alojz Hlina,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=859&ImageWidth=140,,Klub Sloboda a Solidarita,,0.7346387576,73,4443,3264,1169
 nrsr:person:1183,Ján Horecký,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1183&ImageWidth=140,,Klub KDH,,0.7533198289,75,4443,3347,1096
 nrsr:person:1219,Ján Horváth,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1219&ImageWidth=140,,Klub SMER - sociálna demokracia,,0.9725490196,97,3060,2976,84
-nrsr:person:1202,Ján Hrubý,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1202&ImageWidth=140,,Klub HLAS - sociálna demokracia,,0.9707470747,97,2222,2157,48
+nrsr:person:1202,Ján Hrubý,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1202&ImageWidth=140,,Nezávislí,,0.9707470747,97,2222,2157,48
 nrsr:person:1188,Július Jakab,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1188&ImageWidth=140,,Klub SLOVENSKO - ZA ĽUDÍ,,0.8134143597,81,4443,3614,829
 nrsr:person:1169,Karol Janas,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1169&ImageWidth=140,,Klub HLAS - sociálna demokracia,,0.9781679046,98,4443,4346,97
 nrsr:person:961,Igor Janckulík,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=961&ImageWidth=140,,Klub KDH,,0.8611298672,86,4443,3826,612
@@ -59,7 +59,6 @@ nrsr:person:1158,Daniel Karas,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx
 nrsr:person:873,Marián Kéry,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=873&ImageWidth=140,,Klub SMER - sociálna demokracia,,0.9720909296,97,4443,4319,124
 nrsr:person:1125,Štefan Kišš,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1125&ImageWidth=140,,Klub Progresívne Slovensko,,0.6875984695,69,4443,3055,1388
 nrsr:person:1139,Dana Kleinert,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1139&ImageWidth=140,,Klub Progresívne Slovensko,,0.7629979743,76,4443,3390,1000
-nrsr:person:1023,Peter Kmec,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1023&ImageWidth=140,,Klub HLAS - sociálna demokracia,,0.9593326382,96,959,920,39
 nrsr:person:1224,Monika Kolejáková,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1224&ImageWidth=140,,Klub KDH,,0.8866666667,89,750,665,85
 nrsr:person:1025,Mária Kolíková,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1025&ImageWidth=140,,Klub Sloboda a Solidarita,,0.8282691875,83,4443,3680,763
 nrsr:person:1124,Ingrid Kosová,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1124&ImageWidth=140,,Klub Progresívne Slovensko,,0.844249381,84,4443,3751,647
@@ -107,7 +106,6 @@ nrsr:person:1054,Jozef Pročko,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.asp
 nrsr:person:1131,Ondrej Prostredník,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1131&ImageWidth=140,,Klub Progresívne Slovensko,,0.9047940581,90,4443,4020,378
 nrsr:person:879,Róbert Puci,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=879&ImageWidth=140,,Klub HLAS - sociálna demokracia,,0.9725410758,97,4443,4321,122
 nrsr:person:1208,Paula Puškárová,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1208&ImageWidth=140,,Klub HLAS - sociálna demokracia,,0.9611123672,96,4423,4251,172
-nrsr:person:1220,Miroslav Radačovský,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1220&ImageWidth=140,,Nezávislí,,0.9407507915,94,2211,2080,131
 nrsr:person:761,Richard Raši,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=761&ImageWidth=140,,Klub HLAS - sociálna demokracia,,0.9756647138,98,2219,2165,54
 nrsr:person:905,Veronika Remišová,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=905&ImageWidth=140,,Klub SLOVENSKO - ZA ĽUDÍ,,0.658113887,66,4443,2924,1519
 nrsr:person:689,Ján Richter,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=689&ImageWidth=140,,Klub SMER - sociálna demokracia,,0.9662390277,97,4443,4293,150
@@ -149,10 +147,13 @@ nrsr:person:991,Marián Viskupič,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.
 nrsr:person:1176,Erik Vlček,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1176&ImageWidth=140,,Klub HLAS - sociálna demokracia,,0.9635381499,96,4443,4281,162
 nrsr:person:1019,Viliam Zahorčák,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1019&ImageWidth=140,,Klub SMER - sociálna demokracia,,0.9768174657,98,4443,4340,103
 nrsr:person:691,Peter Žiga,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=691&ImageWidth=140,,Klub HLAS - sociálna demokracia,,0.9480081026,95,4443,4212,231
+nrsr:person:1226,Milan Kováč,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1226&ImageWidth=140,,,,,,0,0,0
+nrsr:person:1197,Peter Slyško,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1197&ImageWidth=140,,Klub HLAS - sociálna demokracia,,0.979902383,98,3483,3413,70
+nrsr:person:1023,Peter Kmec,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1023&ImageWidth=140,,Klub HLAS - sociálna demokracia,,0.9593326382,96,959,920,39
+nrsr:person:1220,Miroslav Radačovský,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1220&ImageWidth=140,,,,0.9407507915,94,2211,2080,131
 nrsr:person:1181,Jozef Hajko,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1181&ImageWidth=140,,Klub KDH,,0.7436221268,74,3959,2944,1015
 nrsr:person:1185,Martin Šmilňák,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1185&ImageWidth=140,,Klub KDH,,0.7649607365,76,3693,2825,863
 nrsr:person:732,Jana Vaľová,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=732&ImageWidth=140,,Klub SMER - sociálna demokracia,,0.8557471264,86,3480,2978,494
-nrsr:person:1197,Peter Slyško,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1197&ImageWidth=140,,Klub HLAS - sociálna demokracia,,0.979902383,98,3483,3413,70
 nrsr:person:1137,Viera Kalmárová,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1137&ImageWidth=140,,Klub Progresívne Slovensko,,0.8888888889,89,2952,2624,283
 nrsr:person:147,Anna Záborská,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=147&ImageWidth=140,,Klub SLOVENSKO - ZA ĽUDÍ,,0.5431972789,54,2940,1597,1343
 nrsr:person:1175,Radomír Šalitroš,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1175&ImageWidth=140,,Klub HLAS - sociálna demokracia,,0.9614695341,96,2232,2146,86
@@ -161,13 +162,13 @@ nrsr:person:1148,Rudolf Huliak,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.asp
 nrsr:person:1168,Zuzana Dolinková,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1168&ImageWidth=140,,,,1.0,100,8,8,0
 nrsr:person:767,Richard Sulík,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=767&ImageWidth=140,,Klub Sloboda a Solidarita,,0.4803149606,48,1397,671,721
 nrsr:person:885,Ľuboš Blaha,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=885&ImageWidth=140,,Klub SMER - sociálna demokracia,,0.9818577649,98,1378,1353,25
-nrsr:person:1153,Erik Kaliňák,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1153&ImageWidth=140,,Klub SMER - sociálna demokracia,,0.9934687954,99,1378,1369,9
 nrsr:person:238,Juraj Blanár,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=238&ImageWidth=140,,,,1.0,100,8,8,0
 nrsr:person:1164,Tomáš Drucker,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1164&ImageWidth=140,,,,1.0,100,8,8,0
 nrsr:person:40,Robert Fico,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=40&ImageWidth=140,,,,1.0,100,8,8,0
 nrsr:person:1155,Juraj Gedra,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1155&ImageWidth=140,,,,1.0,100,20,20,0
 nrsr:person:1136,Tomáš Hellebrandt,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1136&ImageWidth=140,,Klub Progresívne Slovensko,,0.3487544484,35,281,98,183
 nrsr:person:790,Igor Choma,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=790&ImageWidth=140,,,,1.0,100,20,20,0
+nrsr:person:1153,Erik Kaliňák,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1153&ImageWidth=140,,Klub SMER - sociálna demokracia,,0.9934687954,99,1378,1369,9
 nrsr:person:1165,Michal Kaliňák,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1165&ImageWidth=140,,,,1.0,100,20,20,0
 nrsr:person:271,Robert Kaliňák,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=271&ImageWidth=140,,,,1.0,100,8,8,0
 nrsr:person:880,Ladislav Kamenický,https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=880&ImageWidth=140,,,,1.0,100,8,8,0

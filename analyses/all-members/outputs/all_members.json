@@ -1906,7 +1906,7 @@
           "id": "nrsr:org:13",
           "name": "Národná rada Slovenskej republiky",
           "start_date": "2023-10-25",
-          "end_date": ""
+          "end_date": "2025-03-20"
         }
       ],
       "groups": [
@@ -1917,8 +1917,8 @@
           "end_date": "2026-06-18"
         },
         {
-          "id": "nrsr:org:club:1",
-          "name": "Klub HLAS - sociálna demokracia",
+          "id": "nrsr:org:nezavisli",
+          "name": "Nezávislí",
           "start_date": "2026-06-18",
           "end_date": ""
         }
@@ -2501,48 +2501,6 @@
         {
           "id": "nrsr:org:club:3",
           "name": "Klub Progresívne Slovensko",
-          "start_date": "2026-06-18",
-          "end_date": ""
-        }
-      ]
-    }
-  },
-  {
-    "id": "nrsr:person:1023",
-    "given_name": "Peter",
-    "family_name": "Kmec",
-    "name": "Peter Kmec",
-    "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1023&ImageWidth=140",
-    "identifiers": [
-      {
-        "scheme": "nrsr",
-        "identifier": "1023"
-      }
-    ],
-    "sources": [
-      {
-        "url": "https://www.nrsr.sk/web/Default.aspx?sid=poslanci/poslanec&PoslanecID=1023"
-      }
-    ],
-    "memberships": {
-      "parliament": [
-        {
-          "id": "nrsr:org:13",
-          "name": "Národná rada Slovenskej republiky",
-          "start_date": "2023-10-25",
-          "end_date": ""
-        }
-      ],
-      "groups": [
-        {
-          "id": "nrsr:org:club:1",
-          "name": "Klub HLAS - sociálna demokracia",
-          "start_date": "2025-11-25",
-          "end_date": "2026-06-18"
-        },
-        {
-          "id": "nrsr:org:club:1",
-          "name": "Klub HLAS - sociálna demokracia",
           "start_date": "2026-06-18",
           "end_date": ""
         }
@@ -4500,42 +4458,6 @@
     }
   },
   {
-    "id": "nrsr:person:1220",
-    "given_name": "Miroslav",
-    "family_name": "Radačovský",
-    "name": "Miroslav Radačovský",
-    "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1220&ImageWidth=140",
-    "identifiers": [
-      {
-        "scheme": "nrsr",
-        "identifier": "1220"
-      }
-    ],
-    "sources": [
-      {
-        "url": "https://www.nrsr.sk/web/Default.aspx?sid=poslanci/poslanec&PoslanecID=1220"
-      }
-    ],
-    "memberships": {
-      "parliament": [
-        {
-          "id": "nrsr:org:13",
-          "name": "Národná rada Slovenskej republiky",
-          "start_date": "2023-10-25",
-          "end_date": "2025-03-05"
-        }
-      ],
-      "groups": [
-        {
-          "id": "nrsr:org:nezavisli",
-          "name": "Nezávislí",
-          "start_date": "2023-10-25",
-          "end_date": ""
-        }
-      ]
-    }
-  },
-  {
     "id": "nrsr:person:761",
     "given_name": "Richard",
     "family_name": "Raši",
@@ -6246,6 +6168,134 @@
     }
   },
   {
+    "id": "nrsr:person:1226",
+    "given_name": "Milan",
+    "family_name": "Kováč",
+    "name": "Milan Kováč",
+    "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1226&ImageWidth=140",
+    "identifiers": [
+      {
+        "scheme": "nrsr",
+        "identifier": "1226"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.nrsr.sk/web/Default.aspx?sid=poslanci/poslanec&PoslanecID=1226"
+      }
+    ],
+    "memberships": {
+      "parliament": [
+        {
+          "id": "nrsr:org:13",
+          "name": "Národná rada Slovenskej republiky",
+          "start_date": "2023-10-25",
+          "end_date": "2026-07-01"
+        }
+      ]
+    }
+  },
+  {
+    "id": "nrsr:person:1197",
+    "given_name": "Peter",
+    "family_name": "Slyško",
+    "name": "Peter Slyško",
+    "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1197&ImageWidth=140",
+    "identifiers": [
+      {
+        "scheme": "nrsr",
+        "identifier": "1197"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.nrsr.sk/web/Default.aspx?sid=poslanci/poslanec&PoslanecID=1197"
+      }
+    ],
+    "memberships": {
+      "parliament": [
+        {
+          "id": "nrsr:org:13",
+          "name": "Národná rada Slovenskej republiky",
+          "start_date": "2023-10-25",
+          "end_date": "2025-11-19"
+        }
+      ],
+      "groups": [
+        {
+          "id": "nrsr:org:club:1",
+          "name": "Klub HLAS - sociálna demokracia",
+          "start_date": "2023-11-14",
+          "end_date": ""
+        }
+      ]
+    }
+  },
+  {
+    "id": "nrsr:person:1023",
+    "given_name": "Peter",
+    "family_name": "Kmec",
+    "name": "Peter Kmec",
+    "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1023&ImageWidth=140",
+    "identifiers": [
+      {
+        "scheme": "nrsr",
+        "identifier": "1023"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.nrsr.sk/web/Default.aspx?sid=poslanci/poslanec&PoslanecID=1023"
+      }
+    ],
+    "memberships": {
+      "parliament": [
+        {
+          "id": "nrsr:org:13",
+          "name": "Národná rada Slovenskej republiky",
+          "start_date": "2023-10-25",
+          "end_date": "2025-11-25"
+        }
+      ],
+      "groups": [
+        {
+          "id": "nrsr:org:club:1",
+          "name": "Klub HLAS - sociálna demokracia",
+          "start_date": "2025-11-25",
+          "end_date": ""
+        }
+      ]
+    }
+  },
+  {
+    "id": "nrsr:person:1220",
+    "given_name": "Miroslav",
+    "family_name": "Radačovský",
+    "name": "Miroslav Radačovský",
+    "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1220&ImageWidth=140",
+    "identifiers": [
+      {
+        "scheme": "nrsr",
+        "identifier": "1220"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.nrsr.sk/web/Default.aspx?sid=poslanci/poslanec&PoslanecID=1220"
+      }
+    ],
+    "memberships": {
+      "parliament": [
+        {
+          "id": "nrsr:org:13",
+          "name": "Národná rada Slovenskej republiky",
+          "start_date": "2023-10-25",
+          "end_date": "2025-03-05"
+        }
+      ]
+    }
+  },
+  {
     "id": "nrsr:person:1181",
     "given_name": "Jozef",
     "family_name": "Hajko",
@@ -6347,42 +6397,6 @@
         {
           "id": "nrsr:org:club:5",
           "name": "Klub SMER - sociálna demokracia",
-          "start_date": "2023-11-14",
-          "end_date": ""
-        }
-      ]
-    }
-  },
-  {
-    "id": "nrsr:person:1197",
-    "given_name": "Peter",
-    "family_name": "Slyško",
-    "name": "Peter Slyško",
-    "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1197&ImageWidth=140",
-    "identifiers": [
-      {
-        "scheme": "nrsr",
-        "identifier": "1197"
-      }
-    ],
-    "sources": [
-      {
-        "url": "https://www.nrsr.sk/web/Default.aspx?sid=poslanci/poslanec&PoslanecID=1197"
-      }
-    ],
-    "memberships": {
-      "parliament": [
-        {
-          "id": "nrsr:org:13",
-          "name": "Národná rada Slovenskej republiky",
-          "start_date": "2023-10-25",
-          "end_date": "2025-11-19"
-        }
-      ],
-      "groups": [
-        {
-          "id": "nrsr:org:club:1",
-          "name": "Klub HLAS - sociálna demokracia",
           "start_date": "2023-11-14",
           "end_date": ""
         }
@@ -6656,43 +6670,7 @@
           "id": "nrsr:org:13",
           "name": "Národná rada Slovenskej republiky",
           "start_date": "2023-10-25",
-          "end_date": "2024-07-12"
-        }
-      ],
-      "groups": [
-        {
-          "id": "nrsr:org:club:5",
-          "name": "Klub SMER - sociálna demokracia",
-          "start_date": "2023-11-14",
-          "end_date": ""
-        }
-      ]
-    }
-  },
-  {
-    "id": "nrsr:person:1153",
-    "given_name": "Erik",
-    "family_name": "Kaliňák",
-    "name": "Erik Kaliňák",
-    "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1153&ImageWidth=140",
-    "identifiers": [
-      {
-        "scheme": "nrsr",
-        "identifier": "1153"
-      }
-    ],
-    "sources": [
-      {
-        "url": "https://www.nrsr.sk/web/Default.aspx?sid=poslanci/poslanec&PoslanecID=1153"
-      }
-    ],
-    "memberships": {
-      "parliament": [
-        {
-          "id": "nrsr:org:13",
-          "name": "Národná rada Slovenskej republiky",
-          "start_date": "2023-10-25",
-          "end_date": "2024-07-12"
+          "end_date": "2024-06-28"
         }
       ],
       "groups": [
@@ -6876,6 +6854,42 @@
           "id": "nrsr:org:13",
           "name": "Národná rada Slovenskej republiky",
           "start_date": "2023-10-25",
+          "end_date": ""
+        }
+      ]
+    }
+  },
+  {
+    "id": "nrsr:person:1153",
+    "given_name": "Erik",
+    "family_name": "Kaliňák",
+    "name": "Erik Kaliňák",
+    "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1153&ImageWidth=140",
+    "identifiers": [
+      {
+        "scheme": "nrsr",
+        "identifier": "1153"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.nrsr.sk/web/Default.aspx?sid=poslanci/poslanec&PoslanecID=1153"
+      }
+    ],
+    "memberships": {
+      "parliament": [
+        {
+          "id": "nrsr:org:13",
+          "name": "Národná rada Slovenskej republiky",
+          "start_date": "2023-10-25",
+          "end_date": "2024-06-28"
+        }
+      ],
+      "groups": [
+        {
+          "id": "nrsr:org:club:5",
+          "name": "Klub SMER - sociálna demokracia",
+          "start_date": "2023-11-14",
           "end_date": ""
         }
       ]

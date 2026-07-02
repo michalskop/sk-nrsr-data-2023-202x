@@ -200,9 +200,9 @@
   },
   {
     "person_id": "nrsr:person:976",
-    "rebelity_total": 119,
-    "rebelity_possible": 4094,
-    "rebelity": 0.029067,
+    "rebelity_total": 94,
+    "rebelity_possible": 4082,
+    "rebelity": 0.023028,
     "name": "Jana Cigániková",
     "given_names": [
       "Jana"
@@ -769,9 +769,9 @@
   },
   {
     "person_id": "nrsr:person:1008",
-    "rebelity_total": 76,
-    "rebelity_possible": 4269,
-    "rebelity": 0.017803,
+    "rebelity_total": 64,
+    "rebelity_possible": 4220,
+    "rebelity": 0.015166,
     "name": "Ján Ferenčák",
     "given_names": [
       "Ján"
@@ -865,9 +865,9 @@
   },
   {
     "person_id": "nrsr:person:785",
-    "rebelity_total": 957,
-    "rebelity_possible": 4034,
-    "rebelity": 0.237234,
+    "rebelity_total": 897,
+    "rebelity_possible": 3985,
+    "rebelity": 0.225094,
     "name": "Ľubomír Galko",
     "given_names": [
       "Ľubomír"
@@ -1453,9 +1453,9 @@
         "until": "2026-06-18"
       },
       {
-        "id": "nrsr:org:club:1",
+        "id": "nrsr:org:nezavisli",
         "classification": "group",
-        "name": "Klub HLAS - sociálna demokracia",
+        "name": "Nezávislí",
         "since": "2026-06-18"
       }
     ],
@@ -1903,38 +1903,6 @@
     "since": "2023-10-25",
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1139&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:1023",
-    "rebelity_total": 0,
-    "rebelity_possible": 916,
-    "rebelity": 0.0,
-    "name": "Peter Kmec",
-    "given_names": [
-      "Peter"
-    ],
-    "family_names": [
-      "Kmec"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:1",
-        "classification": "group",
-        "name": "Klub HLAS - sociálna demokracia",
-        "since": "2025-11-25",
-        "until": "2026-06-18"
-      },
-      {
-        "id": "nrsr:org:club:1",
-        "classification": "group",
-        "name": "Klub HLAS - sociálna demokracia",
-        "since": "2026-06-18"
-      }
-    ],
-    "since": "2023-10-25",
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1023&ImageWidth=140"
     }
   },
   {
@@ -2476,9 +2444,9 @@
   },
   {
     "person_id": "nrsr:person:1152",
-    "rebelity_total": 13,
-    "rebelity_possible": 4210,
-    "rebelity": 0.003088,
+    "rebelity_total": 65,
+    "rebelity_possible": 4161,
+    "rebelity": 0.015621,
     "name": "Pavel Ľupták",
     "given_names": [
       "Pavel"
@@ -2622,9 +2590,9 @@
   },
   {
     "person_id": "nrsr:person:1173",
-    "rebelity_total": 13,
-    "rebelity_possible": 4286,
-    "rebelity": 0.003033,
+    "rebelity_total": 67,
+    "rebelity_possible": 4237,
+    "rebelity": 0.015813,
     "name": "Roman Malatinec",
     "given_names": [
       "Roman"
@@ -3414,31 +3382,6 @@
     }
   },
   {
-    "person_id": "nrsr:person:1220",
-    "rebelity_total": 31,
-    "rebelity_possible": 2797,
-    "rebelity": 0.011083,
-    "name": "Miroslav Radačovský",
-    "given_names": [
-      "Miroslav"
-    ],
-    "family_names": [
-      "Radačovský"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:nezavisli",
-        "classification": "group",
-        "name": "Nezávislí",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1220&ImageWidth=140"
-    }
-  },
-  {
     "person_id": "nrsr:person:761",
     "rebelity_total": 3,
     "rebelity_possible": 2164,
@@ -3945,9 +3888,9 @@
   },
   {
     "person_id": "nrsr:person:1150",
-    "rebelity_total": 16,
-    "rebelity_possible": 4210,
-    "rebelity": 0.0038,
+    "rebelity_total": 77,
+    "rebelity_possible": 4161,
+    "rebelity": 0.018505,
     "name": "Ivan Ševčík",
     "given_names": [
       "Ivan"
@@ -4514,9 +4457,9 @@
   },
   {
     "person_id": "nrsr:person:861",
-    "rebelity_total": 489,
-    "rebelity_possible": 4089,
-    "rebelity": 0.119589,
+    "rebelity_total": 448,
+    "rebelity_possible": 4041,
+    "rebelity": 0.110864,
     "name": "Richard Vašečka",
     "given_names": [
       "Richard"
@@ -4737,6 +4680,90 @@
     }
   },
   {
+    "person_id": "nrsr:person:1226",
+    "rebelity_total": 0,
+    "rebelity_possible": 0,
+    "rebelity": null,
+    "name": "Milan Kováč",
+    "given_names": [
+      "Milan"
+    ],
+    "family_names": [
+      "Kováč"
+    ],
+    "since": "2023-10-25",
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1226&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1197",
+    "rebelity_total": 2,
+    "rebelity_possible": 4339,
+    "rebelity": 0.000461,
+    "name": "Peter Slyško",
+    "given_names": [
+      "Peter"
+    ],
+    "family_names": [
+      "Slyško"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:1",
+        "classification": "group",
+        "name": "Klub HLAS - sociálna demokracia",
+        "since": "2023-11-14"
+      }
+    ],
+    "since": "2023-10-25",
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1197&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1023",
+    "rebelity_total": 0,
+    "rebelity_possible": 916,
+    "rebelity": 0.0,
+    "name": "Peter Kmec",
+    "given_names": [
+      "Peter"
+    ],
+    "family_names": [
+      "Kmec"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:1",
+        "classification": "group",
+        "name": "Klub HLAS - sociálna demokracia",
+        "since": "2025-11-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1023&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1220",
+    "rebelity_total": 0,
+    "rebelity_possible": 0,
+    "rebelity": null,
+    "name": "Miroslav Radačovský",
+    "given_names": [
+      "Miroslav"
+    ],
+    "family_names": [
+      "Radačovský"
+    ],
+    "since": "2023-10-25",
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1220&ImageWidth=140"
+    }
+  },
+  {
     "person_id": "nrsr:person:1181",
     "rebelity_total": 4,
     "rebelity_possible": 4039,
@@ -4809,31 +4836,6 @@
     "since": "2023-10-25",
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=732&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:1197",
-    "rebelity_total": 2,
-    "rebelity_possible": 4339,
-    "rebelity": 0.000461,
-    "name": "Peter Slyško",
-    "given_names": [
-      "Peter"
-    ],
-    "family_names": [
-      "Slyško"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:1",
-        "classification": "group",
-        "name": "Klub HLAS - sociálna demokracia",
-        "since": "2023-11-14"
-      }
-    ],
-    "since": "2023-10-25",
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1197&ImageWidth=140"
     }
   },
   {
@@ -5029,31 +5031,6 @@
     }
   },
   {
-    "person_id": "nrsr:person:1153",
-    "rebelity_total": 1,
-    "rebelity_possible": 4337,
-    "rebelity": 0.000231,
-    "name": "Erik Kaliňák",
-    "given_names": [
-      "Erik"
-    ],
-    "family_names": [
-      "Kaliňák"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:5",
-        "classification": "group",
-        "name": "Klub SMER - sociálna demokracia",
-        "since": "2023-11-14"
-      }
-    ],
-    "since": "2023-10-25",
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1153&ImageWidth=140"
-    }
-  },
-  {
     "person_id": "nrsr:person:238",
     "rebelity_total": 0,
     "rebelity_possible": 0,
@@ -5161,6 +5138,31 @@
     "since": "2023-10-25",
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=790&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1153",
+    "rebelity_total": 1,
+    "rebelity_possible": 4337,
+    "rebelity": 0.000231,
+    "name": "Erik Kaliňák",
+    "given_names": [
+      "Erik"
+    ],
+    "family_names": [
+      "Kaliňák"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:5",
+        "classification": "group",
+        "name": "Klub SMER - sociálna demokracia",
+        "since": "2023-11-14"
+      }
+    ],
+    "since": "2023-10-25",
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1153&ImageWidth=140"
     }
   },
   {

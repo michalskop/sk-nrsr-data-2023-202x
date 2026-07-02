@@ -1453,9 +1453,9 @@
         "until": "2026-06-18"
       },
       {
-        "id": "nrsr:org:club:1",
+        "id": "nrsr:org:nezavisli",
         "classification": "group",
-        "name": "Klub HLAS - sociálna demokracia",
+        "name": "Nezávislí",
         "since": "2026-06-18"
       }
     ],
@@ -1903,38 +1903,6 @@
     "since": "2023-10-25",
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1139&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:1023",
-    "govity_total": 912,
-    "govity_possible": 912,
-    "govity": 1.0,
-    "name": "Peter Kmec",
-    "given_names": [
-      "Peter"
-    ],
-    "family_names": [
-      "Kmec"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:1",
-        "classification": "group",
-        "name": "Klub HLAS - sociálna demokracia",
-        "since": "2025-11-25",
-        "until": "2026-06-18"
-      },
-      {
-        "id": "nrsr:org:club:1",
-        "classification": "group",
-        "name": "Klub HLAS - sociálna demokracia",
-        "since": "2026-06-18"
-      }
-    ],
-    "since": "2023-10-25",
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1023&ImageWidth=140"
     }
   },
   {
@@ -3414,31 +3382,6 @@
     }
   },
   {
-    "person_id": "nrsr:person:1220",
-    "govity_total": 2013,
-    "govity_possible": 2080,
-    "govity": 0.967788,
-    "name": "Miroslav Radačovský",
-    "given_names": [
-      "Miroslav"
-    ],
-    "family_names": [
-      "Radačovský"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:nezavisli",
-        "classification": "group",
-        "name": "Nezávislí",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1220&ImageWidth=140"
-    }
-  },
-  {
     "person_id": "nrsr:person:761",
     "govity_total": 2150,
     "govity_possible": 2157,
@@ -4737,6 +4680,90 @@
     }
   },
   {
+    "person_id": "nrsr:person:1226",
+    "govity_total": 0,
+    "govity_possible": 0,
+    "govity": null,
+    "name": "Milan Kováč",
+    "given_names": [
+      "Milan"
+    ],
+    "family_names": [
+      "Kováč"
+    ],
+    "since": "2023-10-25",
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1226&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1197",
+    "govity_total": 3395,
+    "govity_possible": 3402,
+    "govity": 0.997942,
+    "name": "Peter Slyško",
+    "given_names": [
+      "Peter"
+    ],
+    "family_names": [
+      "Slyško"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:1",
+        "classification": "group",
+        "name": "Klub HLAS - sociálna demokracia",
+        "since": "2023-11-14"
+      }
+    ],
+    "since": "2023-10-25",
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1197&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1023",
+    "govity_total": 912,
+    "govity_possible": 912,
+    "govity": 1.0,
+    "name": "Peter Kmec",
+    "given_names": [
+      "Peter"
+    ],
+    "family_names": [
+      "Kmec"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:1",
+        "classification": "group",
+        "name": "Klub HLAS - sociálna demokracia",
+        "since": "2025-11-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1023&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1220",
+    "govity_total": 2013,
+    "govity_possible": 2080,
+    "govity": 0.967788,
+    "name": "Miroslav Radačovský",
+    "given_names": [
+      "Miroslav"
+    ],
+    "family_names": [
+      "Radačovský"
+    ],
+    "since": "2023-10-25",
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1220&ImageWidth=140"
+    }
+  },
+  {
     "person_id": "nrsr:person:1181",
     "govity_total": 1747,
     "govity_possible": 2924,
@@ -4809,31 +4836,6 @@
     "since": "2023-10-25",
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=732&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:1197",
-    "govity_total": 3395,
-    "govity_possible": 3402,
-    "govity": 0.997942,
-    "name": "Peter Slyško",
-    "given_names": [
-      "Peter"
-    ],
-    "family_names": [
-      "Slyško"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:1",
-        "classification": "group",
-        "name": "Klub HLAS - sociálna demokracia",
-        "since": "2023-11-14"
-      }
-    ],
-    "since": "2023-10-25",
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1197&ImageWidth=140"
     }
   },
   {
@@ -5029,31 +5031,6 @@
     }
   },
   {
-    "person_id": "nrsr:person:1153",
-    "govity_total": 1347,
-    "govity_possible": 1349,
-    "govity": 0.998517,
-    "name": "Erik Kaliňák",
-    "given_names": [
-      "Erik"
-    ],
-    "family_names": [
-      "Kaliňák"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:5",
-        "classification": "group",
-        "name": "Klub SMER - sociálna demokracia",
-        "since": "2023-11-14"
-      }
-    ],
-    "since": "2023-10-25",
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1153&ImageWidth=140"
-    }
-  },
-  {
     "person_id": "nrsr:person:238",
     "govity_total": 0,
     "govity_possible": 0,
@@ -5161,6 +5138,31 @@
     "since": "2023-10-25",
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=790&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1153",
+    "govity_total": 1347,
+    "govity_possible": 1349,
+    "govity": 0.998517,
+    "name": "Erik Kaliňák",
+    "given_names": [
+      "Erik"
+    ],
+    "family_names": [
+      "Kaliňák"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:5",
+        "classification": "group",
+        "name": "Klub SMER - sociálna demokracia",
+        "since": "2023-11-14"
+      }
+    ],
+    "since": "2023-10-25",
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1153&ImageWidth=140"
     }
   },
   {

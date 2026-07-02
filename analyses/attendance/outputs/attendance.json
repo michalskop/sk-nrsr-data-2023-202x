@@ -1498,9 +1498,9 @@
         "until": "2026-06-18"
       },
       {
-        "id": "nrsr:org:club:1",
+        "id": "nrsr:org:nezavisli",
         "classification": "group",
-        "name": "Klub HLAS - sociálna demokracia",
+        "name": "Nezávislí",
         "since": "2026-06-18"
       }
     ],
@@ -1963,39 +1963,6 @@
     "present_share": 0.7629979743,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1139&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:1023",
-    "vote_events_total": 959,
-    "present": 920,
-    "absent": 39,
-    "name": "Peter Kmec",
-    "given_names": [
-      "Peter"
-    ],
-    "family_names": [
-      "Kmec"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:1",
-        "classification": "group",
-        "name": "Klub HLAS - sociálna demokracia",
-        "since": "2025-11-25",
-        "until": "2026-06-18"
-      },
-      {
-        "id": "nrsr:org:club:1",
-        "classification": "group",
-        "name": "Klub HLAS - sociálna demokracia",
-        "since": "2026-06-18"
-      }
-    ],
-    "since": "2023-10-25",
-    "present_share": 0.9593326382,
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1023&ImageWidth=140"
     }
   },
   {
@@ -3522,32 +3489,6 @@
     }
   },
   {
-    "person_id": "nrsr:person:1220",
-    "vote_events_total": 2211,
-    "present": 2080,
-    "absent": 131,
-    "name": "Miroslav Radačovský",
-    "given_names": [
-      "Miroslav"
-    ],
-    "family_names": [
-      "Radačovský"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:nezavisli",
-        "classification": "group",
-        "name": "Nezávislí",
-        "since": "2023-10-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "present_share": 0.9407507915,
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1220&ImageWidth=140"
-    }
-  },
-  {
     "person_id": "nrsr:person:761",
     "vote_events_total": 2219,
     "present": 2165,
@@ -4887,6 +4828,93 @@
     }
   },
   {
+    "person_id": "nrsr:person:1226",
+    "vote_events_total": 0,
+    "present": 0,
+    "absent": 0,
+    "name": "Milan Kováč",
+    "given_names": [
+      "Milan"
+    ],
+    "family_names": [
+      "Kováč"
+    ],
+    "since": "2023-10-25",
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1226&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1197",
+    "vote_events_total": 3483,
+    "present": 3413,
+    "absent": 70,
+    "name": "Peter Slyško",
+    "given_names": [
+      "Peter"
+    ],
+    "family_names": [
+      "Slyško"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:1",
+        "classification": "group",
+        "name": "Klub HLAS - sociálna demokracia",
+        "since": "2023-11-14"
+      }
+    ],
+    "since": "2023-10-25",
+    "present_share": 0.979902383,
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1197&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1023",
+    "vote_events_total": 959,
+    "present": 920,
+    "absent": 39,
+    "name": "Peter Kmec",
+    "given_names": [
+      "Peter"
+    ],
+    "family_names": [
+      "Kmec"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:1",
+        "classification": "group",
+        "name": "Klub HLAS - sociálna demokracia",
+        "since": "2025-11-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "present_share": 0.9593326382,
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1023&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1220",
+    "vote_events_total": 2211,
+    "present": 2080,
+    "absent": 131,
+    "name": "Miroslav Radačovský",
+    "given_names": [
+      "Miroslav"
+    ],
+    "family_names": [
+      "Radačovský"
+    ],
+    "since": "2023-10-25",
+    "present_share": 0.9407507915,
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1220&ImageWidth=140"
+    }
+  },
+  {
     "person_id": "nrsr:person:1181",
     "vote_events_total": 3959,
     "present": 2944,
@@ -4962,32 +4990,6 @@
     "present_share": 0.8557471264,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=732&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:1197",
-    "vote_events_total": 3483,
-    "present": 3413,
-    "absent": 70,
-    "name": "Peter Slyško",
-    "given_names": [
-      "Peter"
-    ],
-    "family_names": [
-      "Slyško"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:1",
-        "classification": "group",
-        "name": "Klub HLAS - sociálna demokracia",
-        "since": "2023-11-14"
-      }
-    ],
-    "since": "2023-10-25",
-    "present_share": 0.979902383,
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1197&ImageWidth=140"
     }
   },
   {
@@ -5191,32 +5193,6 @@
     }
   },
   {
-    "person_id": "nrsr:person:1153",
-    "vote_events_total": 1378,
-    "present": 1369,
-    "absent": 9,
-    "name": "Erik Kaliňák",
-    "given_names": [
-      "Erik"
-    ],
-    "family_names": [
-      "Kaliňák"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:5",
-        "classification": "group",
-        "name": "Klub SMER - sociálna demokracia",
-        "since": "2023-11-14"
-      }
-    ],
-    "since": "2023-10-25",
-    "present_share": 0.9934687954,
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1153&ImageWidth=140"
-    }
-  },
-  {
     "person_id": "nrsr:person:238",
     "vote_events_total": 8,
     "present": 8,
@@ -5330,6 +5306,32 @@
     "present_share": 1.0,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=790&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1153",
+    "vote_events_total": 1378,
+    "present": 1369,
+    "absent": 9,
+    "name": "Erik Kaliňák",
+    "given_names": [
+      "Erik"
+    ],
+    "family_names": [
+      "Kaliňák"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:5",
+        "classification": "group",
+        "name": "Klub SMER - sociálna demokracia",
+        "since": "2023-11-14"
+      }
+    ],
+    "since": "2023-10-25",
+    "present_share": 0.9934687954,
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1153&ImageWidth=140"
     }
   },
   {
