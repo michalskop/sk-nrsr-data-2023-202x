@@ -200,9 +200,9 @@
   },
   {
     "person_id": "nrsr:person:976",
-    "rebelity_total": 94,
-    "rebelity_possible": 4082,
-    "rebelity": 0.023028,
+    "rebelity_total": 91,
+    "rebelity_possible": 4078,
+    "rebelity": 0.022315,
     "name": "Jana Cigániková",
     "given_names": [
       "Jana"
@@ -770,8 +770,8 @@
   {
     "person_id": "nrsr:person:1008",
     "rebelity_total": 64,
-    "rebelity_possible": 4220,
-    "rebelity": 0.015166,
+    "rebelity_possible": 4216,
+    "rebelity": 0.01518,
     "name": "Ján Ferenčák",
     "given_names": [
       "Ján"
@@ -865,9 +865,9 @@
   },
   {
     "person_id": "nrsr:person:785",
-    "rebelity_total": 897,
-    "rebelity_possible": 3985,
-    "rebelity": 0.225094,
+    "rebelity_total": 894,
+    "rebelity_possible": 3981,
+    "rebelity": 0.224567,
     "name": "Ľubomír Galko",
     "given_names": [
       "Ľubomír"
@@ -1453,9 +1453,9 @@
         "until": "2026-06-18"
       },
       {
-        "id": "nrsr:org:nezavisli",
+        "id": "nrsr:org:club:1",
         "classification": "group",
-        "name": "Nezávislí",
+        "name": "Klub HLAS - sociálna demokracia",
         "since": "2026-06-18"
       }
     ],
@@ -2445,8 +2445,8 @@
   {
     "person_id": "nrsr:person:1152",
     "rebelity_total": 65,
-    "rebelity_possible": 4161,
-    "rebelity": 0.015621,
+    "rebelity_possible": 4157,
+    "rebelity": 0.015636,
     "name": "Pavel Ľupták",
     "given_names": [
       "Pavel"
@@ -2591,8 +2591,8 @@
   {
     "person_id": "nrsr:person:1173",
     "rebelity_total": 67,
-    "rebelity_possible": 4237,
-    "rebelity": 0.015813,
+    "rebelity_possible": 4233,
+    "rebelity": 0.015828,
     "name": "Roman Malatinec",
     "given_names": [
       "Roman"
@@ -3889,8 +3889,8 @@
   {
     "person_id": "nrsr:person:1150",
     "rebelity_total": 77,
-    "rebelity_possible": 4161,
-    "rebelity": 0.018505,
+    "rebelity_possible": 4157,
+    "rebelity": 0.018523,
     "name": "Ivan Ševčík",
     "given_names": [
       "Ivan"
@@ -4457,9 +4457,9 @@
   },
   {
     "person_id": "nrsr:person:861",
-    "rebelity_total": 448,
-    "rebelity_possible": 4041,
-    "rebelity": 0.110864,
+    "rebelity_total": 445,
+    "rebelity_possible": 4037,
+    "rebelity": 0.11023,
     "name": "Richard Vašečka",
     "given_names": [
       "Richard"

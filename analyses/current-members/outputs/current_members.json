@@ -1906,7 +1906,7 @@
           "id": "nrsr:org:13",
           "name": "Národná rada Slovenskej republiky",
           "start_date": "2023-10-25",
-          "end_date": "2025-03-20"
+          "end_date": ""
         }
       ],
       "groups": [
@@ -1917,8 +1917,8 @@
           "end_date": "2026-06-18"
         },
         {
-          "id": "nrsr:org:nezavisli",
-          "name": "Nezávislí",
+          "id": "nrsr:org:club:1",
+          "name": "Klub HLAS - sociálna demokracia",
           "start_date": "2026-06-18",
           "end_date": ""
         }
