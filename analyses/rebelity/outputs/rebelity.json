@@ -2,8 +2,8 @@
   {
     "person_id": "nrsr:person:1180",
     "rebelity_total": 7,
-    "rebelity_possible": 3564,
-    "rebelity": 0.001964,
+    "rebelity_possible": 3566,
+    "rebelity": 0.001963,
     "name": "Martina Holečková",
     "given_names": [
       "Martina"
@@ -200,9 +200,9 @@
   },
   {
     "person_id": "nrsr:person:976",
-    "rebelity_total": 94,
-    "rebelity_possible": 4148,
-    "rebelity": 0.022662,
+    "rebelity_total": 95,
+    "rebelity_possible": 4185,
+    "rebelity": 0.0227,
     "name": "Jana Cigániková",
     "given_names": [
       "Jana"
@@ -513,9 +513,9 @@
   },
   {
     "person_id": "nrsr:person:779",
-    "rebelity_total": 58,
-    "rebelity_possible": 4255,
-    "rebelity": 0.013631,
+    "rebelity_total": 49,
+    "rebelity_possible": 4292,
+    "rebelity": 0.011417,
     "name": "Ondrej Dostál",
     "given_names": [
       "Ondrej"
@@ -802,8 +802,8 @@
   {
     "person_id": "nrsr:person:966",
     "rebelity_total": 7,
-    "rebelity_possible": 3073,
-    "rebelity": 0.002278,
+    "rebelity_possible": 3075,
+    "rebelity": 0.002276,
     "name": "Karol Galek",
     "given_names": [
       "Karol"
@@ -1153,9 +1153,9 @@
   },
   {
     "person_id": "nrsr:person:971",
-    "rebelity_total": 2,
-    "rebelity_possible": 4255,
-    "rebelity": 0.00047,
+    "rebelity_total": 3,
+    "rebelity_possible": 4292,
+    "rebelity": 0.000699,
     "name": "Branislav Gröhling",
     "given_names": [
       "Branislav"
@@ -1345,9 +1345,9 @@
   },
   {
     "person_id": "nrsr:person:859",
-    "rebelity_total": 13,
-    "rebelity_possible": 4255,
-    "rebelity": 0.003055,
+    "rebelity_total": 14,
+    "rebelity_possible": 4292,
+    "rebelity": 0.003262,
     "name": "Alojz Hlina",
     "given_names": [
       "Alojz"
@@ -1932,9 +1932,9 @@
   },
   {
     "person_id": "nrsr:person:1025",
-    "rebelity_total": 35,
-    "rebelity_possible": 4255,
-    "rebelity": 0.008226,
+    "rebelity_total": 26,
+    "rebelity_possible": 4292,
+    "rebelity": 0.006058,
     "name": "Mária Kolíková",
     "given_names": [
       "Mária"
@@ -2156,9 +2156,9 @@
   },
   {
     "person_id": "nrsr:person:1032",
-    "rebelity_total": 20,
-    "rebelity_possible": 4255,
-    "rebelity": 0.0047,
+    "rebelity_total": 21,
+    "rebelity_possible": 4292,
+    "rebelity": 0.004893,
     "name": "Juraj Krúpa",
     "given_names": [
       "Juraj"
@@ -2316,9 +2316,9 @@
   },
   {
     "person_id": "nrsr:person:1037",
-    "rebelity_total": 29,
-    "rebelity_possible": 4255,
-    "rebelity": 0.006816,
+    "rebelity_total": 26,
+    "rebelity_possible": 4292,
+    "rebelity": 0.006058,
     "name": "Vladimír Ledecký",
     "given_names": [
       "Vladimír"
@@ -2650,6 +2650,38 @@
     "since": "2023-10-25",
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1173&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1042",
+    "rebelity_total": 66,
+    "rebelity_possible": 4292,
+    "rebelity": 0.015377,
+    "name": "Vladimíra Marcinková",
+    "given_names": [
+      "Vladimíra"
+    ],
+    "family_names": [
+      "Marcinková"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:6",
+        "classification": "group",
+        "name": "Klub Sloboda a Solidarita",
+        "since": "2023-11-14",
+        "until": "2026-09-24"
+      },
+      {
+        "id": "nrsr:org:club:6",
+        "classification": "group",
+        "name": "Klub Sloboda a Solidarita",
+        "since": "2026-09-24"
+      }
+    ],
+    "since": "2023-10-25",
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1042&ImageWidth=140"
     }
   },
   {
@@ -3888,9 +3920,9 @@
   },
   {
     "person_id": "nrsr:person:1147",
-    "rebelity_total": 22,
-    "rebelity_possible": 4255,
-    "rebelity": 0.00517,
+    "rebelity_total": 20,
+    "rebelity_possible": 4292,
+    "rebelity": 0.00466,
     "name": "Tomáš Szalay",
     "given_names": [
       "Tomáš"
@@ -4586,8 +4618,8 @@
   {
     "person_id": "nrsr:person:991",
     "rebelity_total": 19,
-    "rebelity_possible": 4255,
-    "rebelity": 0.004465,
+    "rebelity_possible": 4292,
+    "rebelity": 0.004427,
     "name": "Marián Viskupič",
     "given_names": [
       "Marián"
@@ -4973,8 +5005,8 @@
   {
     "person_id": "nrsr:person:767",
     "rebelity_total": 4,
-    "rebelity_possible": 4255,
-    "rebelity": 0.00094,
+    "rebelity_possible": 4292,
+    "rebelity": 0.000932,
     "name": "Richard Sulík",
     "given_names": [
       "Richard"
@@ -5255,6 +5287,23 @@
     "since": "2023-10-25",
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1166&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1157",
+    "rebelity_total": 0,
+    "rebelity_possible": 0,
+    "rebelity": null,
+    "name": "Igor Melicher",
+    "given_names": [
+      "Igor"
+    ],
+    "family_names": [
+      "Melicher"
+    ],
+    "since": "2023-10-25",
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1157&ImageWidth=140"
     }
   },
   {

@@ -315,7 +315,38 @@
       -0.07691353477260784
     ],
     "weight": 0.7787839377458674,
-    "included": true
+    "included": true,
+    "name": "Vladimíra Marcinková",
+    "given_names": [
+      "Vladimíra"
+    ],
+    "family_names": [
+      "Marcinková"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:13",
+        "name": "Národná rada Slovenskej republiky",
+        "classification": "parliament",
+        "since": "2023-10-25",
+        "until": ""
+      },
+      {
+        "id": "nrsr:org:club:6",
+        "name": "Klub Sloboda a Solidarita",
+        "classification": "groups",
+        "since": "2023-11-14",
+        "until": "2026-09-24"
+      },
+      {
+        "id": "nrsr:org:club:6",
+        "name": "Klub Sloboda a Solidarita",
+        "classification": "groups",
+        "since": "2026-09-24",
+        "until": ""
+      }
+    ],
+    "since": "2023-10-25"
   },
   {
     "person_id": "nrsr:person:1046",
@@ -2419,7 +2450,24 @@
       -0.0
     ],
     "weight": 0.0,
-    "included": false
+    "included": false,
+    "name": "Igor Melicher",
+    "given_names": [
+      "Igor"
+    ],
+    "family_names": [
+      "Melicher"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:13",
+        "name": "Národná rada Slovenskej republiky",
+        "classification": "parliament",
+        "since": "2023-10-25",
+        "until": ""
+      }
+    ],
+    "since": "2023-10-25"
   },
   {
     "person_id": "nrsr:person:1158",

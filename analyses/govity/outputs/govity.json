@@ -2653,6 +2653,38 @@
     }
   },
   {
+    "person_id": "nrsr:person:1042",
+    "govity_total": 1520,
+    "govity_possible": 3264,
+    "govity": 0.465686,
+    "name": "Vladimíra Marcinková",
+    "given_names": [
+      "Vladimíra"
+    ],
+    "family_names": [
+      "Marcinková"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:6",
+        "classification": "group",
+        "name": "Klub Sloboda a Solidarita",
+        "since": "2023-11-14",
+        "until": "2026-09-24"
+      },
+      {
+        "id": "nrsr:org:club:6",
+        "classification": "group",
+        "name": "Klub Sloboda a Solidarita",
+        "since": "2026-09-24"
+      }
+    ],
+    "since": "2023-10-25",
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1042&ImageWidth=140"
+    }
+  },
+  {
     "person_id": "nrsr:person:1159",
     "govity_total": 4456,
     "govity_possible": 4466,
@@ -5255,6 +5287,23 @@
     "since": "2023-10-25",
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1166&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1157",
+    "govity_total": 0,
+    "govity_possible": 0,
+    "govity": null,
+    "name": "Igor Melicher",
+    "given_names": [
+      "Igor"
+    ],
+    "family_names": [
+      "Melicher"
+    ],
+    "since": "2023-10-25",
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1157&ImageWidth=140"
     }
   },
   {

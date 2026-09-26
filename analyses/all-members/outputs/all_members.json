@@ -3498,6 +3498,48 @@
     }
   },
   {
+    "id": "nrsr:person:1042",
+    "given_name": "Vladimíra",
+    "family_name": "Marcinková",
+    "name": "Vladimíra Marcinková",
+    "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1042&ImageWidth=140",
+    "identifiers": [
+      {
+        "scheme": "nrsr",
+        "identifier": "1042"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.nrsr.sk/web/Default.aspx?sid=poslanci/poslanec&PoslanecID=1042"
+      }
+    ],
+    "memberships": {
+      "parliament": [
+        {
+          "id": "nrsr:org:13",
+          "name": "Národná rada Slovenskej republiky",
+          "start_date": "2023-10-25",
+          "end_date": ""
+        }
+      ],
+      "groups": [
+        {
+          "id": "nrsr:org:club:6",
+          "name": "Klub Sloboda a Solidarita",
+          "start_date": "2023-11-14",
+          "end_date": "2026-09-24"
+        },
+        {
+          "id": "nrsr:org:club:6",
+          "name": "Klub Sloboda a Solidarita",
+          "start_date": "2026-09-24",
+          "end_date": ""
+        }
+      ]
+    }
+  },
+  {
     "id": "nrsr:person:1159",
     "given_name": "Zuzana",
     "family_name": "Matejičková",
@@ -7028,6 +7070,34 @@
     "sources": [
       {
         "url": "https://www.nrsr.sk/web/Default.aspx?sid=poslanci/poslanec&PoslanecID=1166"
+      }
+    ],
+    "memberships": {
+      "parliament": [
+        {
+          "id": "nrsr:org:13",
+          "name": "Národná rada Slovenskej republiky",
+          "start_date": "2023-10-25",
+          "end_date": ""
+        }
+      ]
+    }
+  },
+  {
+    "id": "nrsr:person:1157",
+    "given_name": "Igor",
+    "family_name": "Melicher",
+    "name": "Igor Melicher",
+    "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1157&ImageWidth=140",
+    "identifiers": [
+      {
+        "scheme": "nrsr",
+        "identifier": "1157"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.nrsr.sk/web/Default.aspx?sid=poslanci/poslanec&PoslanecID=1157"
       }
     ],
     "memberships": {
