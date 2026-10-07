@@ -1,9 +1,9 @@
 [
   {
     "person_id": "nrsr:person:1180",
-    "govity_total": 1642,
-    "govity_possible": 3098,
-    "govity": 0.530019,
+    "govity_total": 1646,
+    "govity_possible": 3103,
+    "govity": 0.530454,
     "name": "Martina Holečková",
     "given_names": [
       "Martina"
@@ -40,9 +40,9 @@
   },
   {
     "person_id": "nrsr:person:871",
-    "govity_total": 4443,
-    "govity_possible": 4452,
-    "govity": 0.997978,
+    "govity_total": 4456,
+    "govity_possible": 4465,
+    "govity": 0.997984,
     "name": "Vladimír Baláž",
     "given_names": [
       "Vladimír"
@@ -72,9 +72,9 @@
   },
   {
     "person_id": "nrsr:person:1207",
-    "govity_total": 4486,
-    "govity_possible": 4492,
-    "govity": 0.998664,
+    "govity_total": 4499,
+    "govity_possible": 4505,
+    "govity": 0.998668,
     "name": "Michal Bartek",
     "given_names": [
       "Michal"
@@ -104,9 +104,9 @@
   },
   {
     "person_id": "nrsr:person:233",
-    "govity_total": 4346,
-    "govity_possible": 4352,
-    "govity": 0.998621,
+    "govity_total": 4359,
+    "govity_possible": 4365,
+    "govity": 0.998625,
     "name": "Jaroslav Baška",
     "given_names": [
       "Jaroslav"
@@ -136,9 +136,9 @@
   },
   {
     "person_id": "nrsr:person:1187",
-    "govity_total": 4514,
-    "govity_possible": 4520,
-    "govity": 0.998673,
+    "govity_total": 4527,
+    "govity_possible": 4533,
+    "govity": 0.998676,
     "name": "Branislav Becík",
     "given_names": [
       "Branislav"
@@ -200,9 +200,9 @@
   },
   {
     "person_id": "nrsr:person:976",
-    "govity_total": 1421,
-    "govity_possible": 2769,
-    "govity": 0.513182,
+    "govity_total": 1424,
+    "govity_possible": 2774,
+    "govity": 0.513338,
     "name": "Jana Cigániková",
     "given_names": [
       "Jana"
@@ -231,42 +231,10 @@
     }
   },
   {
-    "person_id": "nrsr:person:997",
-    "govity_total": 4297,
-    "govity_possible": 4304,
-    "govity": 0.998374,
-    "name": "Ján Blcháč",
-    "given_names": [
-      "Ján"
-    ],
-    "family_names": [
-      "Blcháč"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:1",
-        "classification": "group",
-        "name": "Klub HLAS - sociálna demokracia",
-        "since": "2023-11-14",
-        "until": "2026-10-06"
-      },
-      {
-        "id": "nrsr:org:club:1",
-        "classification": "group",
-        "name": "Klub HLAS - sociálna demokracia",
-        "since": "2026-10-06"
-      }
-    ],
-    "since": "2023-10-25",
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=997&ImageWidth=140"
-    }
-  },
-  {
     "person_id": "nrsr:person:1144",
-    "govity_total": 1878,
-    "govity_possible": 3973,
-    "govity": 0.472691,
+    "govity_total": 1883,
+    "govity_possible": 3978,
+    "govity": 0.473353,
     "name": "Lukáš Bužo",
     "given_names": [
       "Lukáš"
@@ -296,9 +264,9 @@
   },
   {
     "person_id": "nrsr:person:1195",
-    "govity_total": 4500,
-    "govity_possible": 4508,
-    "govity": 0.998225,
+    "govity_total": 4513,
+    "govity_possible": 4521,
+    "govity": 0.99823,
     "name": "Jozef Cech",
     "given_names": [
       "Jozef"
@@ -328,9 +296,9 @@
   },
   {
     "person_id": "nrsr:person:1179",
-    "govity_total": 2269,
-    "govity_possible": 3831,
-    "govity": 0.592274,
+    "govity_total": 2274,
+    "govity_possible": 3836,
+    "govity": 0.592805,
     "name": "Marián Čaučík",
     "given_names": [
       "Marián"
@@ -353,9 +321,9 @@
   },
   {
     "person_id": "nrsr:person:1160",
-    "govity_total": 4446,
-    "govity_possible": 4453,
-    "govity": 0.998428,
+    "govity_total": 4459,
+    "govity_possible": 4466,
+    "govity": 0.998433,
     "name": "Marcela Čavojová",
     "given_names": [
       "Marcela"
@@ -385,9 +353,9 @@
   },
   {
     "person_id": "nrsr:person:1203",
-    "govity_total": 4477,
-    "govity_possible": 4490,
-    "govity": 0.997105,
+    "govity_total": 4490,
+    "govity_possible": 4503,
+    "govity": 0.997113,
     "name": "Miroslav Čellár",
     "given_names": [
       "Miroslav"
@@ -417,9 +385,9 @@
   },
   {
     "person_id": "nrsr:person:929",
-    "govity_total": 4433,
-    "govity_possible": 4455,
-    "govity": 0.995062,
+    "govity_total": 4446,
+    "govity_possible": 4468,
+    "govity": 0.995076,
     "name": "Andrej Danko",
     "given_names": [
       "Andrej"
@@ -449,9 +417,9 @@
   },
   {
     "person_id": "nrsr:person:1140",
-    "govity_total": 2440,
-    "govity_possible": 4211,
-    "govity": 0.579435,
+    "govity_total": 2445,
+    "govity_possible": 4216,
+    "govity": 0.579934,
     "name": "Dávid Dej",
     "given_names": [
       "Dávid"
@@ -481,9 +449,9 @@
   },
   {
     "person_id": "nrsr:person:1216",
-    "govity_total": 3673,
-    "govity_possible": 3678,
-    "govity": 0.998641,
+    "govity_total": 3686,
+    "govity_possible": 3691,
+    "govity": 0.998645,
     "name": "Dávid Demečko",
     "given_names": [
       "Dávid"
@@ -513,9 +481,9 @@
   },
   {
     "person_id": "nrsr:person:779",
-    "govity_total": 1910,
-    "govity_possible": 4132,
-    "govity": 0.462246,
+    "govity_total": 1914,
+    "govity_possible": 4137,
+    "govity": 0.462654,
     "name": "Ondrej Dostál",
     "given_names": [
       "Ondrej"
@@ -545,9 +513,9 @@
   },
   {
     "person_id": "nrsr:person:1133",
-    "govity_total": 2236,
-    "govity_possible": 3878,
-    "govity": 0.576586,
+    "govity_total": 2241,
+    "govity_possible": 3883,
+    "govity": 0.577131,
     "name": "Martin Dubéci",
     "given_names": [
       "Martin"
@@ -577,9 +545,9 @@
   },
   {
     "person_id": "nrsr:person:1213",
-    "govity_total": 1997,
-    "govity_possible": 3440,
-    "govity": 0.580523,
+    "govity_total": 2002,
+    "govity_possible": 3445,
+    "govity": 0.581132,
     "name": "Richard Dubovický",
     "given_names": [
       "Richard"
@@ -609,9 +577,9 @@
   },
   {
     "person_id": "nrsr:person:1221",
-    "govity_total": 722,
-    "govity_possible": 1579,
-    "govity": 0.457251,
+    "govity_total": 727,
+    "govity_possible": 1584,
+    "govity": 0.458965,
     "name": "Igor Dušenka",
     "given_names": [
       "Igor"
@@ -641,9 +609,9 @@
   },
   {
     "person_id": "nrsr:person:1123",
-    "govity_total": 2258,
-    "govity_possible": 3860,
-    "govity": 0.584974,
+    "govity_total": 2263,
+    "govity_possible": 3865,
+    "govity": 0.585511,
     "name": "Oskar Dvořák",
     "given_names": [
       "Oskar"
@@ -672,42 +640,10 @@
     }
   },
   {
-    "person_id": "nrsr:person:1172",
-    "govity_total": 4499,
-    "govity_possible": 4507,
-    "govity": 0.998225,
-    "name": "Richard Eliáš",
-    "given_names": [
-      "Richard"
-    ],
-    "family_names": [
-      "Eliáš"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:1",
-        "classification": "group",
-        "name": "Klub HLAS - sociálna demokracia",
-        "since": "2023-11-14",
-        "until": "2026-10-06"
-      },
-      {
-        "id": "nrsr:org:club:1",
-        "classification": "group",
-        "name": "Klub HLAS - sociálna demokracia",
-        "since": "2026-10-06"
-      }
-    ],
-    "since": "2023-10-25",
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1172&ImageWidth=140"
-    }
-  },
-  {
     "person_id": "nrsr:person:36",
-    "govity_total": 4385,
-    "govity_possible": 4394,
-    "govity": 0.997952,
+    "govity_total": 4398,
+    "govity_possible": 4407,
+    "govity": 0.997958,
     "name": "Vladimír Faič",
     "given_names": [
       "Vladimír"
@@ -737,9 +673,9 @@
   },
   {
     "person_id": "nrsr:person:931",
-    "govity_total": 4487,
-    "govity_possible": 4505,
-    "govity": 0.996004,
+    "govity_total": 4500,
+    "govity_possible": 4518,
+    "govity": 0.996016,
     "name": "Karol Farkašovský",
     "given_names": [
       "Karol"
@@ -769,9 +705,9 @@
   },
   {
     "person_id": "nrsr:person:1008",
-    "govity_total": 3680,
-    "govity_possible": 3832,
-    "govity": 0.960334,
+    "govity_total": 3684,
+    "govity_possible": 3837,
+    "govity": 0.960125,
     "name": "Ján Ferenčák",
     "given_names": [
       "Ján"
@@ -801,9 +737,9 @@
   },
   {
     "person_id": "nrsr:person:966",
-    "govity_total": 1384,
-    "govity_possible": 2839,
-    "govity": 0.487496,
+    "govity_total": 1388,
+    "govity_possible": 2844,
+    "govity": 0.488045,
     "name": "Karol Galek",
     "given_names": [
       "Karol"
@@ -833,9 +769,9 @@
   },
   {
     "person_id": "nrsr:person:656",
-    "govity_total": 4473,
-    "govity_possible": 4482,
-    "govity": 0.997992,
+    "govity_total": 4485,
+    "govity_possible": 4494,
+    "govity": 0.997997,
     "name": "Dušan Galis",
     "given_names": [
       "Dušan"
@@ -865,9 +801,9 @@
   },
   {
     "person_id": "nrsr:person:785",
-    "govity_total": 1943,
-    "govity_possible": 3925,
-    "govity": 0.495032,
+    "govity_total": 1948,
+    "govity_possible": 3930,
+    "govity": 0.495674,
     "name": "Ľubomír Galko",
     "given_names": [
       "Ľubomír"
@@ -897,9 +833,9 @@
   },
   {
     "person_id": "nrsr:person:1154",
-    "govity_total": 4473,
-    "govity_possible": 4475,
-    "govity": 0.999553,
+    "govity_total": 4486,
+    "govity_possible": 4488,
+    "govity": 0.999554,
     "name": "Tibor Gašpar",
     "given_names": [
       "Tibor"
@@ -929,9 +865,9 @@
   },
   {
     "person_id": "nrsr:person:892",
-    "govity_total": 4524,
-    "govity_possible": 4530,
-    "govity": 0.998675,
+    "govity_total": 4537,
+    "govity_possible": 4543,
+    "govity": 0.998679,
     "name": "Štefan Gašparovič",
     "given_names": [
       "Štefan"
@@ -961,9 +897,9 @@
   },
   {
     "person_id": "nrsr:person:1126",
-    "govity_total": 2393,
-    "govity_possible": 4139,
-    "govity": 0.578159,
+    "govity_total": 2398,
+    "govity_possible": 4144,
+    "govity": 0.578668,
     "name": "Tina Gažovičová",
     "given_names": [
       "Tina"
@@ -992,42 +928,10 @@
     }
   },
   {
-    "person_id": "nrsr:person:1214",
-    "govity_total": 4225,
-    "govity_possible": 4230,
-    "govity": 0.998818,
-    "name": "Richard Glück",
-    "given_names": [
-      "Richard"
-    ],
-    "family_names": [
-      "Glück"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:5",
-        "classification": "group",
-        "name": "Klub SMER - sociálna demokracia",
-        "since": "2024-02-08",
-        "until": "2026-10-06"
-      },
-      {
-        "id": "nrsr:org:club:5",
-        "classification": "group",
-        "name": "Klub SMER - sociálna demokracia",
-        "since": "2026-10-06"
-      }
-    ],
-    "since": "2023-10-25",
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1214&ImageWidth=140"
-    }
-  },
-  {
     "person_id": "nrsr:person:738",
-    "govity_total": 4501,
-    "govity_possible": 4502,
-    "govity": 0.999778,
+    "govity_total": 4514,
+    "govity_possible": 4515,
+    "govity": 0.999779,
     "name": "Pavol Goga",
     "given_names": [
       "Pavol"
@@ -1057,9 +961,9 @@
   },
   {
     "person_id": "nrsr:person:1222",
-    "govity_total": 714,
-    "govity_possible": 1367,
-    "govity": 0.522312,
+    "govity_total": 719,
+    "govity_possible": 1372,
+    "govity": 0.524052,
     "name": "Gréta Gregorová",
     "given_names": [
       "Gréta"
@@ -1089,9 +993,9 @@
   },
   {
     "person_id": "nrsr:person:910",
-    "govity_total": 1699,
-    "govity_possible": 3769,
-    "govity": 0.450783,
+    "govity_total": 1704,
+    "govity_possible": 3774,
+    "govity": 0.45151,
     "name": "Gábor Grendel",
     "given_names": [
       "Gábor"
@@ -1121,9 +1025,9 @@
   },
   {
     "person_id": "nrsr:person:971",
-    "govity_total": 1803,
-    "govity_possible": 3534,
-    "govity": 0.510187,
+    "govity_total": 1807,
+    "govity_possible": 3539,
+    "govity": 0.510596,
     "name": "Branislav Gröhling",
     "given_names": [
       "Branislav"
@@ -1153,9 +1057,9 @@
   },
   {
     "person_id": "nrsr:person:1009",
-    "govity_total": 4483,
-    "govity_possible": 4487,
-    "govity": 0.999109,
+    "govity_total": 4496,
+    "govity_possible": 4500,
+    "govity": 0.999111,
     "name": "Jozef Habánik",
     "given_names": [
       "Jozef"
@@ -1185,9 +1089,9 @@
   },
   {
     "person_id": "nrsr:person:874",
-    "govity_total": 4519,
-    "govity_possible": 4521,
-    "govity": 0.999558,
+    "govity_total": 4532,
+    "govity_possible": 4534,
+    "govity": 0.999559,
     "name": "Augustín Hambálek",
     "given_names": [
       "Augustín"
@@ -1217,9 +1121,9 @@
   },
   {
     "person_id": "nrsr:person:1129",
-    "govity_total": 2061,
-    "govity_possible": 3554,
-    "govity": 0.57991,
+    "govity_total": 2066,
+    "govity_possible": 3559,
+    "govity": 0.5805,
     "name": "Jana Hanuliaková",
     "given_names": [
       "Jana"
@@ -1249,9 +1153,9 @@
   },
   {
     "person_id": "nrsr:person:1142",
-    "govity_total": 2194,
-    "govity_possible": 3803,
-    "govity": 0.576913,
+    "govity_total": 2199,
+    "govity_possible": 3808,
+    "govity": 0.577468,
     "name": "Ján Hargaš",
     "given_names": [
       "Ján"
@@ -1281,9 +1185,9 @@
   },
   {
     "person_id": "nrsr:person:1192",
-    "govity_total": 4468,
-    "govity_possible": 4472,
-    "govity": 0.999106,
+    "govity_total": 4481,
+    "govity_possible": 4485,
+    "govity": 0.999108,
     "name": "Ivan Hazucha",
     "given_names": [
       "Ivan"
@@ -1313,9 +1217,9 @@
   },
   {
     "person_id": "nrsr:person:859",
-    "govity_total": 1821,
-    "govity_possible": 3412,
-    "govity": 0.533705,
+    "govity_total": 1825,
+    "govity_possible": 3417,
+    "govity": 0.534094,
     "name": "Alojz Hlina",
     "given_names": [
       "Alojz"
@@ -1345,9 +1249,9 @@
   },
   {
     "person_id": "nrsr:person:1183",
-    "govity_total": 2035,
-    "govity_possible": 3499,
-    "govity": 0.581595,
+    "govity_total": 2040,
+    "govity_possible": 3504,
+    "govity": 0.582192,
     "name": "Ján Horecký",
     "given_names": [
       "Ján"
@@ -1369,42 +1273,10 @@
     }
   },
   {
-    "person_id": "nrsr:person:1219",
-    "govity_total": 3170,
-    "govity_possible": 3173,
-    "govity": 0.999055,
-    "name": "Ján Horváth",
-    "given_names": [
-      "Ján"
-    ],
-    "family_names": [
-      "Horváth"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:5",
-        "classification": "group",
-        "name": "Klub SMER - sociálna demokracia",
-        "since": "2024-07-15",
-        "until": "2026-10-06"
-      },
-      {
-        "id": "nrsr:org:club:5",
-        "classification": "group",
-        "name": "Klub SMER - sociálna demokracia",
-        "since": "2026-10-06"
-      }
-    ],
-    "since": "2023-10-25",
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1219&ImageWidth=140"
-    }
-  },
-  {
     "person_id": "nrsr:person:1202",
-    "govity_total": 2339,
-    "govity_possible": 2343,
-    "govity": 0.998293,
+    "govity_total": 2352,
+    "govity_possible": 2356,
+    "govity": 0.998302,
     "name": "Ján Hrubý",
     "given_names": [
       "Ján"
@@ -1434,9 +1306,9 @@
   },
   {
     "person_id": "nrsr:person:1188",
-    "govity_total": 1748,
-    "govity_possible": 3761,
-    "govity": 0.46477,
+    "govity_total": 1753,
+    "govity_possible": 3766,
+    "govity": 0.465481,
     "name": "Július Jakab",
     "given_names": [
       "Július"
@@ -1466,9 +1338,9 @@
   },
   {
     "person_id": "nrsr:person:1169",
-    "govity_total": 4516,
-    "govity_possible": 4523,
-    "govity": 0.998452,
+    "govity_total": 4529,
+    "govity_possible": 4536,
+    "govity": 0.998457,
     "name": "Karol Janas",
     "given_names": [
       "Karol"
@@ -1498,9 +1370,9 @@
   },
   {
     "person_id": "nrsr:person:961",
-    "govity_total": 2408,
-    "govity_possible": 3991,
-    "govity": 0.603358,
+    "govity_total": 2413,
+    "govity_possible": 3996,
+    "govity": 0.603854,
     "name": "Igor Janckulík",
     "given_names": [
       "Igor"
@@ -1523,9 +1395,9 @@
   },
   {
     "person_id": "nrsr:person:61",
-    "govity_total": 4422,
-    "govity_possible": 4427,
-    "govity": 0.998871,
+    "govity_total": 4435,
+    "govity_possible": 4440,
+    "govity": 0.998874,
     "name": "Dušan Jarjabek",
     "given_names": [
       "Dušan"
@@ -1555,9 +1427,9 @@
   },
   {
     "person_id": "nrsr:person:1121",
-    "govity_total": 1723,
-    "govity_possible": 3002,
-    "govity": 0.573951,
+    "govity_total": 1728,
+    "govity_possible": 3007,
+    "govity": 0.574659,
     "name": "Zora Jaurová",
     "given_names": [
       "Zora"
@@ -1587,9 +1459,9 @@
   },
   {
     "person_id": "nrsr:person:891",
-    "govity_total": 4510,
-    "govity_possible": 4516,
-    "govity": 0.998671,
+    "govity_total": 4523,
+    "govity_possible": 4529,
+    "govity": 0.998675,
     "name": "Jozef Ježík",
     "given_names": [
       "Jozef"
@@ -1619,9 +1491,9 @@
   },
   {
     "person_id": "nrsr:person:1128",
-    "govity_total": 2276,
-    "govity_possible": 3955,
-    "govity": 0.575474,
+    "govity_total": 2281,
+    "govity_possible": 3960,
+    "govity": 0.57601,
     "name": "Beáta Jurík",
     "given_names": [
       "Beáta"
@@ -1651,9 +1523,9 @@
   },
   {
     "person_id": "nrsr:person:1218",
-    "govity_total": 3140,
-    "govity_possible": 3141,
-    "govity": 0.999682,
+    "govity_total": 3153,
+    "govity_possible": 3154,
+    "govity": 0.999683,
     "name": "Jozef Kačmár",
     "given_names": [
       "Jozef"
@@ -1683,9 +1555,9 @@
   },
   {
     "person_id": "nrsr:person:1170",
-    "govity_total": 4414,
-    "govity_possible": 4420,
-    "govity": 0.998643,
+    "govity_total": 4427,
+    "govity_possible": 4433,
+    "govity": 0.998647,
     "name": "Peter Kalivoda",
     "given_names": [
       "Peter"
@@ -1715,8 +1587,8 @@
   },
   {
     "person_id": "nrsr:person:1205",
-    "govity_total": 4497,
-    "govity_possible": 4498,
+    "govity_total": 4510,
+    "govity_possible": 4511,
     "govity": 0.999778,
     "name": "Michal Kapuš",
     "given_names": [
@@ -1747,8 +1619,8 @@
   },
   {
     "person_id": "nrsr:person:1158",
-    "govity_total": 4519,
-    "govity_possible": 4519,
+    "govity_total": 4532,
+    "govity_possible": 4532,
     "govity": 1.0,
     "name": "Daniel Karas",
     "given_names": [
@@ -1779,9 +1651,9 @@
   },
   {
     "person_id": "nrsr:person:873",
-    "govity_total": 4487,
-    "govity_possible": 4496,
-    "govity": 0.997998,
+    "govity_total": 4500,
+    "govity_possible": 4509,
+    "govity": 0.998004,
     "name": "Marián Kéry",
     "given_names": [
       "Marián"
@@ -1811,9 +1683,9 @@
   },
   {
     "person_id": "nrsr:person:1125",
-    "govity_total": 1869,
-    "govity_possible": 3204,
-    "govity": 0.583333,
+    "govity_total": 1874,
+    "govity_possible": 3209,
+    "govity": 0.583983,
     "name": "Štefan Kišš",
     "given_names": [
       "Štefan"
@@ -1843,9 +1715,9 @@
   },
   {
     "person_id": "nrsr:person:1139",
-    "govity_total": 2055,
-    "govity_possible": 3533,
-    "govity": 0.581659,
+    "govity_total": 2060,
+    "govity_possible": 3538,
+    "govity": 0.58225,
     "name": "Dana Kleinert",
     "given_names": [
       "Dana"
@@ -1875,9 +1747,9 @@
   },
   {
     "person_id": "nrsr:person:1224",
-    "govity_total": 473,
-    "govity_possible": 845,
-    "govity": 0.559763,
+    "govity_total": 478,
+    "govity_possible": 850,
+    "govity": 0.562353,
     "name": "Monika Kolejáková",
     "given_names": [
       "Monika"
@@ -1900,9 +1772,9 @@
   },
   {
     "person_id": "nrsr:person:1025",
-    "govity_total": 1794,
-    "govity_possible": 3826,
-    "govity": 0.468897,
+    "govity_total": 1798,
+    "govity_possible": 3831,
+    "govity": 0.469329,
     "name": "Mária Kolíková",
     "given_names": [
       "Mária"
@@ -1932,9 +1804,9 @@
   },
   {
     "person_id": "nrsr:person:1124",
-    "govity_total": 2297,
-    "govity_possible": 3918,
-    "govity": 0.586269,
+    "govity_total": 2302,
+    "govity_possible": 3923,
+    "govity": 0.586796,
     "name": "Ingrid Kosová",
     "given_names": [
       "Ingrid"
@@ -1964,9 +1836,9 @@
   },
   {
     "person_id": "nrsr:person:1151",
-    "govity_total": 4437,
-    "govity_possible": 4455,
-    "govity": 0.99596,
+    "govity_total": 4450,
+    "govity_possible": 4468,
+    "govity": 0.995971,
     "name": "Peter Kotlár",
     "given_names": [
       "Peter"
@@ -1996,9 +1868,9 @@
   },
   {
     "person_id": "nrsr:person:1227",
-    "govity_total": 196,
-    "govity_possible": 198,
-    "govity": 0.989899,
+    "govity_total": 209,
+    "govity_possible": 211,
+    "govity": 0.990521,
     "name": "Milan Kováč",
     "given_names": [
       "Milan"
@@ -2060,9 +1932,9 @@
   },
   {
     "person_id": "nrsr:person:1210",
-    "govity_total": 4506,
-    "govity_possible": 4521,
-    "govity": 0.996682,
+    "govity_total": 4519,
+    "govity_possible": 4534,
+    "govity": 0.996692,
     "name": "Dagmar Kramplová",
     "given_names": [
       "Dagmar"
@@ -2092,9 +1964,9 @@
   },
   {
     "person_id": "nrsr:person:1190",
-    "govity_total": 1761,
-    "govity_possible": 3054,
-    "govity": 0.576621,
+    "govity_total": 1766,
+    "govity_possible": 3059,
+    "govity": 0.577313,
     "name": "Rastislav Krátky",
     "given_names": [
       "Rastislav"
@@ -2124,9 +1996,9 @@
   },
   {
     "person_id": "nrsr:person:1032",
-    "govity_total": 2061,
-    "govity_possible": 3855,
-    "govity": 0.53463,
+    "govity_total": 2065,
+    "govity_possible": 3860,
+    "govity": 0.534974,
     "name": "Juraj Krúpa",
     "given_names": [
       "Juraj"
@@ -2156,9 +2028,9 @@
   },
   {
     "person_id": "nrsr:person:668",
-    "govity_total": 4498,
-    "govity_possible": 4508,
-    "govity": 0.997782,
+    "govity_total": 4511,
+    "govity_possible": 4521,
+    "govity": 0.997788,
     "name": "Stanislav Kubánek",
     "given_names": [
       "Stanislav"
@@ -2188,9 +2060,9 @@
   },
   {
     "person_id": "nrsr:person:671",
-    "govity_total": 4499,
-    "govity_possible": 4503,
-    "govity": 0.999112,
+    "govity_total": 4512,
+    "govity_possible": 4516,
+    "govity": 0.999114,
     "name": "Ján Kvorka",
     "given_names": [
       "Ján"
@@ -2220,9 +2092,9 @@
   },
   {
     "person_id": "nrsr:person:1189",
-    "govity_total": 2377,
-    "govity_possible": 4095,
-    "govity": 0.580464,
+    "govity_total": 2382,
+    "govity_possible": 4100,
+    "govity": 0.580976,
     "name": "Marek Lackovič",
     "given_names": [
       "Marek"
@@ -2252,9 +2124,9 @@
   },
   {
     "person_id": "nrsr:person:1081",
-    "govity_total": 4470,
-    "govity_possible": 4475,
-    "govity": 0.998883,
+    "govity_total": 4483,
+    "govity_possible": 4488,
+    "govity": 0.998886,
     "name": "Ľubica Laššáková",
     "given_names": [
       "Ľubica"
@@ -2284,9 +2156,9 @@
   },
   {
     "person_id": "nrsr:person:1037",
-    "govity_total": 2000,
-    "govity_possible": 3921,
-    "govity": 0.510074,
+    "govity_total": 2004,
+    "govity_possible": 3926,
+    "govity": 0.510443,
     "name": "Vladimír Ledecký",
     "given_names": [
       "Vladimír"
@@ -2316,9 +2188,9 @@
   },
   {
     "person_id": "nrsr:person:1200",
-    "govity_total": 4523,
-    "govity_possible": 4524,
-    "govity": 0.999779,
+    "govity_total": 4536,
+    "govity_possible": 4537,
+    "govity": 0.99978,
     "name": "Boleslav Lešo",
     "given_names": [
       "Boleslav"
@@ -2348,9 +2220,9 @@
   },
   {
     "person_id": "nrsr:person:1199",
-    "govity_total": 4485,
-    "govity_possible": 4505,
-    "govity": 0.99556,
+    "govity_total": 4498,
+    "govity_possible": 4518,
+    "govity": 0.995573,
     "name": "Adam Lučanský",
     "given_names": [
       "Adam"
@@ -2380,9 +2252,9 @@
   },
   {
     "person_id": "nrsr:person:733",
-    "govity_total": 4512,
-    "govity_possible": 4513,
-    "govity": 0.999778,
+    "govity_total": 4525,
+    "govity_possible": 4526,
+    "govity": 0.999779,
     "name": "Michal Lukša",
     "given_names": [
       "Michal"
@@ -2412,9 +2284,9 @@
   },
   {
     "person_id": "nrsr:person:1134",
-    "govity_total": 2180,
-    "govity_possible": 3746,
-    "govity": 0.581954,
+    "govity_total": 2184,
+    "govity_possible": 3750,
+    "govity": 0.5824,
     "name": "Darina Luščíková",
     "given_names": [
       "Darina"
@@ -2444,9 +2316,9 @@
   },
   {
     "person_id": "nrsr:person:1152",
-    "govity_total": 4081,
-    "govity_possible": 4092,
-    "govity": 0.997312,
+    "govity_total": 4093,
+    "govity_possible": 4105,
+    "govity": 0.997077,
     "name": "Pavel Ľupták",
     "given_names": [
       "Pavel"
@@ -2476,8 +2348,8 @@
   },
   {
     "person_id": "nrsr:person:1223",
-    "govity_total": 1106,
-    "govity_possible": 1106,
+    "govity_total": 1119,
+    "govity_possible": 1119,
     "govity": 1.0,
     "name": "Vladimír Macášek",
     "given_names": [
@@ -2508,9 +2380,9 @@
   },
   {
     "person_id": "nrsr:person:1211",
-    "govity_total": 4433,
-    "govity_possible": 4439,
-    "govity": 0.998648,
+    "govity_total": 4446,
+    "govity_possible": 4452,
+    "govity": 0.998652,
     "name": "Zdenka Mačicová",
     "given_names": [
       "Zdenka"
@@ -2540,9 +2412,9 @@
   },
   {
     "person_id": "nrsr:person:1184",
-    "govity_total": 1994,
-    "govity_possible": 3198,
-    "govity": 0.623515,
+    "govity_total": 1999,
+    "govity_possible": 3203,
+    "govity": 0.624102,
     "name": "František Majerský",
     "given_names": [
       "František"
@@ -2565,9 +2437,9 @@
   },
   {
     "person_id": "nrsr:person:1178",
-    "govity_total": 2101,
-    "govity_possible": 3488,
-    "govity": 0.602351,
+    "govity_total": 2106,
+    "govity_possible": 3493,
+    "govity": 0.60292,
     "name": "Milan Majerský",
     "given_names": [
       "Milan"
@@ -2590,9 +2462,9 @@
   },
   {
     "person_id": "nrsr:person:1173",
-    "govity_total": 4482,
-    "govity_possible": 4496,
-    "govity": 0.996886,
+    "govity_total": 4494,
+    "govity_possible": 4509,
+    "govity": 0.996673,
     "name": "Roman Malatinec",
     "given_names": [
       "Roman"
@@ -2654,9 +2526,9 @@
   },
   {
     "person_id": "nrsr:person:1159",
-    "govity_total": 4519,
-    "govity_possible": 4529,
-    "govity": 0.997792,
+    "govity_total": 4532,
+    "govity_possible": 4542,
+    "govity": 0.997798,
     "name": "Zuzana Matejičková",
     "given_names": [
       "Zuzana"
@@ -2686,9 +2558,9 @@
   },
   {
     "person_id": "nrsr:person:808",
-    "govity_total": 1411,
-    "govity_possible": 2987,
-    "govity": 0.47238,
+    "govity_total": 1416,
+    "govity_possible": 2992,
+    "govity": 0.473262,
     "name": "Igor Matovič",
     "given_names": [
       "Igor"
@@ -2718,9 +2590,9 @@
   },
   {
     "person_id": "nrsr:person:1156",
-    "govity_total": 4511,
-    "govity_possible": 4516,
-    "govity": 0.998893,
+    "govity_total": 4524,
+    "govity_possible": 4529,
+    "govity": 0.998896,
     "name": "Ján Mažgút",
     "given_names": [
       "Ján"
@@ -2750,9 +2622,9 @@
   },
   {
     "person_id": "nrsr:person:1204",
-    "govity_total": 4487,
-    "govity_possible": 4489,
-    "govity": 0.999554,
+    "govity_total": 4500,
+    "govity_possible": 4502,
+    "govity": 0.999556,
     "name": "Jaroslav Mego",
     "given_names": [
       "Jaroslav"
@@ -2814,9 +2686,9 @@
   },
   {
     "person_id": "nrsr:person:1149",
-    "govity_total": 4471,
-    "govity_possible": 4501,
-    "govity": 0.993335,
+    "govity_total": 4484,
+    "govity_possible": 4514,
+    "govity": 0.993354,
     "name": "Roman Michelko",
     "given_names": [
       "Roman"
@@ -2846,9 +2718,9 @@
   },
   {
     "person_id": "nrsr:person:92",
-    "govity_total": 1810,
-    "govity_possible": 3055,
-    "govity": 0.592471,
+    "govity_total": 1815,
+    "govity_possible": 3060,
+    "govity": 0.593137,
     "name": "František Mikloško",
     "given_names": [
       "František"
@@ -2871,9 +2743,9 @@
   },
   {
     "person_id": "nrsr:person:1046",
-    "govity_total": 1572,
-    "govity_possible": 3315,
-    "govity": 0.474208,
+    "govity_total": 1577,
+    "govity_possible": 3320,
+    "govity": 0.475,
     "name": "Roman Mikulec",
     "given_names": [
       "Roman"
@@ -2903,9 +2775,9 @@
   },
   {
     "person_id": "nrsr:person:322",
-    "govity_total": 4313,
-    "govity_possible": 4326,
-    "govity": 0.996995,
+    "govity_total": 4325,
+    "govity_possible": 4338,
+    "govity": 0.997003,
     "name": "Dušan Muňko",
     "given_names": [
       "Dušan"
@@ -2942,9 +2814,9 @@
   },
   {
     "person_id": "nrsr:person:899",
-    "govity_total": 4485,
-    "govity_possible": 4490,
-    "govity": 0.998886,
+    "govity_total": 4498,
+    "govity_possible": 4503,
+    "govity": 0.99889,
     "name": "Peter Náhlik",
     "given_names": [
       "Peter"
@@ -2974,9 +2846,9 @@
   },
   {
     "person_id": "nrsr:person:1212",
-    "govity_total": 2336,
-    "govity_possible": 4064,
-    "govity": 0.574803,
+    "govity_total": 2341,
+    "govity_possible": 4069,
+    "govity": 0.575326,
     "name": "Natália Nash",
     "given_names": [
       "Natália"
@@ -3006,9 +2878,9 @@
   },
   {
     "person_id": "nrsr:person:1196",
-    "govity_total": 4512,
-    "govity_possible": 4518,
-    "govity": 0.998672,
+    "govity_total": 4525,
+    "govity_possible": 4531,
+    "govity": 0.998676,
     "name": "Alena Nováková",
     "given_names": [
       "Alena"
@@ -3038,9 +2910,9 @@
   },
   {
     "person_id": "nrsr:person:1225",
-    "govity_total": 336,
-    "govity_possible": 551,
-    "govity": 0.6098,
+    "govity_total": 341,
+    "govity_possible": 556,
+    "govity": 0.613309,
     "name": "Gabriel Paľa",
     "given_names": [
       "Gabriel"
@@ -3063,9 +2935,9 @@
   },
   {
     "person_id": "nrsr:person:962",
-    "govity_total": 1912,
-    "govity_possible": 3345,
-    "govity": 0.571599,
+    "govity_total": 1917,
+    "govity_possible": 3350,
+    "govity": 0.572239,
     "name": "Simona Petrík",
     "given_names": [
       "Simona"
@@ -3095,9 +2967,9 @@
   },
   {
     "person_id": "nrsr:person:900",
-    "govity_total": 4528,
-    "govity_possible": 4529,
-    "govity": 0.999779,
+    "govity_total": 4541,
+    "govity_possible": 4542,
+    "govity": 0.99978,
     "name": "František Petro",
     "given_names": [
       "František"
@@ -3127,9 +2999,9 @@
   },
   {
     "person_id": "nrsr:person:1116",
-    "govity_total": 1882,
-    "govity_possible": 3324,
-    "govity": 0.566185,
+    "govity_total": 1887,
+    "govity_possible": 3329,
+    "govity": 0.566837,
     "name": "Lucia Plaváková",
     "given_names": [
       "Lucia"
@@ -3159,9 +3031,9 @@
   },
   {
     "person_id": "nrsr:person:1194",
-    "govity_total": 4528,
-    "govity_possible": 4529,
-    "govity": 0.999779,
+    "govity_total": 4541,
+    "govity_possible": 4542,
+    "govity": 0.99978,
     "name": "Zuzana Plevíková",
     "given_names": [
       "Zuzana"
@@ -3191,9 +3063,9 @@
   },
   {
     "person_id": "nrsr:person:685",
-    "govity_total": 4458,
-    "govity_possible": 4474,
-    "govity": 0.996424,
+    "govity_total": 4471,
+    "govity_possible": 4487,
+    "govity": 0.996434,
     "name": "Ján Podmanický",
     "given_names": [
       "Ján"
@@ -3223,9 +3095,9 @@
   },
   {
     "person_id": "nrsr:person:1088",
-    "govity_total": 1834,
-    "govity_possible": 3718,
-    "govity": 0.493276,
+    "govity_total": 1839,
+    "govity_possible": 3723,
+    "govity": 0.493956,
     "name": "Peter Pollák",
     "given_names": [
       "Peter"
@@ -3287,9 +3159,9 @@
   },
   {
     "person_id": "nrsr:person:1131",
-    "govity_total": 2401,
-    "govity_possible": 4166,
-    "govity": 0.576332,
+    "govity_total": 2406,
+    "govity_possible": 4171,
+    "govity": 0.57684,
     "name": "Ondrej Prostredník",
     "given_names": [
       "Ondrej"
@@ -3319,9 +3191,9 @@
   },
   {
     "person_id": "nrsr:person:879",
-    "govity_total": 4491,
-    "govity_possible": 4497,
-    "govity": 0.998666,
+    "govity_total": 4504,
+    "govity_possible": 4510,
+    "govity": 0.99867,
     "name": "Róbert Puci",
     "given_names": [
       "Róbert"
@@ -3351,9 +3223,9 @@
   },
   {
     "person_id": "nrsr:person:1208",
-    "govity_total": 4440,
-    "govity_possible": 4448,
-    "govity": 0.998201,
+    "govity_total": 4453,
+    "govity_possible": 4461,
+    "govity": 0.998207,
     "name": "Paula Puškárová",
     "given_names": [
       "Paula"
@@ -3383,9 +3255,9 @@
   },
   {
     "person_id": "nrsr:person:761",
-    "govity_total": 2346,
-    "govity_possible": 2354,
-    "govity": 0.996602,
+    "govity_total": 2359,
+    "govity_possible": 2367,
+    "govity": 0.99662,
     "name": "Richard Raši",
     "given_names": [
       "Richard"
@@ -3415,9 +3287,9 @@
   },
   {
     "person_id": "nrsr:person:905",
-    "govity_total": 1370,
-    "govity_possible": 3040,
-    "govity": 0.450658,
+    "govity_total": 1374,
+    "govity_possible": 3044,
+    "govity": 0.45138,
     "name": "Veronika Remišová",
     "given_names": [
       "Veronika"
@@ -3447,9 +3319,9 @@
   },
   {
     "person_id": "nrsr:person:689",
-    "govity_total": 4463,
-    "govity_possible": 4469,
-    "govity": 0.998657,
+    "govity_total": 4476,
+    "govity_possible": 4482,
+    "govity": 0.998661,
     "name": "Ján Richter",
     "given_names": [
       "Ján"
@@ -3479,9 +3351,9 @@
   },
   {
     "person_id": "nrsr:person:1120",
-    "govity_total": 2311,
-    "govity_possible": 4035,
-    "govity": 0.572739,
+    "govity_total": 2316,
+    "govity_possible": 4040,
+    "govity": 0.573267,
     "name": "Michal Sabo",
     "given_names": [
       "Michal"
@@ -3511,8 +3383,8 @@
   },
   {
     "person_id": "nrsr:person:762",
-    "govity_total": 4459,
-    "govity_possible": 4459,
+    "govity_total": 4472,
+    "govity_possible": 4472,
     "govity": 1.0,
     "name": "Marián Saloň",
     "given_names": [
@@ -3543,9 +3415,9 @@
   },
   {
     "person_id": "nrsr:person:1163",
-    "govity_total": 4512,
-    "govity_possible": 4515,
-    "govity": 0.999336,
+    "govity_total": 4525,
+    "govity_possible": 4528,
+    "govity": 0.999337,
     "name": "Justín Sedlák",
     "given_names": [
       "Justín"
@@ -3575,9 +3447,9 @@
   },
   {
     "person_id": "nrsr:person:1191",
-    "govity_total": 4522,
-    "govity_possible": 4524,
-    "govity": 0.999558,
+    "govity_total": 4535,
+    "govity_possible": 4537,
+    "govity": 0.999559,
     "name": "Andrej Sitkár",
     "given_names": [
       "Andrej"
@@ -3607,9 +3479,9 @@
   },
   {
     "person_id": "nrsr:person:1197",
-    "govity_total": 3592,
-    "govity_possible": 3599,
-    "govity": 0.998055,
+    "govity_total": 3599,
+    "govity_possible": 3606,
+    "govity": 0.998059,
     "name": "Peter Slyško",
     "given_names": [
       "Peter"
@@ -3639,9 +3511,9 @@
   },
   {
     "person_id": "nrsr:person:1206",
-    "govity_total": 3966,
-    "govity_possible": 3967,
-    "govity": 0.999748,
+    "govity_total": 3979,
+    "govity_possible": 3980,
+    "govity": 0.999749,
     "name": "Peter Sokol",
     "given_names": [
       "Peter"
@@ -3703,9 +3575,9 @@
   },
   {
     "person_id": "nrsr:person:1182",
-    "govity_total": 2028,
-    "govity_possible": 3330,
-    "govity": 0.609009,
+    "govity_total": 2033,
+    "govity_possible": 3335,
+    "govity": 0.609595,
     "name": "Peter Stachura",
     "given_names": [
       "Peter"
@@ -3728,9 +3600,9 @@
   },
   {
     "person_id": "nrsr:person:1118",
-    "govity_total": 2278,
-    "govity_possible": 3953,
-    "govity": 0.576271,
+    "govity_total": 2283,
+    "govity_possible": 3958,
+    "govity": 0.576806,
     "name": "Tamara Stohlová",
     "given_names": [
       "Tamara"
@@ -3760,9 +3632,9 @@
   },
   {
     "person_id": "nrsr:person:1058",
-    "govity_total": 4520,
-    "govity_possible": 4524,
-    "govity": 0.999116,
+    "govity_total": 4533,
+    "govity_possible": 4537,
+    "govity": 0.999118,
     "name": "Anton Stredák",
     "given_names": [
       "Anton"
@@ -3792,9 +3664,9 @@
   },
   {
     "person_id": "nrsr:person:1161",
-    "govity_total": 4499,
-    "govity_possible": 4501,
-    "govity": 0.999556,
+    "govity_total": 4512,
+    "govity_possible": 4514,
+    "govity": 0.999557,
     "name": "Michal Stuška",
     "given_names": [
       "Michal"
@@ -3824,9 +3696,9 @@
   },
   {
     "person_id": "nrsr:person:1087",
-    "govity_total": 4508,
-    "govity_possible": 4518,
-    "govity": 0.997787,
+    "govity_total": 4521,
+    "govity_possible": 4531,
+    "govity": 0.997793,
     "name": "Zdenko Svoboda",
     "given_names": [
       "Zdenko"
@@ -3856,9 +3728,9 @@
   },
   {
     "person_id": "nrsr:person:1217",
-    "govity_total": 3693,
-    "govity_possible": 3697,
-    "govity": 0.998918,
+    "govity_total": 3706,
+    "govity_possible": 3710,
+    "govity": 0.998922,
     "name": "Andrea Szabóová",
     "given_names": [
       "Andrea"
@@ -3888,9 +3760,9 @@
   },
   {
     "person_id": "nrsr:person:1147",
-    "govity_total": 1889,
-    "govity_possible": 3943,
-    "govity": 0.479077,
+    "govity_total": 1893,
+    "govity_possible": 3948,
+    "govity": 0.479483,
     "name": "Tomáš Szalay",
     "given_names": [
       "Tomáš"
@@ -3920,9 +3792,9 @@
   },
   {
     "person_id": "nrsr:person:1150",
-    "govity_total": 4171,
-    "govity_possible": 4177,
-    "govity": 0.998564,
+    "govity_total": 4183,
+    "govity_possible": 4190,
+    "govity": 0.998329,
     "name": "Ivan Ševčík",
     "given_names": [
       "Ivan"
@@ -3984,9 +3856,9 @@
   },
   {
     "person_id": "nrsr:person:1177",
-    "govity_total": 4411,
-    "govity_possible": 4415,
-    "govity": 0.999094,
+    "govity_total": 4424,
+    "govity_possible": 4428,
+    "govity": 0.999097,
     "name": "Igor Šimko",
     "given_names": [
       "Igor"
@@ -4016,9 +3888,9 @@
   },
   {
     "person_id": "nrsr:person:1065",
-    "govity_total": 1682,
-    "govity_possible": 3802,
-    "govity": 0.442399,
+    "govity_total": 1687,
+    "govity_possible": 3807,
+    "govity": 0.443131,
     "name": "Michal Šipoš",
     "given_names": [
       "Michal"
@@ -4048,9 +3920,9 @@
   },
   {
     "person_id": "nrsr:person:1146",
-    "govity_total": 1951,
-    "govity_possible": 4008,
-    "govity": 0.486776,
+    "govity_total": 1956,
+    "govity_possible": 4013,
+    "govity": 0.487416,
     "name": "Anežka Škopová",
     "given_names": [
       "Anežka"
@@ -4080,9 +3952,9 @@
   },
   {
     "person_id": "nrsr:person:862",
-    "govity_total": 1893,
-    "govity_possible": 3084,
-    "govity": 0.613813,
+    "govity_total": 1898,
+    "govity_possible": 3089,
+    "govity": 0.614438,
     "name": "Branislav Škripek",
     "given_names": [
       "Branislav"
@@ -4105,9 +3977,9 @@
   },
   {
     "person_id": "nrsr:person:1143",
-    "govity_total": 2341,
-    "govity_possible": 3987,
-    "govity": 0.587158,
+    "govity_total": 2346,
+    "govity_possible": 3992,
+    "govity": 0.587675,
     "name": "Veronika Šrobová",
     "given_names": [
       "Veronika"
@@ -4137,9 +4009,9 @@
   },
   {
     "person_id": "nrsr:person:1127",
-    "govity_total": 2139,
-    "govity_possible": 3625,
-    "govity": 0.590069,
+    "govity_total": 2144,
+    "govity_possible": 3630,
+    "govity": 0.590634,
     "name": "Ivan Štefunko",
     "given_names": [
       "Ivan"
@@ -4169,9 +4041,9 @@
   },
   {
     "person_id": "nrsr:person:1132",
-    "govity_total": 2042,
-    "govity_possible": 3620,
-    "govity": 0.564088,
+    "govity_total": 2047,
+    "govity_possible": 3625,
+    "govity": 0.56469,
     "name": "Zuzana Števulová",
     "given_names": [
       "Zuzana"
@@ -4201,9 +4073,9 @@
   },
   {
     "person_id": "nrsr:person:769",
-    "govity_total": 4518,
-    "govity_possible": 4521,
-    "govity": 0.999336,
+    "govity_total": 4531,
+    "govity_possible": 4534,
+    "govity": 0.999338,
     "name": "Peter Šuca",
     "given_names": [
       "Peter"
@@ -4233,9 +4105,9 @@
   },
   {
     "person_id": "nrsr:person:1145",
-    "govity_total": 1848,
-    "govity_possible": 3715,
-    "govity": 0.497443,
+    "govity_total": 1853,
+    "govity_possible": 3720,
+    "govity": 0.498118,
     "name": "Viliam Tankó",
     "given_names": [
       "Viliam"
@@ -4297,9 +4169,9 @@
   },
   {
     "person_id": "nrsr:person:930",
-    "govity_total": 4507,
-    "govity_possible": 4514,
-    "govity": 0.998449,
+    "govity_total": 4520,
+    "govity_possible": 4527,
+    "govity": 0.998454,
     "name": "Dušan Tittel",
     "given_names": [
       "Dušan"
@@ -4329,9 +4201,9 @@
   },
   {
     "person_id": "nrsr:person:1115",
-    "govity_total": 2098,
-    "govity_possible": 3586,
-    "govity": 0.585053,
+    "govity_total": 2103,
+    "govity_possible": 3591,
+    "govity": 0.585631,
     "name": "Michal Truban",
     "given_names": [
       "Michal"
@@ -4386,9 +4258,9 @@
   },
   {
     "person_id": "nrsr:person:1075",
-    "govity_total": 2014,
-    "govity_possible": 3345,
-    "govity": 0.602093,
+    "govity_total": 2019,
+    "govity_possible": 3350,
+    "govity": 0.602687,
     "name": "Tomáš Valášek",
     "given_names": [
       "Tomáš"
@@ -4418,9 +4290,9 @@
   },
   {
     "person_id": "nrsr:person:1193",
-    "govity_total": 4525,
-    "govity_possible": 4526,
-    "govity": 0.999779,
+    "govity_total": 4538,
+    "govity_possible": 4539,
+    "govity": 0.99978,
     "name": "Igor Válek",
     "given_names": [
       "Igor"
@@ -4450,9 +4322,9 @@
   },
   {
     "person_id": "nrsr:person:705",
-    "govity_total": 4503,
-    "govity_possible": 4507,
-    "govity": 0.999112,
+    "govity_total": 4516,
+    "govity_possible": 4520,
+    "govity": 0.999115,
     "name": "Jozef Valocký",
     "given_names": [
       "Jozef"
@@ -4482,9 +4354,9 @@
   },
   {
     "person_id": "nrsr:person:1135",
-    "govity_total": 2240,
-    "govity_possible": 3903,
-    "govity": 0.573917,
+    "govity_total": 2245,
+    "govity_possible": 3908,
+    "govity": 0.574463,
     "name": "Branislav Vančo",
     "given_names": [
       "Branislav"
@@ -4514,9 +4386,9 @@
   },
   {
     "person_id": "nrsr:person:861",
-    "govity_total": 1900,
-    "govity_possible": 3730,
-    "govity": 0.509383,
+    "govity_total": 1905,
+    "govity_possible": 3735,
+    "govity": 0.51004,
     "name": "Richard Vašečka",
     "given_names": [
       "Richard"
@@ -4546,9 +4418,9 @@
   },
   {
     "person_id": "nrsr:person:293",
-    "govity_total": 4414,
-    "govity_possible": 4430,
-    "govity": 0.996388,
+    "govity_total": 4427,
+    "govity_possible": 4443,
+    "govity": 0.996399,
     "name": "Ľubomír Vážny",
     "given_names": [
       "Ľubomír"
@@ -4578,9 +4450,9 @@
   },
   {
     "person_id": "nrsr:person:1141",
-    "govity_total": 2263,
-    "govity_possible": 3908,
-    "govity": 0.579069,
+    "govity_total": 2268,
+    "govity_possible": 3913,
+    "govity": 0.579606,
     "name": "Veronika Veslárová",
     "given_names": [
       "Veronika"
@@ -4610,9 +4482,9 @@
   },
   {
     "person_id": "nrsr:person:991",
-    "govity_total": 2070,
-    "govity_possible": 4059,
-    "govity": 0.509978,
+    "govity_total": 2074,
+    "govity_possible": 4064,
+    "govity": 0.510335,
     "name": "Marián Viskupič",
     "given_names": [
       "Marián"
@@ -4642,9 +4514,9 @@
   },
   {
     "person_id": "nrsr:person:1176",
-    "govity_total": 4448,
-    "govity_possible": 4458,
-    "govity": 0.997757,
+    "govity_total": 4460,
+    "govity_possible": 4470,
+    "govity": 0.997763,
     "name": "Erik Vlček",
     "given_names": [
       "Erik"
@@ -4674,8 +4546,8 @@
   },
   {
     "person_id": "nrsr:person:1019",
-    "govity_total": 4517,
-    "govity_possible": 4518,
+    "govity_total": 4530,
+    "govity_possible": 4531,
     "govity": 0.999779,
     "name": "Viliam Zahorčák",
     "given_names": [
@@ -4706,9 +4578,9 @@
   },
   {
     "person_id": "nrsr:person:691",
-    "govity_total": 4383,
-    "govity_possible": 4388,
-    "govity": 0.998861,
+    "govity_total": 4396,
+    "govity_possible": 4401,
+    "govity": 0.998864,
     "name": "Peter Žiga",
     "given_names": [
       "Peter"

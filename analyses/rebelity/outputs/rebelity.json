@@ -2,8 +2,8 @@
   {
     "person_id": "nrsr:person:1180",
     "rebelity_total": 7,
-    "rebelity_possible": 3628,
-    "rebelity": 0.001929,
+    "rebelity_possible": 3633,
+    "rebelity": 0.001927,
     "name": "Martina Holečková",
     "given_names": [
       "Martina"
@@ -41,8 +41,8 @@
   {
     "person_id": "nrsr:person:871",
     "rebelity_total": 9,
-    "rebelity_possible": 4534,
-    "rebelity": 0.001985,
+    "rebelity_possible": 4547,
+    "rebelity": 0.001979,
     "name": "Vladimír Baláž",
     "given_names": [
       "Vladimír"
@@ -73,8 +73,8 @@
   {
     "person_id": "nrsr:person:1207",
     "rebelity_total": 3,
-    "rebelity_possible": 4536,
-    "rebelity": 0.000661,
+    "rebelity_possible": 4549,
+    "rebelity": 0.000659,
     "name": "Michal Bartek",
     "given_names": [
       "Michal"
@@ -105,8 +105,8 @@
   {
     "person_id": "nrsr:person:233",
     "rebelity_total": 5,
-    "rebelity_possible": 4534,
-    "rebelity": 0.001103,
+    "rebelity_possible": 4547,
+    "rebelity": 0.0011,
     "name": "Jaroslav Baška",
     "given_names": [
       "Jaroslav"
@@ -137,8 +137,8 @@
   {
     "person_id": "nrsr:person:1187",
     "rebelity_total": 2,
-    "rebelity_possible": 4536,
-    "rebelity": 0.000441,
+    "rebelity_possible": 4549,
+    "rebelity": 0.00044,
     "name": "Branislav Becík",
     "given_names": [
       "Branislav"
@@ -169,8 +169,8 @@
   {
     "person_id": "nrsr:person:1119",
     "rebelity_total": 5,
-    "rebelity_possible": 4325,
-    "rebelity": 0.001156,
+    "rebelity_possible": 4330,
+    "rebelity": 0.001155,
     "name": "Irena Bihariová",
     "given_names": [
       "Irena"
@@ -200,9 +200,9 @@
   },
   {
     "person_id": "nrsr:person:976",
-    "rebelity_total": 101,
-    "rebelity_possible": 4237,
-    "rebelity": 0.023838,
+    "rebelity_total": 102,
+    "rebelity_possible": 4248,
+    "rebelity": 0.024011,
     "name": "Jana Cigániková",
     "given_names": [
       "Jana"
@@ -231,42 +231,10 @@
     }
   },
   {
-    "person_id": "nrsr:person:997",
-    "rebelity_total": 2,
-    "rebelity_possible": 4536,
-    "rebelity": 0.000441,
-    "name": "Ján Blcháč",
-    "given_names": [
-      "Ján"
-    ],
-    "family_names": [
-      "Blcháč"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:1",
-        "classification": "group",
-        "name": "Klub HLAS - sociálna demokracia",
-        "since": "2023-11-14",
-        "until": "2026-10-06"
-      },
-      {
-        "id": "nrsr:org:club:1",
-        "classification": "group",
-        "name": "Klub HLAS - sociálna demokracia",
-        "since": "2026-10-06"
-      }
-    ],
-    "since": "2023-10-25",
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=997&ImageWidth=140"
-    }
-  },
-  {
     "person_id": "nrsr:person:1144",
     "rebelity_total": 23,
-    "rebelity_possible": 4354,
-    "rebelity": 0.005282,
+    "rebelity_possible": 4359,
+    "rebelity": 0.005276,
     "name": "Lukáš Bužo",
     "given_names": [
       "Lukáš"
@@ -297,8 +265,8 @@
   {
     "person_id": "nrsr:person:1195",
     "rebelity_total": 3,
-    "rebelity_possible": 4536,
-    "rebelity": 0.000661,
+    "rebelity_possible": 4549,
+    "rebelity": 0.000659,
     "name": "Jozef Cech",
     "given_names": [
       "Jozef"
@@ -329,8 +297,8 @@
   {
     "person_id": "nrsr:person:1179",
     "rebelity_total": 5,
-    "rebelity_possible": 4224,
-    "rebelity": 0.001184,
+    "rebelity_possible": 4229,
+    "rebelity": 0.001182,
     "name": "Marián Čaučík",
     "given_names": [
       "Marián"
@@ -354,8 +322,8 @@
   {
     "person_id": "nrsr:person:1160",
     "rebelity_total": 8,
-    "rebelity_possible": 4534,
-    "rebelity": 0.001764,
+    "rebelity_possible": 4547,
+    "rebelity": 0.001759,
     "name": "Marcela Čavojová",
     "given_names": [
       "Marcela"
@@ -386,8 +354,8 @@
   {
     "person_id": "nrsr:person:1203",
     "rebelity_total": 8,
-    "rebelity_possible": 4536,
-    "rebelity": 0.001764,
+    "rebelity_possible": 4549,
+    "rebelity": 0.001759,
     "name": "Miroslav Čellár",
     "given_names": [
       "Miroslav"
@@ -418,8 +386,8 @@
   {
     "person_id": "nrsr:person:929",
     "rebelity_total": 9,
-    "rebelity_possible": 4532,
-    "rebelity": 0.001986,
+    "rebelity_possible": 4545,
+    "rebelity": 0.00198,
     "name": "Andrej Danko",
     "given_names": [
       "Andrej"
@@ -450,7 +418,7 @@
   {
     "person_id": "nrsr:person:1140",
     "rebelity_total": 1,
-    "rebelity_possible": 4325,
+    "rebelity_possible": 4330,
     "rebelity": 0.000231,
     "name": "Dávid Dej",
     "given_names": [
@@ -482,8 +450,8 @@
   {
     "person_id": "nrsr:person:1216",
     "rebelity_total": 2,
-    "rebelity_possible": 3674,
-    "rebelity": 0.000544,
+    "rebelity_possible": 3687,
+    "rebelity": 0.000542,
     "name": "Dávid Demečko",
     "given_names": [
       "Dávid"
@@ -514,8 +482,8 @@
   {
     "person_id": "nrsr:person:779",
     "rebelity_total": 49,
-    "rebelity_possible": 4354,
-    "rebelity": 0.011254,
+    "rebelity_possible": 4359,
+    "rebelity": 0.011241,
     "name": "Ondrej Dostál",
     "given_names": [
       "Ondrej"
@@ -546,8 +514,8 @@
   {
     "person_id": "nrsr:person:1133",
     "rebelity_total": 4,
-    "rebelity_possible": 4325,
-    "rebelity": 0.000925,
+    "rebelity_possible": 4330,
+    "rebelity": 0.000924,
     "name": "Martin Dubéci",
     "given_names": [
       "Martin"
@@ -578,8 +546,8 @@
   {
     "person_id": "nrsr:person:1213",
     "rebelity_total": 3,
-    "rebelity_possible": 4144,
-    "rebelity": 0.000724,
+    "rebelity_possible": 4149,
+    "rebelity": 0.000723,
     "name": "Richard Dubovický",
     "given_names": [
       "Richard"
@@ -610,8 +578,8 @@
   {
     "person_id": "nrsr:person:1221",
     "rebelity_total": 2,
-    "rebelity_possible": 1640,
-    "rebelity": 0.00122,
+    "rebelity_possible": 1645,
+    "rebelity": 0.001216,
     "name": "Igor Dušenka",
     "given_names": [
       "Igor"
@@ -642,8 +610,8 @@
   {
     "person_id": "nrsr:person:1123",
     "rebelity_total": 5,
-    "rebelity_possible": 4325,
-    "rebelity": 0.001156,
+    "rebelity_possible": 4330,
+    "rebelity": 0.001155,
     "name": "Oskar Dvořák",
     "given_names": [
       "Oskar"
@@ -672,42 +640,10 @@
     }
   },
   {
-    "person_id": "nrsr:person:1172",
-    "rebelity_total": 4,
-    "rebelity_possible": 4536,
-    "rebelity": 0.000882,
-    "name": "Richard Eliáš",
-    "given_names": [
-      "Richard"
-    ],
-    "family_names": [
-      "Eliáš"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:1",
-        "classification": "group",
-        "name": "Klub HLAS - sociálna demokracia",
-        "since": "2023-11-14",
-        "until": "2026-10-06"
-      },
-      {
-        "id": "nrsr:org:club:1",
-        "classification": "group",
-        "name": "Klub HLAS - sociálna demokracia",
-        "since": "2026-10-06"
-      }
-    ],
-    "since": "2023-10-25",
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1172&ImageWidth=140"
-    }
-  },
-  {
     "person_id": "nrsr:person:36",
     "rebelity_total": 9,
-    "rebelity_possible": 4534,
-    "rebelity": 0.001985,
+    "rebelity_possible": 4547,
+    "rebelity": 0.001979,
     "name": "Vladimír Faič",
     "given_names": [
       "Vladimír"
@@ -738,8 +674,8 @@
   {
     "person_id": "nrsr:person:931",
     "rebelity_total": 8,
-    "rebelity_possible": 4532,
-    "rebelity": 0.001765,
+    "rebelity_possible": 4545,
+    "rebelity": 0.00176,
     "name": "Karol Farkašovský",
     "given_names": [
       "Karol"
@@ -770,8 +706,8 @@
   {
     "person_id": "nrsr:person:1008",
     "rebelity_total": 67,
-    "rebelity_possible": 4375,
-    "rebelity": 0.015314,
+    "rebelity_possible": 4386,
+    "rebelity": 0.015276,
     "name": "Ján Ferenčák",
     "given_names": [
       "Ján"
@@ -802,8 +738,8 @@
   {
     "person_id": "nrsr:person:966",
     "rebelity_total": 7,
-    "rebelity_possible": 3137,
-    "rebelity": 0.002231,
+    "rebelity_possible": 3142,
+    "rebelity": 0.002228,
     "name": "Karol Galek",
     "given_names": [
       "Karol"
@@ -834,8 +770,8 @@
   {
     "person_id": "nrsr:person:656",
     "rebelity_total": 8,
-    "rebelity_possible": 4534,
-    "rebelity": 0.001764,
+    "rebelity_possible": 4547,
+    "rebelity": 0.001759,
     "name": "Dušan Galis",
     "given_names": [
       "Dušan"
@@ -866,8 +802,8 @@
   {
     "person_id": "nrsr:person:785",
     "rebelity_total": 920,
-    "rebelity_possible": 4140,
-    "rebelity": 0.222222,
+    "rebelity_possible": 4151,
+    "rebelity": 0.221633,
     "name": "Ľubomír Galko",
     "given_names": [
       "Ľubomír"
@@ -898,8 +834,8 @@
   {
     "person_id": "nrsr:person:1154",
     "rebelity_total": 2,
-    "rebelity_possible": 4534,
-    "rebelity": 0.000441,
+    "rebelity_possible": 4547,
+    "rebelity": 0.00044,
     "name": "Tibor Gašpar",
     "given_names": [
       "Tibor"
@@ -930,7 +866,7 @@
   {
     "person_id": "nrsr:person:892",
     "rebelity_total": 1,
-    "rebelity_possible": 4536,
+    "rebelity_possible": 4549,
     "rebelity": 0.00022,
     "name": "Štefan Gašparovič",
     "given_names": [
@@ -962,7 +898,7 @@
   {
     "person_id": "nrsr:person:1126",
     "rebelity_total": 0,
-    "rebelity_possible": 4325,
+    "rebelity_possible": 4330,
     "rebelity": 0.0,
     "name": "Tina Gažovičová",
     "given_names": [
@@ -992,41 +928,9 @@
     }
   },
   {
-    "person_id": "nrsr:person:1214",
-    "rebelity_total": 4,
-    "rebelity_possible": 4275,
-    "rebelity": 0.000936,
-    "name": "Richard Glück",
-    "given_names": [
-      "Richard"
-    ],
-    "family_names": [
-      "Glück"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:5",
-        "classification": "group",
-        "name": "Klub SMER - sociálna demokracia",
-        "since": "2024-02-08",
-        "until": "2026-10-06"
-      },
-      {
-        "id": "nrsr:org:club:5",
-        "classification": "group",
-        "name": "Klub SMER - sociálna demokracia",
-        "since": "2026-10-06"
-      }
-    ],
-    "since": "2023-10-25",
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1214&ImageWidth=140"
-    }
-  },
-  {
     "person_id": "nrsr:person:738",
     "rebelity_total": 0,
-    "rebelity_possible": 4534,
+    "rebelity_possible": 4547,
     "rebelity": 0.0,
     "name": "Pavol Goga",
     "given_names": [
@@ -1058,8 +962,8 @@
   {
     "person_id": "nrsr:person:1222",
     "rebelity_total": 1,
-    "rebelity_possible": 1647,
-    "rebelity": 0.000607,
+    "rebelity_possible": 1652,
+    "rebelity": 0.000605,
     "name": "Gréta Gregorová",
     "given_names": [
       "Gréta"
@@ -1090,8 +994,8 @@
   {
     "person_id": "nrsr:person:910",
     "rebelity_total": 17,
-    "rebelity_possible": 4354,
-    "rebelity": 0.003904,
+    "rebelity_possible": 4359,
+    "rebelity": 0.0039,
     "name": "Gábor Grendel",
     "given_names": [
       "Gábor"
@@ -1122,8 +1026,8 @@
   {
     "person_id": "nrsr:person:971",
     "rebelity_total": 3,
-    "rebelity_possible": 4354,
-    "rebelity": 0.000689,
+    "rebelity_possible": 4359,
+    "rebelity": 0.000688,
     "name": "Branislav Gröhling",
     "given_names": [
       "Branislav"
@@ -1154,8 +1058,8 @@
   {
     "person_id": "nrsr:person:1009",
     "rebelity_total": 3,
-    "rebelity_possible": 4534,
-    "rebelity": 0.000662,
+    "rebelity_possible": 4547,
+    "rebelity": 0.00066,
     "name": "Jozef Habánik",
     "given_names": [
       "Jozef"
@@ -1186,8 +1090,8 @@
   {
     "person_id": "nrsr:person:874",
     "rebelity_total": 3,
-    "rebelity_possible": 4534,
-    "rebelity": 0.000662,
+    "rebelity_possible": 4547,
+    "rebelity": 0.00066,
     "name": "Augustín Hambálek",
     "given_names": [
       "Augustín"
@@ -1218,7 +1122,7 @@
   {
     "person_id": "nrsr:person:1129",
     "rebelity_total": 1,
-    "rebelity_possible": 4325,
+    "rebelity_possible": 4330,
     "rebelity": 0.000231,
     "name": "Jana Hanuliaková",
     "given_names": [
@@ -1250,8 +1154,8 @@
   {
     "person_id": "nrsr:person:1142",
     "rebelity_total": 3,
-    "rebelity_possible": 4325,
-    "rebelity": 0.000694,
+    "rebelity_possible": 4330,
+    "rebelity": 0.000693,
     "name": "Ján Hargaš",
     "given_names": [
       "Ján"
@@ -1282,8 +1186,8 @@
   {
     "person_id": "nrsr:person:1192",
     "rebelity_total": 5,
-    "rebelity_possible": 4534,
-    "rebelity": 0.001103,
+    "rebelity_possible": 4547,
+    "rebelity": 0.0011,
     "name": "Ivan Hazucha",
     "given_names": [
       "Ivan"
@@ -1314,8 +1218,8 @@
   {
     "person_id": "nrsr:person:859",
     "rebelity_total": 14,
-    "rebelity_possible": 4354,
-    "rebelity": 0.003215,
+    "rebelity_possible": 4359,
+    "rebelity": 0.003212,
     "name": "Alojz Hlina",
     "given_names": [
       "Alojz"
@@ -1346,8 +1250,8 @@
   {
     "person_id": "nrsr:person:1183",
     "rebelity_total": 3,
-    "rebelity_possible": 4224,
-    "rebelity": 0.00071,
+    "rebelity_possible": 4229,
+    "rebelity": 0.000709,
     "name": "Ján Horecký",
     "given_names": [
       "Ján"
@@ -1369,41 +1273,9 @@
     }
   },
   {
-    "person_id": "nrsr:person:1219",
-    "rebelity_total": 3,
-    "rebelity_possible": 3183,
-    "rebelity": 0.000943,
-    "name": "Ján Horváth",
-    "given_names": [
-      "Ján"
-    ],
-    "family_names": [
-      "Horváth"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:5",
-        "classification": "group",
-        "name": "Klub SMER - sociálna demokracia",
-        "since": "2024-07-15",
-        "until": "2026-10-06"
-      },
-      {
-        "id": "nrsr:org:club:5",
-        "classification": "group",
-        "name": "Klub SMER - sociálna demokracia",
-        "since": "2026-10-06"
-      }
-    ],
-    "since": "2023-10-25",
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1219&ImageWidth=140"
-    }
-  },
-  {
     "person_id": "nrsr:person:1202",
     "rebelity_total": 0,
-    "rebelity_possible": 2361,
+    "rebelity_possible": 2374,
     "rebelity": 0.0,
     "name": "Ján Hrubý",
     "given_names": [
@@ -1435,7 +1307,7 @@
   {
     "person_id": "nrsr:person:1188",
     "rebelity_total": 2,
-    "rebelity_possible": 4354,
+    "rebelity_possible": 4359,
     "rebelity": 0.000459,
     "name": "Július Jakab",
     "given_names": [
@@ -1467,8 +1339,8 @@
   {
     "person_id": "nrsr:person:1169",
     "rebelity_total": 3,
-    "rebelity_possible": 4536,
-    "rebelity": 0.000661,
+    "rebelity_possible": 4549,
+    "rebelity": 0.000659,
     "name": "Karol Janas",
     "given_names": [
       "Karol"
@@ -1499,8 +1371,8 @@
   {
     "person_id": "nrsr:person:961",
     "rebelity_total": 7,
-    "rebelity_possible": 4224,
-    "rebelity": 0.001657,
+    "rebelity_possible": 4229,
+    "rebelity": 0.001655,
     "name": "Igor Janckulík",
     "given_names": [
       "Igor"
@@ -1524,8 +1396,8 @@
   {
     "person_id": "nrsr:person:61",
     "rebelity_total": 5,
-    "rebelity_possible": 4534,
-    "rebelity": 0.001103,
+    "rebelity_possible": 4547,
+    "rebelity": 0.0011,
     "name": "Dušan Jarjabek",
     "given_names": [
       "Dušan"
@@ -1556,8 +1428,8 @@
   {
     "person_id": "nrsr:person:1121",
     "rebelity_total": 3,
-    "rebelity_possible": 4325,
-    "rebelity": 0.000694,
+    "rebelity_possible": 4330,
+    "rebelity": 0.000693,
     "name": "Zora Jaurová",
     "given_names": [
       "Zora"
@@ -1588,8 +1460,8 @@
   {
     "person_id": "nrsr:person:891",
     "rebelity_total": 7,
-    "rebelity_possible": 4534,
-    "rebelity": 0.001544,
+    "rebelity_possible": 4547,
+    "rebelity": 0.001539,
     "name": "Jozef Ježík",
     "given_names": [
       "Jozef"
@@ -1620,8 +1492,8 @@
   {
     "person_id": "nrsr:person:1128",
     "rebelity_total": 4,
-    "rebelity_possible": 4325,
-    "rebelity": 0.000925,
+    "rebelity_possible": 4330,
+    "rebelity": 0.000924,
     "name": "Beáta Jurík",
     "given_names": [
       "Beáta"
@@ -1652,8 +1524,8 @@
   {
     "person_id": "nrsr:person:1218",
     "rebelity_total": 1,
-    "rebelity_possible": 3183,
-    "rebelity": 0.000314,
+    "rebelity_possible": 3196,
+    "rebelity": 0.000313,
     "name": "Jozef Kačmár",
     "given_names": [
       "Jozef"
@@ -1684,7 +1556,7 @@
   {
     "person_id": "nrsr:person:1170",
     "rebelity_total": 1,
-    "rebelity_possible": 4536,
+    "rebelity_possible": 4549,
     "rebelity": 0.00022,
     "name": "Peter Kalivoda",
     "given_names": [
@@ -1716,8 +1588,8 @@
   {
     "person_id": "nrsr:person:1205",
     "rebelity_total": 1,
-    "rebelity_possible": 4534,
-    "rebelity": 0.000221,
+    "rebelity_possible": 4547,
+    "rebelity": 0.00022,
     "name": "Michal Kapuš",
     "given_names": [
       "Michal"
@@ -1748,8 +1620,8 @@
   {
     "person_id": "nrsr:person:1158",
     "rebelity_total": 1,
-    "rebelity_possible": 4534,
-    "rebelity": 0.000221,
+    "rebelity_possible": 4547,
+    "rebelity": 0.00022,
     "name": "Daniel Karas",
     "given_names": [
       "Daniel"
@@ -1780,8 +1652,8 @@
   {
     "person_id": "nrsr:person:873",
     "rebelity_total": 8,
-    "rebelity_possible": 4534,
-    "rebelity": 0.001764,
+    "rebelity_possible": 4547,
+    "rebelity": 0.001759,
     "name": "Marián Kéry",
     "given_names": [
       "Marián"
@@ -1812,8 +1684,8 @@
   {
     "person_id": "nrsr:person:1125",
     "rebelity_total": 8,
-    "rebelity_possible": 4325,
-    "rebelity": 0.00185,
+    "rebelity_possible": 4330,
+    "rebelity": 0.001848,
     "name": "Štefan Kišš",
     "given_names": [
       "Štefan"
@@ -1844,7 +1716,7 @@
   {
     "person_id": "nrsr:person:1139",
     "rebelity_total": 2,
-    "rebelity_possible": 4325,
+    "rebelity_possible": 4330,
     "rebelity": 0.000462,
     "name": "Dana Kleinert",
     "given_names": [
@@ -1876,8 +1748,8 @@
   {
     "person_id": "nrsr:person:1224",
     "rebelity_total": 2,
-    "rebelity_possible": 929,
-    "rebelity": 0.002153,
+    "rebelity_possible": 934,
+    "rebelity": 0.002141,
     "name": "Monika Kolejáková",
     "given_names": [
       "Monika"
@@ -1901,8 +1773,8 @@
   {
     "person_id": "nrsr:person:1025",
     "rebelity_total": 26,
-    "rebelity_possible": 4354,
-    "rebelity": 0.005972,
+    "rebelity_possible": 4359,
+    "rebelity": 0.005965,
     "name": "Mária Kolíková",
     "given_names": [
       "Mária"
@@ -1933,8 +1805,8 @@
   {
     "person_id": "nrsr:person:1124",
     "rebelity_total": 3,
-    "rebelity_possible": 4325,
-    "rebelity": 0.000694,
+    "rebelity_possible": 4330,
+    "rebelity": 0.000693,
     "name": "Ingrid Kosová",
     "given_names": [
       "Ingrid"
@@ -1965,8 +1837,8 @@
   {
     "person_id": "nrsr:person:1151",
     "rebelity_total": 11,
-    "rebelity_possible": 4532,
-    "rebelity": 0.002427,
+    "rebelity_possible": 4545,
+    "rebelity": 0.00242,
     "name": "Peter Kotlár",
     "given_names": [
       "Peter"
@@ -1997,7 +1869,7 @@
   {
     "person_id": "nrsr:person:1227",
     "rebelity_total": 0,
-    "rebelity_possible": 198,
+    "rebelity_possible": 211,
     "rebelity": 0.0,
     "name": "Milan Kováč",
     "given_names": [
@@ -2029,8 +1901,8 @@
   {
     "person_id": "nrsr:person:907",
     "rebelity_total": 85,
-    "rebelity_possible": 4354,
-    "rebelity": 0.019522,
+    "rebelity_possible": 4359,
+    "rebelity": 0.0195,
     "name": "Marek Krajčí",
     "given_names": [
       "Marek"
@@ -2061,8 +1933,8 @@
   {
     "person_id": "nrsr:person:1210",
     "rebelity_total": 2,
-    "rebelity_possible": 4532,
-    "rebelity": 0.000441,
+    "rebelity_possible": 4545,
+    "rebelity": 0.00044,
     "name": "Dagmar Kramplová",
     "given_names": [
       "Dagmar"
@@ -2093,8 +1965,8 @@
   {
     "person_id": "nrsr:person:1190",
     "rebelity_total": 14,
-    "rebelity_possible": 3998,
-    "rebelity": 0.003502,
+    "rebelity_possible": 4003,
+    "rebelity": 0.003497,
     "name": "Rastislav Krátky",
     "given_names": [
       "Rastislav"
@@ -2125,8 +1997,8 @@
   {
     "person_id": "nrsr:person:1032",
     "rebelity_total": 21,
-    "rebelity_possible": 4354,
-    "rebelity": 0.004823,
+    "rebelity_possible": 4359,
+    "rebelity": 0.004818,
     "name": "Juraj Krúpa",
     "given_names": [
       "Juraj"
@@ -2157,8 +2029,8 @@
   {
     "person_id": "nrsr:person:668",
     "rebelity_total": 9,
-    "rebelity_possible": 4534,
-    "rebelity": 0.001985,
+    "rebelity_possible": 4547,
+    "rebelity": 0.001979,
     "name": "Stanislav Kubánek",
     "given_names": [
       "Stanislav"
@@ -2189,8 +2061,8 @@
   {
     "person_id": "nrsr:person:671",
     "rebelity_total": 5,
-    "rebelity_possible": 4534,
-    "rebelity": 0.001103,
+    "rebelity_possible": 4547,
+    "rebelity": 0.0011,
     "name": "Ján Kvorka",
     "given_names": [
       "Ján"
@@ -2221,7 +2093,7 @@
   {
     "person_id": "nrsr:person:1189",
     "rebelity_total": 1,
-    "rebelity_possible": 4325,
+    "rebelity_possible": 4330,
     "rebelity": 0.000231,
     "name": "Marek Lackovič",
     "given_names": [
@@ -2253,7 +2125,7 @@
   {
     "person_id": "nrsr:person:1081",
     "rebelity_total": 1,
-    "rebelity_possible": 4536,
+    "rebelity_possible": 4549,
     "rebelity": 0.00022,
     "name": "Ľubica Laššáková",
     "given_names": [
@@ -2285,8 +2157,8 @@
   {
     "person_id": "nrsr:person:1037",
     "rebelity_total": 26,
-    "rebelity_possible": 4354,
-    "rebelity": 0.005972,
+    "rebelity_possible": 4359,
+    "rebelity": 0.005965,
     "name": "Vladimír Ledecký",
     "given_names": [
       "Vladimír"
@@ -2317,8 +2189,8 @@
   {
     "person_id": "nrsr:person:1200",
     "rebelity_total": 2,
-    "rebelity_possible": 4534,
-    "rebelity": 0.000441,
+    "rebelity_possible": 4547,
+    "rebelity": 0.00044,
     "name": "Boleslav Lešo",
     "given_names": [
       "Boleslav"
@@ -2349,8 +2221,8 @@
   {
     "person_id": "nrsr:person:1199",
     "rebelity_total": 8,
-    "rebelity_possible": 4532,
-    "rebelity": 0.001765,
+    "rebelity_possible": 4545,
+    "rebelity": 0.00176,
     "name": "Adam Lučanský",
     "given_names": [
       "Adam"
@@ -2381,8 +2253,8 @@
   {
     "person_id": "nrsr:person:733",
     "rebelity_total": 2,
-    "rebelity_possible": 4534,
-    "rebelity": 0.000441,
+    "rebelity_possible": 4547,
+    "rebelity": 0.00044,
     "name": "Michal Lukša",
     "given_names": [
       "Michal"
@@ -2413,8 +2285,8 @@
   {
     "person_id": "nrsr:person:1134",
     "rebelity_total": 7,
-    "rebelity_possible": 4325,
-    "rebelity": 0.001618,
+    "rebelity_possible": 4330,
+    "rebelity": 0.001617,
     "name": "Darina Luščíková",
     "given_names": [
       "Darina"
@@ -2445,8 +2317,8 @@
   {
     "person_id": "nrsr:person:1152",
     "rebelity_total": 79,
-    "rebelity_possible": 4316,
-    "rebelity": 0.018304,
+    "rebelity_possible": 4327,
+    "rebelity": 0.018257,
     "name": "Pavel Ľupták",
     "given_names": [
       "Pavel"
@@ -2477,7 +2349,7 @@
   {
     "person_id": "nrsr:person:1223",
     "rebelity_total": 0,
-    "rebelity_possible": 1114,
+    "rebelity_possible": 1127,
     "rebelity": 0.0,
     "name": "Vladimír Macášek",
     "given_names": [
@@ -2509,8 +2381,8 @@
   {
     "person_id": "nrsr:person:1211",
     "rebelity_total": 2,
-    "rebelity_possible": 4536,
-    "rebelity": 0.000441,
+    "rebelity_possible": 4549,
+    "rebelity": 0.00044,
     "name": "Zdenka Mačicová",
     "given_names": [
       "Zdenka"
@@ -2541,8 +2413,8 @@
   {
     "person_id": "nrsr:person:1184",
     "rebelity_total": 11,
-    "rebelity_possible": 4224,
-    "rebelity": 0.002604,
+    "rebelity_possible": 4229,
+    "rebelity": 0.002601,
     "name": "František Majerský",
     "given_names": [
       "František"
@@ -2566,7 +2438,7 @@
   {
     "person_id": "nrsr:person:1178",
     "rebelity_total": 2,
-    "rebelity_possible": 4224,
+    "rebelity_possible": 4229,
     "rebelity": 0.000473,
     "name": "Milan Majerský",
     "given_names": [
@@ -2591,8 +2463,8 @@
   {
     "person_id": "nrsr:person:1173",
     "rebelity_total": 87,
-    "rebelity_possible": 4392,
-    "rebelity": 0.019809,
+    "rebelity_possible": 4403,
+    "rebelity": 0.019759,
     "name": "Roman Malatinec",
     "given_names": [
       "Roman"
@@ -2623,8 +2495,8 @@
   {
     "person_id": "nrsr:person:1042",
     "rebelity_total": 66,
-    "rebelity_possible": 4354,
-    "rebelity": 0.015158,
+    "rebelity_possible": 4359,
+    "rebelity": 0.015141,
     "name": "Vladimíra Marcinková",
     "given_names": [
       "Vladimíra"
@@ -2655,8 +2527,8 @@
   {
     "person_id": "nrsr:person:1159",
     "rebelity_total": 9,
-    "rebelity_possible": 4534,
-    "rebelity": 0.001985,
+    "rebelity_possible": 4547,
+    "rebelity": 0.001979,
     "name": "Zuzana Matejičková",
     "given_names": [
       "Zuzana"
@@ -2687,8 +2559,8 @@
   {
     "person_id": "nrsr:person:808",
     "rebelity_total": 15,
-    "rebelity_possible": 4354,
-    "rebelity": 0.003445,
+    "rebelity_possible": 4359,
+    "rebelity": 0.003441,
     "name": "Igor Matovič",
     "given_names": [
       "Igor"
@@ -2719,8 +2591,8 @@
   {
     "person_id": "nrsr:person:1156",
     "rebelity_total": 4,
-    "rebelity_possible": 4534,
-    "rebelity": 0.000882,
+    "rebelity_possible": 4547,
+    "rebelity": 0.00088,
     "name": "Ján Mažgút",
     "given_names": [
       "Ján"
@@ -2751,8 +2623,8 @@
   {
     "person_id": "nrsr:person:1204",
     "rebelity_total": 3,
-    "rebelity_possible": 4534,
-    "rebelity": 0.000662,
+    "rebelity_possible": 4547,
+    "rebelity": 0.00066,
     "name": "Jaroslav Mego",
     "given_names": [
       "Jaroslav"
@@ -2783,7 +2655,7 @@
   {
     "person_id": "nrsr:person:1130",
     "rebelity_total": 1,
-    "rebelity_possible": 4325,
+    "rebelity_possible": 4330,
     "rebelity": 0.000231,
     "name": "Zuzana Mesterová",
     "given_names": [
@@ -2815,8 +2687,8 @@
   {
     "person_id": "nrsr:person:1149",
     "rebelity_total": 24,
-    "rebelity_possible": 4532,
-    "rebelity": 0.005296,
+    "rebelity_possible": 4545,
+    "rebelity": 0.005281,
     "name": "Roman Michelko",
     "given_names": [
       "Roman"
@@ -2847,8 +2719,8 @@
   {
     "person_id": "nrsr:person:92",
     "rebelity_total": 24,
-    "rebelity_possible": 4224,
-    "rebelity": 0.005682,
+    "rebelity_possible": 4229,
+    "rebelity": 0.005675,
     "name": "František Mikloško",
     "given_names": [
       "František"
@@ -2872,8 +2744,8 @@
   {
     "person_id": "nrsr:person:1046",
     "rebelity_total": 14,
-    "rebelity_possible": 4354,
-    "rebelity": 0.003215,
+    "rebelity_possible": 4359,
+    "rebelity": 0.003212,
     "name": "Roman Mikulec",
     "given_names": [
       "Roman"
@@ -2904,8 +2776,8 @@
   {
     "person_id": "nrsr:person:322",
     "rebelity_total": 22,
-    "rebelity_possible": 4533,
-    "rebelity": 0.004853,
+    "rebelity_possible": 4546,
+    "rebelity": 0.004839,
     "name": "Dušan Muňko",
     "given_names": [
       "Dušan"
@@ -2943,7 +2815,7 @@
   {
     "person_id": "nrsr:person:899",
     "rebelity_total": 1,
-    "rebelity_possible": 4536,
+    "rebelity_possible": 4549,
     "rebelity": 0.00022,
     "name": "Peter Náhlik",
     "given_names": [
@@ -2975,7 +2847,7 @@
   {
     "person_id": "nrsr:person:1212",
     "rebelity_total": 2,
-    "rebelity_possible": 4290,
+    "rebelity_possible": 4295,
     "rebelity": 0.000466,
     "name": "Natália Nash",
     "given_names": [
@@ -3007,7 +2879,7 @@
   {
     "person_id": "nrsr:person:1196",
     "rebelity_total": 1,
-    "rebelity_possible": 4536,
+    "rebelity_possible": 4549,
     "rebelity": 0.00022,
     "name": "Alena Nováková",
     "given_names": [
@@ -3039,7 +2911,7 @@
   {
     "person_id": "nrsr:person:1225",
     "rebelity_total": 0,
-    "rebelity_possible": 666,
+    "rebelity_possible": 671,
     "rebelity": 0.0,
     "name": "Gabriel Paľa",
     "given_names": [
@@ -3064,8 +2936,8 @@
   {
     "person_id": "nrsr:person:962",
     "rebelity_total": 13,
-    "rebelity_possible": 4325,
-    "rebelity": 0.003006,
+    "rebelity_possible": 4330,
+    "rebelity": 0.003002,
     "name": "Simona Petrík",
     "given_names": [
       "Simona"
@@ -3096,7 +2968,7 @@
   {
     "person_id": "nrsr:person:900",
     "rebelity_total": 0,
-    "rebelity_possible": 4534,
+    "rebelity_possible": 4547,
     "rebelity": 0.0,
     "name": "František Petro",
     "given_names": [
@@ -3128,7 +3000,7 @@
   {
     "person_id": "nrsr:person:1116",
     "rebelity_total": 1,
-    "rebelity_possible": 4325,
+    "rebelity_possible": 4330,
     "rebelity": 0.000231,
     "name": "Lucia Plaváková",
     "given_names": [
@@ -3160,8 +3032,8 @@
   {
     "person_id": "nrsr:person:1194",
     "rebelity_total": 1,
-    "rebelity_possible": 4534,
-    "rebelity": 0.000221,
+    "rebelity_possible": 4547,
+    "rebelity": 0.00022,
     "name": "Zuzana Plevíková",
     "given_names": [
       "Zuzana"
@@ -3192,8 +3064,8 @@
   {
     "person_id": "nrsr:person:685",
     "rebelity_total": 17,
-    "rebelity_possible": 4534,
-    "rebelity": 0.003749,
+    "rebelity_possible": 4547,
+    "rebelity": 0.003739,
     "name": "Ján Podmanický",
     "given_names": [
       "Ján"
@@ -3224,8 +3096,8 @@
   {
     "person_id": "nrsr:person:1088",
     "rebelity_total": 23,
-    "rebelity_possible": 4354,
-    "rebelity": 0.005282,
+    "rebelity_possible": 4359,
+    "rebelity": 0.005276,
     "name": "Peter Pollák",
     "given_names": [
       "Peter"
@@ -3256,8 +3128,8 @@
   {
     "person_id": "nrsr:person:1054",
     "rebelity_total": 42,
-    "rebelity_possible": 4354,
-    "rebelity": 0.009646,
+    "rebelity_possible": 4359,
+    "rebelity": 0.009635,
     "name": "Jozef Pročko",
     "given_names": [
       "Jozef"
@@ -3288,7 +3160,7 @@
   {
     "person_id": "nrsr:person:1131",
     "rebelity_total": 0,
-    "rebelity_possible": 4325,
+    "rebelity_possible": 4330,
     "rebelity": 0.0,
     "name": "Ondrej Prostredník",
     "given_names": [
@@ -3320,7 +3192,7 @@
   {
     "person_id": "nrsr:person:879",
     "rebelity_total": 1,
-    "rebelity_possible": 4536,
+    "rebelity_possible": 4549,
     "rebelity": 0.00022,
     "name": "Róbert Puci",
     "given_names": [
@@ -3352,8 +3224,8 @@
   {
     "person_id": "nrsr:person:1208",
     "rebelity_total": 3,
-    "rebelity_possible": 4536,
-    "rebelity": 0.000661,
+    "rebelity_possible": 4549,
+    "rebelity": 0.000659,
     "name": "Paula Puškárová",
     "given_names": [
       "Paula"
@@ -3384,8 +3256,8 @@
   {
     "person_id": "nrsr:person:761",
     "rebelity_total": 4,
-    "rebelity_possible": 2361,
-    "rebelity": 0.001694,
+    "rebelity_possible": 2374,
+    "rebelity": 0.001685,
     "name": "Richard Raši",
     "given_names": [
       "Richard"
@@ -3416,8 +3288,8 @@
   {
     "person_id": "nrsr:person:905",
     "rebelity_total": 16,
-    "rebelity_possible": 4354,
-    "rebelity": 0.003675,
+    "rebelity_possible": 4359,
+    "rebelity": 0.003671,
     "name": "Veronika Remišová",
     "given_names": [
       "Veronika"
@@ -3448,8 +3320,8 @@
   {
     "person_id": "nrsr:person:689",
     "rebelity_total": 5,
-    "rebelity_possible": 4534,
-    "rebelity": 0.001103,
+    "rebelity_possible": 4547,
+    "rebelity": 0.0011,
     "name": "Ján Richter",
     "given_names": [
       "Ján"
@@ -3480,8 +3352,8 @@
   {
     "person_id": "nrsr:person:1120",
     "rebelity_total": 9,
-    "rebelity_possible": 4325,
-    "rebelity": 0.002081,
+    "rebelity_possible": 4330,
+    "rebelity": 0.002079,
     "name": "Michal Sabo",
     "given_names": [
       "Michal"
@@ -3512,7 +3384,7 @@
   {
     "person_id": "nrsr:person:762",
     "rebelity_total": 0,
-    "rebelity_possible": 4534,
+    "rebelity_possible": 4547,
     "rebelity": 0.0,
     "name": "Marián Saloň",
     "given_names": [
@@ -3544,8 +3416,8 @@
   {
     "person_id": "nrsr:person:1163",
     "rebelity_total": 2,
-    "rebelity_possible": 4534,
-    "rebelity": 0.000441,
+    "rebelity_possible": 4547,
+    "rebelity": 0.00044,
     "name": "Justín Sedlák",
     "given_names": [
       "Justín"
@@ -3576,8 +3448,8 @@
   {
     "person_id": "nrsr:person:1191",
     "rebelity_total": 1,
-    "rebelity_possible": 4534,
-    "rebelity": 0.000221,
+    "rebelity_possible": 4547,
+    "rebelity": 0.00022,
     "name": "Andrej Sitkár",
     "given_names": [
       "Andrej"
@@ -3608,8 +3480,8 @@
   {
     "person_id": "nrsr:person:1197",
     "rebelity_total": 2,
-    "rebelity_possible": 4524,
-    "rebelity": 0.000442,
+    "rebelity_possible": 4535,
+    "rebelity": 0.000441,
     "name": "Peter Slyško",
     "given_names": [
       "Peter"
@@ -3640,8 +3512,8 @@
   {
     "person_id": "nrsr:person:1206",
     "rebelity_total": 1,
-    "rebelity_possible": 4534,
-    "rebelity": 0.000221,
+    "rebelity_possible": 4547,
+    "rebelity": 0.00022,
     "name": "Peter Sokol",
     "given_names": [
       "Peter"
@@ -3672,8 +3544,8 @@
   {
     "person_id": "nrsr:person:1117",
     "rebelity_total": 6,
-    "rebelity_possible": 4325,
-    "rebelity": 0.001387,
+    "rebelity_possible": 4330,
+    "rebelity": 0.001386,
     "name": "Jaroslav Spišiak",
     "given_names": [
       "Jaroslav"
@@ -3704,8 +3576,8 @@
   {
     "person_id": "nrsr:person:1182",
     "rebelity_total": 9,
-    "rebelity_possible": 4224,
-    "rebelity": 0.002131,
+    "rebelity_possible": 4229,
+    "rebelity": 0.002128,
     "name": "Peter Stachura",
     "given_names": [
       "Peter"
@@ -3729,8 +3601,8 @@
   {
     "person_id": "nrsr:person:1118",
     "rebelity_total": 6,
-    "rebelity_possible": 4325,
-    "rebelity": 0.001387,
+    "rebelity_possible": 4330,
+    "rebelity": 0.001386,
     "name": "Tamara Stohlová",
     "given_names": [
       "Tamara"
@@ -3761,8 +3633,8 @@
   {
     "person_id": "nrsr:person:1058",
     "rebelity_total": 3,
-    "rebelity_possible": 4534,
-    "rebelity": 0.000662,
+    "rebelity_possible": 4547,
+    "rebelity": 0.00066,
     "name": "Anton Stredák",
     "given_names": [
       "Anton"
@@ -3793,8 +3665,8 @@
   {
     "person_id": "nrsr:person:1161",
     "rebelity_total": 2,
-    "rebelity_possible": 4534,
-    "rebelity": 0.000441,
+    "rebelity_possible": 4547,
+    "rebelity": 0.00044,
     "name": "Michal Stuška",
     "given_names": [
       "Michal"
@@ -3825,8 +3697,8 @@
   {
     "person_id": "nrsr:person:1087",
     "rebelity_total": 5,
-    "rebelity_possible": 4536,
-    "rebelity": 0.001102,
+    "rebelity_possible": 4549,
+    "rebelity": 0.001099,
     "name": "Zdenko Svoboda",
     "given_names": [
       "Zdenko"
@@ -3857,7 +3729,7 @@
   {
     "person_id": "nrsr:person:1217",
     "rebelity_total": 0,
-    "rebelity_possible": 3674,
+    "rebelity_possible": 3687,
     "rebelity": 0.0,
     "name": "Andrea Szabóová",
     "given_names": [
@@ -3889,8 +3761,8 @@
   {
     "person_id": "nrsr:person:1147",
     "rebelity_total": 20,
-    "rebelity_possible": 4354,
-    "rebelity": 0.004593,
+    "rebelity_possible": 4359,
+    "rebelity": 0.004588,
     "name": "Tomáš Szalay",
     "given_names": [
       "Tomáš"
@@ -3921,8 +3793,8 @@
   {
     "person_id": "nrsr:person:1150",
     "rebelity_total": 99,
-    "rebelity_possible": 4316,
-    "rebelity": 0.022938,
+    "rebelity_possible": 4327,
+    "rebelity": 0.02288,
     "name": "Ivan Ševčík",
     "given_names": [
       "Ivan"
@@ -3953,8 +3825,8 @@
   {
     "person_id": "nrsr:person:1114",
     "rebelity_total": 11,
-    "rebelity_possible": 4325,
-    "rebelity": 0.002543,
+    "rebelity_possible": 4330,
+    "rebelity": 0.00254,
     "name": "Michal Šimečka",
     "given_names": [
       "Michal"
@@ -3985,7 +3857,7 @@
   {
     "person_id": "nrsr:person:1177",
     "rebelity_total": 0,
-    "rebelity_possible": 4536,
+    "rebelity_possible": 4549,
     "rebelity": 0.0,
     "name": "Igor Šimko",
     "given_names": [
@@ -4017,8 +3889,8 @@
   {
     "person_id": "nrsr:person:1065",
     "rebelity_total": 10,
-    "rebelity_possible": 4354,
-    "rebelity": 0.002297,
+    "rebelity_possible": 4359,
+    "rebelity": 0.002294,
     "name": "Michal Šipoš",
     "given_names": [
       "Michal"
@@ -4049,8 +3921,8 @@
   {
     "person_id": "nrsr:person:1146",
     "rebelity_total": 24,
-    "rebelity_possible": 4354,
-    "rebelity": 0.005512,
+    "rebelity_possible": 4359,
+    "rebelity": 0.005506,
     "name": "Anežka Škopová",
     "given_names": [
       "Anežka"
@@ -4081,8 +3953,8 @@
   {
     "person_id": "nrsr:person:862",
     "rebelity_total": 14,
-    "rebelity_possible": 4224,
-    "rebelity": 0.003314,
+    "rebelity_possible": 4229,
+    "rebelity": 0.00331,
     "name": "Branislav Škripek",
     "given_names": [
       "Branislav"
@@ -4106,8 +3978,8 @@
   {
     "person_id": "nrsr:person:1143",
     "rebelity_total": 4,
-    "rebelity_possible": 4325,
-    "rebelity": 0.000925,
+    "rebelity_possible": 4330,
+    "rebelity": 0.000924,
     "name": "Veronika Šrobová",
     "given_names": [
       "Veronika"
@@ -4138,8 +4010,8 @@
   {
     "person_id": "nrsr:person:1127",
     "rebelity_total": 12,
-    "rebelity_possible": 4325,
-    "rebelity": 0.002775,
+    "rebelity_possible": 4330,
+    "rebelity": 0.002771,
     "name": "Ivan Štefunko",
     "given_names": [
       "Ivan"
@@ -4170,8 +4042,8 @@
   {
     "person_id": "nrsr:person:1132",
     "rebelity_total": 4,
-    "rebelity_possible": 4325,
-    "rebelity": 0.000925,
+    "rebelity_possible": 4330,
+    "rebelity": 0.000924,
     "name": "Zuzana Števulová",
     "given_names": [
       "Zuzana"
@@ -4202,8 +4074,8 @@
   {
     "person_id": "nrsr:person:769",
     "rebelity_total": 2,
-    "rebelity_possible": 4534,
-    "rebelity": 0.000441,
+    "rebelity_possible": 4547,
+    "rebelity": 0.00044,
     "name": "Peter Šuca",
     "given_names": [
       "Peter"
@@ -4234,8 +4106,8 @@
   {
     "person_id": "nrsr:person:1145",
     "rebelity_total": 26,
-    "rebelity_possible": 4119,
-    "rebelity": 0.006312,
+    "rebelity_possible": 4124,
+    "rebelity": 0.006305,
     "name": "Viliam Tankó",
     "given_names": [
       "Viliam"
@@ -4273,7 +4145,7 @@
   {
     "person_id": "nrsr:person:1072",
     "rebelity_total": 0,
-    "rebelity_possible": 2911,
+    "rebelity_possible": 2922,
     "rebelity": 0.0,
     "name": "Tomáš Taraba",
     "given_names": [
@@ -4298,8 +4170,8 @@
   {
     "person_id": "nrsr:person:930",
     "rebelity_total": 2,
-    "rebelity_possible": 4536,
-    "rebelity": 0.000441,
+    "rebelity_possible": 4549,
+    "rebelity": 0.00044,
     "name": "Dušan Tittel",
     "given_names": [
       "Dušan"
@@ -4330,8 +4202,8 @@
   {
     "person_id": "nrsr:person:1115",
     "rebelity_total": 14,
-    "rebelity_possible": 4325,
-    "rebelity": 0.003237,
+    "rebelity_possible": 4330,
+    "rebelity": 0.003233,
     "name": "Michal Truban",
     "given_names": [
       "Michal"
@@ -4362,8 +4234,8 @@
   {
     "person_id": "nrsr:person:1186",
     "rebelity_total": 37,
-    "rebelity_possible": 4224,
-    "rebelity": 0.008759,
+    "rebelity_possible": 4229,
+    "rebelity": 0.008749,
     "name": "Andrea Turčanová",
     "given_names": [
       "Andrea"
@@ -4386,9 +4258,9 @@
   },
   {
     "person_id": "nrsr:person:1075",
-    "rebelity_total": 10,
-    "rebelity_possible": 4325,
-    "rebelity": 0.002312,
+    "rebelity_total": 11,
+    "rebelity_possible": 4330,
+    "rebelity": 0.00254,
     "name": "Tomáš Valášek",
     "given_names": [
       "Tomáš"
@@ -4419,8 +4291,8 @@
   {
     "person_id": "nrsr:person:1193",
     "rebelity_total": 2,
-    "rebelity_possible": 4534,
-    "rebelity": 0.000441,
+    "rebelity_possible": 4547,
+    "rebelity": 0.00044,
     "name": "Igor Válek",
     "given_names": [
       "Igor"
@@ -4451,8 +4323,8 @@
   {
     "person_id": "nrsr:person:705",
     "rebelity_total": 4,
-    "rebelity_possible": 4534,
-    "rebelity": 0.000882,
+    "rebelity_possible": 4547,
+    "rebelity": 0.00088,
     "name": "Jozef Valocký",
     "given_names": [
       "Jozef"
@@ -4483,8 +4355,8 @@
   {
     "person_id": "nrsr:person:1135",
     "rebelity_total": 6,
-    "rebelity_possible": 4325,
-    "rebelity": 0.001387,
+    "rebelity_possible": 4330,
+    "rebelity": 0.001386,
     "name": "Branislav Vančo",
     "given_names": [
       "Branislav"
@@ -4515,8 +4387,8 @@
   {
     "person_id": "nrsr:person:861",
     "rebelity_total": 466,
-    "rebelity_possible": 4196,
-    "rebelity": 0.111058,
+    "rebelity_possible": 4207,
+    "rebelity": 0.110768,
     "name": "Richard Vašečka",
     "given_names": [
       "Richard"
@@ -4547,8 +4419,8 @@
   {
     "person_id": "nrsr:person:293",
     "rebelity_total": 17,
-    "rebelity_possible": 4534,
-    "rebelity": 0.003749,
+    "rebelity_possible": 4547,
+    "rebelity": 0.003739,
     "name": "Ľubomír Vážny",
     "given_names": [
       "Ľubomír"
@@ -4579,7 +4451,7 @@
   {
     "person_id": "nrsr:person:1141",
     "rebelity_total": 2,
-    "rebelity_possible": 4325,
+    "rebelity_possible": 4330,
     "rebelity": 0.000462,
     "name": "Veronika Veslárová",
     "given_names": [
@@ -4611,8 +4483,8 @@
   {
     "person_id": "nrsr:person:991",
     "rebelity_total": 19,
-    "rebelity_possible": 4354,
-    "rebelity": 0.004364,
+    "rebelity_possible": 4359,
+    "rebelity": 0.004359,
     "name": "Marián Viskupič",
     "given_names": [
       "Marián"
@@ -4643,8 +4515,8 @@
   {
     "person_id": "nrsr:person:1176",
     "rebelity_total": 7,
-    "rebelity_possible": 4536,
-    "rebelity": 0.001543,
+    "rebelity_possible": 4549,
+    "rebelity": 0.001539,
     "name": "Erik Vlček",
     "given_names": [
       "Erik"
@@ -4675,7 +4547,7 @@
   {
     "person_id": "nrsr:person:1019",
     "rebelity_total": 0,
-    "rebelity_possible": 4534,
+    "rebelity_possible": 4547,
     "rebelity": 0.0,
     "name": "Viliam Zahorčák",
     "given_names": [
@@ -4707,7 +4579,7 @@
   {
     "person_id": "nrsr:person:691",
     "rebelity_total": 1,
-    "rebelity_possible": 4536,
+    "rebelity_possible": 4549,
     "rebelity": 0.00022,
     "name": "Peter Žiga",
     "given_names": [
@@ -4739,8 +4611,8 @@
   {
     "person_id": "nrsr:person:1198",
     "rebelity_total": 4,
-    "rebelity_possible": 4532,
-    "rebelity": 0.000883,
+    "rebelity_possible": 4545,
+    "rebelity": 0.00088,
     "name": "Milan Garaj",
     "given_names": [
       "Milan"
@@ -4781,7 +4653,7 @@
   {
     "person_id": "nrsr:person:1023",
     "rebelity_total": 0,
-    "rebelity_possible": 1113,
+    "rebelity_possible": 1126,
     "rebelity": 0.0,
     "name": "Peter Kmec",
     "given_names": [
@@ -4806,8 +4678,8 @@
   {
     "person_id": "nrsr:person:1181",
     "rebelity_total": 4,
-    "rebelity_possible": 4224,
-    "rebelity": 0.000947,
+    "rebelity_possible": 4229,
+    "rebelity": 0.000946,
     "name": "Jozef Hajko",
     "given_names": [
       "Jozef"
@@ -4831,8 +4703,8 @@
   {
     "person_id": "nrsr:person:1185",
     "rebelity_total": 7,
-    "rebelity_possible": 4224,
-    "rebelity": 0.001657,
+    "rebelity_possible": 4229,
+    "rebelity": 0.001655,
     "name": "Martin Šmilňák",
     "given_names": [
       "Martin"
@@ -4856,8 +4728,8 @@
   {
     "person_id": "nrsr:person:732",
     "rebelity_total": 16,
-    "rebelity_possible": 4534,
-    "rebelity": 0.003529,
+    "rebelity_possible": 4547,
+    "rebelity": 0.003519,
     "name": "Jana Vaľová",
     "given_names": [
       "Jana"
@@ -4881,8 +4753,8 @@
   {
     "person_id": "nrsr:person:1137",
     "rebelity_total": 3,
-    "rebelity_possible": 4325,
-    "rebelity": 0.000694,
+    "rebelity_possible": 4330,
+    "rebelity": 0.000693,
     "name": "Viera Kalmárová",
     "given_names": [
       "Viera"
@@ -4906,8 +4778,8 @@
   {
     "person_id": "nrsr:person:147",
     "rebelity_total": 41,
-    "rebelity_possible": 4354,
-    "rebelity": 0.009417,
+    "rebelity_possible": 4359,
+    "rebelity": 0.009406,
     "name": "Anna Záborská",
     "given_names": [
       "Anna"
@@ -4931,8 +4803,8 @@
   {
     "person_id": "nrsr:person:1175",
     "rebelity_total": 12,
-    "rebelity_possible": 4536,
-    "rebelity": 0.002646,
+    "rebelity_possible": 4549,
+    "rebelity": 0.002638,
     "name": "Radomír Šalitroš",
     "given_names": [
       "Radomír"
@@ -4956,8 +4828,8 @@
   {
     "person_id": "nrsr:person:1201",
     "rebelity_total": 9,
-    "rebelity_possible": 4536,
-    "rebelity": 0.001984,
+    "rebelity_possible": 4549,
+    "rebelity": 0.001978,
     "name": "Samuel Migaľ",
     "given_names": [
       "Samuel"
@@ -4981,8 +4853,8 @@
   {
     "person_id": "nrsr:person:1148",
     "rebelity_total": 1,
-    "rebelity_possible": 4532,
-    "rebelity": 0.000221,
+    "rebelity_possible": 4545,
+    "rebelity": 0.00022,
     "name": "Rudolf Huliak",
     "given_names": [
       "Rudolf"
@@ -5023,8 +4895,8 @@
   {
     "person_id": "nrsr:person:767",
     "rebelity_total": 4,
-    "rebelity_possible": 4354,
-    "rebelity": 0.000919,
+    "rebelity_possible": 4359,
+    "rebelity": 0.000918,
     "name": "Richard Sulík",
     "given_names": [
       "Richard"
@@ -5048,7 +4920,7 @@
   {
     "person_id": "nrsr:person:885",
     "rebelity_total": 0,
-    "rebelity_possible": 4534,
+    "rebelity_possible": 4547,
     "rebelity": 0.0,
     "name": "Ľuboš Blaha",
     "given_names": [
@@ -5141,7 +5013,7 @@
   {
     "person_id": "nrsr:person:1136",
     "rebelity_total": 0,
-    "rebelity_possible": 4325,
+    "rebelity_possible": 4330,
     "rebelity": 0.0,
     "name": "Tomáš Hellebrandt",
     "given_names": [
@@ -5183,8 +5055,8 @@
   {
     "person_id": "nrsr:person:1153",
     "rebelity_total": 1,
-    "rebelity_possible": 4534,
-    "rebelity": 0.000221,
+    "rebelity_possible": 4547,
+    "rebelity": 0.00022,
     "name": "Erik Kaliňák",
     "given_names": [
       "Erik"
@@ -5327,7 +5199,7 @@
   {
     "person_id": "nrsr:person:1174",
     "rebelity_total": 0,
-    "rebelity_possible": 4536,
+    "rebelity_possible": 4549,
     "rebelity": 0.0,
     "name": "Michal Moško",
     "given_names": [
@@ -5352,7 +5224,7 @@
   {
     "person_id": "nrsr:person:974",
     "rebelity_total": 0,
-    "rebelity_possible": 4534,
+    "rebelity_possible": 4547,
     "rebelity": 0.0,
     "name": "Martin Nemky",
     "given_names": [
@@ -5377,7 +5249,7 @@
   {
     "person_id": "nrsr:person:1138",
     "rebelity_total": 1,
-    "rebelity_possible": 4325,
+    "rebelity_possible": 4330,
     "rebelity": 0.000231,
     "name": "Martin Pekár",
     "given_names": [
@@ -5402,7 +5274,7 @@
   {
     "person_id": "nrsr:person:682",
     "rebelity_total": 1,
-    "rebelity_possible": 4536,
+    "rebelity_possible": 4549,
     "rebelity": 0.00022,
     "name": "Peter Pellegrini",
     "given_names": [
