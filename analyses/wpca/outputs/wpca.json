@@ -2935,7 +2935,38 @@
       0.0049915858887926235
     ],
     "weight": 0.9946133474576272,
-    "included": true
+    "included": true,
+    "name": "Richard Eliáš",
+    "given_names": [
+      "Richard"
+    ],
+    "family_names": [
+      "Eliáš"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:13",
+        "name": "Národná rada Slovenskej republiky",
+        "classification": "parliament",
+        "since": "2023-10-25",
+        "until": ""
+      },
+      {
+        "id": "nrsr:org:club:1",
+        "name": "Klub HLAS - sociálna demokracia",
+        "classification": "groups",
+        "since": "2023-11-14",
+        "until": "2026-10-06"
+      },
+      {
+        "id": "nrsr:org:club:1",
+        "name": "Klub HLAS - sociálna demokracia",
+        "classification": "groups",
+        "since": "2026-10-06",
+        "until": ""
+      }
+    ],
+    "since": "2023-10-25"
   },
   {
     "person_id": "nrsr:person:1173",
@@ -4515,7 +4546,38 @@
       -0.014596783251173386
     ],
     "weight": 0.9527012711864407,
-    "included": true
+    "included": true,
+    "name": "Richard Glück",
+    "given_names": [
+      "Richard"
+    ],
+    "family_names": [
+      "Glück"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:13",
+        "name": "Národná rada Slovenskej republiky",
+        "classification": "parliament",
+        "since": "2023-10-25",
+        "until": ""
+      },
+      {
+        "id": "nrsr:org:club:5",
+        "name": "Klub SMER - sociálna demokracia",
+        "classification": "groups",
+        "since": "2024-02-08",
+        "until": "2026-10-06"
+      },
+      {
+        "id": "nrsr:org:club:5",
+        "name": "Klub SMER - sociálna demokracia",
+        "classification": "groups",
+        "since": "2026-10-06",
+        "until": ""
+      }
+    ],
+    "since": "2023-10-25"
   },
   {
     "person_id": "nrsr:person:1216",
@@ -4648,7 +4710,38 @@
       -0.06269769618276434
     ],
     "weight": 0.7754025423728812,
-    "included": true
+    "included": true,
+    "name": "Ján Horváth",
+    "given_names": [
+      "Ján"
+    ],
+    "family_names": [
+      "Horváth"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:13",
+        "name": "Národná rada Slovenskej republiky",
+        "classification": "parliament",
+        "since": "2023-10-25",
+        "until": ""
+      },
+      {
+        "id": "nrsr:org:club:5",
+        "name": "Klub SMER - sociálna demokracia",
+        "classification": "groups",
+        "since": "2024-07-15",
+        "until": "2026-10-06"
+      },
+      {
+        "id": "nrsr:org:club:5",
+        "name": "Klub SMER - sociálna demokracia",
+        "classification": "groups",
+        "since": "2026-10-06",
+        "until": ""
+      }
+    ],
+    "since": "2023-10-25"
   },
   {
     "person_id": "nrsr:person:1220",
@@ -7188,6 +7281,37 @@
       0.012391344852061748
     ],
     "weight": 0.9640625,
-    "included": true
+    "included": true,
+    "name": "Ján Blcháč",
+    "given_names": [
+      "Ján"
+    ],
+    "family_names": [
+      "Blcháč"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:13",
+        "name": "Národná rada Slovenskej republiky",
+        "classification": "parliament",
+        "since": "2023-10-25",
+        "until": ""
+      },
+      {
+        "id": "nrsr:org:club:1",
+        "name": "Klub HLAS - sociálna demokracia",
+        "classification": "groups",
+        "since": "2023-11-14",
+        "until": "2026-10-06"
+      },
+      {
+        "id": "nrsr:org:club:1",
+        "name": "Klub HLAS - sociálna demokracia",
+        "classification": "groups",
+        "since": "2026-10-06",
+        "until": ""
+      }
+    ],
+    "since": "2023-10-25"
   }
 ]

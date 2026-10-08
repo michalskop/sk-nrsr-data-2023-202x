@@ -231,6 +231,38 @@
     }
   },
   {
+    "person_id": "nrsr:person:997",
+    "govity_total": 4310,
+    "govity_possible": 4317,
+    "govity": 0.998379,
+    "name": "Ján Blcháč",
+    "given_names": [
+      "Ján"
+    ],
+    "family_names": [
+      "Blcháč"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:1",
+        "classification": "group",
+        "name": "Klub HLAS - sociálna demokracia",
+        "since": "2023-11-14",
+        "until": "2026-10-06"
+      },
+      {
+        "id": "nrsr:org:club:1",
+        "classification": "group",
+        "name": "Klub HLAS - sociálna demokracia",
+        "since": "2026-10-06"
+      }
+    ],
+    "since": "2023-10-25",
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=997&ImageWidth=140"
+    }
+  },
+  {
     "person_id": "nrsr:person:1144",
     "govity_total": 1883,
     "govity_possible": 3978,
@@ -640,6 +672,38 @@
     }
   },
   {
+    "person_id": "nrsr:person:1172",
+    "govity_total": 4512,
+    "govity_possible": 4520,
+    "govity": 0.99823,
+    "name": "Richard Eliáš",
+    "given_names": [
+      "Richard"
+    ],
+    "family_names": [
+      "Eliáš"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:1",
+        "classification": "group",
+        "name": "Klub HLAS - sociálna demokracia",
+        "since": "2023-11-14",
+        "until": "2026-10-06"
+      },
+      {
+        "id": "nrsr:org:club:1",
+        "classification": "group",
+        "name": "Klub HLAS - sociálna demokracia",
+        "since": "2026-10-06"
+      }
+    ],
+    "since": "2023-10-25",
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1172&ImageWidth=140"
+    }
+  },
+  {
     "person_id": "nrsr:person:36",
     "govity_total": 4398,
     "govity_possible": 4407,
@@ -925,6 +989,38 @@
     "since": "2023-10-25",
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1126&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1214",
+    "govity_total": 4238,
+    "govity_possible": 4243,
+    "govity": 0.998822,
+    "name": "Richard Glück",
+    "given_names": [
+      "Richard"
+    ],
+    "family_names": [
+      "Glück"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:5",
+        "classification": "group",
+        "name": "Klub SMER - sociálna demokracia",
+        "since": "2024-02-08",
+        "until": "2026-10-06"
+      },
+      {
+        "id": "nrsr:org:club:5",
+        "classification": "group",
+        "name": "Klub SMER - sociálna demokracia",
+        "since": "2026-10-06"
+      }
+    ],
+    "since": "2023-10-25",
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1214&ImageWidth=140"
     }
   },
   {
@@ -1270,6 +1366,38 @@
     "since": "2023-10-25",
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1183&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1219",
+    "govity_total": 3183,
+    "govity_possible": 3186,
+    "govity": 0.999058,
+    "name": "Ján Horváth",
+    "given_names": [
+      "Ján"
+    ],
+    "family_names": [
+      "Horváth"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:5",
+        "classification": "group",
+        "name": "Klub SMER - sociálna demokracia",
+        "since": "2024-07-15",
+        "until": "2026-10-06"
+      },
+      {
+        "id": "nrsr:org:club:5",
+        "classification": "group",
+        "name": "Klub SMER - sociálna demokracia",
+        "since": "2026-10-06"
+      }
+    ],
+    "since": "2023-10-25",
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1219&ImageWidth=140"
     }
   },
   {
