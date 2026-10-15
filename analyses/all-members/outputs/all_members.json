@@ -1428,6 +1428,48 @@
     }
   },
   {
+    "id": "nrsr:person:910",
+    "given_name": "Gábor",
+    "family_name": "Grendel",
+    "name": "Gábor Grendel",
+    "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=910&ImageWidth=140",
+    "identifiers": [
+      {
+        "scheme": "nrsr",
+        "identifier": "910"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.nrsr.sk/web/Default.aspx?sid=poslanci/poslanec&PoslanecID=910"
+      }
+    ],
+    "memberships": {
+      "parliament": [
+        {
+          "id": "nrsr:org:13",
+          "name": "Národná rada Slovenskej republiky",
+          "start_date": "2023-10-25",
+          "end_date": ""
+        }
+      ],
+      "groups": [
+        {
+          "id": "nrsr:org:club:4",
+          "name": "Klub SLOVENSKO - ZA ĽUDÍ",
+          "start_date": "2023-11-14",
+          "end_date": "2026-09-17"
+        },
+        {
+          "id": "nrsr:org:club:4",
+          "name": "Klub SLOVENSKO - ZA ĽUDÍ",
+          "start_date": "2026-09-23",
+          "end_date": ""
+        }
+      ]
+    }
+  },
+  {
     "id": "nrsr:person:971",
     "given_name": "Branislav",
     "family_name": "Gröhling",

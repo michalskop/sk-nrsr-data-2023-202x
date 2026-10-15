@@ -1,9 +1,9 @@
 [
   {
     "person_id": "nrsr:person:1180",
-    "vote_events_total": 4673,
-    "present": 3130,
-    "absent": 1526,
+    "vote_events_total": 4698,
+    "present": 3149,
+    "absent": 1532,
     "name": "Martina Holečková",
     "given_names": [
       "Martina"
@@ -34,15 +34,15 @@
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.6698052643,
+    "present_share": 0.6702852278,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1180&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:871",
-    "vote_events_total": 4673,
-    "present": 4495,
+    "vote_events_total": 4698,
+    "present": 4520,
     "absent": 178,
     "name": "Vladimír Baláž",
     "given_names": [
@@ -67,15 +67,15 @@
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.961908838,
+    "present_share": 0.9621115368,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=871&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1207",
-    "vote_events_total": 4653,
-    "present": 4516,
+    "vote_events_total": 4678,
+    "present": 4541,
     "absent": 137,
     "name": "Michal Bartek",
     "given_names": [
@@ -100,15 +100,15 @@
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.9705566301,
+    "present_share": 0.9707139803,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1207&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:233",
-    "vote_events_total": 4673,
-    "present": 4396,
+    "vote_events_total": 4698,
+    "present": 4421,
     "absent": 277,
     "name": "Jaroslav Baška",
     "given_names": [
@@ -133,15 +133,15 @@
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.9407233041,
+    "present_share": 0.9410387399,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=233&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1187",
-    "vote_events_total": 4673,
-    "present": 4564,
+    "vote_events_total": 4698,
+    "present": 4589,
     "absent": 109,
     "name": "Branislav Becík",
     "given_names": [
@@ -166,16 +166,16 @@
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.9766745132,
+    "present_share": 0.9767986377,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1187&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1119",
-    "vote_events_total": 4673,
-    "present": 3748,
-    "absent": 880,
+    "vote_events_total": 4698,
+    "present": 3767,
+    "absent": 886,
     "name": "Irena Bihariová",
     "given_names": [
       "Irena"
@@ -199,16 +199,16 @@
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.8020543548,
+    "present_share": 0.8018305662,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1119&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:976",
-    "vote_events_total": 4673,
-    "present": 2798,
-    "absent": 1875,
+    "vote_events_total": 4698,
+    "present": 2801,
+    "absent": 1897,
     "name": "Jana Cigániková",
     "given_names": [
       "Jana"
@@ -232,15 +232,15 @@
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.5987588273,
+    "present_share": 0.5962111537,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=976&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:997",
-    "vote_events_total": 4673,
-    "present": 4348,
+    "vote_events_total": 4698,
+    "present": 4373,
     "absent": 325,
     "name": "Ján Blcháč",
     "given_names": [
@@ -265,16 +265,16 @@
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.9304515301,
+    "present_share": 0.9308216262,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=997&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1144",
-    "vote_events_total": 4673,
-    "present": 4006,
-    "absent": 667,
+    "vote_events_total": 4698,
+    "present": 4009,
+    "absent": 689,
     "name": "Lukáš Bužo",
     "given_names": [
       "Lukáš"
@@ -298,15 +298,15 @@
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.8572651402,
+    "present_share": 0.8533418476,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1144&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1195",
-    "vote_events_total": 4664,
-    "present": 4543,
+    "vote_events_total": 4689,
+    "present": 4568,
     "absent": 121,
     "name": "Jozef Cech",
     "given_names": [
@@ -331,16 +331,16 @@
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.9740566038,
+    "present_share": 0.9741949243,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1195&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1179",
-    "vote_events_total": 4673,
-    "present": 3865,
-    "absent": 805,
+    "vote_events_total": 4698,
+    "present": 3885,
+    "absent": 810,
     "name": "Marián Čaučík",
     "given_names": [
       "Marián"
@@ -357,15 +357,15 @@
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.827091804,
+    "present_share": 0.8269476373,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1179&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1160",
-    "vote_events_total": 4673,
-    "present": 4495,
+    "vote_events_total": 4698,
+    "present": 4520,
     "absent": 170,
     "name": "Marcela Čavojová",
     "given_names": [
@@ -390,15 +390,15 @@
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.961908838,
+    "present_share": 0.9621115368,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1160&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1203",
-    "vote_events_total": 4664,
-    "present": 4525,
+    "vote_events_total": 4689,
+    "present": 4550,
     "absent": 139,
     "name": "Miroslav Čellár",
     "given_names": [
@@ -423,15 +423,15 @@
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.9701972556,
+    "present_share": 0.9703561527,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1203&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:929",
-    "vote_events_total": 4673,
-    "present": 4499,
+    "vote_events_total": 4698,
+    "present": 4524,
     "absent": 174,
     "name": "Andrej Danko",
     "given_names": [
@@ -456,16 +456,16 @@
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.9627648192,
+    "present_share": 0.962962963,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=929&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1140",
-    "vote_events_total": 4673,
-    "present": 4245,
-    "absent": 378,
+    "vote_events_total": 4698,
+    "present": 4264,
+    "absent": 384,
     "name": "Dávid Dej",
     "given_names": [
       "Dávid"
@@ -489,15 +489,15 @@
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.908410015,
+    "present_share": 0.9076202639,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1140&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1216",
-    "vote_events_total": 3818,
-    "present": 3702,
+    "vote_events_total": 3843,
+    "present": 3727,
     "absent": 116,
     "name": "Dávid Demečko",
     "given_names": [
@@ -522,16 +522,16 @@
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.9696176008,
+    "present_share": 0.9698152485,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1216&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:779",
-    "vote_events_total": 4673,
-    "present": 4167,
-    "absent": 506,
+    "vote_events_total": 4698,
+    "present": 4184,
+    "absent": 514,
     "name": "Ondrej Dostál",
     "given_names": [
       "Ondrej"
@@ -555,16 +555,16 @@
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.8917183822,
+    "present_share": 0.8905917412,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=779&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1133",
-    "vote_events_total": 4673,
-    "present": 3912,
-    "absent": 719,
+    "vote_events_total": 4698,
+    "present": 3914,
+    "absent": 742,
     "name": "Martin Dubéci",
     "given_names": [
       "Martin"
@@ -588,16 +588,16 @@
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.8371495827,
+    "present_share": 0.8331204768,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1133&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1213",
-    "vote_events_total": 4389,
-    "present": 3454,
-    "absent": 890,
+    "vote_events_total": 4414,
+    "present": 3474,
+    "absent": 895,
     "name": "Richard Dubovický",
     "given_names": [
       "Richard"
@@ -621,16 +621,16 @@
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.7869674185,
+    "present_share": 0.7870412324,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1213&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1221",
-    "vote_events_total": 1721,
-    "present": 1592,
-    "absent": 129,
+    "vote_events_total": 1746,
+    "present": 1595,
+    "absent": 151,
     "name": "Igor Dušenka",
     "given_names": [
       "Igor"
@@ -654,16 +654,16 @@
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.9250435793,
+    "present_share": 0.9135166094,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1221&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1123",
-    "vote_events_total": 4673,
-    "present": 3894,
-    "absent": 734,
+    "vote_events_total": 4698,
+    "present": 3913,
+    "absent": 740,
     "name": "Oskar Dvořák",
     "given_names": [
       "Oskar"
@@ -687,15 +687,15 @@
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.8332976675,
+    "present_share": 0.8329076203,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1123&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1172",
-    "vote_events_total": 4673,
-    "present": 4551,
+    "vote_events_total": 4698,
+    "present": 4576,
     "absent": 122,
     "name": "Richard Eliáš",
     "given_names": [
@@ -720,15 +720,15 @@
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.9738925744,
+    "present_share": 0.9740315028,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1172&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:36",
-    "vote_events_total": 4673,
-    "present": 4437,
+    "vote_events_total": 4698,
+    "present": 4462,
     "absent": 236,
     "name": "Vladimír Faič",
     "given_names": [
@@ -753,15 +753,15 @@
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.9494971111,
+    "present_share": 0.9497658578,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=36&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:931",
-    "vote_events_total": 4653,
-    "present": 4529,
+    "vote_events_total": 4678,
+    "present": 4554,
     "absent": 124,
     "name": "Karol Farkašovský",
     "given_names": [
@@ -786,16 +786,16 @@
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.9733505265,
+    "present_share": 0.9734929457,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=931&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1008",
-    "vote_events_total": 4673,
-    "present": 3864,
-    "absent": 809,
+    "vote_events_total": 4698,
+    "present": 3884,
+    "absent": 814,
     "name": "Ján Ferenčák",
     "given_names": [
       "Ján"
@@ -819,16 +819,16 @@
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.8268778087,
+    "present_share": 0.8267347808,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1008&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:966",
-    "vote_events_total": 3267,
-    "present": 2853,
-    "absent": 410,
+    "vote_events_total": 3292,
+    "present": 2873,
+    "absent": 415,
     "name": "Karol Galek",
     "given_names": [
       "Karol"
@@ -852,15 +852,15 @@
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.8732782369,
+    "present_share": 0.8727217497,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=966&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:656",
-    "vote_events_total": 4673,
-    "present": 4524,
+    "vote_events_total": 4698,
+    "present": 4549,
     "absent": 136,
     "name": "Dušan Galis",
     "given_names": [
@@ -885,16 +885,16 @@
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.9681147015,
+    "present_share": 0.9682843763,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=656&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:785",
-    "vote_events_total": 4673,
-    "present": 3959,
-    "absent": 714,
+    "vote_events_total": 4698,
+    "present": 3979,
+    "absent": 719,
     "name": "Ľubomír Galko",
     "given_names": [
       "Ľubomír"
@@ -918,15 +918,15 @@
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.8472073614,
+    "present_share": 0.8469561516,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=785&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1154",
-    "vote_events_total": 4673,
-    "present": 4519,
+    "vote_events_total": 4698,
+    "present": 4544,
     "absent": 154,
     "name": "Tibor Gašpar",
     "given_names": [
@@ -951,15 +951,15 @@
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.967044725,
+    "present_share": 0.9672200937,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1154&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:892",
-    "vote_events_total": 4664,
-    "present": 4565,
+    "vote_events_total": 4689,
+    "present": 4590,
     "absent": 99,
     "name": "Štefan Gašparovič",
     "given_names": [
@@ -984,16 +984,16 @@
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.9787735849,
+    "present_share": 0.9788867562,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=892&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1126",
-    "vote_events_total": 4673,
-    "present": 4173,
-    "absent": 455,
+    "vote_events_total": 4698,
+    "present": 4193,
+    "absent": 460,
     "name": "Tina Gažovičová",
     "given_names": [
       "Tina"
@@ -1017,15 +1017,15 @@
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.8930023539,
+    "present_share": 0.89250745,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1126&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1214",
-    "vote_events_total": 4389,
-    "present": 4254,
+    "vote_events_total": 4414,
+    "present": 4279,
     "absent": 135,
     "name": "Richard Glück",
     "given_names": [
@@ -1050,15 +1050,15 @@
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.969241285,
+    "present_share": 0.9694154961,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1214&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:738",
-    "vote_events_total": 4653,
-    "present": 4526,
+    "vote_events_total": 4678,
+    "present": 4551,
     "absent": 127,
     "name": "Pavol Goga",
     "given_names": [
@@ -1083,16 +1083,16 @@
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.9727057812,
+    "present_share": 0.972851646,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=738&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1222",
-    "vote_events_total": 1721,
-    "present": 1381,
-    "absent": 340,
+    "vote_events_total": 1746,
+    "present": 1400,
+    "absent": 346,
     "name": "Gréta Gregorová",
     "given_names": [
       "Gréta"
@@ -1116,16 +1116,49 @@
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.8024404416,
+    "present_share": 0.8018327606,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1222&ImageWidth=140"
     }
   },
   {
+    "person_id": "nrsr:person:910",
+    "vote_events_total": 4698,
+    "present": 3817,
+    "absent": 881,
+    "name": "Gábor Grendel",
+    "given_names": [
+      "Gábor"
+    ],
+    "family_names": [
+      "Grendel"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:4",
+        "classification": "group",
+        "name": "Klub SLOVENSKO - ZA ĽUDÍ",
+        "since": "2023-11-14",
+        "until": "2026-09-17"
+      },
+      {
+        "id": "nrsr:org:club:4",
+        "classification": "group",
+        "name": "Klub SLOVENSKO - ZA ĽUDÍ",
+        "since": "2026-09-23"
+      }
+    ],
+    "since": "2023-10-25",
+    "present_share": 0.8124733929,
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=910&ImageWidth=140"
+    }
+  },
+  {
     "person_id": "nrsr:person:971",
-    "vote_events_total": 4673,
-    "present": 3568,
-    "absent": 1093,
+    "vote_events_total": 4698,
+    "present": 3588,
+    "absent": 1098,
     "name": "Branislav Gröhling",
     "given_names": [
       "Branislav"
@@ -1149,15 +1182,15 @@
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.7635352022,
+    "present_share": 0.7637292465,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=971&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1009",
-    "vote_events_total": 4673,
-    "present": 4531,
+    "vote_events_total": 4698,
+    "present": 4556,
     "absent": 142,
     "name": "Jozef Habánik",
     "given_names": [
@@ -1182,15 +1215,15 @@
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.9696126685,
+    "present_share": 0.9697743721,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1009&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:874",
-    "vote_events_total": 4673,
-    "present": 4565,
+    "vote_events_total": 4698,
+    "present": 4590,
     "absent": 108,
     "name": "Augustín Hambálek",
     "given_names": [
@@ -1215,16 +1248,16 @@
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.9768885085,
+    "present_share": 0.9770114943,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=874&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1129",
-    "vote_events_total": 4673,
-    "present": 3588,
-    "absent": 1040,
+    "vote_events_total": 4698,
+    "present": 3608,
+    "absent": 1045,
     "name": "Jana Hanuliaková",
     "given_names": [
       "Jana"
@@ -1248,16 +1281,16 @@
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.7678151081,
+    "present_share": 0.7679863772,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1129&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1142",
-    "vote_events_total": 4673,
-    "present": 3837,
-    "absent": 791,
+    "vote_events_total": 4698,
+    "present": 3856,
+    "absent": 797,
     "name": "Ján Hargaš",
     "given_names": [
       "Ján"
@@ -1281,15 +1314,15 @@
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.8210999358,
+    "present_share": 0.8207747978,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1142&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1192",
-    "vote_events_total": 4664,
-    "present": 4507,
+    "vote_events_total": 4689,
+    "present": 4532,
     "absent": 157,
     "name": "Ivan Hazucha",
     "given_names": [
@@ -1314,16 +1347,16 @@
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.9663379074,
+    "present_share": 0.9665173811,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1192&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:859",
-    "vote_events_total": 4673,
-    "present": 3446,
-    "absent": 1217,
+    "vote_events_total": 4698,
+    "present": 3465,
+    "absent": 1223,
     "name": "Alojz Hlina",
     "given_names": [
       "Alojz"
@@ -1347,16 +1380,16 @@
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.7374277766,
+    "present_share": 0.7375478927,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=859&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1183",
-    "vote_events_total": 4673,
-    "present": 3532,
-    "absent": 1141,
+    "vote_events_total": 4698,
+    "present": 3552,
+    "absent": 1146,
     "name": "Ján Horecký",
     "given_names": [
       "Ján"
@@ -1373,15 +1406,15 @@
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.7558313717,
+    "present_share": 0.7560664112,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1183&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1219",
-    "vote_events_total": 3290,
-    "present": 3197,
+    "vote_events_total": 3315,
+    "present": 3222,
     "absent": 93,
     "name": "Ján Horváth",
     "given_names": [
@@ -1406,15 +1439,15 @@
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.9717325228,
+    "present_share": 0.9719457014,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1219&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1202",
-    "vote_events_total": 2452,
-    "present": 2378,
+    "vote_events_total": 2477,
+    "present": 2403,
     "absent": 57,
     "name": "Ján Hrubý",
     "given_names": [
@@ -1439,16 +1472,16 @@
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.9698205546,
+    "present_share": 0.9701251514,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1202&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1188",
-    "vote_events_total": 4673,
-    "present": 3794,
-    "absent": 879,
+    "vote_events_total": 4698,
+    "present": 3810,
+    "absent": 888,
     "name": "Július Jakab",
     "given_names": [
       "Július"
@@ -1472,15 +1505,15 @@
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.8118981382,
+    "present_share": 0.8109833972,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1188&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1169",
-    "vote_events_total": 4673,
-    "present": 4567,
+    "vote_events_total": 4698,
+    "present": 4592,
     "absent": 106,
     "name": "Karol Janas",
     "given_names": [
@@ -1505,16 +1538,16 @@
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.977316499,
+    "present_share": 0.9774372073,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1169&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:961",
-    "vote_events_total": 4673,
-    "present": 4025,
-    "absent": 643,
+    "vote_events_total": 4698,
+    "present": 4045,
+    "absent": 648,
     "name": "Igor Janckulík",
     "given_names": [
       "Igor"
@@ -1531,16 +1564,16 @@
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.8613310507,
+    "present_share": 0.8610046828,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=961&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:61",
-    "vote_events_total": 4673,
-    "present": 4471,
-    "absent": 202,
+    "vote_events_total": 4698,
+    "present": 4494,
+    "absent": 204,
     "name": "Dušan Jarjabek",
     "given_names": [
       "Dušan"
@@ -1564,16 +1597,16 @@
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.956772951,
+    "present_share": 0.9565772669,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=61&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1121",
-    "vote_events_total": 4673,
-    "present": 3036,
-    "absent": 1592,
+    "vote_events_total": 4698,
+    "present": 3053,
+    "absent": 1600,
     "name": "Zora Jaurová",
     "given_names": [
       "Zora"
@@ -1597,15 +1630,15 @@
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.6496897068,
+    "present_share": 0.6498510004,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1121&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:891",
-    "vote_events_total": 4673,
-    "present": 4560,
+    "vote_events_total": 4698,
+    "present": 4585,
     "absent": 113,
     "name": "Jozef Ježík",
     "given_names": [
@@ -1630,16 +1663,16 @@
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.975818532,
+    "present_share": 0.9759472116,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=891&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1128",
-    "vote_events_total": 4673,
-    "present": 3989,
-    "absent": 636,
+    "vote_events_total": 4698,
+    "present": 4009,
+    "absent": 641,
     "name": "Beáta Jurík",
     "given_names": [
       "Beáta"
@@ -1663,15 +1696,15 @@
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.8536272202,
+    "present_share": 0.8533418476,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1128&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1218",
-    "vote_events_total": 3290,
-    "present": 3165,
+    "vote_events_total": 3315,
+    "present": 3190,
     "absent": 125,
     "name": "Jozef Kačmár",
     "given_names": [
@@ -1696,15 +1729,15 @@
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.962006079,
+    "present_share": 0.9622926094,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1218&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1170",
-    "vote_events_total": 4673,
-    "present": 4464,
+    "vote_events_total": 4698,
+    "present": 4489,
     "absent": 209,
     "name": "Peter Kalivoda",
     "given_names": [
@@ -1729,15 +1762,15 @@
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.955274984,
+    "present_share": 0.9555129842,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1170&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1205",
-    "vote_events_total": 4653,
-    "present": 4522,
+    "vote_events_total": 4678,
+    "present": 4547,
     "absent": 128,
     "name": "Michal Kapuš",
     "given_names": [
@@ -1762,15 +1795,15 @@
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.9718461208,
+    "present_share": 0.9719965797,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1205&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1158",
-    "vote_events_total": 4673,
-    "present": 4563,
+    "vote_events_total": 4698,
+    "present": 4588,
     "absent": 110,
     "name": "Daniel Karas",
     "given_names": [
@@ -1795,15 +1828,15 @@
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.9764605179,
+    "present_share": 0.9765857812,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1158&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:873",
-    "vote_events_total": 4673,
-    "present": 4540,
+    "vote_events_total": 4698,
+    "present": 4565,
     "absent": 133,
     "name": "Marián Kéry",
     "given_names": [
@@ -1828,16 +1861,16 @@
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.9715386262,
+    "present_share": 0.9716900809,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=873&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1125",
-    "vote_events_total": 4673,
-    "present": 3238,
-    "absent": 1435,
+    "vote_events_total": 4698,
+    "present": 3254,
+    "absent": 1444,
     "name": "Štefan Kišš",
     "given_names": [
       "Štefan"
@@ -1861,16 +1894,16 @@
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.6929167558,
+    "present_share": 0.6926351639,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1125&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1139",
-    "vote_events_total": 4673,
-    "present": 3567,
-    "absent": 1053,
+    "vote_events_total": 4698,
+    "present": 3587,
+    "absent": 1058,
     "name": "Dana Kleinert",
     "given_names": [
       "Dana"
@@ -1894,16 +1927,16 @@
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.7633212069,
+    "present_share": 0.76351639,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1139&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1224",
-    "vote_events_total": 980,
-    "present": 857,
-    "absent": 123,
+    "vote_events_total": 1005,
+    "present": 876,
+    "absent": 129,
     "name": "Monika Kolejáková",
     "given_names": [
       "Monika"
@@ -1920,16 +1953,16 @@
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.8744897959,
+    "present_share": 0.871641791,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1224&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1025",
-    "vote_events_total": 4673,
-    "present": 3858,
-    "absent": 815,
+    "vote_events_total": 4698,
+    "present": 3877,
+    "absent": 821,
     "name": "Mária Kolíková",
     "given_names": [
       "Mária"
@@ -1953,16 +1986,16 @@
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.8255938369,
+    "present_share": 0.825244785,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1025&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1124",
-    "vote_events_total": 4673,
-    "present": 3951,
-    "absent": 677,
+    "vote_events_total": 4698,
+    "present": 3954,
+    "absent": 699,
     "name": "Ingrid Kosová",
     "given_names": [
       "Ingrid"
@@ -1986,16 +2019,16 @@
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.8454953991,
+    "present_share": 0.8416347382,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1124&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1151",
-    "vote_events_total": 4673,
-    "present": 4499,
-    "absent": 163,
+    "vote_events_total": 4698,
+    "present": 4523,
+    "absent": 164,
     "name": "Peter Kotlár",
     "given_names": [
       "Peter"
@@ -2019,16 +2052,16 @@
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.9627648192,
+    "present_share": 0.9627501064,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1151&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1227",
-    "vote_events_total": 230,
-    "present": 221,
-    "absent": 9,
+    "vote_events_total": 255,
+    "present": 245,
+    "absent": 10,
     "name": "Milan Kováč",
     "given_names": [
       "Milan"
@@ -2052,16 +2085,16 @@
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.9608695652,
+    "present_share": 0.9607843137,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1227&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:907",
-    "vote_events_total": 4673,
-    "present": 3357,
-    "absent": 1316,
+    "vote_events_total": 4698,
+    "present": 3359,
+    "absent": 1339,
     "name": "Marek Krajčí",
     "given_names": [
       "Marek"
@@ -2085,15 +2118,15 @@
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.7183821956,
+    "present_share": 0.7149851,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=907&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1210",
-    "vote_events_total": 4653,
-    "present": 4545,
+    "vote_events_total": 4678,
+    "present": 4570,
     "absent": 108,
     "name": "Dagmar Kramplová",
     "given_names": [
@@ -2118,16 +2151,16 @@
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.9767891683,
+    "present_share": 0.9769132108,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1210&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1190",
-    "vote_events_total": 4673,
-    "present": 3087,
-    "absent": 1571,
+    "vote_events_total": 4698,
+    "present": 3104,
+    "absent": 1579,
     "name": "Rastislav Krátky",
     "given_names": [
       "Rastislav"
@@ -2151,16 +2184,16 @@
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.6606034667,
+    "present_share": 0.6607066837,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1190&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1032",
-    "vote_events_total": 4673,
-    "present": 3889,
-    "absent": 784,
+    "vote_events_total": 4698,
+    "present": 3909,
+    "absent": 789,
     "name": "Juraj Krúpa",
     "given_names": [
       "Juraj"
@@ -2184,15 +2217,15 @@
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.832227691,
+    "present_share": 0.8320561941,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1032&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:668",
-    "vote_events_total": 4673,
-    "present": 4552,
+    "vote_events_total": 4698,
+    "present": 4577,
     "absent": 118,
     "name": "Stanislav Kubánek",
     "given_names": [
@@ -2217,16 +2250,16 @@
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.9741065697,
+    "present_share": 0.9742443593,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=668&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:671",
-    "vote_events_total": 4673,
-    "present": 4547,
-    "absent": 126,
+    "vote_events_total": 4698,
+    "present": 4570,
+    "absent": 128,
     "name": "Ján Kvorka",
     "given_names": [
       "Ján"
@@ -2250,16 +2283,16 @@
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.9730365932,
+    "present_share": 0.9727543636,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=671&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1189",
-    "vote_events_total": 4673,
-    "present": 4129,
-    "absent": 496,
+    "vote_events_total": 4698,
+    "present": 4149,
+    "absent": 501,
     "name": "Marek Lackovič",
     "given_names": [
       "Marek"
@@ -2283,15 +2316,15 @@
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.8835865611,
+    "present_share": 0.8831417625,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1189&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1081",
-    "vote_events_total": 4673,
-    "present": 4519,
+    "vote_events_total": 4698,
+    "present": 4544,
     "absent": 154,
     "name": "Ľubica Laššáková",
     "given_names": [
@@ -2316,16 +2349,16 @@
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.967044725,
+    "present_share": 0.9672200937,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1081&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1037",
-    "vote_events_total": 4673,
-    "present": 3955,
-    "absent": 714,
+    "vote_events_total": 4698,
+    "present": 3975,
+    "absent": 719,
     "name": "Vladimír Ledecký",
     "given_names": [
       "Vladimír"
@@ -2349,15 +2382,15 @@
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.8463513803,
+    "present_share": 0.8461047254,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1037&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1200",
-    "vote_events_total": 4664,
-    "present": 4559,
+    "vote_events_total": 4689,
+    "present": 4584,
     "absent": 105,
     "name": "Boleslav Lešo",
     "given_names": [
@@ -2382,16 +2415,16 @@
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.9774871355,
+    "present_share": 0.9776071657,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1200&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1199",
-    "vote_events_total": 4664,
-    "present": 4540,
-    "absent": 121,
+    "vote_events_total": 4689,
+    "present": 4563,
+    "absent": 123,
     "name": "Adam Lučanský",
     "given_names": [
       "Adam"
@@ -2415,15 +2448,15 @@
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.9734133791,
+    "present_share": 0.9731285988,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1199&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:733",
-    "vote_events_total": 4664,
-    "present": 4548,
+    "vote_events_total": 4689,
+    "present": 4573,
     "absent": 116,
     "name": "Michal Lukša",
     "given_names": [
@@ -2448,16 +2481,16 @@
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.9751286449,
+    "present_share": 0.9752612497,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=733&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1134",
-    "vote_events_total": 4673,
-    "present": 3779,
-    "absent": 849,
+    "vote_events_total": 4698,
+    "present": 3782,
+    "absent": 871,
     "name": "Darina Luščíková",
     "given_names": [
       "Darina"
@@ -2481,15 +2514,15 @@
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.8086882089,
+    "present_share": 0.8050234142,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1134&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1152",
-    "vote_events_total": 4673,
-    "present": 4136,
+    "vote_events_total": 4698,
+    "present": 4161,
     "absent": 527,
     "name": "Pavel Ľupták",
     "given_names": [
@@ -2514,15 +2547,15 @@
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.8850845281,
+    "present_share": 0.8856960409,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1152&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1223",
-    "vote_events_total": 1181,
-    "present": 1130,
+    "vote_events_total": 1206,
+    "present": 1155,
     "absent": 48,
     "name": "Vladimír Macášek",
     "given_names": [
@@ -2547,15 +2580,15 @@
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.9568162574,
+    "present_share": 0.9577114428,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1223&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1211",
-    "vote_events_total": 4653,
-    "present": 4463,
+    "vote_events_total": 4678,
+    "present": 4488,
     "absent": 190,
     "name": "Zdenka Mačicová",
     "given_names": [
@@ -2580,16 +2613,16 @@
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.9591661294,
+    "present_share": 0.9593843523,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1211&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1184",
-    "vote_events_total": 4673,
-    "present": 3232,
-    "absent": 1389,
+    "vote_events_total": 4698,
+    "present": 3252,
+    "absent": 1394,
     "name": "František Majerský",
     "given_names": [
       "František"
@@ -2606,16 +2639,16 @@
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.6916327841,
+    "present_share": 0.6922094508,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1184&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1178",
-    "vote_events_total": 4673,
-    "present": 3520,
-    "absent": 1148,
+    "vote_events_total": 4698,
+    "present": 3540,
+    "absent": 1153,
     "name": "Milan Majerský",
     "given_names": [
       "Milan"
@@ -2632,15 +2665,15 @@
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.7532634282,
+    "present_share": 0.7535121328,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1178&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1173",
-    "vote_events_total": 4673,
-    "present": 4540,
+    "vote_events_total": 4698,
+    "present": 4565,
     "absent": 133,
     "name": "Roman Malatinec",
     "given_names": [
@@ -2665,16 +2698,16 @@
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.9715386262,
+    "present_share": 0.9716900809,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1173&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1042",
-    "vote_events_total": 4673,
-    "present": 3334,
-    "absent": 1339,
+    "vote_events_total": 4698,
+    "present": 3354,
+    "absent": 1344,
     "name": "Vladimíra Marcinková",
     "given_names": [
       "Vladimíra"
@@ -2698,15 +2731,15 @@
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.7134603039,
+    "present_share": 0.7139208174,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1042&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1159",
-    "vote_events_total": 4673,
-    "present": 4572,
+    "vote_events_total": 4698,
+    "present": 4597,
     "absent": 101,
     "name": "Zuzana Matejičková",
     "given_names": [
@@ -2731,16 +2764,16 @@
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.9783864755,
+    "present_share": 0.97850149,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1159&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:808",
-    "vote_events_total": 4673,
+    "vote_events_total": 4698,
     "present": 3011,
-    "absent": 1657,
+    "absent": 1682,
     "name": "Igor Matovič",
     "given_names": [
       "Igor"
@@ -2764,15 +2797,15 @@
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.6443398245,
+    "present_share": 0.640911026,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=808&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1156",
-    "vote_events_total": 4673,
-    "present": 4560,
+    "vote_events_total": 4698,
+    "present": 4585,
     "absent": 113,
     "name": "Ján Mažgút",
     "given_names": [
@@ -2797,15 +2830,15 @@
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.975818532,
+    "present_share": 0.9759472116,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1156&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1204",
-    "vote_events_total": 4653,
-    "present": 4513,
+    "vote_events_total": 4678,
+    "present": 4538,
     "absent": 140,
     "name": "Jaroslav Mego",
     "given_names": [
@@ -2830,16 +2863,16 @@
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.9699118848,
+    "present_share": 0.9700726806,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1204&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1130",
-    "vote_events_total": 4673,
-    "present": 4171,
-    "absent": 457,
+    "vote_events_total": 4698,
+    "present": 4191,
+    "absent": 462,
     "name": "Zuzana Mesterová",
     "given_names": [
       "Zuzana"
@@ -2863,15 +2896,15 @@
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.8925743634,
+    "present_share": 0.8920817369,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1130&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1149",
-    "vote_events_total": 4673,
-    "present": 4545,
+    "vote_events_total": 4698,
+    "present": 4570,
     "absent": 128,
     "name": "Roman Michelko",
     "given_names": [
@@ -2896,16 +2929,16 @@
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.9726086026,
+    "present_share": 0.9727543636,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1149&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:92",
-    "vote_events_total": 4673,
-    "present": 3089,
-    "absent": 1584,
+    "vote_events_total": 4698,
+    "present": 3109,
+    "absent": 1589,
     "name": "František Mikloško",
     "given_names": [
       "František"
@@ -2922,16 +2955,16 @@
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.6610314573,
+    "present_share": 0.6617709664,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=92&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1046",
-    "vote_events_total": 4673,
-    "present": 3347,
-    "absent": 1313,
+    "vote_events_total": 4698,
+    "present": 3350,
+    "absent": 1335,
     "name": "Roman Mikulec",
     "given_names": [
       "Roman"
@@ -2955,15 +2988,15 @@
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.7162422427,
+    "present_share": 0.7130693912,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1046&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:322",
-    "vote_events_total": 4673,
-    "present": 4369,
+    "vote_events_total": 4698,
+    "present": 4394,
     "absent": 270,
     "name": "Dušan Muňko",
     "given_names": [
@@ -2995,15 +3028,15 @@
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.9349454312,
+    "present_share": 0.9352916135,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=322&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:899",
-    "vote_events_total": 4673,
-    "present": 4534,
+    "vote_events_total": 4698,
+    "present": 4559,
     "absent": 137,
     "name": "Peter Náhlik",
     "given_names": [
@@ -3028,16 +3061,16 @@
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.9702546544,
+    "present_share": 0.9704129417,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=899&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1212",
-    "vote_events_total": 4600,
-    "present": 4078,
-    "absent": 477,
+    "vote_events_total": 4625,
+    "present": 4098,
+    "absent": 482,
     "name": "Natália Nash",
     "given_names": [
       "Natália"
@@ -3061,15 +3094,15 @@
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.8865217391,
+    "present_share": 0.8860540541,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1212&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1196",
-    "vote_events_total": 4664,
-    "present": 4553,
+    "vote_events_total": 4689,
+    "present": 4578,
     "absent": 111,
     "name": "Alena Nováková",
     "given_names": [
@@ -3094,16 +3127,16 @@
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.9762006861,
+    "present_share": 0.9763275752,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1196&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1225",
-    "vote_events_total": 713,
-    "present": 565,
-    "absent": 148,
+    "vote_events_total": 738,
+    "present": 584,
+    "absent": 154,
     "name": "Gabriel Paľa",
     "given_names": [
       "Gabriel"
@@ -3120,16 +3153,16 @@
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.7924263675,
+    "present_share": 0.7913279133,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1225&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:962",
-    "vote_events_total": 4673,
-    "present": 3379,
-    "absent": 1294,
+    "vote_events_total": 4698,
+    "present": 3398,
+    "absent": 1300,
     "name": "Simona Petrík",
     "given_names": [
       "Simona"
@@ -3153,15 +3186,15 @@
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.723090092,
+    "present_share": 0.7232865049,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=962&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:900",
-    "vote_events_total": 4673,
-    "present": 4573,
+    "vote_events_total": 4698,
+    "present": 4598,
     "absent": 100,
     "name": "František Petro",
     "given_names": [
@@ -3186,16 +3219,16 @@
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.9786004708,
+    "present_share": 0.9787143465,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=900&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1116",
-    "vote_events_total": 4673,
-    "present": 3358,
-    "absent": 1267,
+    "vote_events_total": 4698,
+    "present": 3378,
+    "absent": 1272,
     "name": "Lucia Plaváková",
     "given_names": [
       "Lucia"
@@ -3219,15 +3252,15 @@
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.7185961909,
+    "present_share": 0.7190293742,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1116&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1194",
-    "vote_events_total": 4664,
-    "present": 4564,
+    "vote_events_total": 4689,
+    "present": 4589,
     "absent": 100,
     "name": "Zuzana Plevíková",
     "given_names": [
@@ -3252,15 +3285,15 @@
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.9785591767,
+    "present_share": 0.9786734911,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1194&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:685",
-    "vote_events_total": 4673,
-    "present": 4516,
+    "vote_events_total": 4698,
+    "present": 4541,
     "absent": 157,
     "name": "Ján Podmanický",
     "given_names": [
@@ -3285,16 +3318,16 @@
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.9664027391,
+    "present_share": 0.9665815241,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=685&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1088",
-    "vote_events_total": 4673,
-    "present": 3751,
-    "absent": 919,
+    "vote_events_total": 4698,
+    "present": 3769,
+    "absent": 926,
     "name": "Peter Pollák",
     "given_names": [
       "Peter"
@@ -3318,16 +3351,16 @@
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.8026963407,
+    "present_share": 0.8022562793,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1088&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1054",
-    "vote_events_total": 4673,
-    "present": 3465,
-    "absent": 1208,
+    "vote_events_total": 4698,
+    "present": 3483,
+    "absent": 1215,
     "name": "Jozef Pročko",
     "given_names": [
       "Jozef"
@@ -3351,16 +3384,16 @@
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.7414936871,
+    "present_share": 0.7413793103,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1054&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1131",
-    "vote_events_total": 4673,
-    "present": 4200,
-    "absent": 428,
+    "vote_events_total": 4698,
+    "present": 4220,
+    "absent": 433,
     "name": "Ondrej Prostredník",
     "given_names": [
       "Ondrej"
@@ -3384,15 +3417,15 @@
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.8987802268,
+    "present_share": 0.8982545764,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1131&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:879",
-    "vote_events_total": 4673,
-    "present": 4541,
+    "vote_events_total": 4698,
+    "present": 4566,
     "absent": 132,
     "name": "Róbert Puci",
     "given_names": [
@@ -3417,15 +3450,15 @@
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.9717526214,
+    "present_share": 0.9719029374,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=879&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1208",
-    "vote_events_total": 4653,
-    "present": 4472,
+    "vote_events_total": 4678,
+    "present": 4497,
     "absent": 181,
     "name": "Paula Puškárová",
     "given_names": [
@@ -3450,15 +3483,15 @@
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.9611003654,
+    "present_share": 0.9613082514,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1208&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:761",
-    "vote_events_total": 2449,
-    "present": 2386,
+    "vote_events_total": 2474,
+    "present": 2411,
     "absent": 63,
     "name": "Richard Raši",
     "given_names": [
@@ -3483,16 +3516,16 @@
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.9742752144,
+    "present_share": 0.9745351657,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=761&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:905",
-    "vote_events_total": 4673,
-    "present": 3071,
-    "absent": 1602,
+    "vote_events_total": 4698,
+    "present": 3072,
+    "absent": 1626,
     "name": "Veronika Remišová",
     "given_names": [
       "Veronika"
@@ -3516,15 +3549,15 @@
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.6571795421,
+    "present_share": 0.6538952746,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=905&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:689",
-    "vote_events_total": 4673,
-    "present": 4512,
+    "vote_events_total": 4698,
+    "present": 4537,
     "absent": 161,
     "name": "Ján Richter",
     "given_names": [
@@ -3549,16 +3582,16 @@
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.965546758,
+    "present_share": 0.9657300979,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=689&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1120",
-    "vote_events_total": 4673,
-    "present": 4069,
-    "absent": 559,
+    "vote_events_total": 4698,
+    "present": 4089,
+    "absent": 564,
     "name": "Michal Sabo",
     "given_names": [
       "Michal"
@@ -3582,15 +3615,15 @@
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.8707468436,
+    "present_share": 0.8703703704,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1120&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:762",
-    "vote_events_total": 4673,
-    "present": 4503,
+    "vote_events_total": 4698,
+    "present": 4528,
     "absent": 170,
     "name": "Marián Saloň",
     "given_names": [
@@ -3615,15 +3648,15 @@
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.9636208003,
+    "present_share": 0.9638143891,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=762&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1163",
-    "vote_events_total": 4673,
-    "present": 4559,
+    "vote_events_total": 4698,
+    "present": 4584,
     "absent": 111,
     "name": "Justín Sedlák",
     "given_names": [
@@ -3648,15 +3681,15 @@
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.9756045367,
+    "present_share": 0.975734355,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1163&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1191",
-    "vote_events_total": 4664,
-    "present": 4559,
+    "vote_events_total": 4689,
+    "present": 4584,
     "absent": 102,
     "name": "Andrej Sitkár",
     "given_names": [
@@ -3681,16 +3714,16 @@
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.9774871355,
+    "present_share": 0.9776071657,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1191&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1197",
-    "vote_events_total": 3713,
-    "present": 3622,
-    "absent": 91,
+    "vote_events_total": 3738,
+    "present": 3632,
+    "absent": 106,
     "name": "Peter Slyško",
     "given_names": [
       "Peter"
@@ -3714,15 +3747,15 @@
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.9754915163,
+    "present_share": 0.9716425896,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1197&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1206",
-    "vote_events_total": 4653,
-    "present": 3991,
+    "vote_events_total": 4678,
+    "present": 4016,
     "absent": 662,
     "name": "Peter Sokol",
     "given_names": [
@@ -3747,16 +3780,16 @@
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.8577261982,
+    "present_share": 0.8584865327,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1206&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1117",
-    "vote_events_total": 4673,
-    "present": 3804,
-    "absent": 816,
+    "vote_events_total": 4698,
+    "present": 3823,
+    "absent": 822,
     "name": "Jaroslav Spišiak",
     "given_names": [
       "Jaroslav"
@@ -3780,16 +3813,16 @@
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.8140380912,
+    "present_share": 0.8137505321,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1117&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1182",
-    "vote_events_total": 4673,
-    "present": 3364,
-    "absent": 1290,
+    "vote_events_total": 4698,
+    "present": 3384,
+    "absent": 1295,
     "name": "Peter Stachura",
     "given_names": [
       "Peter"
@@ -3806,16 +3839,16 @@
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.7198801626,
+    "present_share": 0.7203065134,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1182&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1118",
-    "vote_events_total": 4673,
-    "present": 3987,
-    "absent": 641,
+    "vote_events_total": 4698,
+    "present": 4006,
+    "absent": 647,
     "name": "Tamara Stohlová",
     "given_names": [
       "Tamara"
@@ -3839,15 +3872,15 @@
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.8531992296,
+    "present_share": 0.852703278,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1118&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1058",
-    "vote_events_total": 4673,
-    "present": 4567,
+    "vote_events_total": 4698,
+    "present": 4592,
     "absent": 106,
     "name": "Anton Stredák",
     "given_names": [
@@ -3872,15 +3905,15 @@
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.977316499,
+    "present_share": 0.9774372073,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1058&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1161",
-    "vote_events_total": 4673,
-    "present": 4545,
+    "vote_events_total": 4698,
+    "present": 4570,
     "absent": 110,
     "name": "Michal Stuška",
     "given_names": [
@@ -3905,15 +3938,15 @@
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.9726086026,
+    "present_share": 0.9727543636,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1161&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1087",
-    "vote_events_total": 4653,
-    "present": 4542,
+    "vote_events_total": 4678,
+    "present": 4567,
     "absent": 111,
     "name": "Zdenko Svoboda",
     "given_names": [
@@ -3938,15 +3971,15 @@
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.976144423,
+    "present_share": 0.9762719111,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1087&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1217",
-    "vote_events_total": 3818,
-    "present": 3721,
+    "vote_events_total": 3843,
+    "present": 3746,
     "absent": 95,
     "name": "Andrea Szabóová",
     "given_names": [
@@ -3971,16 +4004,16 @@
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.9745940283,
+    "present_share": 0.9747593026,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1217&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1147",
-    "vote_events_total": 4673,
-    "present": 3977,
-    "absent": 696,
+    "vote_events_total": 4698,
+    "present": 3997,
+    "absent": 701,
     "name": "Tomáš Szalay",
     "given_names": [
       "Tomáš"
@@ -4004,15 +4037,15 @@
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.8510592767,
+    "present_share": 0.8507875692,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1147&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1150",
-    "vote_events_total": 4673,
-    "present": 4221,
+    "vote_events_total": 4698,
+    "present": 4246,
     "absent": 452,
     "name": "Ivan Ševčík",
     "given_names": [
@@ -4037,16 +4070,16 @@
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.903274128,
+    "present_share": 0.9037888463,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1150&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1114",
-    "vote_events_total": 4673,
-    "present": 3569,
-    "absent": 1104,
+    "vote_events_total": 4698,
+    "present": 3588,
+    "absent": 1110,
     "name": "Michal Šimečka",
     "given_names": [
       "Michal"
@@ -4070,15 +4103,15 @@
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.7637491975,
+    "present_share": 0.7637292465,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1114&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1177",
-    "vote_events_total": 4673,
-    "present": 4459,
+    "vote_events_total": 4698,
+    "present": 4484,
     "absent": 214,
     "name": "Igor Šimko",
     "given_names": [
@@ -4103,16 +4136,16 @@
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.9542050075,
+    "present_share": 0.9544487016,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1177&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1065",
-    "vote_events_total": 4673,
-    "present": 3835,
-    "absent": 838,
+    "vote_events_total": 4698,
+    "present": 3853,
+    "absent": 845,
     "name": "Michal Šipoš",
     "given_names": [
       "Michal"
@@ -4136,16 +4169,16 @@
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.8206719452,
+    "present_share": 0.8201362282,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1065&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1146",
-    "vote_events_total": 4673,
-    "present": 4041,
-    "absent": 629,
+    "vote_events_total": 4698,
+    "present": 4058,
+    "absent": 637,
     "name": "Anežka Škopová",
     "given_names": [
       "Anežka"
@@ -4169,16 +4202,16 @@
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.8647549754,
+    "present_share": 0.8637718178,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1146&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:862",
-    "vote_events_total": 4673,
-    "present": 3116,
-    "absent": 1539,
+    "vote_events_total": 4698,
+    "present": 3134,
+    "absent": 1546,
     "name": "Branislav Škripek",
     "given_names": [
       "Branislav"
@@ -4195,16 +4228,16 @@
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.6668093302,
+    "present_share": 0.6670923797,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=862&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1143",
-    "vote_events_total": 4673,
-    "present": 4021,
-    "absent": 607,
+    "vote_events_total": 4698,
+    "present": 4041,
+    "absent": 612,
     "name": "Veronika Šrobová",
     "given_names": [
       "Veronika"
@@ -4228,16 +4261,16 @@
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.8604750695,
+    "present_share": 0.8601532567,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1143&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1127",
-    "vote_events_total": 4673,
-    "present": 3659,
-    "absent": 959,
+    "vote_events_total": 4698,
+    "present": 3677,
+    "absent": 966,
     "name": "Ivan Štefunko",
     "given_names": [
       "Ivan"
@@ -4261,16 +4294,16 @@
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.7830087738,
+    "present_share": 0.7826734781,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1127&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1132",
-    "vote_events_total": 4673,
-    "present": 3654,
-    "absent": 963,
+    "vote_events_total": 4698,
+    "present": 3673,
+    "absent": 969,
     "name": "Zuzana Števulová",
     "given_names": [
       "Zuzana"
@@ -4294,15 +4327,15 @@
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.7819387973,
+    "present_share": 0.7818220519,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1132&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:769",
-    "vote_events_total": 4673,
-    "present": 4564,
+    "vote_events_total": 4698,
+    "present": 4589,
     "absent": 106,
     "name": "Peter Šuca",
     "given_names": [
@@ -4327,16 +4360,16 @@
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.9766745132,
+    "present_share": 0.9767986377,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=769&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1145",
-    "vote_events_total": 4673,
-    "present": 3749,
-    "absent": 877,
+    "vote_events_total": 4698,
+    "present": 3752,
+    "absent": 899,
     "name": "Viliam Tankó",
     "given_names": [
       "Viliam"
@@ -4367,16 +4400,16 @@
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.8022683501,
+    "present_share": 0.7986377182,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1145&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1072",
-    "vote_events_total": 93,
-    "present": 13,
-    "absent": 80,
+    "vote_events_total": 118,
+    "present": 14,
+    "absent": 104,
     "name": "Tomáš Taraba",
     "given_names": [
       "Tomáš"
@@ -4393,15 +4426,15 @@
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.1397849462,
+    "present_share": 0.1186440678,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1072&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:930",
-    "vote_events_total": 4673,
-    "present": 4558,
+    "vote_events_total": 4698,
+    "present": 4583,
     "absent": 115,
     "name": "Dušan Tittel",
     "given_names": [
@@ -4426,16 +4459,16 @@
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.9753905414,
+    "present_share": 0.9755214985,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=930&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1115",
-    "vote_events_total": 4673,
-    "present": 3620,
-    "absent": 989,
+    "vote_events_total": 4698,
+    "present": 3640,
+    "absent": 994,
     "name": "Michal Truban",
     "given_names": [
       "Michal"
@@ -4459,16 +4492,16 @@
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.7746629574,
+    "present_share": 0.7747977863,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1115&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1186",
-    "vote_events_total": 4673,
-    "present": 3283,
-    "absent": 1390,
+    "vote_events_total": 4698,
+    "present": 3301,
+    "absent": 1397,
     "name": "Andrea Turčanová",
     "given_names": [
       "Andrea"
@@ -4485,16 +4518,16 @@
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.702546544,
+    "present_share": 0.702639421,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1186&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1075",
-    "vote_events_total": 4673,
-    "present": 3379,
-    "absent": 1249,
+    "vote_events_total": 4698,
+    "present": 3398,
+    "absent": 1255,
     "name": "Tomáš Valášek",
     "given_names": [
       "Tomáš"
@@ -4518,15 +4551,15 @@
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.723090092,
+    "present_share": 0.7232865049,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1075&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1193",
-    "vote_events_total": 4664,
-    "present": 4561,
+    "vote_events_total": 4689,
+    "present": 4586,
     "absent": 103,
     "name": "Igor Válek",
     "given_names": [
@@ -4551,15 +4584,15 @@
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.977915952,
+    "present_share": 0.9780336959,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1193&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:705",
-    "vote_events_total": 4673,
-    "present": 4548,
+    "vote_events_total": 4698,
+    "present": 4573,
     "absent": 114,
     "name": "Jozef Valocký",
     "given_names": [
@@ -4584,16 +4617,16 @@
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.9732505885,
+    "present_share": 0.9733929332,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=705&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1135",
-    "vote_events_total": 4673,
-    "present": 3937,
-    "absent": 691,
+    "vote_events_total": 4698,
+    "present": 3940,
+    "absent": 713,
     "name": "Branislav Vančo",
     "given_names": [
       "Branislav"
@@ -4617,16 +4650,16 @@
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.842499465,
+    "present_share": 0.8386547467,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1135&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:861",
-    "vote_events_total": 4673,
+    "vote_events_total": 4698,
     "present": 3755,
-    "absent": 918,
+    "absent": 943,
     "name": "Richard Vašečka",
     "given_names": [
       "Richard"
@@ -4650,15 +4683,15 @@
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.8035523218,
+    "present_share": 0.7992762878,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=861&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:293",
-    "vote_events_total": 4673,
-    "present": 4473,
+    "vote_events_total": 4698,
+    "present": 4498,
     "absent": 194,
     "name": "Ľubomír Vážny",
     "given_names": [
@@ -4683,16 +4716,16 @@
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.9572009416,
+    "present_share": 0.9574286931,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=293&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1141",
-    "vote_events_total": 4673,
-    "present": 3942,
-    "absent": 678,
+    "vote_events_total": 4698,
+    "present": 3962,
+    "absent": 683,
     "name": "Veronika Veslárová",
     "given_names": [
       "Veronika"
@@ -4716,16 +4749,16 @@
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.8435694415,
+    "present_share": 0.8433375905,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1141&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:991",
-    "vote_events_total": 4673,
-    "present": 4088,
-    "absent": 585,
+    "vote_events_total": 4698,
+    "present": 4107,
+    "absent": 591,
     "name": "Marián Viskupič",
     "given_names": [
       "Marián"
@@ -4749,15 +4782,15 @@
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.8748127541,
+    "present_share": 0.874201788,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=991&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1176",
-    "vote_events_total": 4673,
-    "present": 4501,
+    "vote_events_total": 4698,
+    "present": 4526,
     "absent": 172,
     "name": "Erik Vlček",
     "given_names": [
@@ -4782,15 +4815,15 @@
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.9631928098,
+    "present_share": 0.963388676,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1176&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1019",
-    "vote_events_total": 4673,
-    "present": 4561,
+    "vote_events_total": 4698,
+    "present": 4586,
     "absent": 112,
     "name": "Viliam Zahorčák",
     "given_names": [
@@ -4815,15 +4848,15 @@
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.9760325273,
+    "present_share": 0.9761600681,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1019&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:691",
-    "vote_events_total": 4673,
-    "present": 4432,
+    "vote_events_total": 4698,
+    "present": 4457,
     "absent": 241,
     "name": "Peter Žiga",
     "given_names": [
@@ -4848,7 +4881,7 @@
       }
     ],
     "since": "2023-10-25",
-    "present_share": 0.9484271346,
+    "present_share": 0.9487015751,
     "extras": {
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=691&ImageWidth=140"
     }
