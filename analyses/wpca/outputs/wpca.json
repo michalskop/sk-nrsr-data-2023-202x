@@ -315,7 +315,38 @@
       -0.07818630717128261
     ],
     "weight": 0.7775183123812118,
-    "included": true
+    "included": true,
+    "name": "Vladimíra Marcinková",
+    "given_names": [
+      "Vladimíra"
+    ],
+    "family_names": [
+      "Marcinková"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:13",
+        "name": "Národná rada Slovenskej republiky",
+        "classification": "parliament",
+        "since": "2023-10-25",
+        "until": ""
+      },
+      {
+        "id": "nrsr:org:club:6",
+        "name": "Klub Sloboda a Solidarita",
+        "classification": "groups",
+        "since": "2023-11-14",
+        "until": "2026-10-15"
+      },
+      {
+        "id": "nrsr:org:club:6",
+        "name": "Klub Sloboda a Solidarita",
+        "classification": "groups",
+        "since": "2026-10-15",
+        "until": ""
+      }
+    ],
+    "since": "2023-10-25"
   },
   {
     "person_id": "nrsr:person:1046",
@@ -1708,7 +1739,38 @@
       0.2825137754388953
     ],
     "weight": 0.822871234770225,
-    "included": true
+    "included": true,
+    "name": "Dana Kleinert",
+    "given_names": [
+      "Dana"
+    ],
+    "family_names": [
+      "Kleinert"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:13",
+        "name": "Národná rada Slovenskej republiky",
+        "classification": "parliament",
+        "since": "2023-10-25",
+        "until": ""
+      },
+      {
+        "id": "nrsr:org:club:3",
+        "name": "Klub Progresívne Slovensko",
+        "classification": "groups",
+        "since": "2023-11-14",
+        "until": "2026-10-15"
+      },
+      {
+        "id": "nrsr:org:club:3",
+        "name": "Klub Progresívne Slovensko",
+        "classification": "groups",
+        "since": "2026-10-15",
+        "until": ""
+      }
+    ],
+    "since": "2023-10-25"
   },
   {
     "person_id": "nrsr:person:1140",
@@ -2170,7 +2232,38 @@
       0.00352422482627343
     ],
     "weight": 0.9847322648711198,
-    "included": true
+    "included": true,
+    "name": "Peter Kotlár",
+    "given_names": [
+      "Peter"
+    ],
+    "family_names": [
+      "Kotlár"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:13",
+        "name": "Národná rada Slovenskej republiky",
+        "classification": "parliament",
+        "since": "2023-10-25",
+        "until": ""
+      },
+      {
+        "id": "nrsr:org:club:7",
+        "name": "Klub Slovenská národná strana",
+        "classification": "groups",
+        "since": "2023-11-14",
+        "until": "2026-10-15"
+      },
+      {
+        "id": "nrsr:org:club:7",
+        "name": "Klub Slovenská národná strana",
+        "classification": "groups",
+        "since": "2026-10-15",
+        "until": ""
+      }
+    ],
+    "since": "2023-10-25"
   },
   {
     "person_id": "nrsr:person:1152",
@@ -2774,7 +2867,38 @@
       0.002703324276022674
     ],
     "weight": 0.9769675010864388,
-    "included": true
+    "included": true,
+    "name": "Peter Kalivoda",
+    "given_names": [
+      "Peter"
+    ],
+    "family_names": [
+      "Kalivoda"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:13",
+        "name": "Národná rada Slovenskej republiky",
+        "classification": "parliament",
+        "since": "2023-10-25",
+        "until": ""
+      },
+      {
+        "id": "nrsr:org:club:1",
+        "name": "Klub HLAS - sociálna demokracia",
+        "classification": "groups",
+        "since": "2023-11-14",
+        "until": "2026-10-15"
+      },
+      {
+        "id": "nrsr:org:club:1",
+        "name": "Klub HLAS - sociálna demokracia",
+        "classification": "groups",
+        "since": "2026-10-15",
+        "until": ""
+      }
+    ],
+    "since": "2023-10-25"
   },
   {
     "person_id": "nrsr:person:1171",
@@ -3408,7 +3532,38 @@
       -0.21625477420525255
     ],
     "weight": 0.8782560434784887,
-    "included": true
+    "included": true,
+    "name": "Július Jakab",
+    "given_names": [
+      "Július"
+    ],
+    "family_names": [
+      "Jakab"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:13",
+        "name": "Národná rada Slovenskej republiky",
+        "classification": "parliament",
+        "since": "2023-10-25",
+        "until": ""
+      },
+      {
+        "id": "nrsr:org:club:4",
+        "name": "Klub SLOVENSKO - ZA ĽUDÍ",
+        "classification": "groups",
+        "since": "2023-11-14",
+        "until": "2026-09-17"
+      },
+      {
+        "id": "nrsr:org:club:4",
+        "name": "Klub SLOVENSKO - ZA ĽUDÍ",
+        "classification": "groups",
+        "since": "2026-09-23",
+        "until": ""
+      }
+    ],
+    "since": "2023-10-25"
   },
   {
     "person_id": "nrsr:person:1189",
@@ -3418,7 +3573,38 @@
       0.2613868649680032
     ],
     "weight": 0.9463273138524855,
-    "included": true
+    "included": true,
+    "name": "Marek Lackovič",
+    "given_names": [
+      "Marek"
+    ],
+    "family_names": [
+      "Lackovič"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:13",
+        "name": "Národná rada Slovenskej republiky",
+        "classification": "parliament",
+        "since": "2023-10-25",
+        "until": ""
+      },
+      {
+        "id": "nrsr:org:club:3",
+        "name": "Klub Progresívne Slovensko",
+        "classification": "groups",
+        "since": "2023-11-14",
+        "until": "2026-10-15"
+      },
+      {
+        "id": "nrsr:org:club:3",
+        "name": "Klub Progresívne Slovensko",
+        "classification": "groups",
+        "since": "2026-10-15",
+        "until": ""
+      }
+    ],
+    "since": "2023-10-25"
   },
   {
     "person_id": "nrsr:person:1190",
@@ -4634,7 +4820,38 @@
       0.06708579788251494
     ],
     "weight": 0.3759915388683237,
-    "included": true
+    "included": true,
+    "name": "Gréta Gregorová",
+    "given_names": [
+      "Gréta"
+    ],
+    "family_names": [
+      "Gregorová"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:13",
+        "name": "Národná rada Slovenskej republiky",
+        "classification": "parliament",
+        "since": "2023-10-25",
+        "until": ""
+      },
+      {
+        "id": "nrsr:org:club:3",
+        "name": "Klub Progresívne Slovensko",
+        "classification": "groups",
+        "since": "2025-09-09",
+        "until": "2026-10-15"
+      },
+      {
+        "id": "nrsr:org:club:3",
+        "name": "Klub Progresívne Slovensko",
+        "classification": "groups",
+        "since": "2026-10-15",
+        "until": ""
+      }
+    ],
+    "since": "2023-10-25"
   },
   {
     "person_id": "nrsr:person:1223",
@@ -5163,7 +5380,38 @@
       0.00021589845686679538
     ],
     "weight": 0.996408207716594,
-    "included": true
+    "included": true,
+    "name": "Stanislav Kubánek",
+    "given_names": [
+      "Stanislav"
+    ],
+    "family_names": [
+      "Kubánek"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:13",
+        "name": "Národná rada Slovenskej republiky",
+        "classification": "parliament",
+        "since": "2023-10-25",
+        "until": ""
+      },
+      {
+        "id": "nrsr:org:club:5",
+        "name": "Klub SMER - sociálna demokracia",
+        "classification": "groups",
+        "since": "2023-11-14",
+        "until": "2026-10-15"
+      },
+      {
+        "id": "nrsr:org:club:5",
+        "name": "Klub SMER - sociálna demokracia",
+        "classification": "groups",
+        "since": "2026-10-15",
+        "until": ""
+      }
+    ],
+    "since": "2023-10-25"
   },
   {
     "person_id": "nrsr:person:671",
@@ -5797,7 +6045,38 @@
       -0.25637546808788747
     ],
     "weight": 0.7120387871679817,
-    "included": true
+    "included": true,
+    "name": "Igor Matovič",
+    "given_names": [
+      "Igor"
+    ],
+    "family_names": [
+      "Matovič"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:13",
+        "name": "Národná rada Slovenskej republiky",
+        "classification": "parliament",
+        "since": "2023-10-25",
+        "until": ""
+      },
+      {
+        "id": "nrsr:org:club:4",
+        "name": "Klub SLOVENSKO - ZA ĽUDÍ",
+        "classification": "groups",
+        "since": "2023-11-14",
+        "until": "2026-09-17"
+      },
+      {
+        "id": "nrsr:org:club:4",
+        "name": "Klub SLOVENSKO - ZA ĽUDÍ",
+        "classification": "groups",
+        "since": "2026-09-23",
+        "until": ""
+      }
+    ],
+    "since": "2023-10-25"
   },
   {
     "person_id": "nrsr:person:858",
@@ -6285,7 +6564,38 @@
       0.001714134484825877
     ],
     "weight": 0.9921514626343649,
-    "included": true
+    "included": true,
+    "name": "Peter Náhlik",
+    "given_names": [
+      "Peter"
+    ],
+    "family_names": [
+      "Náhlik"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:13",
+        "name": "Národná rada Slovenskej republiky",
+        "classification": "parliament",
+        "since": "2023-10-25",
+        "until": ""
+      },
+      {
+        "id": "nrsr:org:club:1",
+        "name": "Klub HLAS - sociálna demokracia",
+        "classification": "groups",
+        "since": "2023-11-14",
+        "until": "2026-10-15"
+      },
+      {
+        "id": "nrsr:org:club:1",
+        "name": "Klub HLAS - sociálna demokracia",
+        "classification": "groups",
+        "since": "2026-10-15",
+        "until": ""
+      }
+    ],
+    "since": "2023-10-25"
   },
   {
     "person_id": "nrsr:person:900",
@@ -6731,7 +7041,38 @@
       0.24552743200874208
     ],
     "weight": 0.7911001041933914,
-    "included": true
+    "included": true,
+    "name": "Simona Petrík",
+    "given_names": [
+      "Simona"
+    ],
+    "family_names": [
+      "Petrík"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:13",
+        "name": "Národná rada Slovenskej republiky",
+        "classification": "parliament",
+        "since": "2023-10-25",
+        "until": ""
+      },
+      {
+        "id": "nrsr:org:club:3",
+        "name": "Klub Progresívne Slovensko",
+        "classification": "groups",
+        "since": "2023-11-14",
+        "until": "2026-10-15"
+      },
+      {
+        "id": "nrsr:org:club:3",
+        "name": "Klub Progresívne Slovensko",
+        "classification": "groups",
+        "since": "2026-10-15",
+        "until": ""
+      }
+    ],
+    "since": "2023-10-25"
   },
   {
     "person_id": "nrsr:person:966",

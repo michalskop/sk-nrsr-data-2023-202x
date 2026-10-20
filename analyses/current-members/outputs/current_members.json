@@ -1386,6 +1386,48 @@
     }
   },
   {
+    "id": "nrsr:person:1222",
+    "given_name": "Gréta",
+    "family_name": "Gregorová",
+    "name": "Gréta Gregorová",
+    "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1222&ImageWidth=140",
+    "identifiers": [
+      {
+        "scheme": "nrsr",
+        "identifier": "1222"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.nrsr.sk/web/Default.aspx?sid=poslanci/poslanec&PoslanecID=1222"
+      }
+    ],
+    "memberships": {
+      "parliament": [
+        {
+          "id": "nrsr:org:13",
+          "name": "Národná rada Slovenskej republiky",
+          "start_date": "2023-10-25",
+          "end_date": ""
+        }
+      ],
+      "groups": [
+        {
+          "id": "nrsr:org:club:3",
+          "name": "Klub Progresívne Slovensko",
+          "start_date": "2025-09-09",
+          "end_date": "2026-10-15"
+        },
+        {
+          "id": "nrsr:org:club:3",
+          "name": "Klub Progresívne Slovensko",
+          "start_date": "2026-10-15",
+          "end_date": ""
+        }
+      ]
+    }
+  },
+  {
     "id": "nrsr:person:910",
     "given_name": "Gábor",
     "family_name": "Grendel",
@@ -1842,6 +1884,48 @@
     }
   },
   {
+    "id": "nrsr:person:1188",
+    "given_name": "Július",
+    "family_name": "Jakab",
+    "name": "Július Jakab",
+    "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1188&ImageWidth=140",
+    "identifiers": [
+      {
+        "scheme": "nrsr",
+        "identifier": "1188"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.nrsr.sk/web/Default.aspx?sid=poslanci/poslanec&PoslanecID=1188"
+      }
+    ],
+    "memberships": {
+      "parliament": [
+        {
+          "id": "nrsr:org:13",
+          "name": "Národná rada Slovenskej republiky",
+          "start_date": "2023-10-25",
+          "end_date": ""
+        }
+      ],
+      "groups": [
+        {
+          "id": "nrsr:org:club:4",
+          "name": "Klub SLOVENSKO - ZA ĽUDÍ",
+          "start_date": "2023-11-14",
+          "end_date": "2026-09-17"
+        },
+        {
+          "id": "nrsr:org:club:4",
+          "name": "Klub SLOVENSKO - ZA ĽUDÍ",
+          "start_date": "2026-09-23",
+          "end_date": ""
+        }
+      ]
+    }
+  },
+  {
     "id": "nrsr:person:1169",
     "given_name": "Karol",
     "family_name": "Janas",
@@ -2130,6 +2214,48 @@
     }
   },
   {
+    "id": "nrsr:person:1170",
+    "given_name": "Peter",
+    "family_name": "Kalivoda",
+    "name": "Peter Kalivoda",
+    "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1170&ImageWidth=140",
+    "identifiers": [
+      {
+        "scheme": "nrsr",
+        "identifier": "1170"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.nrsr.sk/web/Default.aspx?sid=poslanci/poslanec&PoslanecID=1170"
+      }
+    ],
+    "memberships": {
+      "parliament": [
+        {
+          "id": "nrsr:org:13",
+          "name": "Národná rada Slovenskej republiky",
+          "start_date": "2023-10-25",
+          "end_date": ""
+        }
+      ],
+      "groups": [
+        {
+          "id": "nrsr:org:club:1",
+          "name": "Klub HLAS - sociálna demokracia",
+          "start_date": "2023-11-14",
+          "end_date": "2026-10-15"
+        },
+        {
+          "id": "nrsr:org:club:1",
+          "name": "Klub HLAS - sociálna demokracia",
+          "start_date": "2026-10-15",
+          "end_date": ""
+        }
+      ]
+    }
+  },
+  {
     "id": "nrsr:person:1205",
     "given_name": "Michal",
     "family_name": "Kapuš",
@@ -2298,6 +2424,48 @@
     }
   },
   {
+    "id": "nrsr:person:1139",
+    "given_name": "Dana",
+    "family_name": "Kleinert",
+    "name": "Dana Kleinert",
+    "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1139&ImageWidth=140",
+    "identifiers": [
+      {
+        "scheme": "nrsr",
+        "identifier": "1139"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.nrsr.sk/web/Default.aspx?sid=poslanci/poslanec&PoslanecID=1139"
+      }
+    ],
+    "memberships": {
+      "parliament": [
+        {
+          "id": "nrsr:org:13",
+          "name": "Národná rada Slovenskej republiky",
+          "start_date": "2023-10-25",
+          "end_date": ""
+        }
+      ],
+      "groups": [
+        {
+          "id": "nrsr:org:club:3",
+          "name": "Klub Progresívne Slovensko",
+          "start_date": "2023-11-14",
+          "end_date": "2026-10-15"
+        },
+        {
+          "id": "nrsr:org:club:3",
+          "name": "Klub Progresívne Slovensko",
+          "start_date": "2026-10-15",
+          "end_date": ""
+        }
+      ]
+    }
+  },
+  {
     "id": "nrsr:person:1224",
     "given_name": "Monika",
     "family_name": "Kolejáková",
@@ -2411,6 +2579,48 @@
         {
           "id": "nrsr:org:club:3",
           "name": "Klub Progresívne Slovensko",
+          "start_date": "2026-10-15",
+          "end_date": ""
+        }
+      ]
+    }
+  },
+  {
+    "id": "nrsr:person:1151",
+    "given_name": "Peter",
+    "family_name": "Kotlár",
+    "name": "Peter Kotlár",
+    "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1151&ImageWidth=140",
+    "identifiers": [
+      {
+        "scheme": "nrsr",
+        "identifier": "1151"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.nrsr.sk/web/Default.aspx?sid=poslanci/poslanec&PoslanecID=1151"
+      }
+    ],
+    "memberships": {
+      "parliament": [
+        {
+          "id": "nrsr:org:13",
+          "name": "Národná rada Slovenskej republiky",
+          "start_date": "2023-10-25",
+          "end_date": ""
+        }
+      ],
+      "groups": [
+        {
+          "id": "nrsr:org:club:7",
+          "name": "Klub Slovenská národná strana",
+          "start_date": "2023-11-14",
+          "end_date": "2026-10-15"
+        },
+        {
+          "id": "nrsr:org:club:7",
+          "name": "Klub Slovenská národná strana",
           "start_date": "2026-10-15",
           "end_date": ""
         }
@@ -2628,6 +2838,48 @@
     }
   },
   {
+    "id": "nrsr:person:668",
+    "given_name": "Stanislav",
+    "family_name": "Kubánek",
+    "name": "Stanislav Kubánek",
+    "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=668&ImageWidth=140",
+    "identifiers": [
+      {
+        "scheme": "nrsr",
+        "identifier": "668"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.nrsr.sk/web/Default.aspx?sid=poslanci/poslanec&PoslanecID=668"
+      }
+    ],
+    "memberships": {
+      "parliament": [
+        {
+          "id": "nrsr:org:13",
+          "name": "Národná rada Slovenskej republiky",
+          "start_date": "2023-10-25",
+          "end_date": ""
+        }
+      ],
+      "groups": [
+        {
+          "id": "nrsr:org:club:5",
+          "name": "Klub SMER - sociálna demokracia",
+          "start_date": "2023-11-14",
+          "end_date": "2026-10-15"
+        },
+        {
+          "id": "nrsr:org:club:5",
+          "name": "Klub SMER - sociálna demokracia",
+          "start_date": "2026-10-15",
+          "end_date": ""
+        }
+      ]
+    }
+  },
+  {
     "id": "nrsr:person:671",
     "given_name": "Ján",
     "family_name": "Kvorka",
@@ -2663,6 +2915,48 @@
         {
           "id": "nrsr:org:club:5",
           "name": "Klub SMER - sociálna demokracia",
+          "start_date": "2026-10-15",
+          "end_date": ""
+        }
+      ]
+    }
+  },
+  {
+    "id": "nrsr:person:1189",
+    "given_name": "Marek",
+    "family_name": "Lackovič",
+    "name": "Marek Lackovič",
+    "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1189&ImageWidth=140",
+    "identifiers": [
+      {
+        "scheme": "nrsr",
+        "identifier": "1189"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.nrsr.sk/web/Default.aspx?sid=poslanci/poslanec&PoslanecID=1189"
+      }
+    ],
+    "memberships": {
+      "parliament": [
+        {
+          "id": "nrsr:org:13",
+          "name": "Národná rada Slovenskej republiky",
+          "start_date": "2023-10-25",
+          "end_date": ""
+        }
+      ],
+      "groups": [
+        {
+          "id": "nrsr:org:club:3",
+          "name": "Klub Progresívne Slovensko",
+          "start_date": "2023-11-14",
+          "end_date": "2026-10-15"
+        },
+        {
+          "id": "nrsr:org:club:3",
+          "name": "Klub Progresívne Slovensko",
           "start_date": "2026-10-15",
           "end_date": ""
         }
@@ -3162,6 +3456,48 @@
     }
   },
   {
+    "id": "nrsr:person:1042",
+    "given_name": "Vladimíra",
+    "family_name": "Marcinková",
+    "name": "Vladimíra Marcinková",
+    "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1042&ImageWidth=140",
+    "identifiers": [
+      {
+        "scheme": "nrsr",
+        "identifier": "1042"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.nrsr.sk/web/Default.aspx?sid=poslanci/poslanec&PoslanecID=1042"
+      }
+    ],
+    "memberships": {
+      "parliament": [
+        {
+          "id": "nrsr:org:13",
+          "name": "Národná rada Slovenskej republiky",
+          "start_date": "2023-10-25",
+          "end_date": ""
+        }
+      ],
+      "groups": [
+        {
+          "id": "nrsr:org:club:6",
+          "name": "Klub Sloboda a Solidarita",
+          "start_date": "2023-11-14",
+          "end_date": "2026-10-15"
+        },
+        {
+          "id": "nrsr:org:club:6",
+          "name": "Klub Sloboda a Solidarita",
+          "start_date": "2026-10-15",
+          "end_date": ""
+        }
+      ]
+    }
+  },
+  {
     "id": "nrsr:person:1159",
     "given_name": "Zuzana",
     "family_name": "Matejičková",
@@ -3198,6 +3534,48 @@
           "id": "nrsr:org:club:5",
           "name": "Klub SMER - sociálna demokracia",
           "start_date": "2026-10-15",
+          "end_date": ""
+        }
+      ]
+    }
+  },
+  {
+    "id": "nrsr:person:808",
+    "given_name": "Igor",
+    "family_name": "Matovič",
+    "name": "Igor Matovič",
+    "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=808&ImageWidth=140",
+    "identifiers": [
+      {
+        "scheme": "nrsr",
+        "identifier": "808"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.nrsr.sk/web/Default.aspx?sid=poslanci/poslanec&PoslanecID=808"
+      }
+    ],
+    "memberships": {
+      "parliament": [
+        {
+          "id": "nrsr:org:13",
+          "name": "Národná rada Slovenskej republiky",
+          "start_date": "2023-10-25",
+          "end_date": ""
+        }
+      ],
+      "groups": [
+        {
+          "id": "nrsr:org:club:4",
+          "name": "Klub SLOVENSKO - ZA ĽUDÍ",
+          "start_date": "2023-11-14",
+          "end_date": "2026-09-17"
+        },
+        {
+          "id": "nrsr:org:club:4",
+          "name": "Klub SLOVENSKO - ZA ĽUDÍ",
+          "start_date": "2026-09-23",
           "end_date": ""
         }
       ]
@@ -3498,6 +3876,48 @@
     }
   },
   {
+    "id": "nrsr:person:899",
+    "given_name": "Peter",
+    "family_name": "Náhlik",
+    "name": "Peter Náhlik",
+    "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=899&ImageWidth=140",
+    "identifiers": [
+      {
+        "scheme": "nrsr",
+        "identifier": "899"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.nrsr.sk/web/Default.aspx?sid=poslanci/poslanec&PoslanecID=899"
+      }
+    ],
+    "memberships": {
+      "parliament": [
+        {
+          "id": "nrsr:org:13",
+          "name": "Národná rada Slovenskej republiky",
+          "start_date": "2023-10-25",
+          "end_date": ""
+        }
+      ],
+      "groups": [
+        {
+          "id": "nrsr:org:club:1",
+          "name": "Klub HLAS - sociálna demokracia",
+          "start_date": "2023-11-14",
+          "end_date": "2026-10-15"
+        },
+        {
+          "id": "nrsr:org:club:1",
+          "name": "Klub HLAS - sociálna demokracia",
+          "start_date": "2026-10-15",
+          "end_date": ""
+        }
+      ]
+    }
+  },
+  {
     "id": "nrsr:person:1212",
     "given_name": "Natália",
     "family_name": "Nash",
@@ -3612,6 +4032,48 @@
           "id": "nrsr:org:club:2",
           "name": "Klub KDH",
           "start_date": "2026-04-16",
+          "end_date": ""
+        }
+      ]
+    }
+  },
+  {
+    "id": "nrsr:person:962",
+    "given_name": "Simona",
+    "family_name": "Petrík",
+    "name": "Simona Petrík",
+    "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=962&ImageWidth=140",
+    "identifiers": [
+      {
+        "scheme": "nrsr",
+        "identifier": "962"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.nrsr.sk/web/Default.aspx?sid=poslanci/poslanec&PoslanecID=962"
+      }
+    ],
+    "memberships": {
+      "parliament": [
+        {
+          "id": "nrsr:org:13",
+          "name": "Národná rada Slovenskej republiky",
+          "start_date": "2023-10-25",
+          "end_date": ""
+        }
+      ],
+      "groups": [
+        {
+          "id": "nrsr:org:club:3",
+          "name": "Klub Progresívne Slovensko",
+          "start_date": "2023-11-14",
+          "end_date": "2026-10-15"
+        },
+        {
+          "id": "nrsr:org:club:3",
+          "name": "Klub Progresívne Slovensko",
+          "start_date": "2026-10-15",
           "end_date": ""
         }
       ]
