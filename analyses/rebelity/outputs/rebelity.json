@@ -4,12 +4,12 @@
     "rebelity_total": 7,
     "rebelity_possible": 3674,
     "rebelity": 0.001905,
-    "name": "Martina Holečková",
+    "name": "403 403",
     "given_names": [
-      "Martina"
+      "403"
     ],
     "family_names": [
-      "Holečková"
+      "403"
     ],
     "organizations": [
       {
@@ -23,14 +23,7 @@
         "id": "nrsr:org:club:6",
         "classification": "group",
         "name": "Klub Sloboda a Solidarita",
-        "since": "2025-01-21",
-        "until": "2026-10-15"
-      },
-      {
-        "id": "nrsr:org:club:6",
-        "classification": "group",
-        "name": "Klub Sloboda a Solidarita",
-        "since": "2026-10-15"
+        "since": "2025-01-21"
       }
     ],
     "since": "2023-10-25",
@@ -43,26 +36,19 @@
     "rebelity_total": 9,
     "rebelity_possible": 4595,
     "rebelity": 0.001959,
-    "name": "Vladimír Baláž",
+    "name": "403 403",
     "given_names": [
-      "Vladimír"
+      "403"
     ],
     "family_names": [
-      "Baláž"
+      "403"
     ],
     "organizations": [
       {
         "id": "nrsr:org:club:5",
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
-        "since": "2023-11-14",
-        "until": "2026-10-15"
-      },
-      {
-        "id": "nrsr:org:club:5",
-        "classification": "group",
-        "name": "Klub SMER - sociálna demokracia",
-        "since": "2026-10-15"
+        "since": "2023-11-14"
       }
     ],
     "since": "2023-10-25",
@@ -71,62 +57,23 @@
     }
   },
   {
-    "person_id": "nrsr:person:1207",
-    "rebelity_total": 3,
-    "rebelity_possible": 4597,
-    "rebelity": 0.000653,
-    "name": "Michal Bartek",
-    "given_names": [
-      "Michal"
-    ],
-    "family_names": [
-      "Bartek"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:1",
-        "classification": "group",
-        "name": "Klub HLAS - sociálna demokracia",
-        "since": "2023-11-14",
-        "until": "2026-10-15"
-      },
-      {
-        "id": "nrsr:org:club:1",
-        "classification": "group",
-        "name": "Klub HLAS - sociálna demokracia",
-        "since": "2026-10-15"
-      }
-    ],
-    "since": "2023-10-25",
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1207&ImageWidth=140"
-    }
-  },
-  {
     "person_id": "nrsr:person:233",
     "rebelity_total": 5,
     "rebelity_possible": 4595,
     "rebelity": 0.001088,
-    "name": "Jaroslav Baška",
+    "name": "403 403",
     "given_names": [
-      "Jaroslav"
+      "403"
     ],
     "family_names": [
-      "Baška"
+      "403"
     ],
     "organizations": [
       {
         "id": "nrsr:org:club:5",
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
-        "since": "2023-11-14",
-        "until": "2026-10-15"
-      },
-      {
-        "id": "nrsr:org:club:5",
-        "classification": "group",
-        "name": "Klub SMER - sociálna demokracia",
-        "since": "2026-10-15"
+        "since": "2023-11-14"
       }
     ],
     "since": "2023-10-25",
@@ -137,28 +84,21 @@
   {
     "person_id": "nrsr:person:1187",
     "rebelity_total": 2,
-    "rebelity_possible": 4597,
-    "rebelity": 0.000435,
-    "name": "Branislav Becík",
+    "rebelity_possible": 4607,
+    "rebelity": 0.000434,
+    "name": "403 403",
     "given_names": [
-      "Branislav"
+      "403"
     ],
     "family_names": [
-      "Becík"
+      "403"
     ],
     "organizations": [
       {
         "id": "nrsr:org:club:1",
         "classification": "group",
         "name": "Klub HLAS - sociálna demokracia",
-        "since": "2023-11-14",
-        "until": "2026-10-15"
-      },
-      {
-        "id": "nrsr:org:club:1",
-        "classification": "group",
-        "name": "Klub HLAS - sociálna demokracia",
-        "since": "2026-10-15"
+        "since": "2023-11-14"
       }
     ],
     "since": "2023-10-25",
@@ -171,26 +111,19 @@
     "rebelity_total": 5,
     "rebelity_possible": 4371,
     "rebelity": 0.001144,
-    "name": "Irena Bihariová",
+    "name": "403 403",
     "given_names": [
-      "Irena"
+      "403"
     ],
     "family_names": [
-      "Bihariová"
+      "403"
     ],
     "organizations": [
       {
         "id": "nrsr:org:club:3",
         "classification": "group",
         "name": "Klub Progresívne Slovensko",
-        "since": "2023-11-14",
-        "until": "2026-10-15"
-      },
-      {
-        "id": "nrsr:org:club:3",
-        "classification": "group",
-        "name": "Klub Progresívne Slovensko",
-        "since": "2026-10-15"
+        "since": "2023-11-14"
       }
     ],
     "since": "2023-10-25",
@@ -200,29 +133,22 @@
   },
   {
     "person_id": "nrsr:person:976",
-    "rebelity_total": 113,
-    "rebelity_possible": 4293,
-    "rebelity": 0.026322,
-    "name": "Jana Cigániková",
+    "rebelity_total": 75,
+    "rebelity_possible": 4400,
+    "rebelity": 0.017045,
+    "name": "403 403",
     "given_names": [
-      "Jana"
+      "403"
     ],
     "family_names": [
-      "Cigániková"
+      "403"
     ],
     "organizations": [
       {
         "id": "nrsr:org:club:6",
         "classification": "group",
         "name": "Klub Sloboda a Solidarita",
-        "since": "2023-11-14",
-        "until": "2026-04-24"
-      },
-      {
-        "id": "nrsr:org:nezavisli",
-        "classification": "group",
-        "name": "Nezávislí",
-        "since": "2026-04-24"
+        "since": "2023-11-14"
       }
     ],
     "since": "2023-10-25",
@@ -231,30 +157,65 @@
     }
   },
   {
-    "person_id": "nrsr:person:997",
-    "rebelity_total": 2,
-    "rebelity_possible": 4597,
-    "rebelity": 0.000435,
-    "name": "Ján Blcháč",
+    "person_id": "nrsr:person:885",
+    "rebelity_total": 0,
+    "rebelity_possible": 4595,
+    "rebelity": 0.0,
+    "name": "403 403",
     "given_names": [
-      "Ján"
+      "403"
     ],
     "family_names": [
-      "Blcháč"
+      "403"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:5",
+        "classification": "group",
+        "name": "Klub SMER - sociálna demokracia",
+        "since": "2023-11-14"
+      }
+    ],
+    "since": "2023-10-25",
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=885&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:238",
+    "rebelity_total": 0,
+    "rebelity_possible": 0,
+    "rebelity": null,
+    "name": "403 403",
+    "given_names": [
+      "403"
+    ],
+    "family_names": [
+      "403"
+    ],
+    "since": "2023-10-25",
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=238&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:997",
+    "rebelity_total": 2,
+    "rebelity_possible": 4607,
+    "rebelity": 0.000434,
+    "name": "403 403",
+    "given_names": [
+      "403"
+    ],
+    "family_names": [
+      "403"
     ],
     "organizations": [
       {
         "id": "nrsr:org:club:1",
         "classification": "group",
         "name": "Klub HLAS - sociálna demokracia",
-        "since": "2023-11-14",
-        "until": "2026-10-15"
-      },
-      {
-        "id": "nrsr:org:club:1",
-        "classification": "group",
-        "name": "Klub HLAS - sociálna demokracia",
-        "since": "2026-10-15"
+        "since": "2023-11-14"
       }
     ],
     "since": "2023-10-25",
@@ -265,14 +226,14 @@
   {
     "person_id": "nrsr:person:1144",
     "rebelity_total": 23,
-    "rebelity_possible": 4397,
-    "rebelity": 0.005231,
-    "name": "Lukáš Bužo",
+    "rebelity_possible": 4414,
+    "rebelity": 0.005211,
+    "name": "403 403",
     "given_names": [
-      "Lukáš"
+      "403"
     ],
     "family_names": [
-      "Bužo"
+      "403"
     ],
     "organizations": [
       {
@@ -295,48 +256,16 @@
     }
   },
   {
-    "person_id": "nrsr:person:1195",
-    "rebelity_total": 3,
-    "rebelity_possible": 4597,
-    "rebelity": 0.000653,
-    "name": "Jozef Cech",
-    "given_names": [
-      "Jozef"
-    ],
-    "family_names": [
-      "Cech"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:1",
-        "classification": "group",
-        "name": "Klub HLAS - sociálna demokracia",
-        "since": "2023-11-14",
-        "until": "2026-10-15"
-      },
-      {
-        "id": "nrsr:org:club:1",
-        "classification": "group",
-        "name": "Klub HLAS - sociálna demokracia",
-        "since": "2026-10-15"
-      }
-    ],
-    "since": "2023-10-25",
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1195&ImageWidth=140"
-    }
-  },
-  {
     "person_id": "nrsr:person:1179",
     "rebelity_total": 5,
     "rebelity_possible": 4270,
     "rebelity": 0.001171,
-    "name": "Marián Čaučík",
+    "name": "403 403",
     "given_names": [
-      "Marián"
+      "403"
     ],
     "family_names": [
-      "Čaučík"
+      "403"
     ],
     "organizations": [
       {
@@ -356,26 +285,19 @@
     "rebelity_total": 8,
     "rebelity_possible": 4595,
     "rebelity": 0.001741,
-    "name": "Marcela Čavojová",
+    "name": "403 403",
     "given_names": [
-      "Marcela"
+      "403"
     ],
     "family_names": [
-      "Čavojová"
+      "403"
     ],
     "organizations": [
       {
         "id": "nrsr:org:club:5",
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
-        "since": "2023-11-14",
-        "until": "2026-10-15"
-      },
-      {
-        "id": "nrsr:org:club:5",
-        "classification": "group",
-        "name": "Klub SMER - sociálna demokracia",
-        "since": "2026-10-15"
+        "since": "2023-11-14"
       }
     ],
     "since": "2023-10-25",
@@ -384,62 +306,23 @@
     }
   },
   {
-    "person_id": "nrsr:person:1203",
-    "rebelity_total": 8,
-    "rebelity_possible": 4597,
-    "rebelity": 0.00174,
-    "name": "Miroslav Čellár",
-    "given_names": [
-      "Miroslav"
-    ],
-    "family_names": [
-      "Čellár"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:1",
-        "classification": "group",
-        "name": "Klub HLAS - sociálna demokracia",
-        "since": "2023-11-14",
-        "until": "2026-10-15"
-      },
-      {
-        "id": "nrsr:org:club:1",
-        "classification": "group",
-        "name": "Klub HLAS - sociálna demokracia",
-        "since": "2026-10-15"
-      }
-    ],
-    "since": "2023-10-25",
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1203&ImageWidth=140"
-    }
-  },
-  {
     "person_id": "nrsr:person:929",
     "rebelity_total": 10,
-    "rebelity_possible": 4593,
+    "rebelity_possible": 4594,
     "rebelity": 0.002177,
-    "name": "Andrej Danko",
+    "name": "403 403",
     "given_names": [
-      "Andrej"
+      "403"
     ],
     "family_names": [
-      "Danko"
+      "403"
     ],
     "organizations": [
       {
         "id": "nrsr:org:club:7",
         "classification": "group",
         "name": "Klub Slovenská národná strana",
-        "since": "2023-11-14",
-        "until": "2026-10-15"
-      },
-      {
-        "id": "nrsr:org:club:7",
-        "classification": "group",
-        "name": "Klub Slovenská národná strana",
-        "since": "2026-10-15"
+        "since": "2023-11-14"
       }
     ],
     "since": "2023-10-25",
@@ -452,26 +335,19 @@
     "rebelity_total": 1,
     "rebelity_possible": 4371,
     "rebelity": 0.000229,
-    "name": "Dávid Dej",
+    "name": "403 403",
     "given_names": [
-      "Dávid"
+      "403"
     ],
     "family_names": [
-      "Dej"
+      "403"
     ],
     "organizations": [
       {
         "id": "nrsr:org:club:3",
         "classification": "group",
         "name": "Klub Progresívne Slovensko",
-        "since": "2023-11-14",
-        "until": "2026-10-15"
-      },
-      {
-        "id": "nrsr:org:club:3",
-        "classification": "group",
-        "name": "Klub Progresívne Slovensko",
-        "since": "2026-10-15"
+        "since": "2023-11-14"
       }
     ],
     "since": "2023-10-25",
@@ -480,35 +356,20 @@
     }
   },
   {
-    "person_id": "nrsr:person:1216",
-    "rebelity_total": 2,
-    "rebelity_possible": 3735,
-    "rebelity": 0.000535,
-    "name": "Dávid Demečko",
+    "person_id": "nrsr:person:1168",
+    "rebelity_total": 0,
+    "rebelity_possible": 0,
+    "rebelity": null,
+    "name": "403 403",
     "given_names": [
-      "Dávid"
+      "403"
     ],
     "family_names": [
-      "Demečko"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:1",
-        "classification": "group",
-        "name": "Klub HLAS - sociálna demokracia",
-        "since": "2024-04-18",
-        "until": "2026-10-15"
-      },
-      {
-        "id": "nrsr:org:club:1",
-        "classification": "group",
-        "name": "Klub HLAS - sociálna demokracia",
-        "since": "2026-10-15"
-      }
+      "403"
     ],
     "since": "2023-10-25",
     "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1216&ImageWidth=140"
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1168&ImageWidth=140"
     }
   },
   {
@@ -516,26 +377,19 @@
     "rebelity_total": 51,
     "rebelity_possible": 4400,
     "rebelity": 0.011591,
-    "name": "Ondrej Dostál",
+    "name": "403 403",
     "given_names": [
-      "Ondrej"
+      "403"
     ],
     "family_names": [
-      "Dostál"
+      "403"
     ],
     "organizations": [
       {
         "id": "nrsr:org:club:6",
         "classification": "group",
         "name": "Klub Sloboda a Solidarita",
-        "since": "2023-11-14",
-        "until": "2026-10-15"
-      },
-      {
-        "id": "nrsr:org:club:6",
-        "classification": "group",
-        "name": "Klub Sloboda a Solidarita",
-        "since": "2026-10-15"
+        "since": "2023-11-14"
       }
     ],
     "since": "2023-10-25",
@@ -544,30 +398,40 @@
     }
   },
   {
+    "person_id": "nrsr:person:1164",
+    "rebelity_total": 0,
+    "rebelity_possible": 0,
+    "rebelity": null,
+    "name": "403 403",
+    "given_names": [
+      "403"
+    ],
+    "family_names": [
+      "403"
+    ],
+    "since": "2023-10-25",
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1164&ImageWidth=140"
+    }
+  },
+  {
     "person_id": "nrsr:person:1133",
     "rebelity_total": 4,
     "rebelity_possible": 4371,
     "rebelity": 0.000915,
-    "name": "Martin Dubéci",
+    "name": "403 403",
     "given_names": [
-      "Martin"
+      "403"
     ],
     "family_names": [
-      "Dubéci"
+      "403"
     ],
     "organizations": [
       {
         "id": "nrsr:org:club:3",
         "classification": "group",
         "name": "Klub Progresívne Slovensko",
-        "since": "2023-11-14",
-        "until": "2026-10-15"
-      },
-      {
-        "id": "nrsr:org:club:3",
-        "classification": "group",
-        "name": "Klub Progresívne Slovensko",
-        "since": "2026-10-15"
+        "since": "2023-11-14"
       }
     ],
     "since": "2023-10-25",
@@ -576,94 +440,23 @@
     }
   },
   {
-    "person_id": "nrsr:person:1213",
-    "rebelity_total": 3,
-    "rebelity_possible": 4190,
-    "rebelity": 0.000716,
-    "name": "Richard Dubovický",
-    "given_names": [
-      "Richard"
-    ],
-    "family_names": [
-      "Dubovický"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:3",
-        "classification": "group",
-        "name": "Klub Progresívne Slovensko",
-        "since": "2024-02-08",
-        "until": "2026-10-15"
-      },
-      {
-        "id": "nrsr:org:club:3",
-        "classification": "group",
-        "name": "Klub Progresívne Slovensko",
-        "since": "2026-10-15"
-      }
-    ],
-    "since": "2023-10-25",
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1213&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:1221",
-    "rebelity_total": 2,
-    "rebelity_possible": 1683,
-    "rebelity": 0.001188,
-    "name": "Igor Dušenka",
-    "given_names": [
-      "Igor"
-    ],
-    "family_names": [
-      "Dušenka"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:4",
-        "classification": "group",
-        "name": "Klub SLOVENSKO - ZA ĽUDÍ",
-        "since": "2025-09-09",
-        "until": "2026-09-17"
-      },
-      {
-        "id": "nrsr:org:club:4",
-        "classification": "group",
-        "name": "Klub SLOVENSKO - ZA ĽUDÍ",
-        "since": "2026-09-23"
-      }
-    ],
-    "since": "2023-10-25",
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1221&ImageWidth=140"
-    }
-  },
-  {
     "person_id": "nrsr:person:1123",
     "rebelity_total": 5,
     "rebelity_possible": 4371,
     "rebelity": 0.001144,
-    "name": "Oskar Dvořák",
+    "name": "403 403",
     "given_names": [
-      "Oskar"
+      "403"
     ],
     "family_names": [
-      "Dvořák"
+      "403"
     ],
     "organizations": [
       {
         "id": "nrsr:org:club:3",
         "classification": "group",
         "name": "Klub Progresívne Slovensko",
-        "since": "2023-11-14",
-        "until": "2026-10-15"
-      },
-      {
-        "id": "nrsr:org:club:3",
-        "classification": "group",
-        "name": "Klub Progresívne Slovensko",
-        "since": "2026-10-15"
+        "since": "2023-11-14"
       }
     ],
     "since": "2023-10-25",
@@ -674,28 +467,21 @@
   {
     "person_id": "nrsr:person:1172",
     "rebelity_total": 4,
-    "rebelity_possible": 4597,
-    "rebelity": 0.00087,
-    "name": "Richard Eliáš",
+    "rebelity_possible": 4607,
+    "rebelity": 0.000868,
+    "name": "403 403",
     "given_names": [
-      "Richard"
+      "403"
     ],
     "family_names": [
-      "Eliáš"
+      "403"
     ],
     "organizations": [
       {
         "id": "nrsr:org:club:1",
         "classification": "group",
         "name": "Klub HLAS - sociálna demokracia",
-        "since": "2023-11-14",
-        "until": "2026-10-15"
-      },
-      {
-        "id": "nrsr:org:club:1",
-        "classification": "group",
-        "name": "Klub HLAS - sociálna demokracia",
-        "since": "2026-10-15"
+        "since": "2023-11-14"
       }
     ],
     "since": "2023-10-25",
@@ -708,26 +494,19 @@
     "rebelity_total": 9,
     "rebelity_possible": 4595,
     "rebelity": 0.001959,
-    "name": "Vladimír Faič",
+    "name": "403 403",
     "given_names": [
-      "Vladimír"
+      "403"
     ],
     "family_names": [
-      "Faič"
+      "403"
     ],
     "organizations": [
       {
         "id": "nrsr:org:club:5",
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
-        "since": "2023-11-14",
-        "until": "2026-10-15"
-      },
-      {
-        "id": "nrsr:org:club:5",
-        "classification": "group",
-        "name": "Klub SMER - sociálna demokracia",
-        "since": "2026-10-15"
+        "since": "2023-11-14"
       }
     ],
     "since": "2023-10-25",
@@ -736,62 +515,23 @@
     }
   },
   {
-    "person_id": "nrsr:person:931",
-    "rebelity_total": 8,
-    "rebelity_possible": 4593,
-    "rebelity": 0.001742,
-    "name": "Karol Farkašovský",
-    "given_names": [
-      "Karol"
-    ],
-    "family_names": [
-      "Farkašovský"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:7",
-        "classification": "group",
-        "name": "Klub Slovenská národná strana",
-        "since": "2023-11-14",
-        "until": "2026-10-15"
-      },
-      {
-        "id": "nrsr:org:club:7",
-        "classification": "group",
-        "name": "Klub Slovenská národná strana",
-        "since": "2026-10-15"
-      }
-    ],
-    "since": "2023-10-25",
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=931&ImageWidth=140"
-    }
-  },
-  {
     "person_id": "nrsr:person:1008",
-    "rebelity_total": 71,
-    "rebelity_possible": 4431,
-    "rebelity": 0.016023,
-    "name": "Ján Ferenčák",
+    "rebelity_total": 154,
+    "rebelity_possible": 4607,
+    "rebelity": 0.033427,
+    "name": "403 403",
     "given_names": [
-      "Ján"
+      "403"
     ],
     "family_names": [
-      "Ferenčák"
+      "403"
     ],
     "organizations": [
       {
         "id": "nrsr:org:club:1",
         "classification": "group",
         "name": "Klub HLAS - sociálna demokracia",
-        "since": "2023-11-14",
-        "until": "2025-12-11"
-      },
-      {
-        "id": "nrsr:org:nezavisli",
-        "classification": "group",
-        "name": "Nezávislí",
-        "since": "2025-12-11"
+        "since": "2023-11-14"
       }
     ],
     "since": "2023-10-25",
@@ -800,35 +540,20 @@
     }
   },
   {
-    "person_id": "nrsr:person:966",
-    "rebelity_total": 7,
-    "rebelity_possible": 3183,
-    "rebelity": 0.002199,
-    "name": "Karol Galek",
+    "person_id": "nrsr:person:40",
+    "rebelity_total": 0,
+    "rebelity_possible": 0,
+    "rebelity": null,
+    "name": "403 403",
     "given_names": [
-      "Karol"
+      "403"
     ],
     "family_names": [
-      "Galek"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:6",
-        "classification": "group",
-        "name": "Klub Sloboda a Solidarita",
-        "since": "2024-09-10",
-        "until": "2026-10-15"
-      },
-      {
-        "id": "nrsr:org:club:6",
-        "classification": "group",
-        "name": "Klub Sloboda a Solidarita",
-        "since": "2026-10-15"
-      }
+      "403"
     ],
     "since": "2023-10-25",
     "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=966&ImageWidth=140"
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=40&ImageWidth=140"
     }
   },
   {
@@ -836,26 +561,19 @@
     "rebelity_total": 8,
     "rebelity_possible": 4595,
     "rebelity": 0.001741,
-    "name": "Dušan Galis",
+    "name": "403 403",
     "given_names": [
-      "Dušan"
+      "403"
     ],
     "family_names": [
-      "Galis"
+      "403"
     ],
     "organizations": [
       {
         "id": "nrsr:org:club:5",
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
-        "since": "2023-11-14",
-        "until": "2026-10-15"
-      },
-      {
-        "id": "nrsr:org:club:5",
-        "classification": "group",
-        "name": "Klub SMER - sociálna demokracia",
-        "since": "2026-10-15"
+        "since": "2023-11-14"
       }
     ],
     "since": "2023-10-25",
@@ -865,29 +583,22 @@
   },
   {
     "person_id": "nrsr:person:785",
-    "rebelity_total": 940,
-    "rebelity_possible": 4196,
-    "rebelity": 0.224023,
-    "name": "Ľubomír Galko",
+    "rebelity_total": 92,
+    "rebelity_possible": 4414,
+    "rebelity": 0.020843,
+    "name": "403 403",
     "given_names": [
-      "Ľubomír"
+      "403"
     ],
     "family_names": [
-      "Galko"
+      "403"
     ],
     "organizations": [
       {
         "id": "nrsr:org:club:4",
         "classification": "group",
         "name": "Klub SLOVENSKO - ZA ĽUDÍ",
-        "since": "2023-11-14",
-        "until": "2024-08-21"
-      },
-      {
-        "id": "nrsr:org:nezavisli",
-        "classification": "group",
-        "name": "Nezávislí",
-        "since": "2024-08-21"
+        "since": "2023-11-14"
       }
     ],
     "since": "2023-10-25",
@@ -900,26 +611,19 @@
     "rebelity_total": 2,
     "rebelity_possible": 4595,
     "rebelity": 0.000435,
-    "name": "Tibor Gašpar",
+    "name": "403 403",
     "given_names": [
-      "Tibor"
+      "403"
     ],
     "family_names": [
-      "Gašpar"
+      "403"
     ],
     "organizations": [
       {
         "id": "nrsr:org:club:5",
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
-        "since": "2023-11-14",
-        "until": "2026-10-15"
-      },
-      {
-        "id": "nrsr:org:club:5",
-        "classification": "group",
-        "name": "Klub SMER - sociálna demokracia",
-        "since": "2026-10-15"
+        "since": "2023-11-14"
       }
     ],
     "since": "2023-10-25",
@@ -928,62 +632,23 @@
     }
   },
   {
-    "person_id": "nrsr:person:892",
-    "rebelity_total": 1,
-    "rebelity_possible": 4597,
-    "rebelity": 0.000218,
-    "name": "Štefan Gašparovič",
-    "given_names": [
-      "Štefan"
-    ],
-    "family_names": [
-      "Gašparovič"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:1",
-        "classification": "group",
-        "name": "Klub HLAS - sociálna demokracia",
-        "since": "2023-11-14",
-        "until": "2026-10-15"
-      },
-      {
-        "id": "nrsr:org:club:1",
-        "classification": "group",
-        "name": "Klub HLAS - sociálna demokracia",
-        "since": "2026-10-15"
-      }
-    ],
-    "since": "2023-10-25",
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=892&ImageWidth=140"
-    }
-  },
-  {
     "person_id": "nrsr:person:1126",
     "rebelity_total": 0,
     "rebelity_possible": 4371,
     "rebelity": 0.0,
-    "name": "Tina Gažovičová",
+    "name": "403 403",
     "given_names": [
-      "Tina"
+      "403"
     ],
     "family_names": [
-      "Gažovičová"
+      "403"
     ],
     "organizations": [
       {
         "id": "nrsr:org:club:3",
         "classification": "group",
         "name": "Klub Progresívne Slovensko",
-        "since": "2023-11-14",
-        "until": "2026-10-15"
-      },
-      {
-        "id": "nrsr:org:club:3",
-        "classification": "group",
-        "name": "Klub Progresívne Slovensko",
-        "since": "2026-10-15"
+        "since": "2023-11-14"
       }
     ],
     "since": "2023-10-25",
@@ -992,112 +657,33 @@
     }
   },
   {
-    "person_id": "nrsr:person:1214",
-    "rebelity_total": 5,
-    "rebelity_possible": 4336,
-    "rebelity": 0.001153,
-    "name": "Richard Glück",
-    "given_names": [
-      "Richard"
-    ],
-    "family_names": [
-      "Glück"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:5",
-        "classification": "group",
-        "name": "Klub SMER - sociálna demokracia",
-        "since": "2024-02-08",
-        "until": "2026-10-15"
-      },
-      {
-        "id": "nrsr:org:club:5",
-        "classification": "group",
-        "name": "Klub SMER - sociálna demokracia",
-        "since": "2026-10-15"
-      }
-    ],
-    "since": "2023-10-25",
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1214&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:738",
+    "person_id": "nrsr:person:1155",
     "rebelity_total": 0,
-    "rebelity_possible": 4595,
-    "rebelity": 0.0,
-    "name": "Pavol Goga",
+    "rebelity_possible": 0,
+    "rebelity": null,
+    "name": "403 403",
     "given_names": [
-      "Pavol"
+      "403"
     ],
     "family_names": [
-      "Goga"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:5",
-        "classification": "group",
-        "name": "Klub SMER - sociálna demokracia",
-        "since": "2023-11-14",
-        "until": "2026-10-15"
-      },
-      {
-        "id": "nrsr:org:club:5",
-        "classification": "group",
-        "name": "Klub SMER - sociálna demokracia",
-        "since": "2026-10-15"
-      }
+      "403"
     ],
     "since": "2023-10-25",
     "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=738&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:1222",
-    "rebelity_total": 1,
-    "rebelity_possible": 1693,
-    "rebelity": 0.000591,
-    "name": "Gréta Gregorová",
-    "given_names": [
-      "Gréta"
-    ],
-    "family_names": [
-      "Gregorová"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:3",
-        "classification": "group",
-        "name": "Klub Progresívne Slovensko",
-        "since": "2025-09-09",
-        "until": "2026-10-15"
-      },
-      {
-        "id": "nrsr:org:club:3",
-        "classification": "group",
-        "name": "Klub Progresívne Slovensko",
-        "since": "2026-10-15"
-      }
-    ],
-    "since": "2023-10-25",
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1222&ImageWidth=140"
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1155&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:910",
     "rebelity_total": 17,
-    "rebelity_possible": 4397,
-    "rebelity": 0.003866,
-    "name": "Gábor Grendel",
+    "rebelity_possible": 4414,
+    "rebelity": 0.003851,
+    "name": "403 403",
     "given_names": [
-      "Gábor"
+      "403"
     ],
     "family_names": [
-      "Grendel"
+      "403"
     ],
     "organizations": [
       {
@@ -1124,26 +710,19 @@
     "rebelity_total": 3,
     "rebelity_possible": 4400,
     "rebelity": 0.000682,
-    "name": "Branislav Gröhling",
+    "name": "403 403",
     "given_names": [
-      "Branislav"
+      "403"
     ],
     "family_names": [
-      "Gröhling"
+      "403"
     ],
     "organizations": [
       {
         "id": "nrsr:org:club:6",
         "classification": "group",
         "name": "Klub Sloboda a Solidarita",
-        "since": "2023-11-14",
-        "until": "2026-10-15"
-      },
-      {
-        "id": "nrsr:org:club:6",
-        "classification": "group",
-        "name": "Klub Sloboda a Solidarita",
-        "since": "2026-10-15"
+        "since": "2023-11-14"
       }
     ],
     "since": "2023-10-25",
@@ -1156,26 +735,19 @@
     "rebelity_total": 3,
     "rebelity_possible": 4595,
     "rebelity": 0.000653,
-    "name": "Jozef Habánik",
+    "name": "403 403",
     "given_names": [
-      "Jozef"
+      "403"
     ],
     "family_names": [
-      "Habánik"
+      "403"
     ],
     "organizations": [
       {
         "id": "nrsr:org:club:5",
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
-        "since": "2023-11-14",
-        "until": "2026-10-15"
-      },
-      {
-        "id": "nrsr:org:club:5",
-        "classification": "group",
-        "name": "Klub SMER - sociálna demokracia",
-        "since": "2026-10-15"
+        "since": "2023-11-14"
       }
     ],
     "since": "2023-10-25",
@@ -1184,30 +756,48 @@
     }
   },
   {
+    "person_id": "nrsr:person:1181",
+    "rebelity_total": 4,
+    "rebelity_possible": 4270,
+    "rebelity": 0.000937,
+    "name": "403 403",
+    "given_names": [
+      "403"
+    ],
+    "family_names": [
+      "403"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:2",
+        "classification": "group",
+        "name": "Klub KDH",
+        "since": "2023-11-14"
+      }
+    ],
+    "since": "2023-10-25",
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1181&ImageWidth=140"
+    }
+  },
+  {
     "person_id": "nrsr:person:874",
     "rebelity_total": 3,
     "rebelity_possible": 4595,
     "rebelity": 0.000653,
-    "name": "Augustín Hambálek",
+    "name": "403 403",
     "given_names": [
-      "Augustín"
+      "403"
     ],
     "family_names": [
-      "Hambálek"
+      "403"
     ],
     "organizations": [
       {
         "id": "nrsr:org:club:5",
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
-        "since": "2023-11-14",
-        "until": "2026-10-15"
-      },
-      {
-        "id": "nrsr:org:club:5",
-        "classification": "group",
-        "name": "Klub SMER - sociálna demokracia",
-        "since": "2026-10-15"
+        "since": "2023-11-14"
       }
     ],
     "since": "2023-10-25",
@@ -1220,26 +810,19 @@
     "rebelity_total": 1,
     "rebelity_possible": 4371,
     "rebelity": 0.000229,
-    "name": "Jana Hanuliaková",
+    "name": "403 403",
     "given_names": [
-      "Jana"
+      "403"
     ],
     "family_names": [
-      "Hanuliaková"
+      "403"
     ],
     "organizations": [
       {
         "id": "nrsr:org:club:3",
         "classification": "group",
         "name": "Klub Progresívne Slovensko",
-        "since": "2023-11-14",
-        "until": "2026-10-15"
-      },
-      {
-        "id": "nrsr:org:club:3",
-        "classification": "group",
-        "name": "Klub Progresívne Slovensko",
-        "since": "2026-10-15"
+        "since": "2023-11-14"
       }
     ],
     "since": "2023-10-25",
@@ -1252,26 +835,19 @@
     "rebelity_total": 3,
     "rebelity_possible": 4371,
     "rebelity": 0.000686,
-    "name": "Ján Hargaš",
+    "name": "403 403",
     "given_names": [
-      "Ján"
+      "403"
     ],
     "family_names": [
-      "Hargaš"
+      "403"
     ],
     "organizations": [
       {
         "id": "nrsr:org:club:3",
         "classification": "group",
         "name": "Klub Progresívne Slovensko",
-        "since": "2023-11-14",
-        "until": "2026-10-15"
-      },
-      {
-        "id": "nrsr:org:club:3",
-        "classification": "group",
-        "name": "Klub Progresívne Slovensko",
-        "since": "2026-10-15"
+        "since": "2023-11-14"
       }
     ],
     "since": "2023-10-25",
@@ -1280,35 +856,28 @@
     }
   },
   {
-    "person_id": "nrsr:person:1192",
-    "rebelity_total": 5,
-    "rebelity_possible": 4595,
-    "rebelity": 0.001088,
-    "name": "Ivan Hazucha",
+    "person_id": "nrsr:person:1136",
+    "rebelity_total": 0,
+    "rebelity_possible": 4371,
+    "rebelity": 0.0,
+    "name": "403 403",
     "given_names": [
-      "Ivan"
+      "403"
     ],
     "family_names": [
-      "Hazucha"
+      "403"
     ],
     "organizations": [
       {
-        "id": "nrsr:org:club:5",
+        "id": "nrsr:org:club:3",
         "classification": "group",
-        "name": "Klub SMER - sociálna demokracia",
-        "since": "2023-11-14",
-        "until": "2026-10-15"
-      },
-      {
-        "id": "nrsr:org:club:5",
-        "classification": "group",
-        "name": "Klub SMER - sociálna demokracia",
-        "since": "2026-10-15"
+        "name": "Klub Progresívne Slovensko",
+        "since": "2023-11-14"
       }
     ],
     "since": "2023-10-25",
     "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1192&ImageWidth=140"
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1136&ImageWidth=140"
     }
   },
   {
@@ -1316,26 +885,19 @@
     "rebelity_total": 14,
     "rebelity_possible": 4400,
     "rebelity": 0.003182,
-    "name": "Alojz Hlina",
+    "name": "403 403",
     "given_names": [
-      "Alojz"
+      "403"
     ],
     "family_names": [
-      "Hlina"
+      "403"
     ],
     "organizations": [
       {
         "id": "nrsr:org:club:6",
         "classification": "group",
         "name": "Klub Sloboda a Solidarita",
-        "since": "2023-11-14",
-        "until": "2026-10-15"
-      },
-      {
-        "id": "nrsr:org:club:6",
-        "classification": "group",
-        "name": "Klub Sloboda a Solidarita",
-        "since": "2026-10-15"
+        "since": "2023-11-14"
       }
     ],
     "since": "2023-10-25",
@@ -1348,12 +910,12 @@
     "rebelity_total": 3,
     "rebelity_possible": 4270,
     "rebelity": 0.000703,
-    "name": "Ján Horecký",
+    "name": "403 403",
     "given_names": [
-      "Ján"
+      "403"
     ],
     "family_names": [
-      "Horecký"
+      "403"
     ],
     "organizations": [
       {
@@ -1369,80 +931,58 @@
     }
   },
   {
-    "person_id": "nrsr:person:1219",
-    "rebelity_total": 3,
-    "rebelity_possible": 3244,
-    "rebelity": 0.000925,
-    "name": "Ján Horváth",
+    "person_id": "nrsr:person:1148",
+    "rebelity_total": 1,
+    "rebelity_possible": 4594,
+    "rebelity": 0.000218,
+    "name": "403 403",
     "given_names": [
-      "Ján"
+      "403"
     ],
     "family_names": [
-      "Horváth"
+      "403"
     ],
     "organizations": [
       {
-        "id": "nrsr:org:club:5",
+        "id": "nrsr:org:club:7",
         "classification": "group",
-        "name": "Klub SMER - sociálna demokracia",
-        "since": "2024-07-15",
-        "until": "2026-10-15"
-      },
-      {
-        "id": "nrsr:org:club:5",
-        "classification": "group",
-        "name": "Klub SMER - sociálna demokracia",
-        "since": "2026-10-15"
+        "name": "Klub Slovenská národná strana",
+        "since": "2023-11-14"
       }
     ],
     "since": "2023-10-25",
     "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1219&ImageWidth=140"
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1148&ImageWidth=140"
     }
   },
   {
-    "person_id": "nrsr:person:1202",
+    "person_id": "nrsr:person:790",
     "rebelity_total": 0,
-    "rebelity_possible": 2422,
-    "rebelity": 0.0,
-    "name": "Ján Hrubý",
+    "rebelity_possible": 0,
+    "rebelity": null,
+    "name": "403 403",
     "given_names": [
-      "Ján"
+      "403"
     ],
     "family_names": [
-      "Hrubý"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:1",
-        "classification": "group",
-        "name": "Klub HLAS - sociálna demokracia",
-        "since": "2025-03-25",
-        "until": "2026-10-15"
-      },
-      {
-        "id": "nrsr:org:club:1",
-        "classification": "group",
-        "name": "Klub HLAS - sociálna demokracia",
-        "since": "2026-10-15"
-      }
+      "403"
     ],
     "since": "2023-10-25",
     "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1202&ImageWidth=140"
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=790&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1188",
     "rebelity_total": 2,
-    "rebelity_possible": 4397,
-    "rebelity": 0.000455,
-    "name": "Július Jakab",
+    "rebelity_possible": 4414,
+    "rebelity": 0.000453,
+    "name": "403 403",
     "given_names": [
-      "Július"
+      "403"
     ],
     "family_names": [
-      "Jakab"
+      "403"
     ],
     "organizations": [
       {
@@ -1467,28 +1007,21 @@
   {
     "person_id": "nrsr:person:1169",
     "rebelity_total": 3,
-    "rebelity_possible": 4597,
-    "rebelity": 0.000653,
-    "name": "Karol Janas",
+    "rebelity_possible": 4607,
+    "rebelity": 0.000651,
+    "name": "403 403",
     "given_names": [
-      "Karol"
+      "403"
     ],
     "family_names": [
-      "Janas"
+      "403"
     ],
     "organizations": [
       {
         "id": "nrsr:org:club:1",
         "classification": "group",
         "name": "Klub HLAS - sociálna demokracia",
-        "since": "2023-11-14",
-        "until": "2026-10-15"
-      },
-      {
-        "id": "nrsr:org:club:1",
-        "classification": "group",
-        "name": "Klub HLAS - sociálna demokracia",
-        "since": "2026-10-15"
+        "since": "2023-11-14"
       }
     ],
     "since": "2023-10-25",
@@ -1501,12 +1034,12 @@
     "rebelity_total": 7,
     "rebelity_possible": 4270,
     "rebelity": 0.001639,
-    "name": "Igor Janckulík",
+    "name": "403 403",
     "given_names": [
-      "Igor"
+      "403"
     ],
     "family_names": [
-      "Janckulík"
+      "403"
     ],
     "organizations": [
       {
@@ -1526,26 +1059,19 @@
     "rebelity_total": 5,
     "rebelity_possible": 4595,
     "rebelity": 0.001088,
-    "name": "Dušan Jarjabek",
+    "name": "403 403",
     "given_names": [
-      "Dušan"
+      "403"
     ],
     "family_names": [
-      "Jarjabek"
+      "403"
     ],
     "organizations": [
       {
         "id": "nrsr:org:club:5",
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
-        "since": "2023-11-14",
-        "until": "2026-10-15"
-      },
-      {
-        "id": "nrsr:org:club:5",
-        "classification": "group",
-        "name": "Klub SMER - sociálna demokracia",
-        "since": "2026-10-15"
+        "since": "2023-11-14"
       }
     ],
     "since": "2023-10-25",
@@ -1558,26 +1084,19 @@
     "rebelity_total": 3,
     "rebelity_possible": 4371,
     "rebelity": 0.000686,
-    "name": "Zora Jaurová",
+    "name": "403 403",
     "given_names": [
-      "Zora"
+      "403"
     ],
     "family_names": [
-      "Jaurová"
+      "403"
     ],
     "organizations": [
       {
         "id": "nrsr:org:club:3",
         "classification": "group",
         "name": "Klub Progresívne Slovensko",
-        "since": "2023-11-14",
-        "until": "2026-10-15"
-      },
-      {
-        "id": "nrsr:org:club:3",
-        "classification": "group",
-        "name": "Klub Progresívne Slovensko",
-        "since": "2026-10-15"
+        "since": "2023-11-14"
       }
     ],
     "since": "2023-10-25",
@@ -1590,26 +1109,19 @@
     "rebelity_total": 7,
     "rebelity_possible": 4595,
     "rebelity": 0.001523,
-    "name": "Jozef Ježík",
+    "name": "403 403",
     "given_names": [
-      "Jozef"
+      "403"
     ],
     "family_names": [
-      "Ježík"
+      "403"
     ],
     "organizations": [
       {
         "id": "nrsr:org:club:5",
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
-        "since": "2023-11-14",
-        "until": "2026-10-15"
-      },
-      {
-        "id": "nrsr:org:club:5",
-        "classification": "group",
-        "name": "Klub SMER - sociálna demokracia",
-        "since": "2026-10-15"
+        "since": "2023-11-14"
       }
     ],
     "since": "2023-10-25",
@@ -1622,26 +1134,19 @@
     "rebelity_total": 4,
     "rebelity_possible": 4371,
     "rebelity": 0.000915,
-    "name": "Beáta Jurík",
+    "name": "403 403",
     "given_names": [
-      "Beáta"
+      "403"
     ],
     "family_names": [
-      "Jurík"
+      "403"
     ],
     "organizations": [
       {
         "id": "nrsr:org:club:3",
         "classification": "group",
         "name": "Klub Progresívne Slovensko",
-        "since": "2023-11-14",
-        "until": "2026-10-15"
-      },
-      {
-        "id": "nrsr:org:club:3",
-        "classification": "group",
-        "name": "Klub Progresívne Slovensko",
-        "since": "2026-10-15"
+        "since": "2023-11-14"
       }
     ],
     "since": "2023-10-25",
@@ -1650,62 +1155,82 @@
     }
   },
   {
-    "person_id": "nrsr:person:1218",
+    "person_id": "nrsr:person:1153",
     "rebelity_total": 1,
-    "rebelity_possible": 3244,
-    "rebelity": 0.000308,
-    "name": "Jozef Kačmár",
+    "rebelity_possible": 4595,
+    "rebelity": 0.000218,
+    "name": "403 403",
     "given_names": [
-      "Jozef"
+      "403"
     ],
     "family_names": [
-      "Kačmár"
+      "403"
     ],
     "organizations": [
       {
         "id": "nrsr:org:club:5",
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
-        "since": "2024-07-15",
-        "until": "2026-10-15"
-      },
-      {
-        "id": "nrsr:org:club:5",
-        "classification": "group",
-        "name": "Klub SMER - sociálna demokracia",
-        "since": "2026-10-15"
+        "since": "2023-11-14"
       }
     ],
     "since": "2023-10-25",
     "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1218&ImageWidth=140"
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1153&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1165",
+    "rebelity_total": 0,
+    "rebelity_possible": 0,
+    "rebelity": null,
+    "name": "403 403",
+    "given_names": [
+      "403"
+    ],
+    "family_names": [
+      "403"
+    ],
+    "since": "2023-10-25",
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1165&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:271",
+    "rebelity_total": 0,
+    "rebelity_possible": 0,
+    "rebelity": null,
+    "name": "403 403",
+    "given_names": [
+      "403"
+    ],
+    "family_names": [
+      "403"
+    ],
+    "since": "2023-10-25",
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=271&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1170",
     "rebelity_total": 1,
-    "rebelity_possible": 4597,
-    "rebelity": 0.000218,
-    "name": "Peter Kalivoda",
+    "rebelity_possible": 4607,
+    "rebelity": 0.000217,
+    "name": "403 403",
     "given_names": [
-      "Peter"
+      "403"
     ],
     "family_names": [
-      "Kalivoda"
+      "403"
     ],
     "organizations": [
       {
         "id": "nrsr:org:club:1",
         "classification": "group",
         "name": "Klub HLAS - sociálna demokracia",
-        "since": "2023-11-14",
-        "until": "2026-10-15"
-      },
-      {
-        "id": "nrsr:org:club:1",
-        "classification": "group",
-        "name": "Klub HLAS - sociálna demokracia",
-        "since": "2026-10-15"
+        "since": "2023-11-14"
       }
     ],
     "since": "2023-10-25",
@@ -1714,35 +1239,45 @@
     }
   },
   {
-    "person_id": "nrsr:person:1205",
-    "rebelity_total": 1,
-    "rebelity_possible": 4595,
-    "rebelity": 0.000218,
-    "name": "Michal Kapuš",
+    "person_id": "nrsr:person:1137",
+    "rebelity_total": 3,
+    "rebelity_possible": 4371,
+    "rebelity": 0.000686,
+    "name": "403 403",
     "given_names": [
-      "Michal"
+      "403"
     ],
     "family_names": [
-      "Kapuš"
+      "403"
     ],
     "organizations": [
       {
-        "id": "nrsr:org:club:5",
+        "id": "nrsr:org:club:3",
         "classification": "group",
-        "name": "Klub SMER - sociálna demokracia",
-        "since": "2023-11-14",
-        "until": "2026-10-15"
-      },
-      {
-        "id": "nrsr:org:club:5",
-        "classification": "group",
-        "name": "Klub SMER - sociálna demokracia",
-        "since": "2026-10-15"
+        "name": "Klub Progresívne Slovensko",
+        "since": "2023-11-14"
       }
     ],
     "since": "2023-10-25",
     "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1205&ImageWidth=140"
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1137&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:880",
+    "rebelity_total": 0,
+    "rebelity_possible": 0,
+    "rebelity": null,
+    "name": "403 403",
+    "given_names": [
+      "403"
+    ],
+    "family_names": [
+      "403"
+    ],
+    "since": "2023-10-25",
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=880&ImageWidth=140"
     }
   },
   {
@@ -1750,26 +1285,19 @@
     "rebelity_total": 1,
     "rebelity_possible": 4595,
     "rebelity": 0.000218,
-    "name": "Daniel Karas",
+    "name": "403 403",
     "given_names": [
-      "Daniel"
+      "403"
     ],
     "family_names": [
-      "Karas"
+      "403"
     ],
     "organizations": [
       {
         "id": "nrsr:org:club:5",
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
-        "since": "2023-11-14",
-        "until": "2026-10-15"
-      },
-      {
-        "id": "nrsr:org:club:5",
-        "classification": "group",
-        "name": "Klub SMER - sociálna demokracia",
-        "since": "2026-10-15"
+        "since": "2023-11-14"
       }
     ],
     "since": "2023-10-25",
@@ -1782,26 +1310,19 @@
     "rebelity_total": 9,
     "rebelity_possible": 4595,
     "rebelity": 0.001959,
-    "name": "Marián Kéry",
+    "name": "403 403",
     "given_names": [
-      "Marián"
+      "403"
     ],
     "family_names": [
-      "Kéry"
+      "403"
     ],
     "organizations": [
       {
         "id": "nrsr:org:club:5",
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
-        "since": "2023-11-14",
-        "until": "2026-10-15"
-      },
-      {
-        "id": "nrsr:org:club:5",
-        "classification": "group",
-        "name": "Klub SMER - sociálna demokracia",
-        "since": "2026-10-15"
+        "since": "2023-11-14"
       }
     ],
     "since": "2023-10-25",
@@ -1814,26 +1335,19 @@
     "rebelity_total": 8,
     "rebelity_possible": 4371,
     "rebelity": 0.00183,
-    "name": "Štefan Kišš",
+    "name": "403 403",
     "given_names": [
-      "Štefan"
+      "403"
     ],
     "family_names": [
-      "Kišš"
+      "403"
     ],
     "organizations": [
       {
         "id": "nrsr:org:club:3",
         "classification": "group",
         "name": "Klub Progresívne Slovensko",
-        "since": "2023-11-14",
-        "until": "2026-10-15"
-      },
-      {
-        "id": "nrsr:org:club:3",
-        "classification": "group",
-        "name": "Klub Progresívne Slovensko",
-        "since": "2026-10-15"
+        "since": "2023-11-14"
       }
     ],
     "since": "2023-10-25",
@@ -1846,26 +1360,19 @@
     "rebelity_total": 2,
     "rebelity_possible": 4371,
     "rebelity": 0.000458,
-    "name": "Dana Kleinert",
+    "name": "403 403",
     "given_names": [
-      "Dana"
+      "403"
     ],
     "family_names": [
-      "Kleinert"
+      "403"
     ],
     "organizations": [
       {
         "id": "nrsr:org:club:3",
         "classification": "group",
         "name": "Klub Progresívne Slovensko",
-        "since": "2023-11-14",
-        "until": "2026-10-15"
-      },
-      {
-        "id": "nrsr:org:club:3",
-        "classification": "group",
-        "name": "Klub Progresívne Slovensko",
-        "since": "2026-10-15"
+        "since": "2023-11-14"
       }
     ],
     "since": "2023-10-25",
@@ -1874,28 +1381,28 @@
     }
   },
   {
-    "person_id": "nrsr:person:1224",
-    "rebelity_total": 2,
-    "rebelity_possible": 975,
-    "rebelity": 0.002051,
-    "name": "Monika Kolejáková",
+    "person_id": "nrsr:person:1023",
+    "rebelity_total": 0,
+    "rebelity_possible": 1184,
+    "rebelity": 0.0,
+    "name": "403 403",
     "given_names": [
-      "Monika"
+      "403"
     ],
     "family_names": [
-      "Kolejáková"
+      "403"
     ],
     "organizations": [
       {
-        "id": "nrsr:org:club:2",
+        "id": "nrsr:org:club:1",
         "classification": "group",
-        "name": "Klub KDH",
-        "since": "2026-02-03"
+        "name": "Klub HLAS - sociálna demokracia",
+        "since": "2025-11-25"
       }
     ],
     "since": "2023-10-25",
     "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1224&ImageWidth=140"
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1023&ImageWidth=140"
     }
   },
   {
@@ -1903,26 +1410,19 @@
     "rebelity_total": 26,
     "rebelity_possible": 4400,
     "rebelity": 0.005909,
-    "name": "Mária Kolíková",
+    "name": "403 403",
     "given_names": [
-      "Mária"
+      "403"
     ],
     "family_names": [
-      "Kolíková"
+      "403"
     ],
     "organizations": [
       {
         "id": "nrsr:org:club:6",
         "classification": "group",
         "name": "Klub Sloboda a Solidarita",
-        "since": "2023-11-14",
-        "until": "2026-10-15"
-      },
-      {
-        "id": "nrsr:org:club:6",
-        "classification": "group",
-        "name": "Klub Sloboda a Solidarita",
-        "since": "2026-10-15"
+        "since": "2023-11-14"
       }
     ],
     "since": "2023-10-25",
@@ -1935,26 +1435,19 @@
     "rebelity_total": 3,
     "rebelity_possible": 4371,
     "rebelity": 0.000686,
-    "name": "Ingrid Kosová",
+    "name": "403 403",
     "given_names": [
-      "Ingrid"
+      "403"
     ],
     "family_names": [
-      "Kosová"
+      "403"
     ],
     "organizations": [
       {
         "id": "nrsr:org:club:3",
         "classification": "group",
         "name": "Klub Progresívne Slovensko",
-        "since": "2023-11-14",
-        "until": "2026-10-15"
-      },
-      {
-        "id": "nrsr:org:club:3",
-        "classification": "group",
-        "name": "Klub Progresívne Slovensko",
-        "since": "2026-10-15"
+        "since": "2023-11-14"
       }
     ],
     "since": "2023-10-25",
@@ -1964,29 +1457,22 @@
   },
   {
     "person_id": "nrsr:person:1151",
-    "rebelity_total": 11,
-    "rebelity_possible": 4593,
-    "rebelity": 0.002395,
-    "name": "Peter Kotlár",
+    "rebelity_total": 12,
+    "rebelity_possible": 4594,
+    "rebelity": 0.002612,
+    "name": "403 403",
     "given_names": [
-      "Peter"
+      "403"
     ],
     "family_names": [
-      "Kotlár"
+      "403"
     ],
     "organizations": [
       {
         "id": "nrsr:org:club:7",
         "classification": "group",
         "name": "Klub Slovenská národná strana",
-        "since": "2023-11-14",
-        "until": "2026-10-15"
-      },
-      {
-        "id": "nrsr:org:club:7",
-        "classification": "group",
-        "name": "Klub Slovenská národná strana",
-        "since": "2026-10-15"
+        "since": "2023-11-14"
       }
     ],
     "since": "2023-10-25",
@@ -1995,48 +1481,16 @@
     }
   },
   {
-    "person_id": "nrsr:person:1227",
-    "rebelity_total": 0,
-    "rebelity_possible": 259,
-    "rebelity": 0.0,
-    "name": "Milan Kováč",
-    "given_names": [
-      "Milan"
-    ],
-    "family_names": [
-      "Kováč"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:7",
-        "classification": "group",
-        "name": "Klub Slovenská národná strana",
-        "since": "2026-09-15",
-        "until": "2026-10-15"
-      },
-      {
-        "id": "nrsr:org:club:7",
-        "classification": "group",
-        "name": "Klub Slovenská národná strana",
-        "since": "2026-10-15"
-      }
-    ],
-    "since": "2023-10-25",
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1227&ImageWidth=140"
-    }
-  },
-  {
     "person_id": "nrsr:person:907",
-    "rebelity_total": 85,
-    "rebelity_possible": 4397,
-    "rebelity": 0.019331,
-    "name": "Marek Krajčí",
+    "rebelity_total": 84,
+    "rebelity_possible": 4414,
+    "rebelity": 0.01903,
+    "name": "403 403",
     "given_names": [
-      "Marek"
+      "403"
     ],
     "family_names": [
-      "Krajčí"
+      "403"
     ],
     "organizations": [
       {
@@ -2059,48 +1513,16 @@
     }
   },
   {
-    "person_id": "nrsr:person:1210",
-    "rebelity_total": 2,
-    "rebelity_possible": 4593,
-    "rebelity": 0.000435,
-    "name": "Dagmar Kramplová",
-    "given_names": [
-      "Dagmar"
-    ],
-    "family_names": [
-      "Kramplová"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:7",
-        "classification": "group",
-        "name": "Klub Slovenská národná strana",
-        "since": "2023-11-14",
-        "until": "2026-10-15"
-      },
-      {
-        "id": "nrsr:org:club:7",
-        "classification": "group",
-        "name": "Klub Slovenská národná strana",
-        "since": "2026-10-15"
-      }
-    ],
-    "since": "2023-10-25",
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1210&ImageWidth=140"
-    }
-  },
-  {
     "person_id": "nrsr:person:1190",
-    "rebelity_total": 14,
-    "rebelity_possible": 4044,
-    "rebelity": 0.003462,
-    "name": "Rastislav Krátky",
+    "rebelity_total": 13,
+    "rebelity_possible": 4050,
+    "rebelity": 0.00321,
+    "name": "403 403",
     "given_names": [
-      "Rastislav"
+      "403"
     ],
     "family_names": [
-      "Krátky"
+      "403"
     ],
     "organizations": [
       {
@@ -2127,26 +1549,19 @@
     "rebelity_total": 21,
     "rebelity_possible": 4400,
     "rebelity": 0.004773,
-    "name": "Juraj Krúpa",
+    "name": "403 403",
     "given_names": [
-      "Juraj"
+      "403"
     ],
     "family_names": [
-      "Krúpa"
+      "403"
     ],
     "organizations": [
       {
         "id": "nrsr:org:club:6",
         "classification": "group",
         "name": "Klub Sloboda a Solidarita",
-        "since": "2023-11-14",
-        "until": "2026-10-15"
-      },
-      {
-        "id": "nrsr:org:club:6",
-        "classification": "group",
-        "name": "Klub Sloboda a Solidarita",
-        "since": "2026-10-15"
+        "since": "2023-11-14"
       }
     ],
     "since": "2023-10-25",
@@ -2159,26 +1574,19 @@
     "rebelity_total": 9,
     "rebelity_possible": 4595,
     "rebelity": 0.001959,
-    "name": "Stanislav Kubánek",
+    "name": "403 403",
     "given_names": [
-      "Stanislav"
+      "403"
     ],
     "family_names": [
-      "Kubánek"
+      "403"
     ],
     "organizations": [
       {
         "id": "nrsr:org:club:5",
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
-        "since": "2023-11-14",
-        "until": "2026-10-15"
-      },
-      {
-        "id": "nrsr:org:club:5",
-        "classification": "group",
-        "name": "Klub SMER - sociálna demokracia",
-        "since": "2026-10-15"
+        "since": "2023-11-14"
       }
     ],
     "since": "2023-10-25",
@@ -2187,30 +1595,74 @@
     }
   },
   {
+    "person_id": "nrsr:person:1034",
+    "rebelity_total": 0,
+    "rebelity_possible": 0,
+    "rebelity": null,
+    "name": "403 403",
+    "given_names": [
+      "403"
+    ],
+    "family_names": [
+      "403"
+    ],
+    "since": "2023-10-25",
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1034&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:858",
+    "rebelity_total": 0,
+    "rebelity_possible": 0,
+    "rebelity": null,
+    "name": "403 403",
+    "given_names": [
+      "403"
+    ],
+    "family_names": [
+      "403"
+    ],
+    "since": "2023-10-25",
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=858&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1166",
+    "rebelity_total": 0,
+    "rebelity_possible": 0,
+    "rebelity": null,
+    "name": "403 403",
+    "given_names": [
+      "403"
+    ],
+    "family_names": [
+      "403"
+    ],
+    "since": "2023-10-25",
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1166&ImageWidth=140"
+    }
+  },
+  {
     "person_id": "nrsr:person:671",
     "rebelity_total": 5,
     "rebelity_possible": 4595,
     "rebelity": 0.001088,
-    "name": "Ján Kvorka",
+    "name": "403 403",
     "given_names": [
-      "Ján"
+      "403"
     ],
     "family_names": [
-      "Kvorka"
+      "403"
     ],
     "organizations": [
       {
         "id": "nrsr:org:club:5",
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
-        "since": "2023-11-14",
-        "until": "2026-10-15"
-      },
-      {
-        "id": "nrsr:org:club:5",
-        "classification": "group",
-        "name": "Klub SMER - sociálna demokracia",
-        "since": "2026-10-15"
+        "since": "2023-11-14"
       }
     ],
     "since": "2023-10-25",
@@ -2223,26 +1675,19 @@
     "rebelity_total": 1,
     "rebelity_possible": 4371,
     "rebelity": 0.000229,
-    "name": "Marek Lackovič",
+    "name": "403 403",
     "given_names": [
-      "Marek"
+      "403"
     ],
     "family_names": [
-      "Lackovič"
+      "403"
     ],
     "organizations": [
       {
         "id": "nrsr:org:club:3",
         "classification": "group",
         "name": "Klub Progresívne Slovensko",
-        "since": "2023-11-14",
-        "until": "2026-10-15"
-      },
-      {
-        "id": "nrsr:org:club:3",
-        "classification": "group",
-        "name": "Klub Progresívne Slovensko",
-        "since": "2026-10-15"
+        "since": "2023-11-14"
       }
     ],
     "since": "2023-10-25",
@@ -2253,28 +1698,21 @@
   {
     "person_id": "nrsr:person:1081",
     "rebelity_total": 1,
-    "rebelity_possible": 4597,
-    "rebelity": 0.000218,
-    "name": "Ľubica Laššáková",
+    "rebelity_possible": 4607,
+    "rebelity": 0.000217,
+    "name": "403 403",
     "given_names": [
-      "Ľubica"
+      "403"
     ],
     "family_names": [
-      "Laššáková"
+      "403"
     ],
     "organizations": [
       {
         "id": "nrsr:org:club:1",
         "classification": "group",
         "name": "Klub HLAS - sociálna demokracia",
-        "since": "2023-11-14",
-        "until": "2026-10-15"
-      },
-      {
-        "id": "nrsr:org:club:1",
-        "classification": "group",
-        "name": "Klub HLAS - sociálna demokracia",
-        "since": "2026-10-15"
+        "since": "2023-11-14"
       }
     ],
     "since": "2023-10-25",
@@ -2287,26 +1725,19 @@
     "rebelity_total": 26,
     "rebelity_possible": 4400,
     "rebelity": 0.005909,
-    "name": "Vladimír Ledecký",
+    "name": "403 403",
     "given_names": [
-      "Vladimír"
+      "403"
     ],
     "family_names": [
-      "Ledecký"
+      "403"
     ],
     "organizations": [
       {
         "id": "nrsr:org:club:6",
         "classification": "group",
         "name": "Klub Sloboda a Solidarita",
-        "since": "2023-11-14",
-        "until": "2026-10-15"
-      },
-      {
-        "id": "nrsr:org:club:6",
-        "classification": "group",
-        "name": "Klub Sloboda a Solidarita",
-        "since": "2026-10-15"
+        "since": "2023-11-14"
       }
     ],
     "since": "2023-10-25",
@@ -2315,158 +1746,23 @@
     }
   },
   {
-    "person_id": "nrsr:person:1200",
-    "rebelity_total": 2,
-    "rebelity_possible": 4595,
-    "rebelity": 0.000435,
-    "name": "Boleslav Lešo",
-    "given_names": [
-      "Boleslav"
-    ],
-    "family_names": [
-      "Lešo"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:5",
-        "classification": "group",
-        "name": "Klub SMER - sociálna demokracia",
-        "since": "2023-11-14",
-        "until": "2026-10-15"
-      },
-      {
-        "id": "nrsr:org:club:5",
-        "classification": "group",
-        "name": "Klub SMER - sociálna demokracia",
-        "since": "2026-10-15"
-      }
-    ],
-    "since": "2023-10-25",
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1200&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:1199",
-    "rebelity_total": 8,
-    "rebelity_possible": 4593,
-    "rebelity": 0.001742,
-    "name": "Adam Lučanský",
-    "given_names": [
-      "Adam"
-    ],
-    "family_names": [
-      "Lučanský"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:7",
-        "classification": "group",
-        "name": "Klub Slovenská národná strana",
-        "since": "2023-11-14",
-        "until": "2026-10-15"
-      },
-      {
-        "id": "nrsr:org:club:7",
-        "classification": "group",
-        "name": "Klub Slovenská národná strana",
-        "since": "2026-10-15"
-      }
-    ],
-    "since": "2023-10-25",
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1199&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:733",
-    "rebelity_total": 2,
-    "rebelity_possible": 4595,
-    "rebelity": 0.000435,
-    "name": "Michal Lukša",
-    "given_names": [
-      "Michal"
-    ],
-    "family_names": [
-      "Lukša"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:5",
-        "classification": "group",
-        "name": "Klub SMER - sociálna demokracia",
-        "since": "2023-11-14",
-        "until": "2026-10-15"
-      },
-      {
-        "id": "nrsr:org:club:5",
-        "classification": "group",
-        "name": "Klub SMER - sociálna demokracia",
-        "since": "2026-10-15"
-      }
-    ],
-    "since": "2023-10-25",
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=733&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:1134",
-    "rebelity_total": 7,
-    "rebelity_possible": 4371,
-    "rebelity": 0.001601,
-    "name": "Darina Luščíková",
-    "given_names": [
-      "Darina"
-    ],
-    "family_names": [
-      "Luščíková"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:3",
-        "classification": "group",
-        "name": "Klub Progresívne Slovensko",
-        "since": "2023-11-14",
-        "until": "2026-10-15"
-      },
-      {
-        "id": "nrsr:org:club:3",
-        "classification": "group",
-        "name": "Klub Progresívne Slovensko",
-        "since": "2026-10-15"
-      }
-    ],
-    "since": "2023-10-25",
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1134&ImageWidth=140"
-    }
-  },
-  {
     "person_id": "nrsr:person:1152",
-    "rebelity_total": 80,
-    "rebelity_possible": 4372,
-    "rebelity": 0.018298,
-    "name": "Pavel Ľupták",
+    "rebelity_total": 18,
+    "rebelity_possible": 4594,
+    "rebelity": 0.003918,
+    "name": "403 403",
     "given_names": [
-      "Pavel"
+      "403"
     ],
     "family_names": [
-      "Ľupták"
+      "403"
     ],
     "organizations": [
       {
         "id": "nrsr:org:club:7",
         "classification": "group",
         "name": "Klub Slovenská národná strana",
-        "since": "2023-11-14",
-        "until": "2024-10-22"
-      },
-      {
-        "id": "nrsr:org:nezavisli",
-        "classification": "group",
-        "name": "Nezávislí",
-        "since": "2024-10-22"
+        "since": "2023-11-14"
       }
     ],
     "since": "2023-10-25",
@@ -2475,67 +1771,28 @@
     }
   },
   {
-    "person_id": "nrsr:person:1223",
-    "rebelity_total": 0,
-    "rebelity_possible": 1175,
-    "rebelity": 0.0,
-    "name": "Vladimír Macášek",
+    "person_id": "nrsr:person:1134",
+    "rebelity_total": 7,
+    "rebelity_possible": 4371,
+    "rebelity": 0.001601,
+    "name": "403 403",
     "given_names": [
-      "Vladimír"
+      "403"
     ],
     "family_names": [
-      "Macášek"
+      "403"
     ],
     "organizations": [
       {
-        "id": "nrsr:org:club:5",
+        "id": "nrsr:org:club:3",
         "classification": "group",
-        "name": "Klub SMER - sociálna demokracia",
-        "since": "2025-11-25",
-        "until": "2026-10-15"
-      },
-      {
-        "id": "nrsr:org:club:5",
-        "classification": "group",
-        "name": "Klub SMER - sociálna demokracia",
-        "since": "2026-10-15"
+        "name": "Klub Progresívne Slovensko",
+        "since": "2023-11-14"
       }
     ],
     "since": "2023-10-25",
     "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1223&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:1211",
-    "rebelity_total": 2,
-    "rebelity_possible": 4597,
-    "rebelity": 0.000435,
-    "name": "Zdenka Mačicová",
-    "given_names": [
-      "Zdenka"
-    ],
-    "family_names": [
-      "Mačicová"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:1",
-        "classification": "group",
-        "name": "Klub HLAS - sociálna demokracia",
-        "since": "2023-11-14",
-        "until": "2026-10-15"
-      },
-      {
-        "id": "nrsr:org:club:1",
-        "classification": "group",
-        "name": "Klub HLAS - sociálna demokracia",
-        "since": "2026-10-15"
-      }
-    ],
-    "since": "2023-10-25",
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1211&ImageWidth=140"
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1134&ImageWidth=140"
     }
   },
   {
@@ -2543,12 +1800,12 @@
     "rebelity_total": 11,
     "rebelity_possible": 4270,
     "rebelity": 0.002576,
-    "name": "František Majerský",
+    "name": "403 403",
     "given_names": [
-      "František"
+      "403"
     ],
     "family_names": [
-      "Majerský"
+      "403"
     ],
     "organizations": [
       {
@@ -2568,12 +1825,12 @@
     "rebelity_total": 2,
     "rebelity_possible": 4270,
     "rebelity": 0.000468,
-    "name": "Milan Majerský",
+    "name": "403 403",
     "given_names": [
-      "Milan"
+      "403"
     ],
     "family_names": [
-      "Majerský"
+      "403"
     ],
     "organizations": [
       {
@@ -2590,29 +1847,22 @@
   },
   {
     "person_id": "nrsr:person:1173",
-    "rebelity_total": 88,
-    "rebelity_possible": 4448,
-    "rebelity": 0.019784,
-    "name": "Roman Malatinec",
+    "rebelity_total": 14,
+    "rebelity_possible": 4607,
+    "rebelity": 0.003039,
+    "name": "403 403",
     "given_names": [
-      "Roman"
+      "403"
     ],
     "family_names": [
-      "Malatinec"
+      "403"
     ],
     "organizations": [
       {
         "id": "nrsr:org:club:1",
         "classification": "group",
         "name": "Klub HLAS - sociálna demokracia",
-        "since": "2023-11-14",
-        "until": "2025-02-04"
-      },
-      {
-        "id": "nrsr:org:nezavisli",
-        "classification": "group",
-        "name": "Nezávislí",
-        "since": "2025-02-04"
+        "since": "2023-11-14"
       }
     ],
     "since": "2023-10-25",
@@ -2625,26 +1875,19 @@
     "rebelity_total": 66,
     "rebelity_possible": 4400,
     "rebelity": 0.015,
-    "name": "Vladimíra Marcinková",
+    "name": "403 403",
     "given_names": [
-      "Vladimíra"
+      "403"
     ],
     "family_names": [
-      "Marcinková"
+      "403"
     ],
     "organizations": [
       {
         "id": "nrsr:org:club:6",
         "classification": "group",
         "name": "Klub Sloboda a Solidarita",
-        "since": "2023-11-14",
-        "until": "2026-10-15"
-      },
-      {
-        "id": "nrsr:org:club:6",
-        "classification": "group",
-        "name": "Klub Sloboda a Solidarita",
-        "since": "2026-10-15"
+        "since": "2023-11-14"
       }
     ],
     "since": "2023-10-25",
@@ -2657,26 +1900,19 @@
     "rebelity_total": 9,
     "rebelity_possible": 4595,
     "rebelity": 0.001959,
-    "name": "Zuzana Matejičková",
+    "name": "403 403",
     "given_names": [
-      "Zuzana"
+      "403"
     ],
     "family_names": [
-      "Matejičková"
+      "403"
     ],
     "organizations": [
       {
         "id": "nrsr:org:club:5",
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
-        "since": "2023-11-14",
-        "until": "2026-10-15"
-      },
-      {
-        "id": "nrsr:org:club:5",
-        "classification": "group",
-        "name": "Klub SMER - sociálna demokracia",
-        "since": "2026-10-15"
+        "since": "2023-11-14"
       }
     ],
     "since": "2023-10-25",
@@ -2687,14 +1923,14 @@
   {
     "person_id": "nrsr:person:808",
     "rebelity_total": 15,
-    "rebelity_possible": 4397,
-    "rebelity": 0.003411,
-    "name": "Igor Matovič",
+    "rebelity_possible": 4414,
+    "rebelity": 0.003398,
+    "name": "403 403",
     "given_names": [
-      "Igor"
+      "403"
     ],
     "family_names": [
-      "Matovič"
+      "403"
     ],
     "organizations": [
       {
@@ -2721,26 +1957,19 @@
     "rebelity_total": 4,
     "rebelity_possible": 4595,
     "rebelity": 0.000871,
-    "name": "Ján Mažgút",
+    "name": "403 403",
     "given_names": [
-      "Ján"
+      "403"
     ],
     "family_names": [
-      "Mažgút"
+      "403"
     ],
     "organizations": [
       {
         "id": "nrsr:org:club:5",
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
-        "since": "2023-11-14",
-        "until": "2026-10-15"
-      },
-      {
-        "id": "nrsr:org:club:5",
-        "classification": "group",
-        "name": "Klub SMER - sociálna demokracia",
-        "since": "2026-10-15"
+        "since": "2023-11-14"
       }
     ],
     "since": "2023-10-25",
@@ -2749,35 +1978,20 @@
     }
   },
   {
-    "person_id": "nrsr:person:1204",
-    "rebelity_total": 3,
-    "rebelity_possible": 4595,
-    "rebelity": 0.000653,
-    "name": "Jaroslav Mego",
+    "person_id": "nrsr:person:1157",
+    "rebelity_total": 0,
+    "rebelity_possible": 0,
+    "rebelity": null,
+    "name": "403 403",
     "given_names": [
-      "Jaroslav"
+      "403"
     ],
     "family_names": [
-      "Mego"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:5",
-        "classification": "group",
-        "name": "Klub SMER - sociálna demokracia",
-        "since": "2023-11-14",
-        "until": "2026-10-15"
-      },
-      {
-        "id": "nrsr:org:club:5",
-        "classification": "group",
-        "name": "Klub SMER - sociálna demokracia",
-        "since": "2026-10-15"
-      }
+      "403"
     ],
     "since": "2023-10-25",
     "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1204&ImageWidth=140"
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1157&ImageWidth=140"
     }
   },
   {
@@ -2785,26 +1999,19 @@
     "rebelity_total": 1,
     "rebelity_possible": 4371,
     "rebelity": 0.000229,
-    "name": "Zuzana Mesterová",
+    "name": "403 403",
     "given_names": [
-      "Zuzana"
+      "403"
     ],
     "family_names": [
-      "Mesterová"
+      "403"
     ],
     "organizations": [
       {
         "id": "nrsr:org:club:3",
         "classification": "group",
         "name": "Klub Progresívne Slovensko",
-        "since": "2023-11-14",
-        "until": "2026-10-15"
-      },
-      {
-        "id": "nrsr:org:club:3",
-        "classification": "group",
-        "name": "Klub Progresívne Slovensko",
-        "since": "2026-10-15"
+        "since": "2023-11-14"
       }
     ],
     "since": "2023-10-25",
@@ -2814,29 +2021,22 @@
   },
   {
     "person_id": "nrsr:person:1149",
-    "rebelity_total": 24,
-    "rebelity_possible": 4593,
-    "rebelity": 0.005225,
-    "name": "Roman Michelko",
+    "rebelity_total": 23,
+    "rebelity_possible": 4594,
+    "rebelity": 0.005007,
+    "name": "403 403",
     "given_names": [
-      "Roman"
+      "403"
     ],
     "family_names": [
-      "Michelko"
+      "403"
     ],
     "organizations": [
       {
         "id": "nrsr:org:club:7",
         "classification": "group",
         "name": "Klub Slovenská národná strana",
-        "since": "2023-11-14",
-        "until": "2026-10-15"
-      },
-      {
-        "id": "nrsr:org:club:7",
-        "classification": "group",
-        "name": "Klub Slovenská národná strana",
-        "since": "2026-10-15"
+        "since": "2023-11-14"
       }
     ],
     "since": "2023-10-25",
@@ -2849,12 +2049,12 @@
     "rebelity_total": 24,
     "rebelity_possible": 4270,
     "rebelity": 0.005621,
-    "name": "František Mikloško",
+    "name": "403 403",
     "given_names": [
-      "František"
+      "403"
     ],
     "family_names": [
-      "Mikloško"
+      "403"
     ],
     "organizations": [
       {
@@ -2872,14 +2072,14 @@
   {
     "person_id": "nrsr:person:1046",
     "rebelity_total": 14,
-    "rebelity_possible": 4397,
-    "rebelity": 0.003184,
-    "name": "Roman Mikulec",
+    "rebelity_possible": 4414,
+    "rebelity": 0.003172,
+    "name": "403 403",
     "given_names": [
-      "Roman"
+      "403"
     ],
     "family_names": [
-      "Mikulec"
+      "403"
     ],
     "organizations": [
       {
@@ -2902,16 +2102,41 @@
     }
   },
   {
-    "person_id": "nrsr:person:322",
-    "rebelity_total": 24,
-    "rebelity_possible": 4594,
-    "rebelity": 0.005224,
-    "name": "Dušan Muňko",
+    "person_id": "nrsr:person:1174",
+    "rebelity_total": 0,
+    "rebelity_possible": 4607,
+    "rebelity": 0.0,
+    "name": "403 403",
     "given_names": [
-      "Dušan"
+      "403"
     ],
     "family_names": [
-      "Muňko"
+      "403"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:1",
+        "classification": "group",
+        "name": "Klub HLAS - sociálna demokracia",
+        "since": "2023-11-14"
+      }
+    ],
+    "since": "2023-10-25",
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1174&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:322",
+    "rebelity_total": 22,
+    "rebelity_possible": 4595,
+    "rebelity": 0.004788,
+    "name": "403 403",
+    "given_names": [
+      "403"
+    ],
+    "family_names": [
+      "403"
     ],
     "organizations": [
       {
@@ -2925,14 +2150,7 @@
         "id": "nrsr:org:club:7",
         "classification": "group",
         "name": "Klub Slovenská národná strana",
-        "since": "2024-10-23",
-        "until": "2026-10-15"
-      },
-      {
-        "id": "nrsr:org:club:7",
-        "classification": "group",
-        "name": "Klub Slovenská národná strana",
-        "since": "2026-10-15"
+        "since": "2024-10-23"
       }
     ],
     "since": "2023-10-25",
@@ -2943,28 +2161,21 @@
   {
     "person_id": "nrsr:person:899",
     "rebelity_total": 1,
-    "rebelity_possible": 4597,
-    "rebelity": 0.000218,
-    "name": "Peter Náhlik",
+    "rebelity_possible": 4607,
+    "rebelity": 0.000217,
+    "name": "403 403",
     "given_names": [
-      "Peter"
+      "403"
     ],
     "family_names": [
-      "Náhlik"
+      "403"
     ],
     "organizations": [
       {
         "id": "nrsr:org:club:1",
         "classification": "group",
         "name": "Klub HLAS - sociálna demokracia",
-        "since": "2023-11-14",
-        "until": "2026-10-15"
-      },
-      {
-        "id": "nrsr:org:club:1",
-        "classification": "group",
-        "name": "Klub HLAS - sociálna demokracia",
-        "since": "2026-10-15"
+        "since": "2023-11-14"
       }
     ],
     "since": "2023-10-25",
@@ -2973,92 +2184,78 @@
     }
   },
   {
-    "person_id": "nrsr:person:1212",
-    "rebelity_total": 2,
-    "rebelity_possible": 4336,
-    "rebelity": 0.000461,
-    "name": "Natália Nash",
-    "given_names": [
-      "Natália"
-    ],
-    "family_names": [
-      "Nash"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:3",
-        "classification": "group",
-        "name": "Klub Progresívne Slovensko",
-        "since": "2023-12-06",
-        "until": "2026-10-15"
-      },
-      {
-        "id": "nrsr:org:club:3",
-        "classification": "group",
-        "name": "Klub Progresívne Slovensko",
-        "since": "2026-10-15"
-      }
-    ],
-    "since": "2023-10-25",
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1212&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:1196",
-    "rebelity_total": 1,
-    "rebelity_possible": 4597,
-    "rebelity": 0.000218,
-    "name": "Alena Nováková",
-    "given_names": [
-      "Alena"
-    ],
-    "family_names": [
-      "Nováková"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:1",
-        "classification": "group",
-        "name": "Klub HLAS - sociálna demokracia",
-        "since": "2023-11-14",
-        "until": "2026-10-15"
-      },
-      {
-        "id": "nrsr:org:club:1",
-        "classification": "group",
-        "name": "Klub HLAS - sociálna demokracia",
-        "since": "2026-10-15"
-      }
-    ],
-    "since": "2023-10-25",
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1196&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:1225",
+    "person_id": "nrsr:person:974",
     "rebelity_total": 0,
-    "rebelity_possible": 712,
+    "rebelity_possible": 4595,
     "rebelity": 0.0,
-    "name": "Gabriel Paľa",
+    "name": "403 403",
     "given_names": [
-      "Gabriel"
+      "403"
     ],
     "family_names": [
-      "Paľa"
+      "403"
     ],
     "organizations": [
       {
-        "id": "nrsr:org:club:2",
+        "id": "nrsr:org:club:5",
         "classification": "group",
-        "name": "Klub KDH",
-        "since": "2026-04-16"
+        "name": "Klub SMER - sociálna demokracia",
+        "since": "2023-11-14"
       }
     ],
     "since": "2023-10-25",
     "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1225&ImageWidth=140"
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=974&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1138",
+    "rebelity_total": 1,
+    "rebelity_possible": 4371,
+    "rebelity": 0.000229,
+    "name": "403 403",
+    "given_names": [
+      "403"
+    ],
+    "family_names": [
+      "403"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:3",
+        "classification": "group",
+        "name": "Klub Progresívne Slovensko",
+        "since": "2023-11-14"
+      }
+    ],
+    "since": "2023-10-25",
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1138&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:682",
+    "rebelity_total": 1,
+    "rebelity_possible": 4607,
+    "rebelity": 0.000217,
+    "name": "403 403",
+    "given_names": [
+      "403"
+    ],
+    "family_names": [
+      "403"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:1",
+        "classification": "group",
+        "name": "Klub HLAS - sociálna demokracia",
+        "since": "2023-11-14"
+      }
+    ],
+    "since": "2023-10-25",
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=682&ImageWidth=140"
     }
   },
   {
@@ -3066,26 +2263,19 @@
     "rebelity_total": 13,
     "rebelity_possible": 4371,
     "rebelity": 0.002974,
-    "name": "Simona Petrík",
+    "name": "403 403",
     "given_names": [
-      "Simona"
+      "403"
     ],
     "family_names": [
-      "Petrík"
+      "403"
     ],
     "organizations": [
       {
         "id": "nrsr:org:club:3",
         "classification": "group",
         "name": "Klub Progresívne Slovensko",
-        "since": "2023-11-14",
-        "until": "2026-10-15"
-      },
-      {
-        "id": "nrsr:org:club:3",
-        "classification": "group",
-        "name": "Klub Progresívne Slovensko",
-        "since": "2026-10-15"
+        "since": "2023-11-14"
       }
     ],
     "since": "2023-10-25",
@@ -3098,26 +2288,19 @@
     "rebelity_total": 0,
     "rebelity_possible": 4595,
     "rebelity": 0.0,
-    "name": "František Petro",
+    "name": "403 403",
     "given_names": [
-      "František"
+      "403"
     ],
     "family_names": [
-      "Petro"
+      "403"
     ],
     "organizations": [
       {
         "id": "nrsr:org:club:5",
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
-        "since": "2023-11-14",
-        "until": "2026-10-15"
-      },
-      {
-        "id": "nrsr:org:club:5",
-        "classification": "group",
-        "name": "Klub SMER - sociálna demokracia",
-        "since": "2026-10-15"
+        "since": "2023-11-14"
       }
     ],
     "since": "2023-10-25",
@@ -3130,26 +2313,19 @@
     "rebelity_total": 1,
     "rebelity_possible": 4371,
     "rebelity": 0.000229,
-    "name": "Lucia Plaváková",
+    "name": "403 403",
     "given_names": [
-      "Lucia"
+      "403"
     ],
     "family_names": [
-      "Plaváková"
+      "403"
     ],
     "organizations": [
       {
         "id": "nrsr:org:club:3",
         "classification": "group",
         "name": "Klub Progresívne Slovensko",
-        "since": "2023-11-14",
-        "until": "2026-10-15"
-      },
-      {
-        "id": "nrsr:org:club:3",
-        "classification": "group",
-        "name": "Klub Progresívne Slovensko",
-        "since": "2026-10-15"
+        "since": "2023-11-14"
       }
     ],
     "since": "2023-10-25",
@@ -3158,62 +2334,23 @@
     }
   },
   {
-    "person_id": "nrsr:person:1194",
-    "rebelity_total": 1,
-    "rebelity_possible": 4595,
-    "rebelity": 0.000218,
-    "name": "Zuzana Plevíková",
-    "given_names": [
-      "Zuzana"
-    ],
-    "family_names": [
-      "Plevíková"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:5",
-        "classification": "group",
-        "name": "Klub SMER - sociálna demokracia",
-        "since": "2023-11-14",
-        "until": "2026-10-15"
-      },
-      {
-        "id": "nrsr:org:club:5",
-        "classification": "group",
-        "name": "Klub SMER - sociálna demokracia",
-        "since": "2026-10-15"
-      }
-    ],
-    "since": "2023-10-25",
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1194&ImageWidth=140"
-    }
-  },
-  {
     "person_id": "nrsr:person:685",
     "rebelity_total": 17,
     "rebelity_possible": 4595,
     "rebelity": 0.0037,
-    "name": "Ján Podmanický",
+    "name": "403 403",
     "given_names": [
-      "Ján"
+      "403"
     ],
     "family_names": [
-      "Podmanický"
+      "403"
     ],
     "organizations": [
       {
         "id": "nrsr:org:club:5",
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
-        "since": "2023-11-14",
-        "until": "2026-10-15"
-      },
-      {
-        "id": "nrsr:org:club:5",
-        "classification": "group",
-        "name": "Klub SMER - sociálna demokracia",
-        "since": "2026-10-15"
+        "since": "2023-11-14"
       }
     ],
     "since": "2023-10-25",
@@ -3224,14 +2361,14 @@
   {
     "person_id": "nrsr:person:1088",
     "rebelity_total": 23,
-    "rebelity_possible": 4397,
-    "rebelity": 0.005231,
-    "name": "Peter Pollák",
+    "rebelity_possible": 4414,
+    "rebelity": 0.005211,
+    "name": "403 403",
     "given_names": [
-      "Peter"
+      "403"
     ],
     "family_names": [
-      "Pollák"
+      "403"
     ],
     "organizations": [
       {
@@ -3255,15 +2392,15 @@
   },
   {
     "person_id": "nrsr:person:1054",
-    "rebelity_total": 42,
-    "rebelity_possible": 4397,
-    "rebelity": 0.009552,
-    "name": "Jozef Pročko",
+    "rebelity_total": 43,
+    "rebelity_possible": 4414,
+    "rebelity": 0.009742,
+    "name": "403 403",
     "given_names": [
-      "Jozef"
+      "403"
     ],
     "family_names": [
-      "Pročko"
+      "403"
     ],
     "organizations": [
       {
@@ -3290,26 +2427,19 @@
     "rebelity_total": 0,
     "rebelity_possible": 4371,
     "rebelity": 0.0,
-    "name": "Ondrej Prostredník",
+    "name": "403 403",
     "given_names": [
-      "Ondrej"
+      "403"
     ],
     "family_names": [
-      "Prostredník"
+      "403"
     ],
     "organizations": [
       {
         "id": "nrsr:org:club:3",
         "classification": "group",
         "name": "Klub Progresívne Slovensko",
-        "since": "2023-11-14",
-        "until": "2026-10-15"
-      },
-      {
-        "id": "nrsr:org:club:3",
-        "classification": "group",
-        "name": "Klub Progresívne Slovensko",
-        "since": "2026-10-15"
+        "since": "2023-11-14"
       }
     ],
     "since": "2023-10-25",
@@ -3320,28 +2450,21 @@
   {
     "person_id": "nrsr:person:879",
     "rebelity_total": 1,
-    "rebelity_possible": 4597,
-    "rebelity": 0.000218,
-    "name": "Róbert Puci",
+    "rebelity_possible": 4607,
+    "rebelity": 0.000217,
+    "name": "403 403",
     "given_names": [
-      "Róbert"
+      "403"
     ],
     "family_names": [
-      "Puci"
+      "403"
     ],
     "organizations": [
       {
         "id": "nrsr:org:club:1",
         "classification": "group",
         "name": "Klub HLAS - sociálna demokracia",
-        "since": "2023-11-14",
-        "until": "2026-10-15"
-      },
-      {
-        "id": "nrsr:org:club:1",
-        "classification": "group",
-        "name": "Klub HLAS - sociálna demokracia",
-        "since": "2026-10-15"
+        "since": "2023-11-14"
       }
     ],
     "since": "2023-10-25",
@@ -3350,62 +2473,23 @@
     }
   },
   {
-    "person_id": "nrsr:person:1208",
-    "rebelity_total": 3,
-    "rebelity_possible": 4597,
-    "rebelity": 0.000653,
-    "name": "Paula Puškárová",
-    "given_names": [
-      "Paula"
-    ],
-    "family_names": [
-      "Puškárová"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:1",
-        "classification": "group",
-        "name": "Klub HLAS - sociálna demokracia",
-        "since": "2023-11-14",
-        "until": "2026-10-15"
-      },
-      {
-        "id": "nrsr:org:club:1",
-        "classification": "group",
-        "name": "Klub HLAS - sociálna demokracia",
-        "since": "2026-10-15"
-      }
-    ],
-    "since": "2023-10-25",
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1208&ImageWidth=140"
-    }
-  },
-  {
     "person_id": "nrsr:person:761",
     "rebelity_total": 4,
-    "rebelity_possible": 2422,
-    "rebelity": 0.001652,
-    "name": "Richard Raši",
+    "rebelity_possible": 2432,
+    "rebelity": 0.001645,
+    "name": "403 403",
     "given_names": [
-      "Richard"
+      "403"
     ],
     "family_names": [
-      "Raši"
+      "403"
     ],
     "organizations": [
       {
         "id": "nrsr:org:club:1",
         "classification": "group",
         "name": "Klub HLAS - sociálna demokracia",
-        "since": "2025-03-25",
-        "until": "2026-10-15"
-      },
-      {
-        "id": "nrsr:org:club:1",
-        "classification": "group",
-        "name": "Klub HLAS - sociálna demokracia",
-        "since": "2026-10-15"
+        "since": "2025-03-25"
       }
     ],
     "since": "2023-10-25",
@@ -3415,15 +2499,15 @@
   },
   {
     "person_id": "nrsr:person:905",
-    "rebelity_total": 16,
-    "rebelity_possible": 4397,
-    "rebelity": 0.003639,
-    "name": "Veronika Remišová",
+    "rebelity_total": 15,
+    "rebelity_possible": 4414,
+    "rebelity": 0.003398,
+    "name": "403 403",
     "given_names": [
-      "Veronika"
+      "403"
     ],
     "family_names": [
-      "Remišová"
+      "403"
     ],
     "organizations": [
       {
@@ -3450,26 +2534,19 @@
     "rebelity_total": 5,
     "rebelity_possible": 4595,
     "rebelity": 0.001088,
-    "name": "Ján Richter",
+    "name": "403 403",
     "given_names": [
-      "Ján"
+      "403"
     ],
     "family_names": [
-      "Richter"
+      "403"
     ],
     "organizations": [
       {
         "id": "nrsr:org:club:5",
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
-        "since": "2023-11-14",
-        "until": "2026-10-15"
-      },
-      {
-        "id": "nrsr:org:club:5",
-        "classification": "group",
-        "name": "Klub SMER - sociálna demokracia",
-        "since": "2026-10-15"
+        "since": "2023-11-14"
       }
     ],
     "since": "2023-10-25",
@@ -3482,26 +2559,19 @@
     "rebelity_total": 9,
     "rebelity_possible": 4371,
     "rebelity": 0.002059,
-    "name": "Michal Sabo",
+    "name": "403 403",
     "given_names": [
-      "Michal"
+      "403"
     ],
     "family_names": [
-      "Sabo"
+      "403"
     ],
     "organizations": [
       {
         "id": "nrsr:org:club:3",
         "classification": "group",
         "name": "Klub Progresívne Slovensko",
-        "since": "2023-11-14",
-        "until": "2026-10-15"
-      },
-      {
-        "id": "nrsr:org:club:3",
-        "classification": "group",
-        "name": "Klub Progresívne Slovensko",
-        "since": "2026-10-15"
+        "since": "2023-11-14"
       }
     ],
     "since": "2023-10-25",
@@ -3510,30 +2580,40 @@
     }
   },
   {
+    "person_id": "nrsr:person:941",
+    "rebelity_total": 0,
+    "rebelity_possible": 0,
+    "rebelity": null,
+    "name": "403 403",
+    "given_names": [
+      "403"
+    ],
+    "family_names": [
+      "403"
+    ],
+    "since": "2023-10-25",
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=941&ImageWidth=140"
+    }
+  },
+  {
     "person_id": "nrsr:person:762",
     "rebelity_total": 0,
     "rebelity_possible": 4595,
     "rebelity": 0.0,
-    "name": "Marián Saloň",
+    "name": "403 403",
     "given_names": [
-      "Marián"
+      "403"
     ],
     "family_names": [
-      "Saloň"
+      "403"
     ],
     "organizations": [
       {
         "id": "nrsr:org:club:5",
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
-        "since": "2023-11-14",
-        "until": "2026-10-15"
-      },
-      {
-        "id": "nrsr:org:club:5",
-        "classification": "group",
-        "name": "Klub SMER - sociálna demokracia",
-        "since": "2026-10-15"
+        "since": "2023-11-14"
       }
     ],
     "since": "2023-10-25",
@@ -3546,26 +2626,19 @@
     "rebelity_total": 2,
     "rebelity_possible": 4595,
     "rebelity": 0.000435,
-    "name": "Justín Sedlák",
+    "name": "403 403",
     "given_names": [
-      "Justín"
+      "403"
     ],
     "family_names": [
-      "Sedlák"
+      "403"
     ],
     "organizations": [
       {
         "id": "nrsr:org:club:5",
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
-        "since": "2023-11-14",
-        "until": "2026-10-15"
-      },
-      {
-        "id": "nrsr:org:club:5",
-        "classification": "group",
-        "name": "Klub SMER - sociálna demokracia",
-        "since": "2026-10-15"
+        "since": "2023-11-14"
       }
     ],
     "since": "2023-10-25",
@@ -3574,99 +2647,20 @@
     }
   },
   {
-    "person_id": "nrsr:person:1191",
-    "rebelity_total": 1,
-    "rebelity_possible": 4595,
-    "rebelity": 0.000218,
-    "name": "Andrej Sitkár",
+    "person_id": "nrsr:person:1162",
+    "rebelity_total": 0,
+    "rebelity_possible": 0,
+    "rebelity": null,
+    "name": "403 403",
     "given_names": [
-      "Andrej"
+      "403"
     ],
     "family_names": [
-      "Sitkár"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:5",
-        "classification": "group",
-        "name": "Klub SMER - sociálna demokracia",
-        "since": "2023-11-14",
-        "until": "2026-10-15"
-      },
-      {
-        "id": "nrsr:org:club:5",
-        "classification": "group",
-        "name": "Klub SMER - sociálna demokracia",
-        "since": "2026-10-15"
-      }
+      "403"
     ],
     "since": "2023-10-25",
     "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1191&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:1197",
-    "rebelity_total": 2,
-    "rebelity_possible": 4580,
-    "rebelity": 0.000437,
-    "name": "Peter Slyško",
-    "given_names": [
-      "Peter"
-    ],
-    "family_names": [
-      "Slyško"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:1",
-        "classification": "group",
-        "name": "Klub HLAS - sociálna demokracia",
-        "since": "2023-11-14",
-        "until": "2026-10-01"
-      },
-      {
-        "id": "nrsr:org:nezavisli",
-        "classification": "group",
-        "name": "Nezávislí",
-        "since": "2026-10-01"
-      }
-    ],
-    "since": "2023-10-25",
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1197&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:1206",
-    "rebelity_total": 1,
-    "rebelity_possible": 4595,
-    "rebelity": 0.000218,
-    "name": "Peter Sokol",
-    "given_names": [
-      "Peter"
-    ],
-    "family_names": [
-      "Sokol"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:5",
-        "classification": "group",
-        "name": "Klub SMER - sociálna demokracia",
-        "since": "2023-11-14",
-        "until": "2026-10-15"
-      },
-      {
-        "id": "nrsr:org:club:5",
-        "classification": "group",
-        "name": "Klub SMER - sociálna demokracia",
-        "since": "2026-10-15"
-      }
-    ],
-    "since": "2023-10-25",
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1206&ImageWidth=140"
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1162&ImageWidth=140"
     }
   },
   {
@@ -3674,26 +2668,19 @@
     "rebelity_total": 6,
     "rebelity_possible": 4371,
     "rebelity": 0.001373,
-    "name": "Jaroslav Spišiak",
+    "name": "403 403",
     "given_names": [
-      "Jaroslav"
+      "403"
     ],
     "family_names": [
-      "Spišiak"
+      "403"
     ],
     "organizations": [
       {
         "id": "nrsr:org:club:3",
         "classification": "group",
         "name": "Klub Progresívne Slovensko",
-        "since": "2023-11-14",
-        "until": "2026-10-15"
-      },
-      {
-        "id": "nrsr:org:club:3",
-        "classification": "group",
-        "name": "Klub Progresívne Slovensko",
-        "since": "2026-10-15"
+        "since": "2023-11-14"
       }
     ],
     "since": "2023-10-25",
@@ -3706,12 +2693,12 @@
     "rebelity_total": 9,
     "rebelity_possible": 4270,
     "rebelity": 0.002108,
-    "name": "Peter Stachura",
+    "name": "403 403",
     "given_names": [
-      "Peter"
+      "403"
     ],
     "family_names": [
-      "Stachura"
+      "403"
     ],
     "organizations": [
       {
@@ -3731,26 +2718,19 @@
     "rebelity_total": 6,
     "rebelity_possible": 4371,
     "rebelity": 0.001373,
-    "name": "Tamara Stohlová",
+    "name": "403 403",
     "given_names": [
-      "Tamara"
+      "403"
     ],
     "family_names": [
-      "Stohlová"
+      "403"
     ],
     "organizations": [
       {
         "id": "nrsr:org:club:3",
         "classification": "group",
         "name": "Klub Progresívne Slovensko",
-        "since": "2023-11-14",
-        "until": "2026-10-15"
-      },
-      {
-        "id": "nrsr:org:club:3",
-        "classification": "group",
-        "name": "Klub Progresívne Slovensko",
-        "since": "2026-10-15"
+        "since": "2023-11-14"
       }
     ],
     "since": "2023-10-25",
@@ -3763,26 +2743,19 @@
     "rebelity_total": 3,
     "rebelity_possible": 4595,
     "rebelity": 0.000653,
-    "name": "Anton Stredák",
+    "name": "403 403",
     "given_names": [
-      "Anton"
+      "403"
     ],
     "family_names": [
-      "Stredák"
+      "403"
     ],
     "organizations": [
       {
         "id": "nrsr:org:club:5",
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
-        "since": "2023-11-14",
-        "until": "2026-10-15"
-      },
-      {
-        "id": "nrsr:org:club:5",
-        "classification": "group",
-        "name": "Klub SMER - sociálna demokracia",
-        "since": "2026-10-15"
+        "since": "2023-11-14"
       }
     ],
     "since": "2023-10-25",
@@ -3795,26 +2768,19 @@
     "rebelity_total": 2,
     "rebelity_possible": 4595,
     "rebelity": 0.000435,
-    "name": "Michal Stuška",
+    "name": "403 403",
     "given_names": [
-      "Michal"
+      "403"
     ],
     "family_names": [
-      "Stuška"
+      "403"
     ],
     "organizations": [
       {
         "id": "nrsr:org:club:5",
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
-        "since": "2023-11-14",
-        "until": "2026-10-15"
-      },
-      {
-        "id": "nrsr:org:club:5",
-        "classification": "group",
-        "name": "Klub SMER - sociálna demokracia",
-        "since": "2026-10-15"
+        "since": "2023-11-14"
       }
     ],
     "since": "2023-10-25",
@@ -3823,67 +2789,45 @@
     }
   },
   {
-    "person_id": "nrsr:person:1087",
-    "rebelity_total": 5,
-    "rebelity_possible": 4597,
-    "rebelity": 0.001088,
-    "name": "Zdenko Svoboda",
+    "person_id": "nrsr:person:767",
+    "rebelity_total": 4,
+    "rebelity_possible": 4400,
+    "rebelity": 0.000909,
+    "name": "403 403",
     "given_names": [
-      "Zdenko"
+      "403"
     ],
     "family_names": [
-      "Svoboda"
+      "403"
     ],
     "organizations": [
       {
-        "id": "nrsr:org:club:1",
+        "id": "nrsr:org:club:6",
         "classification": "group",
-        "name": "Klub HLAS - sociálna demokracia",
-        "since": "2023-11-14",
-        "until": "2026-10-15"
-      },
-      {
-        "id": "nrsr:org:club:1",
-        "classification": "group",
-        "name": "Klub HLAS - sociálna demokracia",
-        "since": "2026-10-15"
+        "name": "Klub Sloboda a Solidarita",
+        "since": "2023-11-14"
       }
     ],
     "since": "2023-10-25",
     "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1087&ImageWidth=140"
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=767&ImageWidth=140"
     }
   },
   {
-    "person_id": "nrsr:person:1217",
+    "person_id": "nrsr:person:877",
     "rebelity_total": 0,
-    "rebelity_possible": 3735,
-    "rebelity": 0.0,
-    "name": "Andrea Szabóová",
+    "rebelity_possible": 0,
+    "rebelity": null,
+    "name": "403 403",
     "given_names": [
-      "Andrea"
+      "403"
     ],
     "family_names": [
-      "Szabóová"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:1",
-        "classification": "group",
-        "name": "Klub HLAS - sociálna demokracia",
-        "since": "2024-04-18",
-        "until": "2026-10-15"
-      },
-      {
-        "id": "nrsr:org:club:1",
-        "classification": "group",
-        "name": "Klub HLAS - sociálna demokracia",
-        "since": "2026-10-15"
-      }
+      "403"
     ],
     "since": "2023-10-25",
     "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1217&ImageWidth=140"
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=877&ImageWidth=140"
     }
   },
   {
@@ -3891,26 +2835,19 @@
     "rebelity_total": 21,
     "rebelity_possible": 4400,
     "rebelity": 0.004773,
-    "name": "Tomáš Szalay",
+    "name": "403 403",
     "given_names": [
-      "Tomáš"
+      "403"
     ],
     "family_names": [
-      "Szalay"
+      "403"
     ],
     "organizations": [
       {
         "id": "nrsr:org:club:6",
         "classification": "group",
         "name": "Klub Sloboda a Solidarita",
-        "since": "2023-11-14",
-        "until": "2026-10-15"
-      },
-      {
-        "id": "nrsr:org:club:6",
-        "classification": "group",
-        "name": "Klub Sloboda a Solidarita",
-        "since": "2026-10-15"
+        "since": "2023-11-14"
       }
     ],
     "since": "2023-10-25",
@@ -3919,30 +2856,65 @@
     }
   },
   {
-    "person_id": "nrsr:person:1150",
-    "rebelity_total": 100,
-    "rebelity_possible": 4372,
-    "rebelity": 0.022873,
-    "name": "Ivan Ševčík",
+    "person_id": "nrsr:person:1175",
+    "rebelity_total": 12,
+    "rebelity_possible": 4607,
+    "rebelity": 0.002605,
+    "name": "403 403",
     "given_names": [
-      "Ivan"
+      "403"
     ],
     "family_names": [
-      "Ševčík"
+      "403"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:1",
+        "classification": "group",
+        "name": "Klub HLAS - sociálna demokracia",
+        "since": "2023-11-14"
+      }
+    ],
+    "since": "2023-10-25",
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1175&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1171",
+    "rebelity_total": 0,
+    "rebelity_possible": 0,
+    "rebelity": null,
+    "name": "403 403",
+    "given_names": [
+      "403"
+    ],
+    "family_names": [
+      "403"
+    ],
+    "since": "2023-10-25",
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1171&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1150",
+    "rebelity_total": 16,
+    "rebelity_possible": 4594,
+    "rebelity": 0.003483,
+    "name": "403 403",
+    "given_names": [
+      "403"
+    ],
+    "family_names": [
+      "403"
     ],
     "organizations": [
       {
         "id": "nrsr:org:club:7",
         "classification": "group",
         "name": "Klub Slovenská národná strana",
-        "since": "2023-11-14",
-        "until": "2024-10-22"
-      },
-      {
-        "id": "nrsr:org:nezavisli",
-        "classification": "group",
-        "name": "Nezávislí",
-        "since": "2024-10-22"
+        "since": "2023-11-14"
       }
     ],
     "since": "2023-10-25",
@@ -3955,26 +2927,19 @@
     "rebelity_total": 11,
     "rebelity_possible": 4371,
     "rebelity": 0.002517,
-    "name": "Michal Šimečka",
+    "name": "403 403",
     "given_names": [
-      "Michal"
+      "403"
     ],
     "family_names": [
-      "Šimečka"
+      "403"
     ],
     "organizations": [
       {
         "id": "nrsr:org:club:3",
         "classification": "group",
         "name": "Klub Progresívne Slovensko",
-        "since": "2023-11-14",
-        "until": "2026-10-15"
-      },
-      {
-        "id": "nrsr:org:club:3",
-        "classification": "group",
-        "name": "Klub Progresívne Slovensko",
-        "since": "2026-10-15"
+        "since": "2023-11-14"
       }
     ],
     "since": "2023-10-25",
@@ -3985,28 +2950,21 @@
   {
     "person_id": "nrsr:person:1177",
     "rebelity_total": 0,
-    "rebelity_possible": 4597,
+    "rebelity_possible": 4607,
     "rebelity": 0.0,
-    "name": "Igor Šimko",
+    "name": "403 403",
     "given_names": [
-      "Igor"
+      "403"
     ],
     "family_names": [
-      "Šimko"
+      "403"
     ],
     "organizations": [
       {
         "id": "nrsr:org:club:1",
         "classification": "group",
         "name": "Klub HLAS - sociálna demokracia",
-        "since": "2023-11-14",
-        "until": "2026-10-15"
-      },
-      {
-        "id": "nrsr:org:club:1",
-        "classification": "group",
-        "name": "Klub HLAS - sociálna demokracia",
-        "since": "2026-10-15"
+        "since": "2023-11-14"
       }
     ],
     "since": "2023-10-25",
@@ -4015,16 +2973,33 @@
     }
   },
   {
-    "person_id": "nrsr:person:1065",
-    "rebelity_total": 10,
-    "rebelity_possible": 4397,
-    "rebelity": 0.002274,
-    "name": "Michal Šipoš",
+    "person_id": "nrsr:person:918",
+    "rebelity_total": 0,
+    "rebelity_possible": 0,
+    "rebelity": null,
+    "name": "403 403",
     "given_names": [
-      "Michal"
+      "403"
     ],
     "family_names": [
-      "Šipoš"
+      "403"
+    ],
+    "since": "2023-10-25",
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=918&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1065",
+    "rebelity_total": 9,
+    "rebelity_possible": 4414,
+    "rebelity": 0.002039,
+    "name": "403 403",
+    "given_names": [
+      "403"
+    ],
+    "family_names": [
+      "403"
     ],
     "organizations": [
       {
@@ -4048,15 +3023,15 @@
   },
   {
     "person_id": "nrsr:person:1146",
-    "rebelity_total": 24,
-    "rebelity_possible": 4397,
-    "rebelity": 0.005458,
-    "name": "Anežka Škopová",
+    "rebelity_total": 23,
+    "rebelity_possible": 4414,
+    "rebelity": 0.005211,
+    "name": "403 403",
     "given_names": [
-      "Anežka"
+      "403"
     ],
     "family_names": [
-      "Škopová"
+      "403"
     ],
     "organizations": [
       {
@@ -4083,12 +3058,12 @@
     "rebelity_total": 14,
     "rebelity_possible": 4270,
     "rebelity": 0.003279,
-    "name": "Branislav Škripek",
+    "name": "403 403",
     "given_names": [
-      "Branislav"
+      "403"
     ],
     "family_names": [
-      "Škripek"
+      "403"
     ],
     "organizations": [
       {
@@ -4104,30 +3079,48 @@
     }
   },
   {
+    "person_id": "nrsr:person:1185",
+    "rebelity_total": 7,
+    "rebelity_possible": 4270,
+    "rebelity": 0.001639,
+    "name": "403 403",
+    "given_names": [
+      "403"
+    ],
+    "family_names": [
+      "403"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:2",
+        "classification": "group",
+        "name": "Klub KDH",
+        "since": "2023-11-14"
+      }
+    ],
+    "since": "2023-10-25",
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1185&ImageWidth=140"
+    }
+  },
+  {
     "person_id": "nrsr:person:1143",
     "rebelity_total": 4,
     "rebelity_possible": 4371,
     "rebelity": 0.000915,
-    "name": "Veronika Šrobová",
+    "name": "403 403",
     "given_names": [
-      "Veronika"
+      "403"
     ],
     "family_names": [
-      "Šrobová"
+      "403"
     ],
     "organizations": [
       {
         "id": "nrsr:org:club:3",
         "classification": "group",
         "name": "Klub Progresívne Slovensko",
-        "since": "2023-11-14",
-        "until": "2026-10-15"
-      },
-      {
-        "id": "nrsr:org:club:3",
-        "classification": "group",
-        "name": "Klub Progresívne Slovensko",
-        "since": "2026-10-15"
+        "since": "2023-11-14"
       }
     ],
     "since": "2023-10-25",
@@ -4140,26 +3133,19 @@
     "rebelity_total": 12,
     "rebelity_possible": 4371,
     "rebelity": 0.002745,
-    "name": "Ivan Štefunko",
+    "name": "403 403",
     "given_names": [
-      "Ivan"
+      "403"
     ],
     "family_names": [
-      "Štefunko"
+      "403"
     ],
     "organizations": [
       {
         "id": "nrsr:org:club:3",
         "classification": "group",
         "name": "Klub Progresívne Slovensko",
-        "since": "2023-11-14",
-        "until": "2026-10-15"
-      },
-      {
-        "id": "nrsr:org:club:3",
-        "classification": "group",
-        "name": "Klub Progresívne Slovensko",
-        "since": "2026-10-15"
+        "since": "2023-11-14"
       }
     ],
     "since": "2023-10-25",
@@ -4172,26 +3158,19 @@
     "rebelity_total": 4,
     "rebelity_possible": 4371,
     "rebelity": 0.000915,
-    "name": "Zuzana Števulová",
+    "name": "403 403",
     "given_names": [
-      "Zuzana"
+      "403"
     ],
     "family_names": [
-      "Števulová"
+      "403"
     ],
     "organizations": [
       {
         "id": "nrsr:org:club:3",
         "classification": "group",
         "name": "Klub Progresívne Slovensko",
-        "since": "2023-11-14",
-        "until": "2026-10-15"
-      },
-      {
-        "id": "nrsr:org:club:3",
-        "classification": "group",
-        "name": "Klub Progresívne Slovensko",
-        "since": "2026-10-15"
+        "since": "2023-11-14"
       }
     ],
     "since": "2023-10-25",
@@ -4204,26 +3183,19 @@
     "rebelity_total": 2,
     "rebelity_possible": 4595,
     "rebelity": 0.000435,
-    "name": "Peter Šuca",
+    "name": "403 403",
     "given_names": [
-      "Peter"
+      "403"
     ],
     "family_names": [
-      "Šuca"
+      "403"
     ],
     "organizations": [
       {
         "id": "nrsr:org:club:5",
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
-        "since": "2023-11-14",
-        "until": "2026-10-15"
-      },
-      {
-        "id": "nrsr:org:club:5",
-        "classification": "group",
-        "name": "Klub SMER - sociálna demokracia",
-        "since": "2026-10-15"
+        "since": "2023-11-14"
       }
     ],
     "since": "2023-10-25",
@@ -4232,16 +3204,50 @@
     }
   },
   {
+    "person_id": "nrsr:person:1069",
+    "rebelity_total": 0,
+    "rebelity_possible": 0,
+    "rebelity": null,
+    "name": "403 403",
+    "given_names": [
+      "403"
+    ],
+    "family_names": [
+      "403"
+    ],
+    "since": "2023-10-25",
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1069&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1071",
+    "rebelity_total": 0,
+    "rebelity_possible": 0,
+    "rebelity": null,
+    "name": "403 403",
+    "given_names": [
+      "403"
+    ],
+    "family_names": [
+      "403"
+    ],
+    "since": "2023-10-25",
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1071&ImageWidth=140"
+    }
+  },
+  {
     "person_id": "nrsr:person:1145",
     "rebelity_total": 26,
     "rebelity_possible": 4165,
     "rebelity": 0.006242,
-    "name": "Viliam Tankó",
+    "name": "403 403",
     "given_names": [
-      "Viliam"
+      "403"
     ],
     "family_names": [
-      "Tankó"
+      "403"
     ],
     "organizations": [
       {
@@ -4255,14 +3261,7 @@
         "id": "nrsr:org:club:3",
         "classification": "group",
         "name": "Klub Progresívne Slovensko",
-        "since": "2024-10-03",
-        "until": "2026-10-15"
-      },
-      {
-        "id": "nrsr:org:club:3",
-        "classification": "group",
-        "name": "Klub Progresívne Slovensko",
-        "since": "2026-10-15"
+        "since": "2024-10-03"
       }
     ],
     "since": "2023-10-25",
@@ -4273,22 +3272,14 @@
   {
     "person_id": "nrsr:person:1072",
     "rebelity_total": 0,
-    "rebelity_possible": 2967,
-    "rebelity": 0.0,
-    "name": "Tomáš Taraba",
+    "rebelity_possible": 0,
+    "rebelity": null,
+    "name": "403 403",
     "given_names": [
-      "Tomáš"
+      "403"
     ],
     "family_names": [
-      "Taraba"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:nezavisli",
-        "classification": "group",
-        "name": "Nezávislí",
-        "since": "2023-10-25"
-      }
+      "403"
     ],
     "since": "2023-10-25",
     "extras": {
@@ -4298,28 +3289,21 @@
   {
     "person_id": "nrsr:person:930",
     "rebelity_total": 3,
-    "rebelity_possible": 4597,
-    "rebelity": 0.000653,
-    "name": "Dušan Tittel",
+    "rebelity_possible": 4607,
+    "rebelity": 0.000651,
+    "name": "403 403",
     "given_names": [
-      "Dušan"
+      "403"
     ],
     "family_names": [
-      "Tittel"
+      "403"
     ],
     "organizations": [
       {
         "id": "nrsr:org:club:1",
         "classification": "group",
         "name": "Klub HLAS - sociálna demokracia",
-        "since": "2023-11-14",
-        "until": "2026-10-15"
-      },
-      {
-        "id": "nrsr:org:club:1",
-        "classification": "group",
-        "name": "Klub HLAS - sociálna demokracia",
-        "since": "2026-10-15"
+        "since": "2023-11-14"
       }
     ],
     "since": "2023-10-25",
@@ -4328,30 +3312,40 @@
     }
   },
   {
+    "person_id": "nrsr:person:940",
+    "rebelity_total": 0,
+    "rebelity_possible": 0,
+    "rebelity": null,
+    "name": "403 403",
+    "given_names": [
+      "403"
+    ],
+    "family_names": [
+      "403"
+    ],
+    "since": "2023-10-25",
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=940&ImageWidth=140"
+    }
+  },
+  {
     "person_id": "nrsr:person:1115",
     "rebelity_total": 14,
     "rebelity_possible": 4371,
     "rebelity": 0.003203,
-    "name": "Michal Truban",
+    "name": "403 403",
     "given_names": [
-      "Michal"
+      "403"
     ],
     "family_names": [
-      "Truban"
+      "403"
     ],
     "organizations": [
       {
         "id": "nrsr:org:club:3",
         "classification": "group",
         "name": "Klub Progresívne Slovensko",
-        "since": "2023-11-14",
-        "until": "2026-10-15"
-      },
-      {
-        "id": "nrsr:org:club:3",
-        "classification": "group",
-        "name": "Klub Progresívne Slovensko",
-        "since": "2026-10-15"
+        "since": "2023-11-14"
       }
     ],
     "since": "2023-10-25",
@@ -4364,12 +3358,12 @@
     "rebelity_total": 37,
     "rebelity_possible": 4270,
     "rebelity": 0.008665,
-    "name": "Andrea Turčanová",
+    "name": "403 403",
     "given_names": [
-      "Andrea"
+      "403"
     ],
     "family_names": [
-      "Turčanová"
+      "403"
     ],
     "organizations": [
       {
@@ -4389,26 +3383,19 @@
     "rebelity_total": 11,
     "rebelity_possible": 4371,
     "rebelity": 0.002517,
-    "name": "Tomáš Valášek",
+    "name": "403 403",
     "given_names": [
-      "Tomáš"
+      "403"
     ],
     "family_names": [
-      "Valášek"
+      "403"
     ],
     "organizations": [
       {
         "id": "nrsr:org:club:3",
         "classification": "group",
         "name": "Klub Progresívne Slovensko",
-        "since": "2023-11-14",
-        "until": "2026-10-15"
-      },
-      {
-        "id": "nrsr:org:club:3",
-        "classification": "group",
-        "name": "Klub Progresívne Slovensko",
-        "since": "2026-10-15"
+        "since": "2023-11-14"
       }
     ],
     "since": "2023-10-25",
@@ -4417,62 +3404,23 @@
     }
   },
   {
-    "person_id": "nrsr:person:1193",
-    "rebelity_total": 2,
-    "rebelity_possible": 4595,
-    "rebelity": 0.000435,
-    "name": "Igor Válek",
-    "given_names": [
-      "Igor"
-    ],
-    "family_names": [
-      "Válek"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:5",
-        "classification": "group",
-        "name": "Klub SMER - sociálna demokracia",
-        "since": "2023-11-14",
-        "until": "2026-10-15"
-      },
-      {
-        "id": "nrsr:org:club:5",
-        "classification": "group",
-        "name": "Klub SMER - sociálna demokracia",
-        "since": "2026-10-15"
-      }
-    ],
-    "since": "2023-10-25",
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1193&ImageWidth=140"
-    }
-  },
-  {
     "person_id": "nrsr:person:705",
     "rebelity_total": 4,
     "rebelity_possible": 4595,
     "rebelity": 0.000871,
-    "name": "Jozef Valocký",
+    "name": "403 403",
     "given_names": [
-      "Jozef"
+      "403"
     ],
     "family_names": [
-      "Valocký"
+      "403"
     ],
     "organizations": [
       {
         "id": "nrsr:org:club:5",
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
-        "since": "2023-11-14",
-        "until": "2026-10-15"
-      },
-      {
-        "id": "nrsr:org:club:5",
-        "classification": "group",
-        "name": "Klub SMER - sociálna demokracia",
-        "since": "2026-10-15"
+        "since": "2023-11-14"
       }
     ],
     "since": "2023-10-25",
@@ -4481,389 +3429,16 @@
     }
   },
   {
-    "person_id": "nrsr:person:1135",
-    "rebelity_total": 6,
-    "rebelity_possible": 4371,
-    "rebelity": 0.001373,
-    "name": "Branislav Vančo",
-    "given_names": [
-      "Branislav"
-    ],
-    "family_names": [
-      "Vančo"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:3",
-        "classification": "group",
-        "name": "Klub Progresívne Slovensko",
-        "since": "2023-11-14",
-        "until": "2026-10-15"
-      },
-      {
-        "id": "nrsr:org:club:3",
-        "classification": "group",
-        "name": "Klub Progresívne Slovensko",
-        "since": "2026-10-15"
-      }
-    ],
-    "since": "2023-10-25",
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1135&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:861",
-    "rebelity_total": 466,
-    "rebelity_possible": 4252,
-    "rebelity": 0.109595,
-    "name": "Richard Vašečka",
-    "given_names": [
-      "Richard"
-    ],
-    "family_names": [
-      "Vašečka"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:4",
-        "classification": "group",
-        "name": "Klub SLOVENSKO - ZA ĽUDÍ",
-        "since": "2023-11-14",
-        "until": "2025-10-01"
-      },
-      {
-        "id": "nrsr:org:nezavisli",
-        "classification": "group",
-        "name": "Nezávislí",
-        "since": "2025-10-01"
-      }
-    ],
-    "since": "2023-10-25",
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=861&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:293",
-    "rebelity_total": 17,
-    "rebelity_possible": 4595,
-    "rebelity": 0.0037,
-    "name": "Ľubomír Vážny",
-    "given_names": [
-      "Ľubomír"
-    ],
-    "family_names": [
-      "Vážny"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:5",
-        "classification": "group",
-        "name": "Klub SMER - sociálna demokracia",
-        "since": "2023-11-14",
-        "until": "2026-10-15"
-      },
-      {
-        "id": "nrsr:org:club:5",
-        "classification": "group",
-        "name": "Klub SMER - sociálna demokracia",
-        "since": "2026-10-15"
-      }
-    ],
-    "since": "2023-10-25",
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=293&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:1141",
-    "rebelity_total": 2,
-    "rebelity_possible": 4371,
-    "rebelity": 0.000458,
-    "name": "Veronika Veslárová",
-    "given_names": [
-      "Veronika"
-    ],
-    "family_names": [
-      "Veslárová"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:3",
-        "classification": "group",
-        "name": "Klub Progresívne Slovensko",
-        "since": "2023-11-14",
-        "until": "2026-10-15"
-      },
-      {
-        "id": "nrsr:org:club:3",
-        "classification": "group",
-        "name": "Klub Progresívne Slovensko",
-        "since": "2026-10-15"
-      }
-    ],
-    "since": "2023-10-25",
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1141&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:991",
-    "rebelity_total": 21,
-    "rebelity_possible": 4400,
-    "rebelity": 0.004773,
-    "name": "Marián Viskupič",
-    "given_names": [
-      "Marián"
-    ],
-    "family_names": [
-      "Viskupič"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:6",
-        "classification": "group",
-        "name": "Klub Sloboda a Solidarita",
-        "since": "2023-11-14",
-        "until": "2026-10-15"
-      },
-      {
-        "id": "nrsr:org:club:6",
-        "classification": "group",
-        "name": "Klub Sloboda a Solidarita",
-        "since": "2026-10-15"
-      }
-    ],
-    "since": "2023-10-25",
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=991&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:1176",
-    "rebelity_total": 7,
-    "rebelity_possible": 4597,
-    "rebelity": 0.001523,
-    "name": "Erik Vlček",
-    "given_names": [
-      "Erik"
-    ],
-    "family_names": [
-      "Vlček"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:1",
-        "classification": "group",
-        "name": "Klub HLAS - sociálna demokracia",
-        "since": "2023-11-14",
-        "until": "2026-10-15"
-      },
-      {
-        "id": "nrsr:org:club:1",
-        "classification": "group",
-        "name": "Klub HLAS - sociálna demokracia",
-        "since": "2026-10-15"
-      }
-    ],
-    "since": "2023-10-25",
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1176&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:1019",
-    "rebelity_total": 0,
-    "rebelity_possible": 4595,
-    "rebelity": 0.0,
-    "name": "Viliam Zahorčák",
-    "given_names": [
-      "Viliam"
-    ],
-    "family_names": [
-      "Zahorčák"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:5",
-        "classification": "group",
-        "name": "Klub SMER - sociálna demokracia",
-        "since": "2023-11-14",
-        "until": "2026-10-15"
-      },
-      {
-        "id": "nrsr:org:club:5",
-        "classification": "group",
-        "name": "Klub SMER - sociálna demokracia",
-        "since": "2026-10-15"
-      }
-    ],
-    "since": "2023-10-25",
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1019&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:691",
-    "rebelity_total": 1,
-    "rebelity_possible": 4597,
-    "rebelity": 0.000218,
-    "name": "Peter Žiga",
-    "given_names": [
-      "Peter"
-    ],
-    "family_names": [
-      "Žiga"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:1",
-        "classification": "group",
-        "name": "Klub HLAS - sociálna demokracia",
-        "since": "2023-11-14",
-        "until": "2026-10-15"
-      },
-      {
-        "id": "nrsr:org:club:1",
-        "classification": "group",
-        "name": "Klub HLAS - sociálna demokracia",
-        "since": "2026-10-15"
-      }
-    ],
-    "since": "2023-10-25",
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=691&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:1198",
-    "rebelity_total": 4,
-    "rebelity_possible": 4593,
-    "rebelity": 0.000871,
-    "name": "Milan Garaj",
-    "given_names": [
-      "Milan"
-    ],
-    "family_names": [
-      "Garaj"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:7",
-        "classification": "group",
-        "name": "Klub Slovenská národná strana",
-        "since": "2023-11-14"
-      }
-    ],
-    "since": "2023-10-25",
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1198&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:1220",
-    "rebelity_total": 0,
-    "rebelity_possible": 0,
-    "rebelity": null,
-    "name": "Miroslav Radačovský",
-    "given_names": [
-      "Miroslav"
-    ],
-    "family_names": [
-      "Radačovský"
-    ],
-    "since": "2023-10-25",
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1220&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:1023",
-    "rebelity_total": 0,
-    "rebelity_possible": 1174,
-    "rebelity": 0.0,
-    "name": "Peter Kmec",
-    "given_names": [
-      "Peter"
-    ],
-    "family_names": [
-      "Kmec"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:1",
-        "classification": "group",
-        "name": "Klub HLAS - sociálna demokracia",
-        "since": "2025-11-25"
-      }
-    ],
-    "since": "2023-10-25",
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1023&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:1181",
-    "rebelity_total": 4,
-    "rebelity_possible": 4270,
-    "rebelity": 0.000937,
-    "name": "Jozef Hajko",
-    "given_names": [
-      "Jozef"
-    ],
-    "family_names": [
-      "Hajko"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:2",
-        "classification": "group",
-        "name": "Klub KDH",
-        "since": "2023-11-14"
-      }
-    ],
-    "since": "2023-10-25",
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1181&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:1185",
-    "rebelity_total": 7,
-    "rebelity_possible": 4270,
-    "rebelity": 0.001639,
-    "name": "Martin Šmilňák",
-    "given_names": [
-      "Martin"
-    ],
-    "family_names": [
-      "Šmilňák"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:2",
-        "classification": "group",
-        "name": "Klub KDH",
-        "since": "2023-11-14"
-      }
-    ],
-    "since": "2023-10-25",
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1185&ImageWidth=140"
-    }
-  },
-  {
     "person_id": "nrsr:person:732",
     "rebelity_total": 16,
     "rebelity_possible": 4595,
     "rebelity": 0.003482,
-    "name": "Jana Vaľová",
+    "name": "403 403",
     "given_names": [
-      "Jana"
+      "403"
     ],
     "family_names": [
-      "Vaľová"
+      "403"
     ],
     "organizations": [
       {
@@ -4879,16 +3454,16 @@
     }
   },
   {
-    "person_id": "nrsr:person:1137",
-    "rebelity_total": 3,
+    "person_id": "nrsr:person:1135",
+    "rebelity_total": 6,
     "rebelity_possible": 4371,
-    "rebelity": 0.000686,
-    "name": "Viera Kalmárová",
+    "rebelity": 0.001373,
+    "name": "403 403",
     "given_names": [
-      "Viera"
+      "403"
     ],
     "family_names": [
-      "Kalmárová"
+      "403"
     ],
     "organizations": [
       {
@@ -4900,20 +3475,145 @@
     ],
     "since": "2023-10-25",
     "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1137&ImageWidth=140"
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1135&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:861",
+    "rebelity_total": 61,
+    "rebelity_possible": 4414,
+    "rebelity": 0.01382,
+    "name": "403 403",
+    "given_names": [
+      "403"
+    ],
+    "family_names": [
+      "403"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:4",
+        "classification": "group",
+        "name": "Klub SLOVENSKO - ZA ĽUDÍ",
+        "since": "2023-11-14"
+      }
+    ],
+    "since": "2023-10-25",
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=861&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:293",
+    "rebelity_total": 17,
+    "rebelity_possible": 4595,
+    "rebelity": 0.0037,
+    "name": "403 403",
+    "given_names": [
+      "403"
+    ],
+    "family_names": [
+      "403"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:5",
+        "classification": "group",
+        "name": "Klub SMER - sociálna demokracia",
+        "since": "2023-11-14"
+      }
+    ],
+    "since": "2023-10-25",
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=293&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1141",
+    "rebelity_total": 2,
+    "rebelity_possible": 4371,
+    "rebelity": 0.000458,
+    "name": "403 403",
+    "given_names": [
+      "403"
+    ],
+    "family_names": [
+      "403"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:3",
+        "classification": "group",
+        "name": "Klub Progresívne Slovensko",
+        "since": "2023-11-14"
+      }
+    ],
+    "since": "2023-10-25",
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1141&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:991",
+    "rebelity_total": 21,
+    "rebelity_possible": 4400,
+    "rebelity": 0.004773,
+    "name": "403 403",
+    "given_names": [
+      "403"
+    ],
+    "family_names": [
+      "403"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:6",
+        "classification": "group",
+        "name": "Klub Sloboda a Solidarita",
+        "since": "2023-11-14"
+      }
+    ],
+    "since": "2023-10-25",
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=991&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1176",
+    "rebelity_total": 7,
+    "rebelity_possible": 4607,
+    "rebelity": 0.001519,
+    "name": "403 403",
+    "given_names": [
+      "403"
+    ],
+    "family_names": [
+      "403"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:1",
+        "classification": "group",
+        "name": "Klub HLAS - sociálna demokracia",
+        "since": "2023-11-14"
+      }
+    ],
+    "since": "2023-10-25",
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1176&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:147",
-    "rebelity_total": 41,
-    "rebelity_possible": 4397,
-    "rebelity": 0.009325,
-    "name": "Anna Záborská",
+    "rebelity_total": 40,
+    "rebelity_possible": 4414,
+    "rebelity": 0.009062,
+    "name": "403 403",
     "given_names": [
-      "Anna"
+      "403"
     ],
     "family_names": [
-      "Záborská"
+      "403"
     ],
     "organizations": [
       {
@@ -4929,16 +3629,41 @@
     }
   },
   {
-    "person_id": "nrsr:person:1175",
-    "rebelity_total": 12,
-    "rebelity_possible": 4597,
-    "rebelity": 0.00261,
-    "name": "Radomír Šalitroš",
+    "person_id": "nrsr:person:1019",
+    "rebelity_total": 0,
+    "rebelity_possible": 4595,
+    "rebelity": 0.0,
+    "name": "403 403",
     "given_names": [
-      "Radomír"
+      "403"
     ],
     "family_names": [
-      "Šalitroš"
+      "403"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:5",
+        "classification": "group",
+        "name": "Klub SMER - sociálna demokracia",
+        "since": "2023-11-14"
+      }
+    ],
+    "since": "2023-10-25",
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1019&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:691",
+    "rebelity_total": 1,
+    "rebelity_possible": 4607,
+    "rebelity": 0.000217,
+    "name": "403 403",
+    "given_names": [
+      "403"
+    ],
+    "family_names": [
+      "403"
     ],
     "organizations": [
       {
@@ -4950,20 +3675,245 @@
     ],
     "since": "2023-10-25",
     "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1175&ImageWidth=140"
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=691&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1195",
+    "rebelity_total": 3,
+    "rebelity_possible": 4607,
+    "rebelity": 0.000651,
+    "name": "403 403",
+    "given_names": [
+      "403"
+    ],
+    "family_names": [
+      "403"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:1",
+        "classification": "group",
+        "name": "Klub HLAS - sociálna demokracia",
+        "since": "2023-11-14"
+      }
+    ],
+    "since": "2023-10-25",
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1195&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1203",
+    "rebelity_total": 8,
+    "rebelity_possible": 4607,
+    "rebelity": 0.001736,
+    "name": "403 403",
+    "given_names": [
+      "403"
+    ],
+    "family_names": [
+      "403"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:1",
+        "classification": "group",
+        "name": "Klub HLAS - sociálna demokracia",
+        "since": "2023-11-14"
+      }
+    ],
+    "since": "2023-10-25",
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1203&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1198",
+    "rebelity_total": 5,
+    "rebelity_possible": 4594,
+    "rebelity": 0.001088,
+    "name": "403 403",
+    "given_names": [
+      "403"
+    ],
+    "family_names": [
+      "403"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:7",
+        "classification": "group",
+        "name": "Klub Slovenská národná strana",
+        "since": "2023-11-14"
+      }
+    ],
+    "since": "2023-10-25",
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1198&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:892",
+    "rebelity_total": 1,
+    "rebelity_possible": 4607,
+    "rebelity": 0.000217,
+    "name": "403 403",
+    "given_names": [
+      "403"
+    ],
+    "family_names": [
+      "403"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:1",
+        "classification": "group",
+        "name": "Klub HLAS - sociálna demokracia",
+        "since": "2023-11-14"
+      }
+    ],
+    "since": "2023-10-25",
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=892&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1192",
+    "rebelity_total": 5,
+    "rebelity_possible": 4595,
+    "rebelity": 0.001088,
+    "name": "403 403",
+    "given_names": [
+      "403"
+    ],
+    "family_names": [
+      "403"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:5",
+        "classification": "group",
+        "name": "Klub SMER - sociálna demokracia",
+        "since": "2023-11-14"
+      }
+    ],
+    "since": "2023-10-25",
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1192&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1202",
+    "rebelity_total": 0,
+    "rebelity_possible": 2432,
+    "rebelity": 0.0,
+    "name": "403 403",
+    "given_names": [
+      "403"
+    ],
+    "family_names": [
+      "403"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:1",
+        "classification": "group",
+        "name": "Klub HLAS - sociálna demokracia",
+        "since": "2025-03-25"
+      }
+    ],
+    "since": "2023-10-25",
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1202&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1200",
+    "rebelity_total": 2,
+    "rebelity_possible": 4595,
+    "rebelity": 0.000435,
+    "name": "403 403",
+    "given_names": [
+      "403"
+    ],
+    "family_names": [
+      "403"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:5",
+        "classification": "group",
+        "name": "Klub SMER - sociálna demokracia",
+        "since": "2023-11-14"
+      }
+    ],
+    "since": "2023-10-25",
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1200&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1199",
+    "rebelity_total": 8,
+    "rebelity_possible": 4594,
+    "rebelity": 0.001741,
+    "name": "403 403",
+    "given_names": [
+      "403"
+    ],
+    "family_names": [
+      "403"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:7",
+        "classification": "group",
+        "name": "Klub Slovenská národná strana",
+        "since": "2023-11-14"
+      }
+    ],
+    "since": "2023-10-25",
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1199&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:733",
+    "rebelity_total": 2,
+    "rebelity_possible": 4595,
+    "rebelity": 0.000435,
+    "name": "403 403",
+    "given_names": [
+      "403"
+    ],
+    "family_names": [
+      "403"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:5",
+        "classification": "group",
+        "name": "Klub SMER - sociálna demokracia",
+        "since": "2023-11-14"
+      }
+    ],
+    "since": "2023-10-25",
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=733&ImageWidth=140"
     }
   },
   {
     "person_id": "nrsr:person:1201",
     "rebelity_total": 9,
-    "rebelity_possible": 4597,
-    "rebelity": 0.001958,
-    "name": "Samuel Migaľ",
+    "rebelity_possible": 4607,
+    "rebelity": 0.001954,
+    "name": "403 403",
     "given_names": [
-      "Samuel"
+      "403"
     ],
     "family_names": [
-      "Migaľ"
+      "403"
     ],
     "organizations": [
       {
@@ -4979,16 +3929,166 @@
     }
   },
   {
-    "person_id": "nrsr:person:1148",
+    "person_id": "nrsr:person:1196",
     "rebelity_total": 1,
-    "rebelity_possible": 4593,
-    "rebelity": 0.000218,
-    "name": "Rudolf Huliak",
+    "rebelity_possible": 4607,
+    "rebelity": 0.000217,
+    "name": "403 403",
     "given_names": [
-      "Rudolf"
+      "403"
     ],
     "family_names": [
-      "Huliak"
+      "403"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:1",
+        "classification": "group",
+        "name": "Klub HLAS - sociálna demokracia",
+        "since": "2023-11-14"
+      }
+    ],
+    "since": "2023-10-25",
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1196&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1194",
+    "rebelity_total": 1,
+    "rebelity_possible": 4595,
+    "rebelity": 0.000218,
+    "name": "403 403",
+    "given_names": [
+      "403"
+    ],
+    "family_names": [
+      "403"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:5",
+        "classification": "group",
+        "name": "Klub SMER - sociálna demokracia",
+        "since": "2023-11-14"
+      }
+    ],
+    "since": "2023-10-25",
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1194&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1191",
+    "rebelity_total": 1,
+    "rebelity_possible": 4595,
+    "rebelity": 0.000218,
+    "name": "403 403",
+    "given_names": [
+      "403"
+    ],
+    "family_names": [
+      "403"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:5",
+        "classification": "group",
+        "name": "Klub SMER - sociálna demokracia",
+        "since": "2023-11-14"
+      }
+    ],
+    "since": "2023-10-25",
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1191&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1197",
+    "rebelity_total": 2,
+    "rebelity_possible": 4607,
+    "rebelity": 0.000434,
+    "name": "403 403",
+    "given_names": [
+      "403"
+    ],
+    "family_names": [
+      "403"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:1",
+        "classification": "group",
+        "name": "Klub HLAS - sociálna demokracia",
+        "since": "2023-11-14"
+      }
+    ],
+    "since": "2023-10-25",
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1197&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1193",
+    "rebelity_total": 2,
+    "rebelity_possible": 4595,
+    "rebelity": 0.000435,
+    "name": "403 403",
+    "given_names": [
+      "403"
+    ],
+    "family_names": [
+      "403"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:5",
+        "classification": "group",
+        "name": "Klub SMER - sociálna demokracia",
+        "since": "2023-11-14"
+      }
+    ],
+    "since": "2023-10-25",
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1193&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1207",
+    "rebelity_total": 3,
+    "rebelity_possible": 4607,
+    "rebelity": 0.000651,
+    "name": "403 403",
+    "given_names": [
+      "403"
+    ],
+    "family_names": [
+      "403"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:1",
+        "classification": "group",
+        "name": "Klub HLAS - sociálna demokracia",
+        "since": "2023-11-14"
+      }
+    ],
+    "since": "2023-10-25",
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1207&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:931",
+    "rebelity_total": 7,
+    "rebelity_possible": 4594,
+    "rebelity": 0.001524,
+    "name": "403 403",
+    "given_names": [
+      "403"
+    ],
+    "family_names": [
+      "403"
     ],
     "organizations": [
       {
@@ -5000,564 +4100,581 @@
     ],
     "since": "2023-10-25",
     "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1148&ImageWidth=140"
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=931&ImageWidth=140"
     }
   },
   {
-    "person_id": "nrsr:person:1168",
+    "person_id": "nrsr:person:738",
     "rebelity_total": 0,
-    "rebelity_possible": 0,
-    "rebelity": null,
-    "name": "Zuzana Dolinková",
+    "rebelity_possible": 4595,
+    "rebelity": 0.0,
+    "name": "403 403",
     "given_names": [
-      "Zuzana"
+      "403"
     ],
     "family_names": [
-      "Dolinková"
+      "403"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:5",
+        "classification": "group",
+        "name": "Klub SMER - sociálna demokracia",
+        "since": "2023-11-14"
+      }
     ],
     "since": "2023-10-25",
     "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1168&ImageWidth=140"
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=738&ImageWidth=140"
     }
   },
   {
-    "person_id": "nrsr:person:767",
-    "rebelity_total": 4,
-    "rebelity_possible": 4400,
-    "rebelity": 0.000909,
-    "name": "Richard Sulík",
+    "person_id": "nrsr:person:1205",
+    "rebelity_total": 1,
+    "rebelity_possible": 4595,
+    "rebelity": 0.000218,
+    "name": "403 403",
     "given_names": [
-      "Richard"
+      "403"
     ],
     "family_names": [
-      "Sulík"
+      "403"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:5",
+        "classification": "group",
+        "name": "Klub SMER - sociálna demokracia",
+        "since": "2023-11-14"
+      }
+    ],
+    "since": "2023-10-25",
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1205&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1210",
+    "rebelity_total": 4,
+    "rebelity_possible": 4594,
+    "rebelity": 0.000871,
+    "name": "403 403",
+    "given_names": [
+      "403"
+    ],
+    "family_names": [
+      "403"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:7",
+        "classification": "group",
+        "name": "Klub Slovenská národná strana",
+        "since": "2023-11-14"
+      }
+    ],
+    "since": "2023-10-25",
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1210&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1211",
+    "rebelity_total": 2,
+    "rebelity_possible": 4607,
+    "rebelity": 0.000434,
+    "name": "403 403",
+    "given_names": [
+      "403"
+    ],
+    "family_names": [
+      "403"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:1",
+        "classification": "group",
+        "name": "Klub HLAS - sociálna demokracia",
+        "since": "2023-11-14"
+      }
+    ],
+    "since": "2023-10-25",
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1211&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1204",
+    "rebelity_total": 3,
+    "rebelity_possible": 4595,
+    "rebelity": 0.000653,
+    "name": "403 403",
+    "given_names": [
+      "403"
+    ],
+    "family_names": [
+      "403"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:5",
+        "classification": "group",
+        "name": "Klub SMER - sociálna demokracia",
+        "since": "2023-11-14"
+      }
+    ],
+    "since": "2023-10-25",
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1204&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1208",
+    "rebelity_total": 3,
+    "rebelity_possible": 4607,
+    "rebelity": 0.000651,
+    "name": "403 403",
+    "given_names": [
+      "403"
+    ],
+    "family_names": [
+      "403"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:1",
+        "classification": "group",
+        "name": "Klub HLAS - sociálna demokracia",
+        "since": "2023-11-14"
+      }
+    ],
+    "since": "2023-10-25",
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1208&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1206",
+    "rebelity_total": 1,
+    "rebelity_possible": 4595,
+    "rebelity": 0.000218,
+    "name": "403 403",
+    "given_names": [
+      "403"
+    ],
+    "family_names": [
+      "403"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:5",
+        "classification": "group",
+        "name": "Klub SMER - sociálna demokracia",
+        "since": "2023-11-14"
+      }
+    ],
+    "since": "2023-10-25",
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1206&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1087",
+    "rebelity_total": 5,
+    "rebelity_possible": 4607,
+    "rebelity": 0.001085,
+    "name": "403 403",
+    "given_names": [
+      "403"
+    ],
+    "family_names": [
+      "403"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:1",
+        "classification": "group",
+        "name": "Klub HLAS - sociálna demokracia",
+        "since": "2023-11-14"
+      }
+    ],
+    "since": "2023-10-25",
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1087&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1212",
+    "rebelity_total": 2,
+    "rebelity_possible": 4336,
+    "rebelity": 0.000461,
+    "name": "403 403",
+    "given_names": [
+      "403"
+    ],
+    "family_names": [
+      "403"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:3",
+        "classification": "group",
+        "name": "Klub Progresívne Slovensko",
+        "since": "2023-12-06"
+      }
+    ],
+    "since": "2023-10-25",
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1212&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1214",
+    "rebelity_total": 5,
+    "rebelity_possible": 4336,
+    "rebelity": 0.001153,
+    "name": "403 403",
+    "given_names": [
+      "403"
+    ],
+    "family_names": [
+      "403"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:5",
+        "classification": "group",
+        "name": "Klub SMER - sociálna demokracia",
+        "since": "2024-02-08"
+      }
+    ],
+    "since": "2023-10-25",
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1214&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1213",
+    "rebelity_total": 3,
+    "rebelity_possible": 4190,
+    "rebelity": 0.000716,
+    "name": "403 403",
+    "given_names": [
+      "403"
+    ],
+    "family_names": [
+      "403"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:3",
+        "classification": "group",
+        "name": "Klub Progresívne Slovensko",
+        "since": "2024-02-08"
+      }
+    ],
+    "since": "2023-10-25",
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1213&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1216",
+    "rebelity_total": 2,
+    "rebelity_possible": 3745,
+    "rebelity": 0.000534,
+    "name": "403 403",
+    "given_names": [
+      "403"
+    ],
+    "family_names": [
+      "403"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:1",
+        "classification": "group",
+        "name": "Klub HLAS - sociálna demokracia",
+        "since": "2024-04-18"
+      }
+    ],
+    "since": "2023-10-25",
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1216&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1217",
+    "rebelity_total": 0,
+    "rebelity_possible": 3745,
+    "rebelity": 0.0,
+    "name": "403 403",
+    "given_names": [
+      "403"
+    ],
+    "family_names": [
+      "403"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:1",
+        "classification": "group",
+        "name": "Klub HLAS - sociálna demokracia",
+        "since": "2024-04-18"
+      }
+    ],
+    "since": "2023-10-25",
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1217&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1219",
+    "rebelity_total": 3,
+    "rebelity_possible": 3244,
+    "rebelity": 0.000925,
+    "name": "403 403",
+    "given_names": [
+      "403"
+    ],
+    "family_names": [
+      "403"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:5",
+        "classification": "group",
+        "name": "Klub SMER - sociálna demokracia",
+        "since": "2024-07-15"
+      }
+    ],
+    "since": "2023-10-25",
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1219&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:1218",
+    "rebelity_total": 1,
+    "rebelity_possible": 3244,
+    "rebelity": 0.000308,
+    "name": "403 403",
+    "given_names": [
+      "403"
+    ],
+    "family_names": [
+      "403"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:5",
+        "classification": "group",
+        "name": "Klub SMER - sociálna demokracia",
+        "since": "2024-07-15"
+      }
+    ],
+    "since": "2023-10-25",
+    "extras": {
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1218&ImageWidth=140"
+    }
+  },
+  {
+    "person_id": "nrsr:person:966",
+    "rebelity_total": 7,
+    "rebelity_possible": 3183,
+    "rebelity": 0.002199,
+    "name": "403 403",
+    "given_names": [
+      "403"
+    ],
+    "family_names": [
+      "403"
     ],
     "organizations": [
       {
         "id": "nrsr:org:club:6",
         "classification": "group",
         "name": "Klub Sloboda a Solidarita",
-        "since": "2023-11-14"
+        "since": "2024-09-10"
       }
     ],
     "since": "2023-10-25",
     "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=767&ImageWidth=140"
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=966&ImageWidth=140"
     }
   },
   {
-    "person_id": "nrsr:person:885",
-    "rebelity_total": 0,
-    "rebelity_possible": 4595,
-    "rebelity": 0.0,
-    "name": "Ľuboš Blaha",
-    "given_names": [
-      "Ľuboš"
-    ],
-    "family_names": [
-      "Blaha"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:5",
-        "classification": "group",
-        "name": "Klub SMER - sociálna demokracia",
-        "since": "2023-11-14"
-      }
-    ],
-    "since": "2023-10-25",
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=885&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:238",
+    "person_id": "nrsr:person:1220",
     "rebelity_total": 0,
     "rebelity_possible": 0,
     "rebelity": null,
-    "name": "Juraj Blanár",
+    "name": "403 403",
     "given_names": [
-      "Juraj"
+      "403"
     ],
     "family_names": [
-      "Blanár"
+      "403"
     ],
     "since": "2023-10-25",
     "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=238&ImageWidth=140"
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1220&ImageWidth=140"
     }
   },
   {
-    "person_id": "nrsr:person:1164",
-    "rebelity_total": 0,
-    "rebelity_possible": 0,
-    "rebelity": null,
-    "name": "Tomáš Drucker",
+    "person_id": "nrsr:person:1222",
+    "rebelity_total": 1,
+    "rebelity_possible": 1693,
+    "rebelity": 0.000591,
+    "name": "403 403",
     "given_names": [
-      "Tomáš"
+      "403"
     ],
     "family_names": [
-      "Drucker"
-    ],
-    "since": "2023-10-25",
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1164&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:40",
-    "rebelity_total": 0,
-    "rebelity_possible": 0,
-    "rebelity": null,
-    "name": "Robert Fico",
-    "given_names": [
-      "Robert"
-    ],
-    "family_names": [
-      "Fico"
-    ],
-    "since": "2023-10-25",
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=40&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:1155",
-    "rebelity_total": 0,
-    "rebelity_possible": 0,
-    "rebelity": null,
-    "name": "Juraj Gedra",
-    "given_names": [
-      "Juraj"
-    ],
-    "family_names": [
-      "Gedra"
-    ],
-    "since": "2023-10-25",
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1155&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:1136",
-    "rebelity_total": 0,
-    "rebelity_possible": 4371,
-    "rebelity": 0.0,
-    "name": "Tomáš Hellebrandt",
-    "given_names": [
-      "Tomáš"
-    ],
-    "family_names": [
-      "Hellebrandt"
+      "403"
     ],
     "organizations": [
       {
         "id": "nrsr:org:club:3",
         "classification": "group",
         "name": "Klub Progresívne Slovensko",
-        "since": "2023-11-14"
+        "since": "2025-09-09"
       }
     ],
     "since": "2023-10-25",
     "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1136&ImageWidth=140"
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1222&ImageWidth=140"
     }
   },
   {
-    "person_id": "nrsr:person:790",
-    "rebelity_total": 0,
-    "rebelity_possible": 0,
-    "rebelity": null,
-    "name": "Igor Choma",
+    "person_id": "nrsr:person:1221",
+    "rebelity_total": 2,
+    "rebelity_possible": 1695,
+    "rebelity": 0.00118,
+    "name": "403 403",
     "given_names": [
-      "Igor"
+      "403"
     ],
     "family_names": [
-      "Choma"
+      "403"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:4",
+        "classification": "group",
+        "name": "Klub SLOVENSKO - ZA ĽUDÍ",
+        "since": "2025-09-09",
+        "until": "2026-09-17"
+      },
+      {
+        "id": "nrsr:org:club:4",
+        "classification": "group",
+        "name": "Klub SLOVENSKO - ZA ĽUDÍ",
+        "since": "2026-09-23"
+      }
     ],
     "since": "2023-10-25",
     "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=790&ImageWidth=140"
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1221&ImageWidth=140"
     }
   },
   {
-    "person_id": "nrsr:person:1153",
-    "rebelity_total": 1,
-    "rebelity_possible": 4595,
-    "rebelity": 0.000218,
-    "name": "Erik Kaliňák",
+    "person_id": "nrsr:person:1223",
+    "rebelity_total": 0,
+    "rebelity_possible": 1175,
+    "rebelity": 0.0,
+    "name": "403 403",
     "given_names": [
-      "Erik"
+      "403"
     ],
     "family_names": [
-      "Kaliňák"
+      "403"
     ],
     "organizations": [
       {
         "id": "nrsr:org:club:5",
         "classification": "group",
         "name": "Klub SMER - sociálna demokracia",
-        "since": "2023-11-14"
+        "since": "2025-11-25"
       }
     ],
     "since": "2023-10-25",
     "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1153&ImageWidth=140"
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1223&ImageWidth=140"
     }
   },
   {
-    "person_id": "nrsr:person:1165",
-    "rebelity_total": 0,
-    "rebelity_possible": 0,
-    "rebelity": null,
-    "name": "Michal Kaliňák",
+    "person_id": "nrsr:person:1224",
+    "rebelity_total": 2,
+    "rebelity_possible": 975,
+    "rebelity": 0.002051,
+    "name": "403 403",
     "given_names": [
-      "Michal"
+      "403"
     ],
     "family_names": [
-      "Kaliňák"
+      "403"
+    ],
+    "organizations": [
+      {
+        "id": "nrsr:org:club:2",
+        "classification": "group",
+        "name": "Klub KDH",
+        "since": "2026-02-03"
+      }
     ],
     "since": "2023-10-25",
     "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1165&ImageWidth=140"
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1224&ImageWidth=140"
     }
   },
   {
-    "person_id": "nrsr:person:271",
+    "person_id": "nrsr:person:1225",
     "rebelity_total": 0,
-    "rebelity_possible": 0,
-    "rebelity": null,
-    "name": "Robert Kaliňák",
-    "given_names": [
-      "Robert"
-    ],
-    "family_names": [
-      "Kaliňák"
-    ],
-    "since": "2023-10-25",
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=271&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:880",
-    "rebelity_total": 0,
-    "rebelity_possible": 0,
-    "rebelity": null,
-    "name": "Ladislav Kamenický",
-    "given_names": [
-      "Ladislav"
-    ],
-    "family_names": [
-      "Kamenický"
-    ],
-    "since": "2023-10-25",
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=880&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:1034",
-    "rebelity_total": 0,
-    "rebelity_possible": 0,
-    "rebelity": null,
-    "name": "Filip Kuffa",
-    "given_names": [
-      "Filip"
-    ],
-    "family_names": [
-      "Kuffa"
-    ],
-    "since": "2023-10-25",
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1034&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:858",
-    "rebelity_total": 0,
-    "rebelity_possible": 0,
-    "rebelity": null,
-    "name": "Štefan Kuffa",
-    "given_names": [
-      "Štefan"
-    ],
-    "family_names": [
-      "Kuffa"
-    ],
-    "since": "2023-10-25",
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=858&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:1166",
-    "rebelity_total": 0,
-    "rebelity_possible": 0,
-    "rebelity": null,
-    "name": "Dr. Kurilovská",
-    "given_names": [
-      "Dr."
-    ],
-    "family_names": [
-      "Kurilovská"
-    ],
-    "since": "2023-10-25",
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1166&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:1157",
-    "rebelity_total": 0,
-    "rebelity_possible": 0,
-    "rebelity": null,
-    "name": "Igor Melicher",
-    "given_names": [
-      "Igor"
-    ],
-    "family_names": [
-      "Melicher"
-    ],
-    "since": "2023-10-25",
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1157&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:1174",
-    "rebelity_total": 0,
-    "rebelity_possible": 4597,
+    "rebelity_possible": 712,
     "rebelity": 0.0,
-    "name": "Michal Moško",
+    "name": "403 403",
     "given_names": [
-      "Michal"
+      "403"
     ],
     "family_names": [
-      "Moško"
+      "403"
     ],
     "organizations": [
       {
-        "id": "nrsr:org:club:1",
+        "id": "nrsr:org:club:2",
         "classification": "group",
-        "name": "Klub HLAS - sociálna demokracia",
-        "since": "2023-11-14"
+        "name": "Klub KDH",
+        "since": "2026-04-16"
       }
     ],
     "since": "2023-10-25",
     "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1174&ImageWidth=140"
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1225&ImageWidth=140"
     }
   },
   {
-    "person_id": "nrsr:person:974",
+    "person_id": "nrsr:person:1227",
     "rebelity_total": 0,
-    "rebelity_possible": 4595,
+    "rebelity_possible": 259,
     "rebelity": 0.0,
-    "name": "Martin Nemky",
+    "name": "403 403",
     "given_names": [
-      "Martin"
+      "403"
     ],
     "family_names": [
-      "Nemky"
+      "403"
     ],
     "organizations": [
       {
-        "id": "nrsr:org:club:5",
+        "id": "nrsr:org:club:7",
         "classification": "group",
-        "name": "Klub SMER - sociálna demokracia",
-        "since": "2023-11-14"
+        "name": "Klub Slovenská národná strana",
+        "since": "2026-09-15"
       }
     ],
     "since": "2023-10-25",
     "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=974&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:1138",
-    "rebelity_total": 1,
-    "rebelity_possible": 4371,
-    "rebelity": 0.000229,
-    "name": "Martin Pekár",
-    "given_names": [
-      "Martin"
-    ],
-    "family_names": [
-      "Pekár"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:3",
-        "classification": "group",
-        "name": "Klub Progresívne Slovensko",
-        "since": "2023-11-14"
-      }
-    ],
-    "since": "2023-10-25",
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1138&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:682",
-    "rebelity_total": 1,
-    "rebelity_possible": 4597,
-    "rebelity": 0.000218,
-    "name": "Peter Pellegrini",
-    "given_names": [
-      "Peter"
-    ],
-    "family_names": [
-      "Pellegrini"
-    ],
-    "organizations": [
-      {
-        "id": "nrsr:org:club:1",
-        "classification": "group",
-        "name": "Klub HLAS - sociálna demokracia",
-        "since": "2023-11-14"
-      }
-    ],
-    "since": "2023-10-25",
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=682&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:941",
-    "rebelity_total": 0,
-    "rebelity_possible": 0,
-    "rebelity": null,
-    "name": "Denisa Saková",
-    "given_names": [
-      "Denisa"
-    ],
-    "family_names": [
-      "Saková"
-    ],
-    "since": "2023-10-25",
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=941&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:1162",
-    "rebelity_total": 0,
-    "rebelity_possible": 0,
-    "rebelity": null,
-    "name": "Jozef Smatana",
-    "given_names": [
-      "Jozef"
-    ],
-    "family_names": [
-      "Smatana"
-    ],
-    "since": "2023-10-25",
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1162&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:877",
-    "rebelity_total": 0,
-    "rebelity_possible": 0,
-    "rebelity": null,
-    "name": "Boris Susko",
-    "given_names": [
-      "Boris"
-    ],
-    "family_names": [
-      "Susko"
-    ],
-    "since": "2023-10-25",
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=877&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:1171",
-    "rebelity_total": 0,
-    "rebelity_possible": 0,
-    "rebelity": null,
-    "name": "Kamil Šaško",
-    "given_names": [
-      "Kamil"
-    ],
-    "family_names": [
-      "Šaško"
-    ],
-    "since": "2023-10-25",
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1171&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:918",
-    "rebelity_total": 0,
-    "rebelity_possible": 0,
-    "rebelity": null,
-    "name": "Martina Šimkovičová",
-    "given_names": [
-      "Martina"
-    ],
-    "family_names": [
-      "Šimkovičová"
-    ],
-    "since": "2023-10-25",
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=918&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:1069",
-    "rebelity_total": 0,
-    "rebelity_possible": 0,
-    "rebelity": null,
-    "name": "Matúš Eštok",
-    "given_names": [
-      "Matúš"
-    ],
-    "family_names": [
-      "Eštok"
-    ],
-    "since": "2023-10-25",
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1069&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:1071",
-    "rebelity_total": 0,
-    "rebelity_possible": 0,
-    "rebelity": null,
-    "name": "Richard Takáč",
-    "given_names": [
-      "Richard"
-    ],
-    "family_names": [
-      "Takáč"
-    ],
-    "since": "2023-10-25",
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1071&ImageWidth=140"
-    }
-  },
-  {
-    "person_id": "nrsr:person:940",
-    "rebelity_total": 0,
-    "rebelity_possible": 0,
-    "rebelity": null,
-    "name": "Erik Tomáš",
-    "given_names": [
-      "Erik"
-    ],
-    "family_names": [
-      "Tomáš"
-    ],
-    "since": "2023-10-25",
-    "extras": {
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=940&ImageWidth=140"
+      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=1227&ImageWidth=140"
     }
   }
 ]
